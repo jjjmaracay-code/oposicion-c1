@@ -1,0 +1,226 @@
+[
+{"id":"B1T10-001","bloque":1,"tema":10,"test":10,"dificultad":"facil",
+ "pregunta":"¿Cuál es la misión que el artículo 8.1 de la Constitución encomienda a las Fuerzas Armadas?",
+ "opciones":{
+   "A":"Proteger el libre ejercicio de los derechos y libertades y garantizar la seguridad ciudadana",
+   "B":"Garantizar la soberanía e independencia de España, defender su integridad territorial y el ordenamiento constitucional",
+   "C":"Ejecutar las órdenes del Gobierno en materia de seguridad interior y exterior",
+   "D":"Mantener el orden público en todo el territorio nacional bajo la dirección del Ministerio del Interior"
+ },"correcta":"B",
+ "explicacion":"El artículo 8.1 CE establece que «las Fuerzas Armadas constituidas por el Ejército de Tierra, la Armada y el Ejército del Aire tienen como misión garantizar la soberanía e independencia de España, defender su integridad territorial y el ordenamiento constitucional».",
+ "why":"La protección del libre ejercicio de los derechos y la seguridad ciudadana (A) es la misión de las Fuerzas y Cuerpos de Seguridad del Estado (art. 104.1 CE), no de las Fuerzas Armadas. Ejecutar órdenes en materia de seguridad interior (C) es una función policial. El mantenimiento del orden público (D) corresponde a la policía, no a las Fuerzas Armadas en circunstancias ordinarias.",
+ "norma":"Constitución Española de 1978","articulo":"Art. 8.1"},
+
+{"id":"B1T10-002","bloque":1,"tema":10,"test":10,"dificultad":"facil",
+ "pregunta":"El artículo 3.1 de la Constitución regula la lengua oficial del Estado. ¿Cuál es el contenido de dicho precepto respecto del castellano?",
+ "opciones":{
+   "A":"El castellano es lengua oficial solo en las Comunidades Autónomas que no tengan lengua cooficial propia",
+   "B":"El castellano es la lengua española oficial del Estado; todos los españoles tienen el deber de conocerla y el derecho a usarla",
+   "C":"El castellano comparte la condición de lengua oficial con las demás lenguas españolas en todo el territorio nacional",
+   "D":"El conocimiento del castellano es un derecho, pero no un deber, de todos los ciudadanos"
+ },"correcta":"B",
+ "explicacion":"El artículo 3.1 CE dispone que «el castellano es la lengua española oficial del Estado» y que «todos los españoles tienen el deber de conocerla y el derecho a usarla». Es la única lengua con carácter oficial en todo el territorio nacional y la única cuyo conocimiento se impone como deber constitucional.",
+ "why":"El castellano es oficial en todo el Estado, no solo en las CCAA sin lengua propia (A). Las demás lenguas españolas son solo cooficiales en sus respectivas CCAA (B confunde la oficialidad total con la parcial). El deber de conocerla es un mandato constitucional expreso, no meramente un derecho (D).",
+ "norma":"Constitución Española de 1978","articulo":"Art. 3.1"},
+
+{"id":"B1T10-003","bloque":1,"tema":10,"test":10,"dificultad":"facil",
+ "pregunta":"Según el artículo 119 de la Constitución, ¿en qué casos tiene el ciudadano derecho a la justicia gratuita?",
+ "opciones":{
+   "A":"Siempre que lo solicite en el plazo establecido antes de la celebración del juicio",
+   "B":"Únicamente en el orden jurisdiccional penal, por tratarse de bienes jurídicos de máxima protección",
+   "C":"Cuando así lo disponga la ley y, en todo caso, respecto de quienes acrediten insuficiencia de recursos para litigar",
+   "D":"Solo en el caso de que el ciudadano actúe sin representación de abogado y procurador"
+ },"correcta":"C",
+ "explicacion":"El artículo 119 CE establece que «la justicia será gratuita cuando así lo disponga la ley y, en todo caso, respecto de quienes acrediten insuficiencia de recursos para litigar». La gratuidad incondicional se garantiza, por tanto, a quienes carezcan de medios económicos suficientes, con independencia del orden jurisdiccional.",
+ "why":"La justicia gratuita no se concede simplemente por solicitarla (A): hay que acreditar insuficiencia de recursos. No se limita al orden penal (B): la CE cubre todos los órdenes. Actuar sin abogado (D) no es el criterio determinante: la gratuidad atiende a la capacidad económica.",
+ "norma":"Constitución Española de 1978","articulo":"Art. 119"},
+
+{"id":"B1T10-004","bloque":1,"tema":10,"test":10,"dificultad":"facil",
+ "pregunta":"Según el artículo 108 de la Constitución, ¿ante qué órgano responde solidariamente el Gobierno de su gestión política?",
+ "opciones":{"A":"Ante el Senado, como Cámara de representación territorial","B":"Ante las Cortes Generales en sesión conjunta","C":"Ante el Congreso de los Diputados","D":"Ante el Tribunal de Cuentas, como órgano fiscalizador"},"correcta":"C",
+ "explicacion":"El artículo 108 CE establece que «el Gobierno responde solidariamente en su gestión política ante el Congreso de los Diputados». La responsabilidad política del Gobierno se canaliza ante el Congreso, que es quien puede negarle la confianza (art. 112 CE) o aprobar una moción de censura (art. 113 CE).",
+ "why":"El Senado (A) puede interpelar al Gobierno pero no controla su responsabilidad política directa. Las Cortes en sesión conjunta (B) se reúnen para actos específicos (recontar, etc.) pero no para exigir responsabilidad política. El Tribunal de Cuentas (D) fiscaliza la gestión económica, no la responsabilidad política.",
+ "norma":"Constitución Española de 1978","articulo":"Art. 108"},
+
+{"id":"B1T10-005","bloque":1,"tema":10,"test":10,"dificultad":"facil",
+ "pregunta":"¿Cuál de las siguientes materias figura como competencia EXCLUSIVA de la Comunidad de Madrid en el artículo 26 del Estatuto de Autonomía, distinta de las ya mencionadas en tests anteriores?",
+ "opciones":{"A":"La legislación básica sobre el régimen minero y energético","B":"El fomento de la cultura","C":"Las bases y coordinación de la planificación económica general","D":"La legislación laboral"},"correcta":"B",
+ "explicacion":"El artículo 26 del Estatuto de Autonomía incluye el fomento de la cultura como competencia exclusiva de la Comunidad de Madrid. Las otras tres opciones son competencias exclusivas del Estado: el régimen minero y energético (art. 149.1.25ª CE), la coordinación de la planificación económica (art. 149.1.13ª CE) y la legislación laboral (art. 149.1.7ª CE).",
+ "why":"El fomento de la cultura es una competencia que el art. 148.1.17ª CE permite asumir a las CCAA y que el Estatuto de Madrid asume con carácter exclusivo (junto con la enseñanza de la lengua propia, si existiera). Las otras tres materias son reservas expresas del Estado en el art. 149.1 CE.",
+ "norma":"LO 3/1983, Estatuto de Autonomía de la Comunidad de Madrid","articulo":"Art. 26"},
+
+{"id":"B1T10-006","bloque":1,"tema":10,"test":10,"dificultad":"facil",
+ "pregunta":"El Derecho de la Unión Europea garantiza cuatro libertades fundamentales en el mercado interior. ¿Cuáles son?",
+ "opciones":{
+   "A":"Libertad de expresión, libertad de prensa, libertad religiosa y libertad de empresa",
+   "B":"Libre circulación de mercancías, libre circulación de personas, libre prestación de servicios y libre circulación de capitales",
+   "C":"Libre comercio, libre circulación de trabajadores, libre establecimiento y libertad de competencia",
+   "D":"Libre circulación de mercancías, libre comercio exterior, libre prestación de servicios y libre movimiento de personas dentro del espacio Schengen"
+ },"correcta":"B",
+ "explicacion":"El mercado interior de la UE (art. 26 TFUE) se sustenta en las cuatro libertades fundamentales: libre circulación de mercancías, libre circulación de personas (incluidos los trabajadores), libre prestación de servicios y libre circulación de capitales. Estas libertades se garantizan en los artículos 28-66 TFUE.",
+ "why":"La libertad de expresión, religiosa y de prensa (A) son derechos fundamentales de la Carta, no libertades del mercado interior. La libre competencia (C) es un principio del mercado interior pero no una de las cuatro libertades. El espacio Schengen (D) es un acuerdo complementario para la libre circulación sin controles en frontera, pero no es parte de la definición de las cuatro libertades del mercado interior.",
+ "norma":"Tratado de Funcionamiento de la UE (TFUE)","articulo":"Art. 26 TFUE"},
+
+{"id":"B1T10-007","bloque":1,"tema":10,"test":10,"dificultad":"media",
+ "pregunta":"El artículo 6 de la Constitución define el papel de los partidos políticos en el sistema democrático español. ¿Cuál de las siguientes afirmaciones recoge correctamente su contenido?",
+ "opciones":{
+   "A":"Los partidos políticos son órganos del Estado; su creación requiere autorización previa del Gobierno",
+   "B":"Los partidos políticos expresan el pluralismo político, son instrumento fundamental para la participación política, y su creación y actividad son libres dentro del respeto a la Constitución y a la ley. Su estructura interna y funcionamiento deben ser democráticos",
+   "C":"Los partidos políticos expresan el pluralismo político; sin embargo, su financiación pública queda prohibida por la Constitución",
+   "D":"Los partidos políticos tienen la función exclusiva de presentar candidatos en procesos electorales; no pueden ejercer ninguna otra actividad política"
+ },"correcta":"B",
+ "explicacion":"El artículo 6 CE dispone que los partidos políticos «expresan el pluralismo político, concurren a la formación y manifestación de la voluntad popular y son instrumento fundamental para la participación política»; que «su creación y el ejercicio de su actividad son libres dentro del respeto a la Constitución y a la ley»; y que «su estructura interna y funcionamiento deberán ser democráticos».",
+ "why":"Los partidos no son órganos del Estado (A) ni su creación requiere autorización previa. La CE no prohíbe la financiación pública de los partidos (C): no existe ningún mandato constitucional que la impida; es la legislación ordinaria quien la regula. Los partidos no se limitan a presentar candidatos (D): participan en la formación de la voluntad popular de forma mucho más amplia.",
+ "norma":"Constitución Española de 1978","articulo":"Art. 6"},
+
+{"id":"B1T10-008","bloque":1,"tema":10,"test":10,"dificultad":"media",
+ "pregunta":"El artículo 65.2 de la Constitución regula una prerrogativa del Rey relativa a su Casa. ¿Cuál es su contenido?",
+ "opciones":{
+   "A":"El Rey nombra y releva libremente a los miembros civiles y militares de su Casa",
+   "B":"El Rey nombra a los miembros de su Casa a propuesta del Gobierno, que refrenda su nombramiento",
+   "C":"El Consejo de Ministros aprueba mediante Real Decreto la estructura y composición de la Casa del Rey",
+   "D":"El Parlamento autoriza mediante ley el presupuesto de la Casa Real, así como el nombramiento de sus cargos más relevantes"
+ },"correcta":"A",
+ "explicacion":"El artículo 65.2 CE dispone que «el Rey nombrará y relevará libremente a los miembros civiles y militares de su Casa». Este nombramiento es uno de los pocos actos del Rey que no requieren refrendo ministerial (art. 64 CE), en cuanto se trata de la organización de su propio entorno personal e institucional.",
+ "why":"El nombramiento de los miembros de la Casa Real no requiere propuesta del Gobierno ni refrendo (B): es la excepción al régimen de refrendo del art. 64 prevista en el art. 65.2. El Consejo de Ministros no aprueba la estructura de la Casa (C). El Parlamento aprueba la dotación global de la Casa Real (art. 65.1), pero no el nombramiento de sus miembros (D).",
+ "norma":"Constitución Española de 1978","articulo":"Art. 65.2"},
+
+{"id":"B1T10-009","bloque":1,"tema":10,"test":10,"dificultad":"media",
+ "pregunta":"El artículo 78 de la Constitución regula la Diputación Permanente de cada Cámara. ¿Cuál es su función principal cuando las Cámaras no están reunidas?",
+ "opciones":{
+   "A":"Ejerce la potestad legislativa en régimen de urgencia durante los períodos de inactividad de cada Cámara",
+   "B":"Vela por los poderes de la Cámara respectiva en los períodos entre sesiones, de expiración del mandato y de disolución de las Cámaras",
+   "C":"Actúa como órgano consultivo del Gobierno durante los recesos parlamentarios",
+   "D":"Se reúne solo si el Gobierno declara el estado de alarma y necesita autorización parlamentaria"
+ },"correcta":"B",
+ "explicacion":"El artículo 78.2 CE establece que «las Diputaciones Permanentes velarán por los poderes de las Cámaras cuando éstas no estén reunidas, en los casos de expiración de mandato o de disolución». Ejercen las funciones constitucionales que corresponderían a la Cámara en pleno durante esos períodos (convalidación de decretos-leyes, declaración del estado de alarma, etc.).",
+ "why":"La Diputación Permanente no ejerce potestad legislativa ordinaria (A): no puede aprobar leyes durante los recesos. No es órgano consultivo del Gobierno (C): es un órgano parlamentario de garantía. Su existencia no depende de la declaración de estados de emergencia (D): funciona en cualquier período entre sesiones o de disolución.",
+ "norma":"Constitución Española de 1978","articulo":"Art. 78.2"},
+
+{"id":"B1T10-010","bloque":1,"tema":10,"test":10,"dificultad":"media",
+ "pregunta":"El artículo 117.4 de la Constitución establece un límite funcional para los Juzgados y Tribunales. ¿Cuál es?",
+ "opciones":{
+   "A":"Los Juzgados y Tribunales solo pueden actuar dentro del territorio de la Comunidad Autónoma en que se encuentren",
+   "B":"Los Juzgados y Tribunales no ejercerán más funciones que las jurisdiccionales y las que expresamente les atribuya la ley en garantía de cualquier derecho",
+   "C":"Los Juzgados y Tribunales solo pueden conocer de asuntos que no hayan sido resueltos previamente en vía administrativa",
+   "D":"Los Juzgados y Tribunales no pueden ejercer funciones administrativas ni dictar reglamentos"
+ },"correcta":"B",
+ "explicacion":"El artículo 117.4 CE dispone que «los Juzgados y Tribunales no ejercerán más funciones que las señaladas en el apartado anterior y las que expresamente les sean atribuidas por ley en garantía de cualquier derecho». El «apartado anterior» es el 117.3, que les atribuye la potestad jurisdiccional (juzgar y hacer ejecutar lo juzgado).",
+ "why":"El ámbito territorial de los órganos judiciales (A) es una cuestión de competencia, no el límite funcional del art. 117.4. El agotamiento de la vía administrativa previa (C) es un requisito procesal de algunos recursos contencioso-administrativos, no un límite funcional de los juzgados. Los reglamentos (D) no son dictados por los juzgados en ningún caso, pero ese no es el límite del art. 117.4.",
+ "norma":"Constitución Española de 1978","articulo":"Art. 117.4"},
+
+{"id":"B1T10-011","bloque":1,"tema":10,"test":10,"dificultad":"media",
+ "pregunta":"Según el artículo 116.4 de la Constitución, ¿cómo se declara el estado de sitio y cuál es la peculiaridad de la iniciativa para su declaración?",
+ "opciones":{
+   "A":"Lo declara el Gobierno mediante Real Decreto en Consejo de Ministros, sin necesitar autorización parlamentaria",
+   "B":"Lo declara el Congreso de los Diputados por mayoría absoluta, a propuesta exclusiva del Gobierno",
+   "C":"Lo declara el Senado por mayoría de tres quintos, a propuesta del Gobierno y con el refrendo del Rey",
+   "D":"Lo declara el Congreso de los Diputados por mayoría de dos tercios, a propuesta de cualquier grupo parlamentario con respaldo de una décima parte de la Cámara"
+ },"correcta":"B",
+ "explicacion":"El artículo 116.4 CE establece que «el estado de sitio será declarado por la mayoría absoluta del Congreso de los Diputados, a propuesta exclusiva del Gobierno». A diferencia del estado de alarma (que declara el Gobierno) y del estado de excepción (que requiere autorización previa del Congreso), el estado de sitio exige que sea el propio Congreso quien lo declare, a propuesta que solo puede formular el Gobierno.",
+ "why":"El Gobierno puede declarar el estado de alarma por sí solo (A), pero no el de sitio. El Senado (C) no interviene en la declaración del estado de sitio: es competencia exclusiva del Congreso. Los grupos parlamentarios no tienen iniciativa para proponer el estado de sitio (D): solo el Gobierno tiene esa iniciativa según el art. 116.4.",
+ "norma":"Constitución Española de 1978","articulo":"Art. 116.4"},
+
+{"id":"B1T10-012","bloque":1,"tema":10,"test":10,"dificultad":"media",
+ "pregunta":"El artículo 141.4 de la Constitución prevé una forma especial de administración propia para las islas de los archipiélagos. ¿Cuál es?",
+ "opciones":{
+   "A":"Las islas tienen delegaciones de la Diputación Provincial correspondiente con competencias limitadas",
+   "B":"Las islas no tienen administración propia diferenciada; se integran plenamente en la provincia insular",
+   "C":"Las islas tienen administración propia en forma de Cabildos o Consejos insulares",
+   "D":"Las islas son administradas directamente por el Gobierno de la Nación mediante un Gobernador insular"
+ },"correcta":"C",
+ "explicacion":"El artículo 141.4 CE dispone que «en los archipiélagos, las islas tendrán además su administración propia en forma de Cabildos o Consejos». Los Cabildos insulares son la forma tradicional de administración en Canarias; los Consejos insulares, en Baleares.",
+ "why":"Las islas no dependen de delegaciones de la Diputación Provincial (A): tienen sus propios órganos de gobierno, los Cabildos o Consejos insulares. No se integran sin diferenciación en la provincia (B): la CE les garantiza administración propia. La figura del Gobernador insular dependiente del Gobierno central (D) no existe como institución constitucionalizada.",
+ "norma":"Constitución Española de 1978","articulo":"Art. 141.4"},
+
+{"id":"B1T10-013","bloque":1,"tema":10,"test":10,"dificultad":"media",
+ "pregunta":"El artículo 145.2 de la Constitución permite ciertas formas de cooperación entre Comunidades Autónomas. ¿Cuál de las siguientes recoge correctamente lo que establece dicho precepto?",
+ "opciones":{
+   "A":"Las CCAA pueden celebrar tratados bilaterales con otras CCAA con efectos de norma de rango legal",
+   "B":"Los Estatutos pueden prever convenios entre CCAA para la gestión y prestación de servicios propios de las mismas, con comunicación a las Cortes Generales",
+   "C":"Las CCAA solo pueden cooperar entre sí a través del Senado, que actuará como cámara de mediación",
+   "D":"Las CCAA pueden constituir organismos de coordinación interprovincial con funciones legislativas compartidas"
+ },"correcta":"B",
+ "explicacion":"El artículo 145.2 CE establece que «los Estatutos podrán prever los supuestos, requisitos y términos en que las Comunidades Autónomas podrán celebrar convenios entre sí para la gestión y prestación de servicios propios de las mismas, así como el carácter y efectos de la correspondiente comunicación a las Cortes Generales».",
+ "why":"Los convenios entre CCAA no son tratados con rango de ley (A): son instrumentos de gestión cooperativa. El Senado no actúa como mediador en la cooperación bilateral entre CCAA (C). Los organismos con funciones legislativas compartidas (D) rozarían la prohibición de federación del art. 145.1 CE.",
+ "norma":"Constitución Española de 1978","articulo":"Art. 145.2"},
+
+{"id":"B1T10-014","bloque":1,"tema":10,"test":10,"dificultad":"media",
+ "pregunta":"¿Cuál de los siguientes tratados europeos introdujo por primera vez la ciudadanía de la Unión Europea y estableció los pilares del euro como moneda única?",
+ "opciones":{"A":"El Tratado de Roma (1957)","B":"El Acta Única Europea (1986)","C":"El Tratado de Maastricht (1992)","D":"El Tratado de Lisboa (2009)"},"correcta":"C",
+ "explicacion":"El Tratado de Maastricht (Tratado de la Unión Europea), firmado el 7 de febrero de 1992 y en vigor desde el 1 de noviembre de 1993, introdujo la ciudadanía de la Unión Europea y estableció las bases de la Unión Económica y Monetaria (UEM), que condujo a la creación del euro como moneda única.",
+ "why":"El Tratado de Roma (A) creó la Comunidad Económica Europea en 1957, pero no la ciudadanía ni el euro. El Acta Única Europea (B) de 1986 impulsó el mercado interior, pero no la ciudadanía. El Tratado de Lisboa (D) de 2009 reformó las instituciones, pero la ciudadanía y la UEM ya se habían introducido en Maastricht.",
+ "norma":"Tratado de Maastricht (TUE 1992)","articulo":"Tratado de Maastricht, 7 de febrero de 1992"},
+
+{"id":"B1T10-015","bloque":1,"tema":10,"test":10,"dificultad":"media",
+ "pregunta":"El Presidente de la Comunidad de Madrid es elegido por la Asamblea «de entre sus miembros». ¿Qué implica este requisito respecto del cargo de Diputado del Presidente?",
+ "opciones":{
+   "A":"El candidato a Presidente debe renunciar a su acta de Diputado antes de someterse a la investidura de la Asamblea",
+   "B":"El Presidente, al ser elegido de entre los miembros de la Asamblea, mantiene su condición de Diputado durante todo su mandato",
+   "C":"El Presidente pierde automáticamente el acta de Diputado al tomar posesión del cargo, que es incompatible con el mandato parlamentario",
+   "D":"El requisito de ser Diputado solo se exige en el momento de la candidatura; el Presidente puede renunciar al acta una vez elegido sin que ello afecte a su mandato ejecutivo"
+ },"correcta":"B",
+ "explicacion":"El artículo 18 del Estatuto de Autonomía establece que la Asamblea de Madrid elige al Presidente «de entre sus miembros». Al no exigirse la renuncia al escaño, el Presidente mantiene la doble condición de Diputado de la Asamblea y Presidente de la Comunidad de Madrid durante todo el ejercicio de su cargo.",
+ "why":"El Estatuto no exige renuncia al acta antes de la investidura (A): al contrario, ser miembro de la Asamblea es un requisito para poder ser elegido Presidente. La incompatibilidad automática con el mandato parlamentario (C) no existe en la normativa estatutaria madrileña. La D describe una situación que el Estatuto no contempla.",
+ "norma":"LO 3/1983, Estatuto de Autonomía de la Comunidad de Madrid","articulo":"Art. 18"},
+
+{"id":"B1T10-016","bloque":1,"tema":10,"test":10,"dificultad":"media",
+ "pregunta":"¿Cuál es la diferencia esencial entre el Tribunal Europeo de Derechos Humanos (TEDH) y el Tribunal de Justicia de la Unión Europea (TJUE)?",
+ "opciones":{
+   "A":"Ambos pertenecen a la UE; el TEDH tiene sede en Estrasburgo y el TJUE en Luxemburgo",
+   "B":"El TEDH pertenece al Consejo de Europa y aplica el Convenio Europeo de Derechos Humanos; el TJUE pertenece a la UE y aplica el Derecho de la Unión",
+   "C":"El TEDH solo puede ser activado por Estados; el TJUE puede ser activado por Estados y por ciudadanos en cualquier litigio",
+   "D":"Son el mismo tribunal con dos nombres distintos, ya que el Consejo de Europa y la UE se fusionaron con el Tratado de Lisboa"
+ },"correcta":"B",
+ "explicacion":"El TEDH es un órgano del Consejo de Europa (organización internacional diferente de la UE, con 46 Estados miembros), que aplica el Convenio Europeo de Derechos Humanos y tiene sede en Estrasburgo. El TJUE es la institución judicial de la UE (27 EM), que garantiza la aplicación del Derecho de la Unión, y tiene sede en Luxemburgo. Son instituciones independientes de sistemas jurídicos distintos.",
+ "why":"El TEDH no pertenece a la UE (A): es un órgano del Consejo de Europa. El TEDH puede ser activado por individuos tras agotar los recursos internos (C): no es solo para Estados. El Consejo de Europa y la UE son organizaciones internacionales distintas que no se fusionaron (D).",
+ "norma":"Convenio Europeo de Derechos Humanos y Tratado de la UE","articulo":"Art. 19 TUE (TJUE) — Art. 19 CEDH (TEDH)"},
+
+{"id":"B1T10-017","bloque":1,"tema":10,"test":10,"dificultad":"dificil",
+ "pregunta":"El artículo 135.4 de la Constitución establece las únicas circunstancias en que pueden superarse los límites de déficit estructural y de volumen de deuda. ¿Cuáles son y qué mayoría se requiere para apreciarlas?",
+ "opciones":{
+   "A":"Catástrofes naturales, recesión económica o situaciones de emergencia extraordinaria que escapen al control del Estado; apreciadas por mayoría absoluta del Congreso de los Diputados",
+   "B":"Guerras, epidemias declaradas por la OMS o crisis financieras sistémicas; apreciadas por el Gobierno mediante Real Decreto-Ley",
+   "C":"Desastres naturales, conflictos armados o procesos de reconversión industrial; apreciadas por ambas Cámaras por mayoría simple",
+   "D":"Solo catástrofes naturales y recesiones económicas profundas; apreciadas por el Tribunal de Cuentas con informe preceptivo del Consejo de Estado"
+ },"correcta":"A",
+ "explicacion":"El artículo 135.4 CE establece que «los límites de déficit estructural y de volumen de deuda pública sólo podrán superarse en caso de catástrofes naturales, recesión económica o situaciones de emergencia extraordinaria que escapen al control del Estado y perjudiquen considerablemente la situación financiera o la sostenibilidad económica o social del Estado, apreciadas por la mayoría absoluta de los miembros del Congreso de los Diputados».",
+ "why":"La B introduce guerras y epidemias de la OMS, que no figuran en el texto constitucional. La C menciona conflictos armados y reconversión industrial, tampoco previstos. La D restringe los supuestos solo a catástrofes y recesiones, excluyendo la tercera hipótesis (emergencia extraordinaria), y atribuye erróneamente la apreciación al Tribunal de Cuentas.",
+ "norma":"Constitución Española de 1978","articulo":"Art. 135.4"},
+
+{"id":"B1T10-018","bloque":1,"tema":10,"test":10,"dificultad":"dificil",
+ "pregunta":"El artículo 28.2 de la Constitución reconoce el derecho de huelga. ¿Qué exigencia impone la propia Constitución en relación con los servicios esenciales de la comunidad?",
+ "opciones":{
+   "A":"La huelga está prohibida en los sectores de servicios esenciales de la comunidad, sin excepción",
+   "B":"La ley que regule el ejercicio del derecho de huelga establecerá las garantías precisas para asegurar el mantenimiento de los servicios esenciales de la comunidad",
+   "C":"El Gobierno puede declarar unilateralmente el fin de la huelga en cualquier servicio esencial mediante decreto del Consejo de Ministros",
+   "D":"Los trabajadores de los servicios esenciales pueden hacer huelga, pero solo si obtienen autorización previa del Ministerio de Trabajo"
+ },"correcta":"B",
+ "explicacion":"El artículo 28.2 CE reconoce el derecho a la huelga de los trabajadores para la defensa de sus intereses, y establece que «la ley que regule el ejercicio de este derecho establecerá las garantías precisas para asegurar el mantenimiento de los servicios esenciales de la comunidad». La garantía se exige por ley, no mediante prohibición absoluta.",
+ "why":"La huelga en servicios esenciales no está prohibida constitucionalmente (A): solo se exige que la ley establezca garantías para el mantenimiento de esos servicios. El Gobierno no puede poner fin unilateralmente a la huelga por decreto (C): puede recurrir al arbitraje obligatorio o a los servicios mínimos. La autorización previa ministerial (D) no existe en el texto constitucional; es una garantía ex post, no una autorización previa.",
+ "norma":"Constitución Española de 1978","articulo":"Art. 28.2"},
+
+{"id":"B1T10-019","bloque":1,"tema":10,"test":10,"dificultad":"dificil",
+ "pregunta":"El artículo 11.4 del TUE establece la Iniciativa Ciudadana Europea. ¿Cuáles son sus requisitos mínimos y cuál es su efecto?",
+ "opciones":{
+   "A":"100.000 ciudadanos de al menos 5 EM pueden obligar a la Comisión a presentar una propuesta legislativa determinada",
+   "B":"Un millón de ciudadanos de al menos 7 EM pueden invitar a la Comisión a presentar una propuesta sobre cuestiones que requieran un acto jurídico de la UE; la Comisión puede decidir si presenta la propuesta o no",
+   "C":"500.000 ciudadanos de al menos 4 EM pueden solicitar al Parlamento Europeo que legisle directamente sobre una materia de competencia de la UE",
+   "D":"Un millón de ciudadanos de al menos 7 EM pueden impugnar ante el TJUE cualquier acto de la UE que vulnere sus derechos fundamentales"
+ },"correcta":"B",
+ "explicacion":"El artículo 11.4 TUE establece que «un mínimo de un millón de ciudadanos de la Unión, que sean nacionales de un número significativo de Estados miembros, podrá tomar la iniciativa de invitar a la Comisión Europea [...] a que presente una propuesta adecuada». El Reglamento 211/2011 concreta ese número en al menos 7 EM. La Comisión puede decidir libremente si presenta o no la propuesta.",
+ "why":"100.000 ciudadanos (A) y 5 EM son insuficientes: el umbral es un millón de ciudadanos de al menos 7 EM. La Comisión no está OBLIGADA a legislar (A también lo afirma incorrectamente): la iniciativa es una invitación. El PE no legisla directamente (C): el procedimiento ordinario siempre requiere propuesta de la Comisión. La impugnación ante el TJUE (D) es una acción legal diferente.",
+ "norma":"Tratado de la Unión Europea (TUE) y Reglamento UE 211/2011","articulo":"Art. 11.4 TUE"},
+
+{"id":"B1T10-020","bloque":1,"tema":10,"test":10,"dificultad":"dificil",
+ "pregunta":"El artículo 144 de la Constitución atribuye a las Cortes Generales la posibilidad de autorizar, mediante ley orgánica, ciertas situaciones especiales de acceso a la autonomía. ¿Cuáles son esas situaciones?",
+ "opciones":{
+   "A":"Solo pueden autorizar la ampliación acelerada de competencias de las CCAA ya constituidas mediante la vía del art. 143 CE",
+   "B":"Pueden autorizar la constitución de una CA uniprovincial aunque no reúna las condiciones del art. 143.1, estatutos para territorios sin organización provincial, o sustituir la iniciativa de las Corporaciones locales del art. 143.2",
+   "C":"Pueden autorizar el referéndum autonómico del art. 151 CE en cualquier provincia que lo solicite, sin necesidad de reunir los requisitos generales de ese artículo",
+   "D":"Solo pueden autorizar la unión de varias CCAA en una nueva CA de mayor tamaño, cuando razones de interés nacional lo justifiquen"
+ },"correcta":"B",
+ "explicacion":"El artículo 144 CE establece que las Cortes Generales, mediante LO, pueden por motivos de interés nacional: (a) autorizar la constitución de una CA cuando su ámbito territorial no supere el de una sola provincia y no reúna las condiciones del art. 143.1; (b) autorizar o acordar un Estatuto de autonomía para territorios no integrados en la organización provincial; y (c) sustituir la iniciativa de las Corporaciones locales del art. 143.2.",
+ "why":"El art. 144 no se refiere a la ampliación de competencias de CCAA ya constituidas (A). El art. 144 no permite que las Cortes autoricen la vía del art. 151 en cualquier provincia (C): el procedimiento del 151 tiene sus propias reglas. La unión de CCAA (D) no está prevista en el art. 144 y chocaría con la prohibición de federación del art. 145.1 CE.",
+ "norma":"Constitución Española de 1978","articulo":"Art. 144"}
+]
