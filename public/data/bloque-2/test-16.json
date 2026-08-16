@@ -1,0 +1,382 @@
+[
+  {
+    "id": "B2T16-001",
+    "bloque": 2,
+    "tema": 16,
+    "test": 16,
+    "dificultad": "facil",
+    "pregunta": "¿Cuál es el plazo general para interponer el recurso contencioso-administrativo contra un acto expreso, según el art. 46 de la Ley 29/1998 (LJCA)?",
+    "opciones": {
+      "A": "Un mes desde la notificación del acto.",
+      "B": "Tres meses desde la notificación del acto.",
+      "C": "Dos meses desde la notificación del acto.",
+      "D": "Seis meses desde la notificación del acto."
+    },
+    "correcta": "C",
+    "explicacion": "El art. 46 LJCA establece un plazo de dos meses para interponer el recurso contencioso-administrativo contra actos expresos, computados desde el día siguiente a la notificación o publicación del acto impugnado. Este plazo es distinto del de los recursos administrativos (alzada: 1 mes; reposición: 1 mes).",
+    "why": "A confunde el plazo del contencioso (2 meses) con el de los recursos de alzada o reposición (1 mes). B triplica el plazo. D fija seis meses, que en la LJCA corresponde solo al plazo para recurrir la inactividad administrativa.",
+    "norma": "Ley 29/1998",
+    "articulo": "46"
+  },
+  {
+    "id": "B2T16-002",
+    "bloque": 2,
+    "tema": 16,
+    "test": 16,
+    "dificultad": "facil",
+    "pregunta": "¿Cuál de las siguientes materias forma parte del objeto de la jurisdicción contencioso-administrativa según el art. 1 de la Ley 29/1998 (LJCA)?",
+    "opciones": {
+      "A": "Los conflictos laborales entre empleados y empresas privadas.",
+      "B": "Las actuaciones materiales constitutivas de vía de hecho y la inactividad de las Administraciones Públicas.",
+      "C": "Las leyes aprobadas por las Cortes Generales cuando vulneran derechos fundamentales.",
+      "D": "Los actos de gobierno relativos a la defensa nacional y las relaciones internacionales."
+    },
+    "correcta": "B",
+    "explicacion": "El art. 1 LJCA atribuye a la jurisdicción contencioso-administrativa el conocimiento de la actividad de las AAPP sujeta al Derecho Administrativo, las disposiciones de rango inferior a ley, la inactividad de las AAPP y las actuaciones materiales constitutivas de vía de hecho. Los conflictos laborales privados corresponden al orden social; las leyes son revisables únicamente por el TC; los actos políticos del Gobierno tienen limitaciones expresas.",
+    "why": "A corresponde al orden jurisdiccional social. C no corresponde al contencioso sino al Tribunal Constitucional (recurso de inconstitucionalidad o amparo). D son actos políticos que el art. 2 LJCA excluye del control contencioso, aunque sí son revisables sus elementos reglados.",
+    "norma": "Ley 29/1998",
+    "articulo": "1"
+  },
+  {
+    "id": "B2T16-003",
+    "bloque": 2,
+    "tema": 16,
+    "test": 16,
+    "dificultad": "facil",
+    "pregunta": "Como regla general, ¿qué requisito previo debe cumplirse antes de poder acudir a la jurisdicción contencioso-administrativa?",
+    "opciones": {
+      "A": "Haber presentado queja ante el Defensor del Pueblo.",
+      "B": "Haber agotado la vía administrativa mediante los recursos procedentes.",
+      "C": "Haber obtenido asistencia jurídica gratuita reconocida por el juzgado.",
+      "D": "Haber solicitado formalmente la revisión de oficio ante el órgano que dictó el acto."
+    },
+    "correcta": "B",
+    "explicacion": "La regla general para acceder a la vía contencioso-administrativa es el previo agotamiento de la vía administrativa, lo que implica haber interpuesto los recursos administrativos preceptivos (fundamentalmente el recurso de alzada cuando el acto no pone fin a la vía administrativa). Solo cuando el acto pone fin a la vía administrativa se puede acceder directamente al contencioso, con o sin recurso de reposición potestativo previo.",
+    "why": "A no es un requisito legal previo al contencioso. C la asistencia jurídica gratuita no es un requisito de procedibilidad. D la revisión de oficio es una vía alternativa de la Administración, no un requisito previo para el administrado.",
+    "norma": "Ley 29/1998",
+    "articulo": "25"
+  },
+  {
+    "id": "B2T16-004",
+    "bloque": 2,
+    "tema": 16,
+    "test": 16,
+    "dificultad": "facil",
+    "pregunta": "¿Quiénes están legitimados para interponer el recurso contencioso-administrativo según el art. 19 de la Ley 29/1998 (LJCA)?",
+    "opciones": {
+      "A": "Solo las personas físicas con plena capacidad de obrar y domicilio en España.",
+      "B": "Las personas físicas y jurídicas que ostenten un derecho o interés legítimo, así como el Ministerio Fiscal y las corporaciones habilitadas por ley.",
+      "C": "Únicamente quienes hayan sido parte en el procedimiento administrativo previo.",
+      "D": "Solo quienes acrediten un derecho subjetivo reconocido por sentencia judicial firme."
+    },
+    "correcta": "B",
+    "explicacion": "El art. 19 LJCA reconoce legitimación activa a las personas físicas y jurídicas que ostenten derechos o intereses legítimos, al Ministerio Fiscal, las corporaciones, asociaciones y sindicatos con intereses colectivos afectados, y a la propia Administración que desee impugnar sus actos previa declaración de lesividad.",
+    "why": "A excluye a las personas jurídicas y exige domicilio en España, requisitos que la ley no establece. C limita la legitimación a los que fueron parte en el procedimiento, cuando el interés legítimo puede surgir para terceros. D exige sentencia judicial previa, cuando la tutela de derechos no requiere ese reconocimiento previo.",
+    "norma": "Ley 29/1998",
+    "articulo": "19"
+  },
+  {
+    "id": "B2T16-005",
+    "bloque": 2,
+    "tema": 16,
+    "test": 16,
+    "dificultad": "facil",
+    "pregunta": "Según el art. 125 de la Ley 39/2015, ¿cuál es el plazo para interponer el recurso extraordinario de revisión por las causas b, c o d (documentos esenciales, testimonios o resoluciones falsas o resolución con prevaricación)?",
+    "opciones": {
+      "A": "Cuatro años desde que se dictó la resolución firme.",
+      "B": "Un año desde que el interesado tiene conocimiento de los documentos o de la sentencia.",
+      "C": "Tres meses desde que se conocen los documentos o desde que la sentencia que declaró la falsedad o prevaricación gana firmeza.",
+      "D": "Seis meses desde que la resolución firme fue notificada al interesado."
+    },
+    "correcta": "C",
+    "explicacion": "El art. 125 L39/2015 distingue dos plazos en el recurso extraordinario de revisión: para la causa a (error de hecho), cuatro años desde la notificación de la resolución; para las causas b, c y d (documentos esenciales ignorados, testimonios o resoluciones falsos por sentencia, y resolución dictada con prevaricación u otros delitos), tres meses desde que se conocen los documentos o desde que la sentencia firme declara la falsedad o el delito.",
+    "why": "A aplica el plazo de la causa a (cuatro años) a las causas b, c y d. B fija un año que no prevé la ley. D fija seis meses, que tampoco figura en el precepto para ninguna de las causas de revisión.",
+    "norma": "Ley 39/2015",
+    "articulo": "125"
+  },
+  {
+    "id": "B2T16-006",
+    "bloque": 2,
+    "tema": 16,
+    "test": 16,
+    "dificultad": "facil",
+    "pregunta": "¿Ante qué órgano jurisdiccional se interpone el recurso de casación en el orden contencioso-administrativo?",
+    "opciones": {
+      "A": "Ante el Tribunal Superior de Justicia de la Comunidad Autónoma.",
+      "B": "Ante la Audiencia Nacional.",
+      "C": "Ante el Tribunal Supremo.",
+      "D": "Ante el Juzgado de lo Contencioso-Administrativo de mayor rango."
+    },
+    "correcta": "C",
+    "explicacion": "El recurso de casación contencioso-administrativo se interpone ante la Sala de lo Contencioso-Administrativo del Tribunal Supremo (arts. 86-93 LJCA). Tras la reforma operada por la LO 7/2015, el acceso al recurso de casación requiere que el asunto presente interés casacional objetivo para la formación de jurisprudencia.",
+    "why": "A y B son órganos de instancia o apelación, no de casación. El TSJ conoce en apelación de los JCA. D no existe el 'JCA de mayor rango' como órgano de casación.",
+    "norma": "Ley 29/1998",
+    "articulo": "86"
+  },
+  {
+    "id": "B2T16-007",
+    "bloque": 2,
+    "tema": 16,
+    "test": 16,
+    "dificultad": "media",
+    "pregunta": "Según el art. 10 de la Ley 29/1998 (LJCA), ¿cuál es el órgano contencioso-administrativo competente para conocer de los recursos contra los actos del Consejo de Gobierno de una Comunidad Autónoma?",
+    "opciones": {
+      "A": "Los Juzgados de lo Contencioso-Administrativo de la capital de la Comunidad Autónoma.",
+      "B": "La Sala de lo Contencioso-Administrativo del Tribunal Superior de Justicia de esa Comunidad Autónoma.",
+      "C": "La Sala de lo Contencioso-Administrativo de la Audiencia Nacional.",
+      "D": "La Sala de lo Contencioso-Administrativo del Tribunal Supremo."
+    },
+    "correcta": "B",
+    "explicacion": "El art. 10 LJCA atribuye a las Salas de lo Contencioso-Administrativo de los Tribunales Superiores de Justicia la competencia para conocer de los recursos contra los actos de los Consejos de Gobierno de las CCAA y de los Presidentes y Consejeros autonómicos, así como contra las disposiciones generales de rango inferior a ley dictadas por las CCAA.",
+    "why": "A atribuye la competencia a los JCA, que tienen competencia general en primera instancia pero no para los actos de los máximos órganos de la CA. C la AN conoce de los actos de la Administración del Estado, no de las CCAA. D el TS conoce del recurso de casación, no en primera instancia de los actos autonómicos.",
+    "norma": "Ley 29/1998",
+    "articulo": "10"
+  },
+  {
+    "id": "B2T16-008",
+    "bloque": 2,
+    "tema": 16,
+    "test": 16,
+    "dificultad": "media",
+    "pregunta": "¿Qué tipo de actos conoce en primera instancia la Sala de lo Contencioso-Administrativo de la Audiencia Nacional, según el art. 11 de la Ley 29/1998 (LJCA)?",
+    "opciones": {
+      "A": "Los actos de los Consejos de Gobierno de las Comunidades Autónomas.",
+      "B": "Los actos dictados por los Juzgados de lo Contencioso-Administrativo en procesos de menor cuantía.",
+      "C": "Los actos del Consejo de Ministros, de sus Comisiones Delegadas y los recursos contra las disposiciones generales del Gobierno.",
+      "D": "Los actos de los órganos unipersonales de la Administración General del Estado de rango inferior a Secretaría de Estado."
+    },
+    "correcta": "C",
+    "explicacion": "El art. 11 LJCA atribuye a la Sala de lo Contencioso-Administrativo de la Audiencia Nacional el conocimiento en primera instancia de los recursos contra los actos del Consejo de Ministros y de sus Comisiones Delegadas, así como contra los reglamentos y disposiciones generales del Gobierno y de los Ministros.",
+    "why": "A corresponde a los TSJ, no a la AN. B describe una función de segunda instancia que no corresponde a la AN. D los actos de órganos inferiores (direcciones generales, subdirecciones) en materias ordinarias corresponden a los JCA.",
+    "norma": "Ley 29/1998",
+    "articulo": "11"
+  },
+  {
+    "id": "B2T16-009",
+    "bloque": 2,
+    "tema": 16,
+    "test": 16,
+    "dificultad": "media",
+    "pregunta": "¿En qué casos se aplica el procedimiento abreviado en la jurisdicción contencioso-administrativa, según el art. 78 de la Ley 29/1998 (LJCA)?",
+    "opciones": {
+      "A": "Cuando la cuantía del asunto no supere los 6.000 euros o cuando el recurrente sea una persona física.",
+      "B": "Cuando la cuantía del asunto no supere los 30.000 euros o en las materias que la ley determine expresamente.",
+      "C": "Cuando ambas partes acuerden someterse al procedimiento abreviado antes de interponer el recurso.",
+      "D": "Cuando el acto impugnado sea una sanción administrativa, sin límite de cuantía."
+    },
+    "correcta": "B",
+    "explicacion": "El art. 78 LJCA establece el procedimiento abreviado para asuntos cuya cuantía no supere los 30.000 euros, así como para ciertas materias que la ley determina (personal, sanciones no pecuniarias, inadmisiones en frontera, etc.). Se tramita mediante una vista oral en la que se concentran las fases del proceso.",
+    "why": "A fija una cuantía de 6.000 euros, que no prevé la LJCA para el procedimiento abreviado. C introduce el acuerdo de las partes como condición, cuando el procedimiento abreviado es objetivo (cuantía o materia), no consensual. D aplica el procedimiento abreviado a todas las sanciones sin límite cuantitativo, lo que es incorrecto.",
+    "norma": "Ley 29/1998",
+    "articulo": "78"
+  },
+  {
+    "id": "B2T16-010",
+    "bloque": 2,
+    "tema": 16,
+    "test": 16,
+    "dificultad": "media",
+    "pregunta": "Según el art. 130 de la Ley 29/1998 (LJCA), ¿cuándo puede el órgano jurisdiccional adoptar la medida cautelar de suspensión del acto impugnado?",
+    "opciones": {
+      "A": "De forma automática desde que se interpone el recurso, sin necesidad de solicitud de parte.",
+      "B": "Únicamente cuando el recurrente acredita prima facie la ilegalidad del acto (fumus boni iuris).",
+      "C": "Cuando la ejecución del acto pudiera hacer perder su finalidad al recurso o causar daños de difícil o imposible reparación, ponderando los intereses en conflicto.",
+      "D": "Solo cuando el acto impugnado sea una sanción administrativa de cuantía superior a 30.000 euros."
+    },
+    "correcta": "C",
+    "explicacion": "El art. 130 LJCA prevé las medidas cautelares —incluyendo la suspensión del acto— cuando concurren dos requisitos: que la ejecución pudiera hacer perder su finalidad al recurso o causar daños de difícil o imposible reparación (periculum in mora), y que la medida no cause perturbación grave al interés general o a terceros. La suspensión no es automática y requiere ponderación judicial.",
+    "why": "A establece automatismo que la ley no prevé; la suspensión requiere solicitud y evaluación judicial. B hace depender la suspensión exclusivamente del fumus boni iuris, que puede tenerse en cuenta pero no es el único criterio legal. D limita las medidas cautelares a las sanciones de cuantía elevada, sin base legal.",
+    "norma": "Ley 29/1998",
+    "articulo": "130"
+  },
+  {
+    "id": "B2T16-011",
+    "bloque": 2,
+    "tema": 16,
+    "test": 16,
+    "dificultad": "media",
+    "pregunta": "Según el art. 8 de la Ley 29/1998 (LJCA), ¿cuál es el papel general de los Juzgados de lo Contencioso-Administrativo en la estructura de este orden jurisdiccional?",
+    "opciones": {
+      "A": "Son órganos de apelación que revisan las resoluciones de las Salas de los TSJ.",
+      "B": "Son órganos de primera instancia ordinaria para los asuntos no atribuidos específicamente a órganos superiores.",
+      "C": "Son órganos exclusivamente competentes para las impugnaciones de sanciones administrativas.",
+      "D": "Solo conocen de los recursos interpuestos por ciudadanos individuales, nunca por personas jurídicas."
+    },
+    "correcta": "B",
+    "explicacion": "Los Juzgados de lo Contencioso-Administrativo son los órganos de primera instancia ordinaria del orden contencioso-administrativo, y conocen de los asuntos que no estén atribuidos expresamente a los TSJ, la Audiencia Nacional o el Tribunal Supremo. En particular, conocen de impugnaciones de actos de las entidades locales y de las CCAA en muchas materias.",
+    "why": "A los JCA son órganos de primera instancia, no de apelación; son los TSJ quienes conocen en apelación de sus resoluciones. C limita su competencia a las sanciones, cuando tienen competencia general en primera instancia. D excluye a las personas jurídicas, cuando la legitimación en contencioso no discrimina entre personas físicas y jurídicas.",
+    "norma": "Ley 29/1998",
+    "articulo": "8"
+  },
+  {
+    "id": "B2T16-012",
+    "bloque": 2,
+    "tema": 16,
+    "test": 16,
+    "dificultad": "media",
+    "pregunta": "Según el art. 25 de la Ley 29/1998 (LJCA), ¿son impugnables en vía contencioso-administrativa las disposiciones de carácter general (reglamentos) dictadas por las Administraciones Públicas?",
+    "opciones": {
+      "A": "No; solo son recurribles ante el Tribunal Constitucional mediante el recurso de inconstitucionalidad.",
+      "B": "No; los reglamentos solo pueden impugnarse de forma indirecta al impugnar el acto de aplicación.",
+      "C": "Sí; las disposiciones de rango inferior a ley dictadas por las AAPP son recurribles directamente ante la jurisdicción contencioso-administrativa.",
+      "D": "Solo si fueron publicadas en el BOE; las publicadas en boletines autonómicos o locales no son impugnables."
+    },
+    "correcta": "C",
+    "explicacion": "El art. 25 LJCA incluye expresamente en el objeto del recurso contencioso-administrativo las disposiciones de carácter general de rango inferior a ley (reglamentos, ordenanzas, circulares normativas). Esto permite la impugnación directa del reglamento, con independencia de que también sea posible la impugnación indirecta al recurrir el acto de aplicación.",
+    "why": "A el recurso de inconstitucionalidad solo procede contra leyes y normas con rango de ley (no contra reglamentos). B la impugnación directa del reglamento sí está prevista en el art. 25 LJCA; la impugnación indirecta es una vía adicional, no la única. D el criterio de impugnabilidad no depende del boletín de publicación.",
+    "norma": "Ley 29/1998",
+    "articulo": "25"
+  },
+  {
+    "id": "B2T16-013",
+    "bloque": 2,
+    "tema": 16,
+    "test": 16,
+    "dificultad": "media",
+    "pregunta": "Según el art. 29 de la Ley 29/1998 (LJCA), ¿qué debe hacer el interesado antes de interponer el recurso contencioso-administrativo por inactividad de la Administración?",
+    "opciones": {
+      "A": "Interponer primero el recurso de alzada ante el superior jerárquico del órgano inactivo.",
+      "B": "Requerir a la Administración que actúe; si en tres meses no lo hace, podrá interponer el recurso.",
+      "C": "Solicitar dictamen del Consejo de Estado antes de acudir a la vía jurisdiccional.",
+      "D": "Acudir directamente al Defensor del Pueblo para que medie en el conflicto."
+    },
+    "correcta": "B",
+    "explicacion": "El art. 29 LJCA establece que, ante la inactividad de la Administración, el interesado debe requerir previamente a la Administración que cumpla su obligación, fijándole un plazo. Si en el plazo de tres meses la Administración no actúa, el interesado podrá interponer el recurso contencioso-administrativo.",
+    "why": "A no existe un recurso de alzada específico por inactividad; el recurso de alzada procede contra actos, no contra la inactividad. C no se exige dictamen del Consejo de Estado para la vía contenciosa por inactividad. D el Defensor del Pueblo no es un requisito previo al contencioso.",
+    "norma": "Ley 29/1998",
+    "articulo": "29"
+  },
+  {
+    "id": "B2T16-014",
+    "bloque": 2,
+    "tema": 16,
+    "test": 16,
+    "dificultad": "media",
+    "pregunta": "Una vez que la Administración ha declarado lesivo un acto anulable favorable al interesado (art. 107 Ley 39/2015), ¿en qué plazo debe interponer el recurso contencioso-administrativo de lesividad?",
+    "opciones": {
+      "A": "En el plazo de cuatro años desde que se dictó el acto declarado lesivo.",
+      "B": "En el plazo de seis meses desde la declaración de lesividad.",
+      "C": "En el plazo de dos meses desde la declaración de lesividad.",
+      "D": "Sin plazo; la Administración puede interponer el contencioso en cualquier momento tras la declaración."
+    },
+    "correcta": "C",
+    "explicacion": "Conforme al art. 46 LJCA, una vez declarado lesivo el acto (en el plazo de cuatro años del art. 107 L39/2015), la Administración debe interponer el recurso contencioso-administrativo de lesividad en el plazo de dos meses desde la fecha de la declaración de lesividad.",
+    "why": "A confunde el plazo para la declaración de lesividad (cuatro años, art. 107 L39) con el plazo para el posterior recurso contencioso (dos meses, art. 46 LJCA). B fija seis meses que no prevé la ley. D elimina el plazo para el contencioso, lo que contradeciría la seguridad jurídica.",
+    "norma": "Ley 29/1998",
+    "articulo": "46"
+  },
+  {
+    "id": "B2T16-015",
+    "bloque": 2,
+    "tema": 16,
+    "test": 16,
+    "dificultad": "media",
+    "pregunta": "Según el art. 81 de la Ley 29/1998 (LJCA), ¿cuál es el órgano competente para conocer del recurso de apelación contra las sentencias dictadas por los Juzgados de lo Contencioso-Administrativo y cuál es el plazo de interposición?",
+    "opciones": {
+      "A": "El Tribunal Supremo; plazo de dos meses.",
+      "B": "La Audiencia Nacional; plazo de un mes.",
+      "C": "El Tribunal Superior de Justicia correspondiente; plazo de quince días.",
+      "D": "El propio Juzgado, que eleva el asunto al TSJ; plazo de treinta días."
+    },
+    "correcta": "C",
+    "explicacion": "El recurso de apelación contra las sentencias de los Juzgados de lo Contencioso-Administrativo corresponde a la Sala de lo Contencioso-Administrativo del Tribunal Superior de Justicia de la Comunidad Autónoma (o de la Audiencia Nacional, si el JCA dependía de ella). El plazo de interposición es de quince días desde la notificación de la sentencia.",
+    "why": "A el TS conoce del recurso de casación, no de la apelación ordinaria. B la AN conoce la apelación de los JCA solo en los supuestos que le corresponden, y el plazo de un mes no es el correcto. D es incorrecto: la interposición se hace ante la Sala de apelación, aunque el JCA puede tramitar la admisión.",
+    "norma": "Ley 29/1998",
+    "articulo": "81"
+  },
+  {
+    "id": "B2T16-016",
+    "bloque": 2,
+    "tema": 16,
+    "test": 16,
+    "dificultad": "media",
+    "pregunta": "¿Cuál de los siguientes actos NO es impugnable en vía contencioso-administrativa, según el art. 2 de la Ley 29/1998 (LJCA)?",
+    "opciones": {
+      "A": "Los actos de los Consejos de Gobierno autonómicos en materia de función pública.",
+      "B": "Las disposiciones de carácter general aprobadas por los Ayuntamientos.",
+      "C": "Las leyes aprobadas por el Parlamento y los Decretos-Ley del Gobierno.",
+      "D": "Los actos del Consejo de Ministros en materia sancionadora."
+    },
+    "correcta": "C",
+    "explicacion": "La jurisdicción contencioso-administrativa no controla las normas con rango de ley (leyes formales, Decretos-Ley, Decretos Legislativos): ese control corresponde al Tribunal Constitucional. El orden contencioso solo controla los actos y disposiciones de rango inferior a ley sometidos al Derecho Administrativo.",
+    "why": "A los actos autonómicos de función pública sí son recurribles ante el TSJ. B los reglamentos municipales (ordenanzas) sí son impugnables en contencioso (LJCA art. 25). D los actos sancionadores del Consejo de Ministros sí son recurribles ante la Audiencia Nacional.",
+    "norma": "Ley 29/1998",
+    "articulo": "2"
+  },
+  {
+    "id": "B2T16-017",
+    "bloque": 2,
+    "tema": 16,
+    "test": 16,
+    "dificultad": "dificil",
+    "pregunta": "Frente a una actuación material de la Administración constitutiva de vía de hecho, ¿qué opciones ofrece el art. 30 de la Ley 29/1998 (LJCA) al interesado, y cuáles son los plazos?",
+    "opciones": {
+      "A": "Solo puede requerir a la Administración que cese; si no lo hace en un mes, interpone el contencioso en dos meses.",
+      "B": "Puede requerir a la Administración (interponiendo el contencioso en 10 días si no cesa) o acudir directamente al contencioso en el plazo de 20 días sin necesidad de requerimiento.",
+      "C": "Debe interponer el recurso de alzada previo; si el recurso es desestimado, dispone de dos meses para el contencioso.",
+      "D": "Solo puede acudir directamente al contencioso en el plazo de un mes, sin posibilidad de requerimiento previo."
+    },
+    "correcta": "B",
+    "explicacion": "El art. 30 LJCA prevé dos vías alternativas frente a la vía de hecho: (1) el interesado puede requerir a la Administración para que cese la actuación; si en 10 días no cesa, dispone de 20 días para interponer el contencioso; (2) también puede acudir directamente al contencioso, sin requerimiento previo, en el plazo de 20 días desde que conoce la vía de hecho. Además, el juez puede acordar la suspensión cautelar inmediata.",
+    "why": "A fija un mes para la respuesta al requerimiento, cuando son 10 días, y dos meses para el contencioso, cuando son 20 días. C exige recurso de alzada previo, que no es preceptivo en la vía de hecho (que por definición carece de cobertura jurídica formal). D elimina la posibilidad de requerimiento previo, que sí es una opción del art. 30.",
+    "norma": "Ley 29/1998",
+    "articulo": "30"
+  },
+  {
+    "id": "B2T16-018",
+    "bloque": 2,
+    "tema": 16,
+    "test": 16,
+    "dificultad": "dificil",
+    "pregunta": "Tras la reforma de la Ley 29/1998 por la LO 7/2015, ¿cuál es el requisito esencial para que el Tribunal Supremo admita a trámite un recurso de casación contencioso-administrativo?",
+    "opciones": {
+      "A": "Que la cuantía del asunto supere los 600.000 euros.",
+      "B": "Que la sentencia recurrida haya sido dictada por unanimidad de la Sala.",
+      "C": "Que el asunto presente interés casacional objetivo para la formación de la jurisprudencia.",
+      "D": "Que el recurrente haya agotado el recurso de apelación previamente."
+    },
+    "correcta": "C",
+    "explicacion": "La reforma operada por la LO 7/2015 transformó el acceso a la casación contencioso-administrativa: eliminó el criterio cuantitativo e introdujo el requisito del 'interés casacional objetivo para la formación de la jurisprudencia'. La Sala de Admisión del TS valora si el asunto plantea una cuestión jurídica nueva, si la sentencia se aparta de la jurisprudencia del TS o si existe contradicción entre TSJ.",
+    "why": "A describe el antiguo sistema de la cuantía mínima para la casación, eliminado por la reforma de 2015. B la unanimidad de la Sala no es un criterio de admisión. D la apelación previa no siempre es necesaria para la casación: caben recursos de casación contra sentencias en única instancia de los TSJ.",
+    "norma": "Ley 29/1998",
+    "articulo": "88"
+  },
+  {
+    "id": "B2T16-019",
+    "bloque": 2,
+    "tema": 16,
+    "test": 16,
+    "dificultad": "dificil",
+    "pregunta": "Según el art. 72.2 de la Ley 29/1998 (LJCA), ¿qué efectos produce la sentencia contencioso-administrativa que anula un reglamento?",
+    "opciones": {
+      "A": "Efectos solo entre las partes del proceso; los terceros ajenos al recurso no quedan afectados.",
+      "B": "Efectos erga omnes (frente a todos), con publicación en el boletín oficial correspondiente.",
+      "C": "La anulación solo afecta a los artículos del reglamento expresamente impugnados en el recurso.",
+      "D": "La sentencia es meramente declarativa y necesita homologación posterior por el Consejo de Ministros para desplegar efectos."
+    },
+    "correcta": "B",
+    "explicacion": "El art. 72.2 LJCA establece que la anulación de una disposición general (reglamento) produce efectos erga omnes: la sentencia vincula a todos y no solo a las partes del proceso. La sentencia se publica en el mismo boletín oficial en que lo fue la disposición anulada, para garantizar su publicidad y eficacia general.",
+    "why": "A describe los efectos inter partes propios de la anulación de actos individuales, no de disposiciones generales. C limita los efectos a los artículos expresamente impugnados, cuando la anulación puede extenderse a la disposición completa si el vicio es estructural. D no existe ningún trámite de homologación posterior: la sentencia es directamente ejecutiva.",
+    "norma": "Ley 29/1998",
+    "articulo": "72"
+  },
+  {
+    "id": "B2T16-020",
+    "bloque": 2,
+    "tema": 16,
+    "test": 16,
+    "dificultad": "dificil",
+    "pregunta": "Los arts. 135-136 de la Ley 29/1998 (LJCA) regulan las medidas cautelarísimas. ¿En qué se distinguen de las medidas cautelares ordinarias del art. 130?",
+    "opciones": {
+      "A": "Las medidas cautelarísimas requieren caución o fianza, mientras que las ordinarias son gratuitas.",
+      "B": "Las medidas cautelarísimas pueden adoptarse antes de interponer el recurso principal; las ordinarias solo pueden pedirse una vez interpuesto.",
+      "C": "Las medidas cautelarísimas las acuerda el Tribunal Supremo; las ordinarias, los JCA.",
+      "D": "Las medidas cautelarísimas solo proceden en procedimientos abreviados; las ordinarias, en el proceso ordinario."
+    },
+    "correcta": "B",
+    "explicacion": "La diferencia esencial entre las medidas cautelarísimas (arts. 135-136 LJCA) y las ordinarias (art. 130) es el momento de su adopción: las cautelarísimas pueden solicitarse y adoptarse incluso antes de interponer el recurso principal, para situaciones de extrema urgencia. Si el interesado no interpone el recurso en el plazo establecido, las medidas quedan sin efecto.",
+    "why": "A la caución o fianza puede exigirse en ambos tipos de medidas como contraprestación o garantía, no es un elemento diferenciador exclusivo. C la competencia para adoptar medidas cautelares —sean ordinarias o cautelarísimas— corresponde al órgano que conozca del asunto, no exclusivamente al TS ni a los JCA. D la distinción no atiende al tipo de procedimiento (abreviado u ordinario).",
+    "norma": "Ley 29/1998",
+    "articulo": "135 y 136"
+  }
+]
