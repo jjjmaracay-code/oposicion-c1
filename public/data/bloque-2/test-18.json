@@ -1,0 +1,382 @@
+[
+  {
+    "id": "B2T18-001",
+    "bloque": 2,
+    "tema": 18,
+    "test": 18,
+    "dificultad": "facil",
+    "pregunta": "¿Qué precepto constitucional consagra el principio de legalidad en materia sancionadora, prohibiendo que nadie sea sancionado por acciones u omisiones que no estén tipificadas como infracción?",
+    "opciones": {
+      "A": "El art. 9.3 CE, que garantiza la seguridad jurídica y la irretroactividad de las disposiciones sancionadoras no favorables.",
+      "B": "El art. 24.2 CE, que reconoce el derecho a un proceso con todas las garantías.",
+      "C": "El art. 25.1 CE, que dispone que nadie puede ser condenado o sancionado por acciones u omisiones que en el momento de producirse no constituyan delito, falta o infracción administrativa tipificada.",
+      "D": "El art. 103.1 CE, que establece la sujeción de la Administración a la ley y al Derecho."
+    },
+    "correcta": "C",
+    "explicacion": "El art. 25.1 CE es el fundamento constitucional del principio de legalidad en materia sancionadora: exige que la infracción y la sanción estén previamente tipificadas por la norma antes de que se produzca el comportamiento sancionado. Junto con el art. 25.1 CE, el art. 9.3 CE refuerza la irretroactividad, pero la prohibición directa de sancionar conductas no tipificadas emana del art. 25.1 CE.",
+    "why": "A el art. 9.3 CE recoge el principio general de irretroactividad y seguridad jurídica pero no es el que tipifica directamente la prohibición de sancionar conductas no previamente tipificadas. B el art. 24.2 CE garantiza garantías procesales (derecho de defensa, presunción de inocencia...) pero no el principio de legalidad sustantivo. D el art. 103.1 CE establece los principios de organización y funcionamiento de la Administración, no el principio de legalidad sancionadora.",
+    "norma": "Constitución Española",
+    "articulo": "25.1"
+  },
+  {
+    "id": "B2T18-002",
+    "bloque": 2,
+    "tema": 18,
+    "test": 18,
+    "dificultad": "facil",
+    "pregunta": "Según el art. 25 de la Ley 40/2015, ¿qué instrumento normativo debe tipificar las infracciones y sanciones administrativas?",
+    "opciones": {
+      "A": "Pueden tipificarse por reglamento, sin necesidad de ley, si así lo decide la Administración competente.",
+      "B": "Deben estar tipificadas mediante ley, en virtud del principio de reserva de ley en materia sancionadora.",
+      "C": "Pueden tipificarse por circular interna de la Administración cuando la urgencia lo exija.",
+      "D": "Basta con que estén previstas en una ordenanza municipal, que tiene valor de ley en su ámbito territorial."
+    },
+    "correcta": "B",
+    "explicacion": "El art. 25 L40/2015 recoge el principio de legalidad en el ejercicio de la potestad sancionadora: las infracciones y sanciones deben estar tipificadas mediante ley. Esta reserva de ley es relativa: el reglamento puede desarrollar y graduar las sanciones previstas en la ley, pero no puede establecer nuevas infracciones o sanciones sin cobertura legal previa. La Administración no puede sancionar conductas no tipificadas en norma con rango de ley.",
+    "why": "A y C permiten tipificar mediante reglamento o circular, lo que vulnera la reserva de ley del art. 25 L40/2015 y del art. 25.1 CE. D las ordenanzas municipales tienen valor normativo en su ámbito, pero en materia sancionadora necesitan respaldo en ley estatal o autonómica que habilite expresamente la tipificación; sin esa habilitación legal previa, la ordenanza no puede sancionar.",
+    "norma": "Ley 40/2015",
+    "articulo": "25"
+  },
+  {
+    "id": "B2T18-003",
+    "bloque": 2,
+    "tema": 18,
+    "test": 18,
+    "dificultad": "facil",
+    "pregunta": "El art. 26 de la Ley 40/2015 establece el principio de irretroactividad en materia sancionadora. ¿Cuál es la regla básica?",
+    "opciones": {
+      "A": "Ninguna disposición sancionadora puede aplicarse retroactivamente, ni aunque sea más favorable para el infractor.",
+      "B": "Las disposiciones sancionadoras producen efectos retroactivos siempre que favorezcan al presunto infractor; las no favorables, en ningún caso.",
+      "C": "La irretroactividad solo rige para las sanciones, no para la tipificación de las infracciones.",
+      "D": "La Administración puede aplicar retroactivamente una disposición sancionadora cuando lo justifique el interés general."
+    },
+    "correcta": "B",
+    "explicacion": "El art. 26 L40/2015 establece una doble regla en materia de irretroactividad sancionadora: las disposiciones sancionadoras NO favorables (que crean nuevas infracciones, agravan las existentes o endurecen las sanciones) no tienen efecto retroactivo; por el contrario, las disposiciones sancionadoras MÁS FAVORABLES para el infractor sí producen efectos retroactivos, incluso respecto a sanciones ya impuestas si no son firmes.",
+    "why": "A impide la retroactividad favorable, contrariamente al principio de retroactividad in bonam partem que recoge el art. 26 L40/2015. C distingue entre sanciones e infracciones, distinción que la ley no establece: la irretroactividad rige para ambas cuando son desfavorables. D permite la retroactividad desfavorable por interés general, lo que contradice expresamente el art. 26.",
+    "norma": "Ley 40/2015",
+    "articulo": "26"
+  },
+  {
+    "id": "B2T18-004",
+    "bloque": 2,
+    "tema": 18,
+    "test": 18,
+    "dificultad": "facil",
+    "pregunta": "El art. 29 de la Ley 40/2015 recoge el principio de proporcionalidad en la potestad sancionadora. ¿A qué obliga este principio?",
+    "opciones": {
+      "A": "A imponer siempre la sanción mínima prevista en la ley, para garantizar la menor restricción de derechos posible.",
+      "B": "A que la sanción sea proporcionada a la gravedad del hecho constitutivo de la infracción, teniendo en cuenta los criterios establecidos en la ley.",
+      "C": "A que la sanción pecuniaria sea proporcional al beneficio económico obtenido por el infractor, con independencia de la gravedad del hecho.",
+      "D": "A que las sanciones deben ser idénticas para todos los infractores que cometan la misma infracción, sin posibilidad de graduación."
+    },
+    "correcta": "B",
+    "explicacion": "El art. 29 L40/2015 exige que la sanción sea adecuada a la gravedad del hecho. La norma que establece las infracciones debe fijar criterios de graduación: grado de intencionalidad, perjuicio causado, reincidencia, beneficio ilícito obtenido, etc. El órgano sancionador debe motivar la graduación concreta en la resolución.",
+    "why": "A exigir siempre la sanción mínima impediría la necesaria graduación y podría resultar desproporcionado hacia arriba para infracciones graves. C fija solo en el beneficio económico el criterio de proporcionalidad, pero el art. 29 incluye la gravedad del hecho y otras circunstancias además del beneficio. D imponer sanciones idénticas sin graduación vulnera el principio de proporcionalidad e individualización.",
+    "norma": "Ley 40/2015",
+    "articulo": "29"
+  },
+  {
+    "id": "B2T18-005",
+    "bloque": 2,
+    "tema": 18,
+    "test": 18,
+    "dificultad": "facil",
+    "pregunta": "Según el art. 63 de la Ley 39/2015, ¿cómo debe iniciarse el procedimiento administrativo sancionador?",
+    "opciones": {
+      "A": "A instancia de parte o de oficio, indistintamente, según lo que el ciudadano afectado decida.",
+      "B": "Siempre de oficio, por acuerdo del órgano competente, tanto si actúa por propia iniciativa como si lo hace en virtud de orden superior, petición razonada o denuncia.",
+      "C": "Solo por denuncia del perjudicado directo de la infracción.",
+      "D": "Por solicitud del Ministerio Fiscal cuando tenga conocimiento de una presunta infracción administrativa."
+    },
+    "correcta": "B",
+    "explicacion": "El art. 63 L39/2015 establece que el procedimiento sancionador se inicia siempre de oficio, nunca a instancia de parte. El órgano competente puede actuar por propia iniciativa, por orden superior, por petición razonada de otro órgano o a raíz de una denuncia, pero en este último caso es el órgano quien decide si inicia el expediente, sin que el denunciante tenga derecho automático a su apertura.",
+    "why": "A permite la iniciación a instancia de parte, lo que contradice el art. 63 L39/2015: los particulares pueden denunciar, pero no iniciar formalmente el expediente sancionador. C y D limitan la iniciación a la denuncia del perjudicado o del Ministerio Fiscal, cuando la ley atribuye la iniciación exclusivamente al órgano administrativo competente.",
+    "norma": "Ley 39/2015",
+    "articulo": "63"
+  },
+  {
+    "id": "B2T18-006",
+    "bloque": 2,
+    "tema": 18,
+    "test": 18,
+    "dificultad": "facil",
+    "pregunta": "El art. 31 de la Ley 40/2015 consagra el principio 'non bis in idem'. ¿Cuál es su contenido esencial?",
+    "opciones": {
+      "A": "Nadie puede ser sancionado por una infracción administrativa si ya ha sido sancionado por esa misma infracción en otro procedimiento administrativo.",
+      "B": "Nadie puede ser sancionado más de dos veces por los mismos hechos, aunque los procedimientos sean distintos.",
+      "C": "No pueden coexistir sanción penal y sanción administrativa por los mismos hechos, mistos sujetos e idéntico fundamento.",
+      "D": "La sanción penal excluye siempre cualquier tipo de responsabilidad civil derivada del mismo hecho."
+    },
+    "correcta": "C",
+    "explicacion": "El principio non bis in idem del art. 31 L40/2015 prohíbe que una misma conducta sea doblemente sancionada cuando concurren tres identidades: mismos hechos (idem factum), mismo sujeto (idem persona) e idéntico fundamento jurídico (idem ius). Su manifestación más típica es la incompatibilidad entre sanción penal y sanción administrativa por los mismos hechos. Ante el concurso, la Administración debe suspender el procedimiento administrativo hasta que haya pronunciamiento penal firme.",
+    "why": "A limita el non bis in idem al doble sancionamiento administrativo, cuando su principal aplicación práctica es precisamente la incompatibilidad entre sanción penal y administrativa. B cuantifica la prohibición en dos sanciones, cuando en realidad prohíbe cualquier duplicidad por los mismos hechos con el mismo fundamento. D extiende el efecto a la responsabilidad civil, que es independiente del non bis in idem.",
+    "norma": "Ley 40/2015",
+    "articulo": "31"
+  },
+  {
+    "id": "B2T18-007",
+    "bloque": 2,
+    "tema": 18,
+    "test": 18,
+    "dificultad": "media",
+    "pregunta": "El art. 27 de la Ley 40/2015 recoge el principio de tipicidad. ¿Puede el reglamento tipificar nuevas infracciones o sanciones no previstas en una ley previa?",
+    "opciones": {
+      "A": "Sí; el reglamento puede tipificar infracciones y sanciones de forma autónoma si existe urgencia o necesidad técnica reconocida por la Administración.",
+      "B": "Sí, pero solo en materias de policía administrativa donde la ley le atribuya habilitación general.",
+      "C": "No; el reglamento solo puede desarrollar y graduar los tipos de infracciones ya previstos en la ley. No puede crear por sí solo nuevas infracciones o sanciones.",
+      "D": "Sí, siempre que el reglamento tenga rango de Real Decreto y sea aprobado en Consejo de Ministros."
+    },
+    "correcta": "C",
+    "explicacion": "El art. 27 L40/2015 consagra el principio de tipicidad bajo una reserva de ley relativa: la ley debe tipificar las infracciones y sanciones; el reglamento puede desarrollar los tipos legales, concretar conductas y graduar la sanción, pero no puede crear infracciones o sanciones autónomas sin cobertura legal previa. Esta es la denominada 'colaboración reglamentaria en la tipificación', admitida por el TC siempre que la ley fije el marco mínimo.",
+    "why": "A y B permiten al reglamento tipificar de forma autónoma, lo que vulnera la reserva de ley relativa del art. 25.1 CE y el principio de tipicidad del art. 27 L40/2015. D el rango normativo del reglamento (Real Decreto u otro) no salva el vicio de falta de cobertura legal previa.",
+    "norma": "Ley 40/2015",
+    "articulo": "27"
+  },
+  {
+    "id": "B2T18-008",
+    "bloque": 2,
+    "tema": 18,
+    "test": 18,
+    "dificultad": "media",
+    "pregunta": "Según el art. 28 de la Ley 40/2015, ¿qué principio rige la determinación de quién puede ser sancionado?",
+    "opciones": {
+      "A": "Principio de solidaridad: cuando no se puede identificar al responsable individual, toda la organización a la que pertenece queda sancionada.",
+      "B": "Principio de responsabilidad: solo pueden ser sancionadas las personas físicas o jurídicas que resulten responsables de la infracción, a título de dolo o culpa.",
+      "C": "Principio de representación: el representante legal de la organización siempre es el sancionado en lugar de la persona jurídica.",
+      "D": "Principio objetivo: basta la causación del resultado dañoso, sin necesidad de probar el dolo ni la culpa del infractor."
+    },
+    "correcta": "B",
+    "explicacion": "El art. 28 L40/2015 establece que solo son responsables las personas —físicas o jurídicas— que resulten responsables de la infracción a título de dolo o culpa. Las personas jurídicas también pueden ser sancionadas, con independencia de que se haya identificado o no a la persona física autora material. Cuando varias personas concurren en la comisión de una infracción, su responsabilidad puede ser solidaria cuando la ley así lo establezca.",
+    "why": "A la solidaridad solo es posible cuando la ley la prevé expresamente; no es la regla general. C confunde la responsabilidad de la persona jurídica con la de su representante: la persona jurídica es la sancionada, no el representante automáticamente. D el principio de responsabilidad subjetiva (dolo o culpa) distingue la potestad sancionadora de la responsabilidad patrimonial (que sí es objetiva).",
+    "norma": "Ley 40/2015",
+    "articulo": "28"
+  },
+  {
+    "id": "B2T18-009",
+    "bloque": 2,
+    "tema": 18,
+    "test": 18,
+    "dificultad": "media",
+    "pregunta": "Según el art. 26 de la Ley 40/2015, si se aprueba una nueva ley que reduce la sanción para una infracción ya cometida pero cuyo expediente sancionador aún no ha concluido, ¿qué norma se aplica?",
+    "opciones": {
+      "A": "La norma vigente en el momento de la comisión de la infracción, por aplicación estricta del principio de irretroactividad.",
+      "B": "La norma nueva más favorable, ya que el art. 26 L40/2015 permite la retroactividad de las disposiciones sancionadoras favorables.",
+      "C": "La norma más antigua, por el principio de seguridad jurídica que protege la previsión del infractor.",
+      "D": "La norma que elija el interesado, que tiene derecho a optar entre ambas."
+    },
+    "correcta": "B",
+    "explicacion": "El art. 26 L40/2015 consagra la retroactividad in bonam partem: las disposiciones sancionadoras más favorables para el infractor se aplican retroactivamente, incluso si los hechos se cometieron bajo la vigencia de la norma anterior. Este principio opera mientras la sanción no sea firme. Si la sanción ya es firme pero no se ha ejecutado, la doctrina y jurisprudencia mayoritarias también admiten la revisión.",
+    "why": "A aplica solo el principio de irretroactividad (art. 26.1 in fine: 'no favorable') pero omite la retroactividad favorable que el mismo artículo reconoce. C la 'previsión del infractor' sería argumento para la norma más favorable, no la más antigua. D el infractor no tiene derecho de opción: la norma más favorable se aplica de oficio.",
+    "norma": "Ley 40/2015",
+    "articulo": "26"
+  },
+  {
+    "id": "B2T18-010",
+    "bloque": 2,
+    "tema": 18,
+    "test": 18,
+    "dificultad": "media",
+    "pregunta": "El art. 63 de la Ley 39/2015 exige la separación entre la fase instructora y la sancionadora del procedimiento. ¿Qué implica esta garantía?",
+    "opciones": {
+      "A": "Que el expediente sancionador se divide en dos fases separadas en el tiempo, pero pueden ser dirigidas por el mismo órgano administrativo.",
+      "B": "Que la instrucción y la resolución sancionadora deben ser encomendadas a órganos distintos, garantizando la objetividad e imparcialidad del órgano resolutorio.",
+      "C": "Que el instructor del expediente y el órgano sancionador deben pertenecer necesariamente a distintas Administraciones Públicas.",
+      "D": "Que el interesado tiene derecho a conocer solo la fase sancionadora, siendo reservada la fase instructora hasta la propuesta de resolución."
+    },
+    "correcta": "B",
+    "explicacion": "El art. 63 L39/2015 exige que la fase de instrucción (obtención de pruebas, elaboración del pliego de cargos, propuesta de resolución) y la fase de resolución (imposición de la sanción) sean encomendadas a órganos distintos dentro de la misma Administración. El objetivo es garantizar la imparcialidad del órgano resolutorio, que no quede condicionado por haber instruido el expediente.",
+    "why": "A permite que el mismo órgano instruya y resuelva, lo que contradice expresamente el art. 63.2 L39/2015. C exige distintas AAPP, cuando la ley solo exige órganos distintos dentro de la misma AAPP. D la separación es entre órganos, no entre lo que el interesado puede conocer; el interesado tiene derecho de acceso al expediente en ambas fases.",
+    "norma": "Ley 39/2015",
+    "articulo": "63"
+  },
+  {
+    "id": "B2T18-011",
+    "bloque": 2,
+    "tema": 18,
+    "test": 18,
+    "dificultad": "media",
+    "pregunta": "En el procedimiento administrativo sancionador, ¿a quién corresponde la carga de la prueba sobre la comisión de la infracción, y qué principio lo sustenta?",
+    "opciones": {
+      "A": "Al interesado, que debe probar su inocencia si ha sido acusado de una infracción administrativa.",
+      "B": "A la Administración, que debe acreditar los hechos constitutivos de la infracción, en virtud del principio de presunción de inocencia (art. 24.2 CE y art. 77 Ley 39/2015).",
+      "C": "La carga de la prueba se reparte entre la Administración y el interesado a partes iguales.",
+      "D": "Al Ministerio Fiscal, que actúa como parte acusadora en todos los expedientes sancionadores."
+    },
+    "correcta": "B",
+    "explicacion": "La presunción de inocencia reconocida en el art. 24.2 CE y recogida en el art. 77 L39/2015 impone a la Administración la carga de probar los hechos constitutivos de la infracción. El interesado no tiene que demostrar su inocencia: si la Administración no logra acreditar la infracción, el procedimiento debe concluir sin sanción. Las actas de inspección levantadas por funcionarios con fe pública pueden tener valor probatorio privilegiado, pero admiten prueba en contrario.",
+    "why": "A invierte la carga de la prueba, vulnerando la presunción de inocencia del art. 24.2 CE. C el reparto igualitario de la carga probatoria no existe en el procedimiento sancionador; la presunción de inocencia la atribuye a la Administración. D el Ministerio Fiscal solo interviene en el proceso penal, no en el procedimiento administrativo sancionador.",
+    "norma": "Ley 39/2015",
+    "articulo": "77"
+  },
+  {
+    "id": "B2T18-012",
+    "bloque": 2,
+    "tema": 18,
+    "test": 18,
+    "dificultad": "media",
+    "pregunta": "Según el art. 64 de la Ley 39/2015, ¿qué información debe contener el acuerdo de inicio del procedimiento sancionador notificado al interesado?",
+    "opciones": {
+      "A": "Solo la fecha de inicio y el órgano competente para resolver, sin más detalle para no condicionar la instrucción.",
+      "B": "La identificación del presunto responsable, los hechos que motivan la incoación, su posible calificación, las sanciones que pudieran corresponder, la identificación del instructor y el órgano competente para resolver.",
+      "C": "Únicamente la propuesta de sanción que la Administración pretende imponer, para que el interesado pueda defenderse desde el inicio.",
+      "D": "La resolución provisional de sanción, sujeta a revisión tras la instrucción del expediente."
+    },
+    "correcta": "B",
+    "explicacion": "El art. 64 L39/2015 exige que el acuerdo de inicio notificado al interesado contenga, como mínimo: la identificación de la persona presuntamente responsable; los hechos que motivan la incoación y su posible calificación jurídica; las sanciones que en su caso pudieran corresponder; la identificación del instructor y del Secretario (si lo hay) del procedimiento; y el órgano competente para resolver. Esta información permite al interesado preparar su defensa desde el primer momento.",
+    "why": "A limita el contenido a datos mínimos, privando al interesado del conocimiento de los cargos que se le imputan. C confunde el acuerdo de inicio con la propuesta de resolución, que es un documento posterior elaborado por el instructor. D adelanta la resolución provisional al inicio, cuando la resolución definitiva solo puede dictarse tras la instrucción completa.",
+    "norma": "Ley 39/2015",
+    "articulo": "64"
+  },
+  {
+    "id": "B2T18-013",
+    "bloque": 2,
+    "tema": 18,
+    "test": 18,
+    "dificultad": "media",
+    "pregunta": "El art. 85 de la Ley 39/2015 prevé una reducción de la sanción por reconocimiento voluntario de responsabilidad. ¿En qué consiste?",
+    "opciones": {
+      "A": "El infractor que reconoce los hechos y paga la sanción propuesta antes de la resolución obtiene una reducción del 20% de la sanción propuesta.",
+      "B": "El reconocimiento voluntario de responsabilidad permite a la Administración archivar el expediente sin imponer sanción alguna.",
+      "C": "La reducción del 20% solo se aplica si la infracción es de carácter leve y el infractor no tiene antecedentes.",
+      "D": "La reducción es potestativa de la Administración: puede concederla o no a su discreción."
+    },
+    "correcta": "A",
+    "explicacion": "El art. 85.2 L39/2015 establece que si el infractor reconoce voluntariamente su responsabilidad, se podrá resolver el procedimiento con imposición de la sanción que proceda. Asimismo, si el infractor paga voluntariamente la sanción propuesta en cualquier momento anterior a la resolución, la sanción se reducirá en, al menos, un 20%. Ambas medidas (reconocimiento + pago) pueden acumularse. El art. 85 es una herramienta de terminación simplificada que incentiva la colaboración del infractor.",
+    "why": "B el reconocimiento voluntario no conlleva el archivo: sí se impone la sanción, aunque reducida. C la ley no limita la reducción a infracciones leves ni exige ausencia de antecedentes. D la reducción del 20% es automática (mínimo garantizado) cuando se cumplen los requisitos, no una mera potestad discrecional de la Administración.",
+    "norma": "Ley 39/2015",
+    "articulo": "85"
+  },
+  {
+    "id": "B2T18-014",
+    "bloque": 2,
+    "tema": 18,
+    "test": 18,
+    "dificultad": "media",
+    "pregunta": "Según el art. 90 de la Ley 39/2015, ¿cuándo son ejecutivas las resoluciones sancionadoras?",
+    "opciones": {
+      "A": "Desde el momento en que son dictadas, aunque no sean firmes, para garantizar la eficacia del ordenamiento.",
+      "B": "Solo cuando son firmes en vía administrativa; hasta entonces no son ejecutivas, aunque sí producen otros efectos jurídicos.",
+      "C": "Desde la notificación al interesado, salvo que se haya solicitado la suspensión cautelar.",
+      "D": "Desde la publicación en el Boletín Oficial correspondiente, con independencia de su firmeza."
+    },
+    "correcta": "B",
+    "explicacion": "El art. 90.3 L39/2015 establece que las resoluciones sancionadoras solo son ejecutivas cuando ponen fin a la vía administrativa y son firmes. Esta regla de no ejecutividad de las sanciones hasta su firmeza es una garantía específica del procedimiento sancionador: evita que se ejecute una sanción que pueda ser anulada en vía de recurso. Si el interesado recurre en vía administrativa, la sanción queda en suspenso hasta que se resuelva el recurso.",
+    "why": "A la ejecutividad inmediata de actos administrativos (art. 38 L39) tiene una excepción expresa para las sanciones: el art. 90 les niega ejecutividad hasta la firmeza. C la solicitud de suspensión cautelar es necesaria para otros actos, pero para las sanciones la no ejecutividad opera automáticamente hasta la firmeza. D la publicación en boletín oficial no determina la ejecutividad de una sanción.",
+    "norma": "Ley 39/2015",
+    "articulo": "90"
+  },
+  {
+    "id": "B2T18-015",
+    "bloque": 2,
+    "tema": 18,
+    "test": 18,
+    "dificultad": "media",
+    "pregunta": "¿Qué ocurre con la prescripción de la infracción cuando el procedimiento sancionador es declarado caducado por inactividad de la Administración?",
+    "opciones": {
+      "A": "La caducidad del procedimiento interrumpe definitivamente la prescripción; la Administración pierde el derecho a sancionar.",
+      "B": "La caducidad no interrumpe la prescripción de la infracción; el plazo prescriptivo continúa corriendo y puede abrirse un nuevo procedimiento si la infracción no ha prescrito.",
+      "C": "La caducidad del procedimiento equivale a una resolución absolutoria, por lo que tampoco puede abrirse un nuevo procedimiento por los mismos hechos.",
+      "D": "La caducidad suspende el plazo de prescripción hasta que la Administración decida si abre un nuevo expediente."
+    },
+    "correcta": "B",
+    "explicacion": "La caducidad del procedimiento sancionador (que se produce cuando la Administración no lo resuelve en el plazo máximo) no equivale a resolución absolutoria ni interrumpe la prescripción de la infracción. El efecto es simplemente que el procedimiento concreto expira. La Administración puede iniciar un nuevo expediente sancionador, pero siempre que la infracción no haya prescrito, porque el procedimiento caducado no interrumpió el plazo prescriptivo.",
+    "why": "A confunde el efecto de la caducidad con una extinción definitiva del ius puniendi; la ley solo la regula como expiración del procedimiento concreto. C asimila caducidad a resolución absolutoria, lo que generaría una suerte de non bis in idem que la ley no reconoce para la caducidad. D la caducidad no suspende la prescripción; la prescripción sigue corriendo sin interrupción.",
+    "norma": "Ley 39/2015",
+    "articulo": "95"
+  },
+  {
+    "id": "B2T18-016",
+    "bloque": 2,
+    "tema": 18,
+    "test": 18,
+    "dificultad": "media",
+    "pregunta": "¿Cuáles son los plazos supletorios de prescripción de las infracciones administrativas que establece el art. 30 de la Ley 40/2015 cuando la ley sectorial no los fija?",
+    "opciones": {
+      "A": "Infracciones muy graves: 5 años; graves: 3 años; leves: 1 año.",
+      "B": "Infracciones muy graves: 3 años; graves: 2 años; leves: 6 meses.",
+      "C": "Infracciones muy graves: 4 años; graves: 2 años; leves: 1 año.",
+      "D": "El art. 30 L40/2015 no prevé plazos supletorios: si la ley sectorial no los fija, las infracciones son imprescriptibles."
+    },
+    "correcta": "B",
+    "explicacion": "El art. 30 L40/2015 establece, para el caso de que la norma que tipifique las infracciones no fije plazos de prescripción, los siguientes supletorios: infracciones muy graves, 3 años; graves, 2 años; leves, 6 meses. Para las sanciones: muy graves, 3 años; graves, 2 años; leves, 1 año. El dies a quo de la prescripción de la infracción es el día en que se cometió; para las sanciones, el día en que la resolución adquiere firmeza.",
+    "why": "A fija 5 años para las muy graves, cuando el art. 30 L40/2015 establece 3 años. C fija 4 años para las muy graves, también incorrecto. D la imprescriptibilidad contradiría el principio de seguridad jurídica; el art. 30 sí prevé plazos supletorios.",
+    "norma": "Ley 40/2015",
+    "articulo": "30"
+  },
+  {
+    "id": "B2T18-017",
+    "bloque": 2,
+    "tema": 18,
+    "test": 18,
+    "dificultad": "dificil",
+    "pregunta": "Según el art. 31 de la Ley 40/2015, ¿en qué supuesto pueden coexistir una sanción penal y una sanción administrativa por los mismos hechos?",
+    "opciones": {
+      "A": "Nunca; el non bis in idem prohíbe de forma absoluta cualquier doble sancionamiento por los mismos hechos.",
+      "B": "Cuando el órgano penal haya absuelto al interesado sin entrar en el fondo (por razones procesales) y la Administración aprecia hechos distintos a los valorados en sede penal.",
+      "C": "Cuando la sanción administrativa sea más leve que la penal y los bienes jurídicos protegidos sean diferentes.",
+      "D": "Solo cuando el interesado haya dado su consentimiento expreso a la doble sanción."
+    },
+    "correcta": "B",
+    "explicacion": "El non bis in idem prohíbe el doble sancionamiento cuando hay identidad de sujeto, hecho y fundamento. Sin embargo, la sanción administrativa puede coexistir con la penal en supuestos en que falte alguna de esas identidades. En particular, si el proceso penal concluyó sin pronunciarse sobre los hechos que motivan la sanción administrativa (absolutoria por razones procesales, o cuando el órgano penal calificó los hechos de forma distinta), la Administración puede sancionar siempre que base su resolución en hechos o fundamentos diferentes a los ya juzgados penalmente.",
+    "why": "A es demasiado absoluta: el non bis in idem prohíbe el doble sancionamiento solo cuando concurren las tres identidades; si falta alguna, es posible. C la diferencia de gravedad entre sanciones no es el criterio legal; es la identidad del fundamento jurídico (bien jurídico protegido) la que determina la aplicación del principio. D el consentimiento del interesado no puede habilitar una vulneración del non bis in idem.",
+    "norma": "Ley 40/2015",
+    "articulo": "31"
+  },
+  {
+    "id": "B2T18-018",
+    "bloque": 2,
+    "tema": 18,
+    "test": 18,
+    "dificultad": "dificil",
+    "pregunta": "El art. 89 de la Ley 39/2015 establece limitaciones sobre la resolución del procedimiento sancionador. ¿Puede el órgano resolutorio imponer una sanción más grave que la propuesta por el instructor en la propuesta de resolución?",
+    "opciones": {
+      "A": "Sí; el órgano resolutorio tiene plena potestad para agravar la sanción si considera que la propuesta del instructor es insuficiente.",
+      "B": "No; la resolución no puede imponer sanciones más graves que las propuestas por el órgano instructor, lo que constituye una manifestación de la prohibición de reformatio in peius.",
+      "C": "Sí, pero solo si el interesado no ha presentado alegaciones en el trámite de audiencia.",
+      "D": "Sí, previa audiencia adicional al interesado sobre la posible agravación de la sanción propuesta."
+    },
+    "correcta": "B",
+    "explicacion": "El art. 89 L39/2015 prohíbe que la resolución sancionadora imponga sanciones más graves que las propuestas en la propuesta de resolución del instructor. Esta limitación es una manifestación del principio de congruencia y de la prohibición de reformatio in peius: el interesado formula sus alegaciones sobre la base de la propuesta de resolución, y la resolución final no puede sorprenderle con una sanción más grave sin haberle dado la oportunidad de defenderse frente a ella.",
+    "why": "A otorga plena libertad al órgano resolutorio para agravar, lo que viola el principio de congruencia y la prohibición de reformatio in peius del art. 89 L39. C la falta de alegaciones del interesado no amplía las potestades del órgano resolutorio. D aunque la audiencia adicional podría regularizar el procedimiento, la ley no lo prevé como opción; lo que establece es la prohibición directa de agravar sin más.",
+    "norma": "Ley 39/2015",
+    "articulo": "89"
+  },
+  {
+    "id": "B2T18-019",
+    "bloque": 2,
+    "tema": 18,
+    "test": 18,
+    "dificultad": "dificil",
+    "pregunta": "Una empresa realiza vertidos contaminantes durante varios meses hasta que la Administración detecta la infracción. ¿Desde cuándo se computa el plazo de prescripción de la infracción según el art. 30 de la Ley 40/2015?",
+    "opciones": {
+      "A": "Desde el primer vertido, cuando comenzó la infracción.",
+      "B": "Desde el día en que la Administración tuvo conocimiento de la infracción.",
+      "C": "Desde la finalización de la conducta infractora, por tratarse de una infracción de carácter continuado o permanente.",
+      "D": "Desde la fecha de la denuncia presentada por el ciudadano afectado."
+    },
+    "correcta": "C",
+    "explicacion": "El art. 30 L40/2015 establece que el plazo de prescripción de las infracciones comienza desde el día en que se cometió la infracción. Cuando se trata de infracciones de carácter continuado (la conducta persiste en el tiempo) o permanente, el dies a quo se traslada al día en que cesa la conducta infractora. Los vertidos durante varios meses son una infracción continuada: el plazo prescriptivo no comienza hasta que cesa el último vertido.",
+    "why": "A aplicaría el dies a quo al inicio de la conducta, lo que perjudicaría a la Administración en infracciones continuadas, pudiendo prescribir mientras la infracción sigue cometiéndose. B el conocimiento por la Administración no es el dies a quo legal, aunque en la práctica puede influir en la valoración de las actuaciones previas al expediente. D la denuncia no determina el inicio del plazo de prescripción.",
+    "norma": "Ley 40/2015",
+    "articulo": "30"
+  },
+  {
+    "id": "B2T18-020",
+    "bloque": 2,
+    "tema": 18,
+    "test": 18,
+    "dificultad": "dificil",
+    "pregunta": "La Administración imputa una infracción a una persona que actuó bajo instrucciones de un tercero y sin margen alguno de decisión autónoma. ¿Puede igualmente ser sancionada en virtud del art. 28 de la Ley 40/2015?",
+    "opciones": {
+      "A": "Sí siempre; el art. 28 L40/2015 establece responsabilidad objetiva: quien ejecuta materialmente el hecho es sancionado con independencia de su grado de autonomía.",
+      "B": "No; si se acredita que actuó sin ningún margen de autonomía y bajo instrucciones directas de un tercero, puede quedar excluida su responsabilidad por ausencia de dolo o culpa, siendo en su caso sancionable el tercero que dio las instrucciones.",
+      "C": "Sí; la responsabilidad es solidaria: tanto el ejecutor material como el tercero que dio las instrucciones son siempre sancionados.",
+      "D": "No; en ningún caso puede sancionarse a una persona jurídica o física que haya actuado por orden de otro, aunque hubiera tenido margen de decisión."
+    },
+    "correcta": "B",
+    "explicacion": "El art. 28 L40/2015 exige responsabilidad subjetiva: el infractor debe haber actuado con dolo o culpa. Si se acredita que una persona actuó sin ningún margen de decisión autónoma y bajo instrucciones imperativas de un tercero, puede quedar excluida su responsabilidad por ausencia de culpabilidad. En ese caso, la responsabilidad recae sobre el tercero que impartió las instrucciones, que sí actuó con dolo o culpa. La responsabilidad sancionadora administrativa, a diferencia de la patrimonial, es subjetiva.",
+    "why": "A aplica responsabilidad objetiva al procedimiento sancionador, contrariamente al principio de responsabilidad subjetiva del art. 28 L40/2015. C establece solidaridad automática entre ejecutor e instigador, lo que tampoco es la regla general; la solidaridad requiere previsión expresa en la norma. D excluye demasiado ampliamente: si el ejecutor tenía margen de decisión, sí puede ser sancionado junto al instigador.",
+    "norma": "Ley 40/2015",
+    "articulo": "28"
+  }
+]
