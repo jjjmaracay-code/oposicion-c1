@@ -1,0 +1,241 @@
+[
+{"id":"B2T11-001","bloque":2,"tema":11,"test":11,"dificultad":"facil",
+ "pregunta":"¿Cuáles son los principios de buena regulación que deben respetar la iniciativa legislativa y la potestad reglamentaria de las Administraciones Públicas, según el artículo 128 de la Ley 39/2015?",
+ "opciones":{
+   "A":"Legalidad, tipicidad, proporcionalidad, publicidad, responsabilidad y eficiencia",
+   "B":"Necesidad, eficacia, proporcionalidad, seguridad jurídica, transparencia y eficiencia",
+   "C":"Igualdad, mérito, capacidad, publicidad, concurrencia y proporcionalidad",
+   "D":"Eficacia, jerarquía, descentralización, desconcentración, coordinación y objetividad"
+ },"correcta":"B",
+ "explicacion":"El artículo 128 de la Ley 39/2015 establece que la iniciativa legislativa y la potestad reglamentaria se ejercerán de acuerdo con los principios de necesidad, eficacia, proporcionalidad, seguridad jurídica, transparencia y eficiencia.",
+ "why":"Los principios de la opción A (legalidad, tipicidad, etc.) son los de la potestad sancionadora (Ley 40/2015, arts. 25-31). Los de la opción C (igualdad, mérito, capacidad) corresponden al acceso al empleo público. Los de la opción D (eficacia, jerarquía, descentralización, desconcentración, coordinación) son los principios de organización y actuación de las AAPP del art. 103.1 CE y art. 3 Ley 40/2015, no los de la potestad normativa.",
+ "norma":"Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común","articulo":"Art. 128"},
+
+{"id":"B2T11-002","bloque":2,"tema":11,"test":11,"dificultad":"facil",
+ "pregunta":"¿Qué quórum exige el artículo 81.2 de la Constitución para la aprobación, modificación o derogación de las leyes orgánicas?",
+ "opciones":{
+   "A":"Mayoría simple de ambas Cámaras en sesión conjunta",
+   "B":"Mayoría de dos tercios del Congreso y mayoría simple del Senado",
+   "C":"Mayoría absoluta del Congreso de los Diputados en una votación final sobre el conjunto del proyecto",
+   "D":"Mayoría de tres quintos de cada una de las Cámaras"
+ },"correcta":"C",
+ "explicacion":"El artículo 81.2 CE establece que «la aprobación, modificación o derogación de las leyes orgánicas exigirá mayoría absoluta del Congreso, en una votación final sobre el conjunto del proyecto». No se exige este quórum en el Senado; basta con la mayoría simple habitual para su tramitación en la Cámara Alta.",
+ "why":"La mayoría simple (A) es el quórum ordinario de las leyes ordinarias. La mayoría de dos tercios del Congreso + simple del Senado (B) no corresponde a ningún tipo de ley. La mayoría de tres quintos de cada Cámara (D) es el quórum para la reforma constitucional del art. 167 CE, no para las leyes orgánicas.",
+ "norma":"Constitución Española de 1978","articulo":"Art. 81.2"},
+
+{"id":"B2T11-003","bloque":2,"tema":11,"test":11,"dificultad":"facil",
+ "pregunta":"Según el artículo 1.6 del Código Civil, ¿cuál es la función de la jurisprudencia en el ordenamiento jurídico español?",
+ "opciones":{
+   "A":"Es una fuente principal del Derecho, al mismo nivel que la ley",
+   "B":"Complementa el ordenamiento jurídico con la doctrina que, de modo reiterado, establezca el Tribunal Supremo al interpretar y aplicar la ley, la costumbre y los principios generales del derecho",
+   "C":"Vincula con fuerza de ley a todos los órganos judiciales y a la Administración Pública",
+   "D":"Solo produce efectos en el proceso judicial en que se dicta, sin proyección sobre casos futuros"
+ },"correcta":"B",
+ "explicacion":"El artículo 1.6 CC dispone que «la jurisprudencia complementará el ordenamiento jurídico con la doctrina que, de modo reiterado, establezca el Tribunal Supremo al interpretar y aplicar la ley, la costumbre y los principios generales del derecho». La jurisprudencia no es fuente del Derecho en sentido estricto, sino un complemento del ordenamiento.",
+ "why":"La jurisprudencia no es fuente primaria al nivel de la ley (A). Tampoco tiene fuerza vinculante erga omnes como si fuera ley (C): su incumplimiento puede dar lugar a recurso de casación, pero no equivale a la derogación o inaplicación de la norma. Los efectos no se limitan a un solo proceso (D): la doctrina reiterada del TS orienta la interpretación en todos los casos similares.",
+ "norma":"Código Civil","articulo":"Art. 1.6"},
+
+{"id":"B2T11-004","bloque":2,"tema":11,"test":11,"dificultad":"facil",
+ "pregunta":"¿Qué papel desempeña la costumbre como fuente del Derecho Administrativo?",
+ "opciones":{
+   "A":"Es fuente primaria en materia de servicios públicos y régimen de concesiones",
+   "B":"No tiene ningún papel: el Derecho Administrativo se rige exclusivamente por normas escritas",
+   "C":"Tiene un papel muy limitado: solo puede aplicarse en defecto de norma escrita (praeter legem), nunca en contra del derecho escrito (contra legem)",
+   "D":"Tiene el mismo valor que el reglamento cuando ha sido reconocida de forma reiterada por los tribunales contencioso-administrativos"
+ },"correcta":"C",
+ "explicacion":"En el Derecho Administrativo, la costumbre es una fuente residual. Solo puede aplicarse praeter legem (cuando no existe norma escrita que regule el supuesto), nunca contra legem (en contra de lo que dispone la norma escrita). Su campo más visible es el derecho local (art. 1.3 CC aplicado supletoriamente). En ningún caso tiene la misma jerarquía que el reglamento.",
+ "why":"El DA no admite costumbres que suplan el principio de legalidad en materias de poder público (A). Aunque el DA es predominantemente de norma escrita, no excluye absolutamente la costumbre praeter legem (B). El hecho de que los tribunales la reconozcan no la eleva al rango de reglamento (D).",
+ "norma":"Código Civil (aplicación supletoria)","articulo":"Art. 1.3 CC"},
+
+{"id":"B2T11-005","bloque":2,"tema":11,"test":11,"dificultad":"facil",
+ "pregunta":"Según el artículo 6.2 de la Ley 40/2015, ¿afecta el incumplimiento de una instrucción o de una orden de servicio a la validez del acto administrativo dictado?",
+ "opciones":{
+   "A":"Sí, el acto es nulo de pleno derecho por haber incumplido la jerarquía interna de la Administración",
+   "B":"Sí, el acto es anulable, pero puede convalidarse si el superior jerárquico lo ratifica expresamente",
+   "C":"No; el incumplimiento no afecta por sí solo a la validez del acto, sin perjuicio de la responsabilidad disciplinaria en que pueda incurrir el funcionario",
+   "D":"Depende: afecta si la instrucción fue publicada en el BOE, pero no si solo era de uso interno"
+ },"correcta":"C",
+ "explicacion":"El artículo 6.2 de la Ley 40/2015 establece que «el incumplimiento de las instrucciones u órdenes de servicio no afecta por sí solo a la validez de los actos dictados por los órganos administrativos, sin perjuicio de la responsabilidad disciplinaria en que se pueda incurrir». Las instrucciones son normas de organización interna, no fuentes del Derecho con efectos frente a terceros.",
+ "why":"Las instrucciones no son fuentes con efectos jurídicos externos; su incumplimiento no produce nulidad (A) ni anulabilidad (B). Su publicación en el BOE determina su conocimiento externo, pero no altera la regla general del art. 6.2 respecto de la validez (D).",
+ "norma":"Ley 40/2015, de 1 de octubre, de Régimen Jurídico del Sector Público","articulo":"Art. 6.2"},
+
+{"id":"B2T11-006","bloque":2,"tema":11,"test":11,"dificultad":"facil",
+ "pregunta":"¿Qué función cumple el Código Civil respecto del Derecho Administrativo como sistema normativo?",
+ "opciones":{
+   "A":"Regula directamente las relaciones entre la Administración y los ciudadanos, por ser el derecho común de aplicación general",
+   "B":"Actúa como derecho supletorio: se aplica en defecto de norma administrativa específica, en lo que no sea contrario a la naturaleza de las relaciones administrativas",
+   "C":"No tiene ninguna aplicación en el ámbito administrativo, que es completamente autónomo respecto del Derecho Civil",
+   "D":"Sus preceptos se aplican en igualdad de rango que la ley administrativa cuando regulan una materia coincidente"
+ },"correcta":"B",
+ "explicacion":"El Código Civil, como derecho supletorio de los derechos especiales (art. 4.3 CC), se aplica al Derecho Administrativo de forma subsidiaria: solo cuando no existe norma administrativa aplicable y en tanto sus preceptos sean compatibles con la naturaleza de las relaciones jurídico-públicas. Así lo confirma la jurisprudencia contencioso-administrativa de forma reiterada.",
+ "why":"El CC no regula directamente las relaciones administrativas (A): esas se rigen por las leyes administrativas. La autonomía del DA no es absoluta (C): siempre existe el CC como derecho supletorio de cierre. El CC no tiene el mismo rango que la ley administrativa cuando ambas regulan la misma materia (D): la norma administrativa especial es preferente.",
+ "norma":"Código Civil","articulo":"Art. 4.3 CC"},
+
+{"id":"B2T11-007","bloque":2,"tema":11,"test":11,"dificultad":"media",
+ "pregunta":"¿Cuáles son las materias que el artículo 81.1 de la Constitución reserva expresamente a la ley orgánica?",
+ "opciones":{
+   "A":"Únicamente los derechos fundamentales de la Sección 1.ª del Capítulo II del Título I CE",
+   "B":"El desarrollo de los derechos fundamentales y libertades públicas, la aprobación de los Estatutos de Autonomía, el régimen electoral general y las demás materias previstas en la Constitución",
+   "C":"Todas las leyes que afecten al Título I CE, incluyendo los derechos sociales del Capítulo III",
+   "D":"Las leyes de delegación legislativa y los tratados internacionales que afecten a derechos constitucionales"
+ },"correcta":"B",
+ "explicacion":"El artículo 81.1 CE dispone que «son leyes orgánicas las relativas al desarrollo de los derechos fundamentales y de las libertades públicas, las que aprueben los Estatutos de Autonomía y el régimen electoral general y las demás previstas en la Constitución». La reserva no alcanza a todos los derechos del Título I, sino solo a los fundamentales y libertades públicas (Sección 1.ª del Capítulo II).",
+ "why":"La reserva no se limita a los derechos de la Sección 1.ª sin mencionar las otras materias (A): el art. 81.1 CE menciona tres grupos de materias más el cajón de sastre «las demás previstas en la CE». Los derechos sociales del Capítulo III (principios rectores de la política social y económica) NO están reservados a LO (C). Los tratados internacionales siguen un procedimiento especial del art. 94-96 CE, no el de LO del art. 81 (D).",
+ "norma":"Constitución Española de 1978","articulo":"Art. 81.1"},
+
+{"id":"B2T11-008","bloque":2,"tema":11,"test":11,"dificultad":"media",
+ "pregunta":"En el marco de la delegación legislativa prevista en los artículos 82-85 de la Constitución, ¿cuál es la diferencia entre un texto articulado y un texto refundido?",
+ "opciones":{
+   "A":"El texto articulado es un reglamento del Gobierno; el texto refundido es una ley aprobada por delegación del Parlamento",
+   "B":"En el texto articulado, el Gobierno desarrolla y articula una ley de bases aprobada por las Cortes; en el texto refundido, el Gobierno fusiona en un único texto varias disposiciones legales preexistentes, aclarando y armonizando su contenido",
+   "C":"Ambos son formas de decreto-ley; la diferencia reside únicamente en el ámbito material que regulan",
+   "D":"El texto articulado contiene solo normas de procedimiento; el texto refundido, normas sustantivas"
+ },"correcta":"B",
+ "explicacion":"El artículo 82 CE distingue dos modalidades de delegación legislativa: a) la delegación mediante una ley de bases, que habilita al Gobierno para dictar un texto articulado que desarrolle esa ley; y b) la delegación para refundir textos legales dispersos en uno solo (texto refundido), que puede incluir o no la facultad de regularizar, aclarar y armonizar los textos. En ambos casos el resultado es un Decreto Legislativo con rango de ley.",
+ "why":"Los decretos legislativos (textos articulados y refundidos) tienen rango de ley, no de reglamento (A). Son decretos legislativos, no decretos-leyes: se diferencian en que estos últimos son aprobados por el Gobierno en caso de urgencia, sin delegación previa del Parlamento (C). La distinción no se basa en el contenido (procedimiento vs. sustantivo) sino en el tipo de habilitación y su función (D).",
+ "norma":"Constitución Española de 1978","articulo":"Arts. 82-85"},
+
+{"id":"B2T11-009","bloque":2,"tema":11,"test":11,"dificultad":"media",
+ "pregunta":"¿Cuál es el contenido del principio de inderogabilidad singular del reglamento, reconocido por la doctrina y jurisprudencia del Derecho Administrativo?",
+ "opciones":{
+   "A":"Un reglamento solo puede ser derogado por una norma de rango superior; nunca por otro reglamento de igual o inferior rango",
+   "B":"Las resoluciones administrativas de carácter particular no pueden vulnerar lo establecido en una disposición reglamentaria de carácter general, aunque aquellas procedan de un órgano de igual o superior jerarquía al que dictó el reglamento",
+   "C":"El Gobierno no puede derogar sus propios reglamentos si han generado expectativas legítimas en los ciudadanos",
+   "D":"Los reglamentos una vez publicados en el BOE no pueden modificarse salvo mediante ley formal"
+ },"correcta":"B",
+ "explicacion":"El principio de inderogabilidad singular del reglamento (plasmado históricamente en el art. 37.1 LRJ-PAC 30/1992 y reconocido como principio general del DA) establece que las resoluciones de carácter particular no pueden excepcionar lo que dispone una norma reglamentaria general, aunque el órgano que dicte la resolución tenga igual o mayor rango que el que aprobó el reglamento. La norma general solo puede modificarse a través del mismo procedimiento normativo por el que fue aprobada, nunca por un acto singular.",
+ "why":"La opción A describe el principio de jerarquía normativa entre reglamentos, no el de inderogabilidad singular. El principio no exige que el reglamento haya creado expectativas (C): opera con independencia de ello. Los reglamentos pueden modificarse por otros reglamentos del mismo o superior rango, no solo por ley formal (D).",
+ "norma":"Principio general del Derecho Administrativo (art. 37.1 LRJ-PAC 30/1992; art. 9.3 CE)","articulo":"Art. 9.3 CE"},
+
+{"id":"B2T11-010","bloque":2,"tema":11,"test":11,"dificultad":"media",
+ "pregunta":"Según el artículo 133 de la Ley 39/2015, ¿cuándo debe realizarse la consulta pública previa en la elaboración de normas reglamentarias, y cuál es su objeto?",
+ "opciones":{
+   "A":"Después de la aprobación del proyecto de reglamento, para informar a los ciudadanos del contenido de la nueva norma antes de su publicación en el BOE",
+   "B":"Con carácter previo a la elaboración del proyecto, para recabar la opinión de los sujetos potencialmente afectados sobre los problemas que se pretende resolver, la necesidad de regulación y las posibles alternativas",
+   "C":"Solo cuando el reglamento afecte a derechos fundamentales; en los demás casos es voluntaria para la Administración",
+   "D":"Únicamente para reglamentos del Gobierno estatal; las CCAA están exentas de este trámite"
+ },"correcta":"B",
+ "explicacion":"El artículo 133 de la Ley 39/2015 establece que, con carácter previo a la elaboración del proyecto de reglamento, el órgano competente publicará en el portal web una consulta pública en la que recabará la opinión de los sujetos potencialmente afectados sobre: los problemas que se pretenden solucionar con la iniciativa, la necesidad y oportunidad de la norma, los objetivos de la misma y las posibles soluciones alternativas regulatorias y no regulatorias.",
+ "why":"La consulta es previa a la elaboración del proyecto (A confunde el trámite de información pública durante el procedimiento con la consulta previa). No se limita a reglamentos que afecten a derechos fundamentales (C): se aplica con carácter general. No es exclusiva del Estado; el artículo 133 se aplica a todas las AAPP (D).",
+ "norma":"Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común","articulo":"Art. 133"},
+
+{"id":"B2T11-011","bloque":2,"tema":11,"test":11,"dificultad":"media",
+ "pregunta":"El artículo 107 de la Constitución define el Consejo de Estado como el supremo órgano consultivo del Gobierno. ¿Cuál es el carácter de sus dictámenes?",
+ "opciones":{
+   "A":"Sus dictámenes son siempre vinculantes para el Gobierno, que no puede separarse de ellos sin incurrir en nulidad del acto",
+   "B":"Los dictámenes son preceptivos (obligatorios) en los casos establecidos por su ley orgánica reguladora, y facultativos en los demás; en ningún caso son vinculantes salvo que una ley disponga expresamente lo contrario",
+   "C":"Solo emite dictámenes en procedimientos judiciales, a petición del Tribunal Supremo",
+   "D":"Sus dictámenes equivalen a sentencias: producen efecto de cosa juzgada en la materia sobre la que se pronuncian"
+ },"correcta":"B",
+ "explicacion":"El Consejo de Estado es el supremo órgano consultivo del Gobierno (art. 107 CE), regulado por la LO 3/1980. Sus dictámenes son preceptivos en los supuestos tasados por esa ley (revisión de oficio, recursos, tratados, reglamentos ejecutivos, etc.) y facultativos cuando el Gobierno u otras AAPP los soliciten. En ningún caso tienen carácter vinculante: la Administración puede apartarse del dictamen, pero si era preceptivo y no se solicitó, el acto incurre en vicio de forma.",
+ "why":"La no vinculatoriedad de los dictámenes es regla general (A): la Administración puede motivadamente separarse del Consejo de Estado. El Consejo de Estado no actúa en sede judicial (C): es un órgano puramente consultivo de la Administración. Sus pronunciamientos no tienen valor jurisdiccional ni producen cosa juzgada (D).",
+ "norma":"Constitución Española de 1978 y LO 3/1980 del Consejo de Estado","articulo":"Art. 107 CE"},
+
+{"id":"B2T11-012","bloque":2,"tema":11,"test":11,"dificultad":"media",
+ "pregunta":"¿Cuál es el plazo de entrada en vigor de las leyes en España, según el artículo 2.1 del Código Civil, cuando la propia ley no establece nada al respecto?",
+ "opciones":{
+   "A":"Al día siguiente de su publicación en el BOE",
+   "B":"A los diez días naturales de su publicación completa en el BOE",
+   "C":"A los veinte días de su completa publicación en el BOE",
+   "D":"A los treinta días naturales desde su aprobación por las Cortes Generales"
+ },"correcta":"C",
+ "explicacion":"El artículo 2.1 del Código Civil dispone que «las leyes entrarán en vigor a los veinte días de su completa publicación en el Boletín Oficial del Estado, si en ellas no se dispone otra cosa». Este plazo de vacatio legis permite el conocimiento de la norma antes de su aplicación. El cómputo se hace desde la publicación completa, no desde la aprobación parlamentaria.",
+ "why":"La entrada en vigor el mismo día de la publicación o al día siguiente (A) es posible si la ley así lo dispone expresamente, pero no es la regla supletoria. Diez días (B) no corresponde a la vacatio legis del art. 2.1 CC. Treinta días desde la aprobación parlamentaria (D) no es el sistema previsto: el plazo comienza desde la publicación, no desde la aprobación.",
+ "norma":"Código Civil","articulo":"Art. 2.1"},
+
+{"id":"B2T11-013","bloque":2,"tema":11,"test":11,"dificultad":"media",
+ "pregunta":"¿Cuál es la forma que adoptan los reglamentos aprobados por el Consejo de Ministros de la Administración General del Estado?",
+ "opciones":{
+   "A":"Orden Ministerial",
+   "B":"Real Decreto",
+   "C":"Resolución de la Presidencia del Gobierno",
+   "D":"Instrucción de servicio de carácter general"
+ },"correcta":"B",
+ "explicacion":"Los reglamentos aprobados por el Consejo de Ministros se formalizan como Reales Decretos. Los dictados por cada Ministro adoptan la forma de Orden Ministerial. Las Resoluciones de los órganos directivos (Secretarías de Estado, Subsecretarías, Direcciones Generales) se utilizan para medidas de carácter interno o actos singulares. Las Instrucciones de servicio son normas internas de organización, no reglamentos con efectos frente a terceros.",
+ "why":"La Orden Ministerial (A) corresponde a los reglamentos aprobados por cada Ministro individualmente, con rango inferior al Real Decreto. Las Resoluciones de la Presidencia del Gobierno (C) se usan para actos singulares del Presidente, no para reglamentos del Consejo de Ministros. Las instrucciones (D) son normas organizativas internas sin efectos jurídicos externos.",
+ "norma":"Ley 50/1997, de 27 de noviembre, del Gobierno","articulo":"Arts. 24-25"},
+
+{"id":"B2T11-014","bloque":2,"tema":11,"test":11,"dificultad":"media",
+ "pregunta":"¿Cuál es el valor de los principios generales del derecho como fuente del Derecho Administrativo?",
+ "opciones":{
+   "A":"Son fuente de cierre del ordenamiento: se aplican cuando no exista ni ley ni costumbre aplicable al caso, y también informan la interpretación de todas las normas escritas",
+   "B":"Carecen de valor autónomo como fuente; son solo criterios de interpretación secundarios sin aplicación directa",
+   "C":"Tienen rango de ley ordinaria cuando han sido recogidos de forma reiterada por el Tribunal Supremo",
+   "D":"Se aplican antes que la ley cuando el juez o la Administración consideren que la ley produce un resultado injusto en el caso concreto"
+ },"correcta":"A",
+ "explicacion":"Los principios generales del derecho son fuente supletoria del ordenamiento y, al mismo tiempo, informan el conjunto del ordenamiento jurídico (art. 1 CC). En el Derecho Administrativo tienen especial relevancia: actúan como fuente de cierre cuando no existe norma escrita aplicable, y sirven para interpretar e integrar las lagunas de las normas administrativas. Principios como el de proporcionalidad, confianza legítima, buena fe o interdicción de la arbitrariedad tienen plena aplicación directa en el DA.",
+ "why":"Los principios generales sí tienen valor autónomo y aplicación directa (B). La reiteración por el TS no los convierte en ley ordinaria (C): ese efecto corresponde a la costumbre judicial/jurisprudencia, y aun así no es fuente directa con rango de ley. Los principios generales no derogan la ley ni se aplican cuando el resultado legal es injusto (D): eso vulneraría la seguridad jurídica y el principio de legalidad.",
+ "norma":"Código Civil (aplicación supletoria) y doctrina del Derecho Administrativo","articulo":"Art. 1 CC"},
+
+{"id":"B2T11-015","bloque":2,"tema":11,"test":11,"dificultad":"media",
+ "pregunta":"Según el artículo 128 de la Ley 39/2015, ¿puede un reglamento tipificar nuevas infracciones administrativas o establecer prestaciones patrimoniales de carácter público?",
+ "opciones":{
+   "A":"Sí, siempre que el reglamento sea aprobado por el Consejo de Ministros mediante Real Decreto y publicado en el BOE",
+   "B":"Sí, en desarrollo de una ley habilitante que establezca el marco general de infracciones y sanciones",
+   "C":"No; los reglamentos no pueden tipificar delitos, faltas o infracciones administrativas, ni establecer tributos u otras prestaciones patrimoniales de carácter público sin ley habilitante previa",
+   "D":"Sí, pero solo las infracciones leves y las prestaciones de importe inferior a 600 euros"
+ },"correcta":"C",
+ "explicacion":"El artículo 128 de la Ley 39/2015 establece que los reglamentos no podrán regular materias reservadas a la ley ni tipificar delitos, faltas o infracciones administrativas, establecer penas o sanciones, así como tributos, exacciones parafiscales u otras cargas o prestaciones personales o patrimoniales de carácter público. Estas materias requieren cobertura legal suficiente (reserva de ley del art. 25 CE para infracciones y sanciones, y del art. 31.3 CE para prestaciones patrimoniales).",
+ "why":"El rango del reglamento (Consejo de Ministros) no salva la reserva de ley (A). El reglamento sí puede desarrollar el régimen sancionador establecido por ley, pero nunca tipificar por sí solo nuevas infracciones ni sanciones (B: esta matización hace la opción B incorrecta porque afirma que PUEDE tipificar, no que puede desarrollar). La cuantía no determina la necesidad de reserva de ley (D).",
+ "norma":"Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común","articulo":"Art. 128"},
+
+{"id":"B2T11-016","bloque":2,"tema":11,"test":11,"dificultad":"media",
+ "pregunta":"El artículo 130 de la Ley 39/2015 impone a las Administraciones Públicas una obligación respecto de su normativa en vigor. ¿En qué consiste?",
+ "opciones":{
+   "A":"Publicar anualmente en el BOE un catálogo completo de todas las normas aprobadas ese año",
+   "B":"Someter a dictamen del Consejo de Estado toda la normativa vigente con una periodicidad máxima de cinco años",
+   "C":"Revisar periódicamente su normativa vigente para comprobar si cumple los principios de buena regulación y si ha alcanzado los objetivos previstos, promoviendo su modificación o derogación cuando no sea así",
+   "D":"Publicar un informe trimestral de las disposiciones reglamentarias que hayan sido impugnadas ante los tribunales"
+ },"correcta":"C",
+ "explicacion":"El artículo 130 de la Ley 39/2015 establece la evaluación ex post o revisión periódica de la normativa: las AAPP deberán revisar de forma periódica su normativa vigente para adaptarla a los principios de buena regulación y comprobar si las normas han logrado los objetivos previstos, si están justificados el coste y las cargas impuestas, proponiendo la modificación o derogación de las que no superen esa evaluación.",
+ "why":"El BOE ya incluye los boletines normativos regulares, pero el art. 130 no exige un catálogo anual específico (A). El dictamen del Consejo de Estado está reservado para actos y normas concretos, no para una evaluación masiva periódica (B). El art. 130 versa sobre la evaluación de la normativa vigente, no sobre el seguimiento de impugnaciones judiciales (D).",
+ "norma":"Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común","articulo":"Art. 130"},
+
+{"id":"B2T11-017","bloque":2,"tema":11,"test":11,"dificultad":"dificil",
+ "pregunta":"¿Cuál es el orden de prelación correcto de las fuentes del Derecho Administrativo, de mayor a menor jerarquía?",
+ "opciones":{
+   "A":"Constitución → leyes → costumbre → principios generales del derecho → jurisprudencia",
+   "B":"Constitución → tratados internacionales válidamente celebrados → leyes (orgánicas y ordinarias, según competencia material) → reglamentos (por jerarquía del órgano) → principios generales del derecho → costumbre praeter legem",
+   "C":"Tratados internacionales → Constitución → leyes orgánicas → leyes ordinarias → reglamentos → jurisprudencia",
+   "D":"Constitución → ley orgánica → ley ordinaria → decreto-ley → decreto legislativo → reglamento → costumbre"
+ },"correcta":"B",
+ "explicacion":"En el DA, la Constitución ocupa la cúspide del ordenamiento. Los tratados internacionales, una vez válidamente celebrados y publicados en el BOE (art. 96.1 CE), forman parte del ordenamiento con rango superior a las leyes ordinarias pero inferior a la Constitución. Las leyes orgánicas y ordinarias se diferencian por la materia (principio de competencia), no por jerarquía entre sí. Los reglamentos se subordinan a las leyes y se jerarquizan según el órgano que los dicta. Los principios generales informan todo el ordenamiento y actúan como fuente supletoria de cierre. La costumbre opera solo praeter legem.",
+ "why":"La opción A sigue el orden del art. 1 CC (para el derecho civil: ley → costumbre → principios), donde los principios van DESPUÉS de la costumbre; en el DA los principios generales tienen un papel más relevante y la jurisprudencia no es fuente stricto sensu. En la opción C, los tratados no están por encima de la Constitución (art. 95 CE exige su previa revisión constitucional si la contradicen). La opción D omite los tratados y presenta como jerarquía estricta lo que entre decreto-ley, decreto legislativo y ley ordinaria es más bien una relación de competencia y equivalencia de rango.",
+ "norma":"CE art. 9.3 y 96.1; art. 1 CC; doctrina del Derecho Administrativo","articulo":"Arts. 9.3 y 96.1 CE"},
+
+{"id":"B2T11-018","bloque":2,"tema":11,"test":11,"dificultad":"dificil",
+ "pregunta":"¿Cuándo es preceptivo el dictamen del Consejo de Estado u órgano consultivo equivalente en los procedimientos de revisión de oficio de actos nulos de pleno derecho, según el artículo 106 de la Ley 39/2015?",
+ "opciones":{
+   "A":"Nunca; la revisión de oficio es un procedimiento interno que no requiere órgano consultivo externo",
+   "B":"Solo cuando el acto a revisar haya causado perjuicios valorados en más de 50.000 euros o afecte a derechos fundamentales",
+   "C":"Siempre, como requisito previo ineludible a la resolución que declare la nulidad; sin ese dictamen favorable, la resolución carecería de un trámite esencial",
+   "D":"Solo cuando el interesado afectado por la revisión lo haya solicitado expresamente en su escrito de alegaciones"
+ },"correcta":"C",
+ "explicacion":"El artículo 106 de la Ley 39/2015 exige que, antes de resolver el procedimiento de revisión de oficio de actos nulos de pleno derecho, se emita dictamen del Consejo de Estado u órgano consultivo equivalente de la Comunidad Autónoma. Este dictamen es preceptivo (obligatorio) en todo caso, con independencia del importe de los perjuicios o de las circunstancias concretas. Si se omite, el acto de revisión incurre en un vicio de forma que puede determinar su anulabilidad.",
+ "why":"El dictamen del Consejo de Estado es un trámite esencial en la revisión de oficio de actos nulos (A). El umbral económico de 50.000 euros no existe en el art. 106 Ley 39/2015 (B): el dictamen se exige con independencia de la cuantía. La exigencia del dictamen no depende de la petición del interesado (D): es un requisito de legalidad objetiva que la Administración debe cumplir de oficio.",
+ "norma":"Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común","articulo":"Art. 106"},
+
+{"id":"B2T11-019","bloque":2,"tema":11,"test":11,"dificultad":"dificil",
+ "pregunta":"¿Cuál de los siguientes instrumentos normativos NO puede establecer tributos ni regular sus elementos esenciales, según el artículo 31.3 de la Constitución?",
+ "opciones":{
+   "A":"La ley ordinaria aprobada por las Cortes Generales",
+   "B":"El decreto legislativo (texto articulado o texto refundido)",
+   "C":"El reglamento aprobado por el Consejo de Ministros",
+   "D":"La ley orgánica en materia de financiación de las CCAA"
+ },"correcta":"C",
+ "explicacion":"El artículo 31.3 CE establece el principio de reserva de ley tributaria: «Solo podrán establecerse prestaciones personales o patrimoniales de carácter público con arreglo a la ley». Los reglamentos no pueden, por tanto, crear tributos ni regular sus elementos esenciales (hecho imponible, base, tipo, sujeto pasivo). Esta reserva de ley puede satisfacerse tanto por una ley ordinaria como por un decreto legislativo o incluso una ley orgánica, pero nunca por un reglamento.",
+ "why":"La ley ordinaria (A) satisface plenamente la reserva de ley del art. 31.3 CE. El decreto legislativo (B) tiene rango de ley, por lo que también satisface la reserva de ley tributaria. La ley orgánica (D) también tiene rango de ley y puede regular la financiación de las CCAA. Solo el reglamento (C) no satisface la exigencia constitucional de que sea una norma con rango de ley quien establezca los tributos.",
+ "norma":"Constitución Española de 1978","articulo":"Art. 31.3"},
+
+{"id":"B2T11-020","bloque":2,"tema":11,"test":11,"dificultad":"dificil",
+ "pregunta":"¿Cuál es la relación correcta entre la ley orgánica y la ley ordinaria en el ordenamiento constitucional español?",
+ "opciones":{
+   "A":"La ley orgánica tiene rango jerárquico superior a la ley ordinaria en todo el ordenamiento y puede derogar cualquier ley ordinaria",
+   "B":"No existe entre ellas una relación de jerarquía estricta en sentido material, sino una relación de competencia por razón de la materia: la LO regula las materias que la CE le reserva; la ley ordinaria no puede invadir esas materias, pero tampoco la LO puede regular materias que pertenezcan al ámbito de la ley ordinaria sin convertir ese contenido en materia orgánica",
+   "C":"La ley ordinaria puede derogar tácitamente una ley orgánica si es posterior y contradice su contenido en la misma materia",
+   "D":"Son absolutamente equivalentes en rango; la única diferencia es el quórum exigido para su aprobación, sin ninguna consecuencia sobre el reparto de materias"
+ },"correcta":"B",
+ "explicacion":"El Tribunal Constitucional ha establecido (STC 5/1981 y doctrina posterior) que la relación entre LO y ley ordinaria no es de jerarquía material, sino de competencia por razón de la materia reservada. La LO tiene un ámbito materialmente delimitado por la CE; si la LO regula materias ordinarias, esa parte no adquiere el rango reforzado de LO y puede ser derogada por ley ordinaria. Tampoco la ley ordinaria puede invadir el núcleo de las materias reservadas a LO.",
+ "why":"La LO no tiene jerarquía superior con carácter general (A): no puede derogar cualquier ley ordinaria. La ley ordinaria no puede derogar la LO ni siquiera tácitamente en las materias reservadas (C): incurriría en inconstitucionalidad. La diferencia no es solo de quórum (D): conlleva una distribución de materias con consecuencias sustantivas sobre la posibilidad de modificar o derogar el contenido.",
+ "norma":"Constitución Española de 1978 y doctrina del Tribunal Constitucional","articulo":"Art. 81 CE (STC 5/1981)"}
+]
