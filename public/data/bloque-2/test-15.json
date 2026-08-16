@@ -1,0 +1,382 @@
+[
+  {
+    "id": "B2T15-001",
+    "bloque": 2,
+    "tema": 15,
+    "test": 15,
+    "dificultad": "facil",
+    "pregunta": "Según el art. 84 de la Ley 39/2015, ¿cuáles son las formas de terminación del procedimiento administrativo?",
+    "opciones": {
+      "A": "Resolución, desistimiento, renuncia al derecho, caducidad y terminación convencional.",
+      "B": "Resolución, recurso de alzada, silencio administrativo y archivo.",
+      "C": "Resolución expresa, resolución presunta y declaración de lesividad.",
+      "D": "Resolución, suspensión, archivo y terminación por acuerdo del interesado."
+    },
+    "correcta": "A",
+    "explicacion": "El art. 84 L39/2015 enumera cinco formas de terminación del procedimiento: resolución (expresa o presunta por silencio), desistimiento del interesado (renuncia a la solicitud), renuncia al derecho (si la ley lo permite), declaración de caducidad y terminación convencional mediante pactos o convenios.",
+    "why": "B mezcla formas de terminación con el recurso de alzada, que es un medio de impugnación, no de terminación. C confunde la terminación con modalidades de la resolución y con la declaración de lesividad, que es una acción de la Administración para impugnar sus propios actos. D incluye la suspensión, que no termina el procedimiento sino que detiene su tramitación temporalmente.",
+    "norma": "Ley 39/2015",
+    "articulo": "84"
+  },
+  {
+    "id": "B2T15-002",
+    "bloque": 2,
+    "tema": 15,
+    "test": 15,
+    "dificultad": "facil",
+    "pregunta": "¿Cuál es la regla general del silencio administrativo en procedimientos iniciados a solicitud del interesado, según la Ley 39/2015?",
+    "opciones": {
+      "A": "Silencio negativo: la solicitud se entiende desestimada salvo que la ley establezca lo contrario.",
+      "B": "Silencio positivo: la solicitud se entiende estimada, salvo que una norma con rango de ley o el Derecho de la UE establezcan lo contrario.",
+      "C": "La Administración puede optar libremente entre silencio positivo o negativo según la materia.",
+      "D": "No existe efecto jurídico alguno hasta que la Administración dicte resolución expresa."
+    },
+    "correcta": "B",
+    "explicacion": "La Ley 39/2015 establece como regla general el silencio positivo (estimatorio) para los procedimientos iniciados a solicitud del interesado. Solo se produce silencio negativo cuando una norma con rango de ley o el Derecho de la Unión Europea lo establezcan expresamente, o cuando la estimación implicara transferencia de dominio público, daño al medio ambiente o ejercicio de potestades ajenas a la Administración.",
+    "why": "A invierte la regla: el silencio negativo es la excepción, no la regla, en procedimientos a instancia. C no tiene base legal; la Ley no deja al arbitrio de la Administración elegir el efecto del silencio. D niega todo efecto jurídico al silencio, contradiciendo el régimen del silencio administrativo de la Ley 39/2015.",
+    "norma": "Ley 39/2015",
+    "articulo": "24"
+  },
+  {
+    "id": "B2T15-003",
+    "bloque": 2,
+    "tema": 15,
+    "test": 15,
+    "dificultad": "facil",
+    "pregunta": "¿En qué plazo debe interponerse el recurso de alzada contra un acto expreso, según la Ley 39/2015?",
+    "opciones": {
+      "A": "Quince días hábiles desde la notificación del acto.",
+      "B": "Un mes desde la notificación del acto.",
+      "C": "Tres meses desde la notificación del acto.",
+      "D": "Dos meses desde la notificación del acto."
+    },
+    "correcta": "B",
+    "explicacion": "El plazo de interposición del recurso de alzada contra un acto expreso es de un mes desde la notificación del acto impugnado. Si el acto es presunto (por silencio administrativo), el plazo es de tres meses desde el día siguiente a aquel en que se produzca el acto presunto.",
+    "why": "A fija quince días hábiles, que es el plazo de algunos trámites internos pero no del recurso de alzada. C corresponde al plazo de interposición cuando el acto es presunto, no expreso. D fija dos meses, que es el plazo del recurso contencioso-administrativo contra actos expresos (Ley 29/1998), no del recurso de alzada.",
+    "norma": "Ley 39/2015",
+    "articulo": "122"
+  },
+  {
+    "id": "B2T15-004",
+    "bloque": 2,
+    "tema": 15,
+    "test": 15,
+    "dificultad": "facil",
+    "pregunta": "¿Cuál es la característica esencial del recurso potestativo de reposición y cuál es su objeto?",
+    "opciones": {
+      "A": "Es obligatorio y se interpone contra actos que no ponen fin a la vía administrativa.",
+      "B": "Es potestativo y se interpone contra actos que ponen fin a la vía administrativa, ante el mismo órgano que los dictó.",
+      "C": "Es obligatorio y se interpone contra actos que ponen fin a la vía administrativa, ante el superior jerárquico.",
+      "D": "Es potestativo y se interpone contra cualquier acto administrativo, incluyendo los de trámite."
+    },
+    "correcta": "B",
+    "explicacion": "El recurso de reposición es potestativo (no es un trámite preceptivo previo al contencioso-administrativo, pero sí incompatible con él si se interponen simultáneamente). Su objeto son los actos que ponen fin a la vía administrativa y se resuelve por el mismo órgano que los dictó.",
+    "why": "A describe el recurso de alzada: obligatorio y contra actos que NO ponen fin a la vía administrativa. C mezcla características: el recurso obligatorio anterior al contencioso era el modelo anterior; la reposición ante el superior correspondería a la alzada. D amplía el objeto a todos los actos, cuando la reposición solo procede contra los que ponen fin a la vía administrativa.",
+    "norma": "Ley 39/2015",
+    "articulo": "123"
+  },
+  {
+    "id": "B2T15-005",
+    "bloque": 2,
+    "tema": 15,
+    "test": 15,
+    "dificultad": "facil",
+    "pregunta": "¿Cuáles son los cuatro medios de ejecución forzosa de los actos administrativos previstos en el art. 100 de la Ley 39/2015?",
+    "opciones": {
+      "A": "Apremio sobre el patrimonio, ejecución subsidiaria, multa coercitiva y compulsión sobre las personas.",
+      "B": "Embargo preventivo, ejecución subsidiaria, sanción administrativa y compulsión sobre las personas.",
+      "C": "Apremio sobre el patrimonio, ejecución directa, multa coercitiva y retención de pagos.",
+      "D": "Ejecución subsidiaria, multa coercitiva, embargo de bienes y suspensión de la actividad."
+    },
+    "correcta": "A",
+    "explicacion": "El art. 100 L39/2015 enumera cuatro medios de ejecución forzosa: apremio sobre el patrimonio (cobro de deudas dinerarias), ejecución subsidiaria (ejecución por la propia Administración o terceros a costa del obligado), multa coercitiva (apremio periódico hasta cumplimiento, solo para obligaciones no personalísimas) y compulsión sobre las personas.",
+    "why": "B introduce el embargo preventivo y la sanción administrativa, que no son medios de ejecución forzosa sino medidas cautelares o penas. C incluye 'ejecución directa' y 'retención de pagos', términos que no figuran en el art. 100. D incluye el embargo de bienes y la suspensión de actividad, que tampoco son medios de ejecución forzosa del art. 100.",
+    "norma": "Ley 39/2015",
+    "articulo": "100"
+  },
+  {
+    "id": "B2T15-006",
+    "bloque": 2,
+    "tema": 15,
+    "test": 15,
+    "dificultad": "facil",
+    "pregunta": "Según el art. 109 de la Ley 39/2015, ¿en qué momento pueden los órganos administrativos rectificar los errores materiales, de hecho o aritméticos de sus actos?",
+    "opciones": {
+      "A": "Solo antes de que el acto gane firmeza por no haber sido recurrido.",
+      "B": "Solo dentro del plazo de cuatro años desde que se dictó el acto.",
+      "C": "En cualquier momento, sin límite temporal.",
+      "D": "Solo a instancia del interesado, dentro del plazo de un año."
+    },
+    "correcta": "C",
+    "explicacion": "El art. 109 L39/2015 permite que los órganos administrativos rectifiquen en cualquier momento los errores materiales, de hecho o aritméticos de sus actos. Esta posibilidad no tiene límite temporal porque la rectificación no afecta al fondo del acto, sino a deficiencias puramente fácticas o de transcripción.",
+    "why": "A limita la rectificación a la fase anterior a la firmeza, cuando la ley no establece ese límite. B importa el plazo de cuatro años de la declaración de lesividad, que es una figura distinta. D exige iniciativa del interesado y plazo de un año, pero la ley permite la rectificación de oficio y en cualquier momento.",
+    "norma": "Ley 39/2015",
+    "articulo": "109"
+  },
+  {
+    "id": "B2T15-007",
+    "bloque": 2,
+    "tema": 15,
+    "test": 15,
+    "dificultad": "media",
+    "pregunta": "¿Cuándo se produce la caducidad del procedimiento en los procedimientos iniciados de oficio, según el art. 95 de la Ley 39/2015?",
+    "opciones": {
+      "A": "Cuando el interesado no comparece en ningún trámite durante más de dos meses.",
+      "B": "Cuando la Administración no resuelve en el plazo máximo establecido y el interesado lo solicita.",
+      "C": "Cuando hayan transcurrido tres meses de inactividad del procedimiento por causa imputable a la Administración, en procedimientos iniciados de oficio sancionadores o susceptibles de producir efectos desfavorables.",
+      "D": "Cuando el órgano competente no adopta medidas provisionales en el plazo de un mes desde la apertura del expediente."
+    },
+    "correcta": "C",
+    "explicacion": "El art. 95 L39/2015 prevé la caducidad cuando han transcurrido tres meses de paralización del procedimiento por causa imputable a la Administración, en procedimientos iniciados de oficio sancionadores o susceptibles de producir efectos desfavorables o de gravamen para el interesado. La caducidad no aplica a procedimientos iniciados a instancia del interesado.",
+    "why": "A describe la caducidad de los procedimientos a instancia de parte (inactividad del interesado), no la de los iniciados de oficio. B confunde la caducidad con el vencimiento del plazo máximo de resolución y sus efectos. D no tiene base en la ley: la ausencia de medidas provisionales no causa caducidad.",
+    "norma": "Ley 39/2015",
+    "articulo": "95"
+  },
+  {
+    "id": "B2T15-008",
+    "bloque": 2,
+    "tema": 15,
+    "test": 15,
+    "dificultad": "media",
+    "pregunta": "¿En qué supuestos el silencio administrativo es negativo (desestimatorio) aunque el procedimiento se haya iniciado a solicitud del interesado?",
+    "opciones": {
+      "A": "Cuando la Administración no resuelve por causas imputables al interesado.",
+      "B": "Cuando la estimación de la solicitud implicara la transferencia al solicitante de dominio público, facultades relativas al servicio público o supusiera daño al medio ambiente, o cuando así lo establezca una norma con rango de ley o Derecho de la UE.",
+      "C": "Cuando el procedimiento sea complejo y supere el plazo ordinario de resolución.",
+      "D": "Cuando el interesado no haya abonado las tasas correspondientes antes de la presentación de la solicitud."
+    },
+    "correcta": "B",
+    "explicacion": "La regla general del silencio positivo tiene tres excepciones materiales incorporadas en la Ley 39/2015: cuando la estimación implique transferencia de dominio público, cuando conlleve facultades relativas al servicio público, o cuando pueda dañar el medio ambiente. Además, una norma con rango de ley o el Derecho de la UE pueden establecer el silencio negativo para procedimientos concretos.",
+    "why": "A establece el silencio negativo cuando hay culpa del interesado, pero la ley regula esta situación de forma distinta (suspensión del plazo, desistimiento). C no tiene base legal: la complejidad del procedimiento no modifica el efecto del silencio. D confunde el pago de tasas con el efecto del silencio.",
+    "norma": "Ley 39/2015",
+    "articulo": "24"
+  },
+  {
+    "id": "B2T15-009",
+    "bloque": 2,
+    "tema": 15,
+    "test": 15,
+    "dificultad": "media",
+    "pregunta": "¿En qué plazo debe interponerse el recurso de alzada cuando el acto impugnado es presunto (por silencio administrativo)?",
+    "opciones": {
+      "A": "En el plazo de un mes desde que se produce el silencio.",
+      "B": "En cualquier momento; el silencio negativo no genera plazo preclusivo para la alzada.",
+      "C": "En el plazo de tres meses desde el día siguiente a aquel en que se produzca el acto presunto.",
+      "D": "En el plazo de seis meses desde que venció el plazo máximo de resolución."
+    },
+    "correcta": "C",
+    "explicacion": "Cuando el acto impugnado es presunto (por silencio administrativo), el recurso de alzada debe interponerse en el plazo de tres meses desde el día siguiente a aquel en que se produzca el silencio. Este plazo es distinto del aplicable a los actos expresos (un mes).",
+    "why": "A aplica el plazo de los actos expresos (un mes) al silencio, cuando la ley diferencia ambos supuestos. B aplica al silencio en alzada el régimen del silencio negativo en reposición (sin plazo preclusivo), pero ese régimen no se traslada automáticamente a la alzada. D fija seis meses, que no aparece como plazo de impugnación en la Ley 39/2015.",
+    "norma": "Ley 39/2015",
+    "articulo": "122"
+  },
+  {
+    "id": "B2T15-010",
+    "bloque": 2,
+    "tema": 15,
+    "test": 15,
+    "dificultad": "media",
+    "pregunta": "Si la Administración no resuelve el recurso de alzada en plazo, ¿qué efecto produce ese silencio y cuál es ese plazo?",
+    "opciones": {
+      "A": "Silencio positivo (estimación del recurso) al mes de no resolver.",
+      "B": "Silencio negativo (desestimación) a los tres meses de interposición del recurso.",
+      "C": "El recurso queda en suspenso hasta que la Administración dicte resolución expresa.",
+      "D": "El recurso se entiende estimado si transcurren seis meses sin resolución."
+    },
+    "correcta": "B",
+    "explicacion": "El plazo para resolver el recurso de alzada es de tres meses. Si transcurre ese plazo sin resolución expresa, se produce silencio negativo (desestimación presunta), lo que habilita al interesado a acudir al recurso contencioso-administrativo. La Administración, no obstante, conserva la obligación de dictar resolución expresa.",
+    "why": "A invierte el efecto: en los recursos administrativos el silencio es siempre negativo (desestimatorio), no positivo. C no prevé ningún efecto jurídico al transcurso del plazo, cuando la ley establece que produce silencio negativo. D fija seis meses, que es el plazo máximo de resolución ordinario, no el de la alzada.",
+    "norma": "Ley 39/2015",
+    "articulo": "122"
+  },
+  {
+    "id": "B2T15-011",
+    "bloque": 2,
+    "tema": 15,
+    "test": 15,
+    "dificultad": "media",
+    "pregunta": "¿Cuál es el plazo máximo para resolver el recurso potestativo de reposición y cuál es el efecto de su incumplimiento?",
+    "opciones": {
+      "A": "Tres meses; silencio positivo (estimación del recurso).",
+      "B": "Dos meses; silencio negativo, lo que habilita a recurrir en vía contenciosa.",
+      "C": "Un mes; silencio negativo (desestimación presunta), lo que permite acudir al contencioso-administrativo.",
+      "D": "Un mes; el recurso queda automáticamente estimado si no se resuelve."
+    },
+    "correcta": "C",
+    "explicacion": "El plazo de resolución del recurso potestativo de reposición es de un mes. Si transcurre sin resolución expresa, se produce silencio negativo (desestimación presunta), lo que habilita al interesado para interponer el recurso contencioso-administrativo. El silencio en los recursos es siempre negativo.",
+    "why": "A aplica el plazo del recurso de alzada (tres meses) y añade un efecto positivo inexistente. B aplica dos meses, que tampoco es el plazo legal. D afirma un efecto estimatorio del silencio en el recurso de reposición, contrario al régimen legal: el silencio en todos los recursos administrativos es desestimatorio.",
+    "norma": "Ley 39/2015",
+    "articulo": "124"
+  },
+  {
+    "id": "B2T15-012",
+    "bloque": 2,
+    "tema": 15,
+    "test": 15,
+    "dificultad": "media",
+    "pregunta": "Para anular un acto anulable que resulta favorable para el interesado, la Administración debe declararlo lesivo. ¿Cuál es el plazo para esa declaración según el art. 107 de la Ley 39/2015?",
+    "opciones": {
+      "A": "Dos años desde que se dictó el acto.",
+      "B": "Seis meses desde que la Administración tenga conocimiento del vicio.",
+      "C": "Cuatro años desde que se dictó el acto.",
+      "D": "El plazo general de prescripción de las acciones personales (quince años)."
+    },
+    "correcta": "C",
+    "explicacion": "El art. 107 L39/2015 fija en cuatro años el plazo para que la Administración declare lesivo al interés público un acto anulable que resulta favorable para el interesado. Tras esa declaración, la Administración debe impugnar el acto ante la jurisdicción contencioso-administrativa para obtener su anulación.",
+    "why": "A fija dos años, que no prevé la ley. B mezcla el cómputo con otros regímenes (como el de la responsabilidad patrimonial). D aplica el plazo civil de prescripción de acciones personales, ajeno al Derecho Administrativo.",
+    "norma": "Ley 39/2015",
+    "articulo": "107"
+  },
+  {
+    "id": "B2T15-013",
+    "bloque": 2,
+    "tema": 15,
+    "test": 15,
+    "dificultad": "media",
+    "pregunta": "Según el art. 108 de la Ley 39/2015, ¿cuál de los siguientes límites restringe la revocación de actos de gravamen o desfavorables para el interesado?",
+    "opciones": {
+      "A": "La revocación solo puede producirse dentro del plazo de interposición de recursos.",
+      "B": "La revocación no puede constituir dispensa o exención no permitida por las leyes, ni ser contraria al principio de igualdad, al interés público o al ordenamiento jurídico.",
+      "C": "La revocación requiere dictamen preceptivo y favorable del Consejo de Estado.",
+      "D": "La revocación exige audiencia previa al interesado afectado, con plazo de veinte días."
+    },
+    "correcta": "B",
+    "explicacion": "El art. 108 L39/2015 permite revocar los actos de gravamen o desfavorables en cualquier momento, pero impone límites: la revocación no puede constituir dispensa o exención no permitida por las leyes, no puede ser contraria al principio de igualdad, al interés público ni al ordenamiento jurídico.",
+    "why": "A limita la revocación al plazo de recursos, cuando la ley permite revocarlos en cualquier momento (ventaja para el interesado). C exige dictamen del CE, requisito que el art. 108 no establece para la revocación (a diferencia del art. 106 para revisión de nulos). D impone audiencia de veinte días, plazo que no figura en el art. 108.",
+    "norma": "Ley 39/2015",
+    "articulo": "108"
+  },
+  {
+    "id": "B2T15-014",
+    "bloque": 2,
+    "tema": 15,
+    "test": 15,
+    "dificultad": "media",
+    "pregunta": "Según el art. 113 de la Ley 39/2015, ¿cuál de los siguientes actos pone fin a la vía administrativa?",
+    "opciones": {
+      "A": "Los actos dictados por los órganos de primer nivel de cualquier Administración Pública.",
+      "B": "Las resoluciones de los recursos de alzada.",
+      "C": "Los actos de trámite, aunque decidan cuestiones incidentales.",
+      "D": "Todos los actos que hayan agotado el plazo de interposición del recurso de alzada."
+    },
+    "correcta": "B",
+    "explicacion": "El art. 113 L39/2015 establece que ponen fin a la vía administrativa, entre otros: las resoluciones de los recursos de alzada; las resoluciones de órganos que carezcan de superior jerárquico; y los acuerdos, pactos o convenios finalizadores del procedimiento.",
+    "why": "A introduce el criterio del rango orgánico (primer nivel), que la ley no establece: lo relevante es si el órgano tiene o no superior jerárquico al que recurrir. C excluye los actos de trámite, que en ningún caso ponen fin a la vía administrativa. D crea un criterio temporal (expiración del plazo de alzada) que la ley no recoge.",
+    "norma": "Ley 39/2015",
+    "articulo": "113"
+  },
+  {
+    "id": "B2T15-015",
+    "bloque": 2,
+    "tema": 15,
+    "test": 15,
+    "dificultad": "media",
+    "pregunta": "¿En qué plazo debe interponerse el recurso extraordinario de revisión por error de hecho del propio expediente (causa a del art. 125 Ley 39/2015)?",
+    "opciones": {
+      "A": "En el plazo de un año desde que el error fue advertido.",
+      "B": "En el plazo de tres meses desde que el recurrente tiene conocimiento del error.",
+      "C": "En el plazo de cuatro años desde la notificación de la resolución firme.",
+      "D": "En cualquier momento, ya que el error de hecho no genera plazo preclusivo."
+    },
+    "correcta": "C",
+    "explicacion": "El art. 125 L39/2015 distingue los plazos del recurso extraordinario de revisión según la causa: para la causa a (error de hecho resultante de los documentos del propio expediente), el plazo es de cuatro años desde la notificación de la resolución; para las causas b, c y d (documentos esenciales, testimonios o resoluciones falsas, prevaricación), el plazo es de tres meses desde que se conocen los documentos o la sentencia gana firmeza.",
+    "why": "A fija un año, que no prevé la ley. B aplica el plazo de las causas b, c y d (tres meses) a la causa a. D niega todo plazo preclusivo para el error de hecho, cuando la ley sí establece uno concreto.",
+    "norma": "Ley 39/2015",
+    "articulo": "125"
+  },
+  {
+    "id": "B2T15-016",
+    "bloque": 2,
+    "tema": 15,
+    "test": 15,
+    "dificultad": "media",
+    "pregunta": "Según la Ley 39/2015, ¿puede el interesado interponer simultáneamente el recurso potestativo de reposición y el recurso contencioso-administrativo contra el mismo acto?",
+    "opciones": {
+      "A": "Sí, porque el recurso de reposición es potestativo y no condiciona la vía contenciosa.",
+      "B": "Sí, siempre que el recurso contencioso se interponga en el plazo de dos meses.",
+      "C": "No; si se interpone el recurso de reposición, no podrá interponerse el recurso contencioso-administrativo hasta que aquel sea resuelto o se produzca el silencio.",
+      "D": "No, en ningún caso; si se opta por el contencioso, el recurso de reposición queda automáticamente desistido."
+    },
+    "correcta": "C",
+    "explicacion": "La Ley 39/2015 prohíbe la interposición simultánea del recurso de reposición y el contencioso-administrativo. Si el interesado elige interponer el recurso de reposición, debe esperar a que se resuelva expresamente o a que se produzca el silencio negativo antes de acudir al contencioso. Solo entonces queda libre la vía jurisdiccional.",
+    "why": "A y B afirman la compatibilidad simultánea, que la ley prohíbe expresamente. D añade el efecto de desistimiento automático del recurso de reposición, que la ley no prevé: si el interesado lo interpone, está vinculado a esperar su resolución.",
+    "norma": "Ley 39/2015",
+    "articulo": "123"
+  },
+  {
+    "id": "B2T15-017",
+    "bloque": 2,
+    "tema": 15,
+    "test": 15,
+    "dificultad": "dificil",
+    "pregunta": "Cuando la Administración no resuelve un procedimiento iniciado a instancia de parte y el silencio es negativo (desestimatorio por excepción legal), ¿está sujeto el interesado a un plazo preclusivo para recurrir ese silencio?",
+    "opciones": {
+      "A": "Sí; debe interponer el recurso en el plazo de tres meses desde que se produjo el silencio negativo.",
+      "B": "Sí; debe interponer el recurso en el plazo de un mes, igual que para los actos expresos desestimatorios.",
+      "C": "No; el silencio negativo no produce efectos preclusivos y el interesado puede interponer el recurso en cualquier momento mientras no se dicte resolución expresa.",
+      "D": "No, pero únicamente durante los doce meses siguientes al vencimiento del plazo de resolución."
+    },
+    "correcta": "C",
+    "explicacion": "La Ley 39/2015 prevé que el silencio negativo no tiene efectos preclusivos: el interesado puede impugnarlo en cualquier momento mientras la Administración no dicte resolución expresa. Esta regla favorece al interesado y evita que la inactividad administrativa perjudique sus derechos. La Administración, en todo caso, está obligada a resolver expresamente.",
+    "why": "A y B fijan plazos preclusivos (tres meses y un mes respectivamente) que la ley no establece para el silencio negativo. La ausencia de plazo para recurrir el silencio negativo es una garantía explícita de la Ley 39/2015. D introduce un límite de doce meses que tampoco prevé la ley.",
+    "norma": "Ley 39/2015",
+    "articulo": "24"
+  },
+  {
+    "id": "B2T15-018",
+    "bloque": 2,
+    "tema": 15,
+    "test": 15,
+    "dificultad": "dificil",
+    "pregunta": "¿En qué se diferencia el recurso de alzada del recurso potestativo de reposición en cuanto a su carácter preceptivo y a su relación con la vía contencioso-administrativa?",
+    "opciones": {
+      "A": "Ambos son potestativos y ambos deben agotarse antes de acudir al contencioso-administrativo.",
+      "B": "La alzada es obligatoria (preceptiva) cuando el acto no pone fin a la vía administrativa y debe interponerse antes del contencioso; la reposición es potestativa y, si se elige, es incompatible con el contencioso simultáneo.",
+      "C": "La alzada es potestativa y la reposición es preceptiva ante el superior jerárquico.",
+      "D": "Ambos recursos son potestativos, pero la reposición habilita directamente el acceso al contencioso aunque no se haya resuelto."
+    },
+    "correcta": "B",
+    "explicacion": "El recurso de alzada es preceptivo cuando el acto no pone fin a la vía administrativa: sin agotarlo, no es posible acudir al contencioso-administrativo. El recurso de reposición es potestativo: el interesado puede elegir interponerlo o acudir directamente al contencioso, pero si elige la reposición no puede simultanear ambas vías.",
+    "why": "A convierte la alzada en potestativa, error fundamental: la alzada contra actos que no ponen fin a la vía administrativa es el cauce preceptivo de agotamiento de la vía administrativa. C invierte los roles. D afirma que la reposición no crea incompatibilidad, lo que contradice la ley.",
+    "norma": "Ley 39/2015",
+    "articulo": "121 y 123"
+  },
+  {
+    "id": "B2T15-019",
+    "bloque": 2,
+    "tema": 15,
+    "test": 15,
+    "dificultad": "dificil",
+    "pregunta": "¿Cuál es la diferencia jurídica entre el desistimiento y la renuncia al derecho como formas de terminación del procedimiento según la Ley 39/2015?",
+    "opciones": {
+      "A": "El desistimiento extingue el derecho reclamado; la renuncia solo abandona el procedimiento concreto.",
+      "B": "El desistimiento abandona la solicitud del procedimiento concreto, sin afectar al derecho; la renuncia extingue el derecho mismo, siendo posible solo cuando la ley lo permite.",
+      "C": "No existe diferencia práctica; ambas figuras producen los mismos efectos sobre el procedimiento y el derecho.",
+      "D": "El desistimiento requiere resolución expresa de la Administración; la renuncia surte efectos de forma automática desde que el interesado la comunica."
+    },
+    "correcta": "B",
+    "explicacion": "La Ley 39/2015 distingue claramente: el desistimiento supone el abandono de la solicitud concreta, sin que el interesado pierda el derecho (puede volver a ejercitarlo); la renuncia implica la extinción del derecho mismo, por lo que solo es posible cuando las leyes lo permiten. Ambas figuras requieren resolución de la Administración que declare terminado el procedimiento.",
+    "why": "A invierte los conceptos: es la renuncia (no el desistimiento) la que extingue el derecho. C niega la distinción, que tiene consecuencias jurídicas muy relevantes para el titular del derecho. D introduce una diferencia de forma (resolución vs automatismo) que no prevé la ley: ambas requieren resolución expresa.",
+    "norma": "Ley 39/2015",
+    "articulo": "94"
+  },
+  {
+    "id": "B2T15-020",
+    "bloque": 2,
+    "tema": 15,
+    "test": 15,
+    "dificultad": "dificil",
+    "pregunta": "Según el art. 106 de la Ley 39/2015, si iniciado el procedimiento de revisión de oficio de un acto nulo la Administración no lo resuelve en el plazo establecido, ¿qué consecuencia se produce?",
+    "opciones": {
+      "A": "Silencio positivo: el acto se entiende anulado.",
+      "B": "El procedimiento de revisión queda automáticamente suspendido hasta que el interesado inste su continuación.",
+      "C": "Caducidad del procedimiento de revisión, lo que no impide que se inicie un nuevo procedimiento de revisión.",
+      "D": "La Administración incurre en responsabilidad patrimonial, pero el procedimiento continúa indefinidamente."
+    },
+    "correcta": "C",
+    "explicacion": "El art. 106 L39/2015 fija en seis meses el plazo para resolver el procedimiento de revisión de oficio de actos nulos. Si transcurre ese plazo sin resolución, se produce la caducidad del procedimiento. No obstante, la caducidad no impide iniciar un nuevo procedimiento de revisión, ni tampoco extingue el derecho del interesado a pedirla de nuevo.",
+    "why": "A atribuye silencio positivo (anulación) al transcurso del plazo, cuando la ley establece caducidad: la revisión de oficio no se entiende estimada por el mero paso del tiempo. B prevé suspensión, que no recoge el art. 106. D excluye la caducidad y permite un procedimiento indefinido, contrariando la seguridad jurídica que impone el plazo legal.",
+    "norma": "Ley 39/2015",
+    "articulo": "106"
+  }
+]
