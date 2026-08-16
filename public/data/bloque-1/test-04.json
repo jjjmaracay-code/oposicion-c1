@@ -1,0 +1,241 @@
+[
+{"id":"B1T04-001","bloque":1,"tema":4,"test":4,"dificultad":"facil",
+ "pregunta":"¿Cuál de las siguientes funciones NO está atribuida al Gobierno por el artículo 97 de la Constitución?",
+ "opciones":{
+   "A":"Dirigir la política interior y exterior",
+   "B":"Ejercer la función ejecutiva y la potestad reglamentaria",
+   "C":"Ejercer la potestad jurisdiccional",
+   "D":"Dirigir la Administración civil y militar y la defensa del Estado"
+ },"correcta":"C",
+ "explicacion":"El artículo 97 CE atribuye al Gobierno la dirección de la política interior y exterior, la Administración civil y militar, la defensa del Estado, la función ejecutiva y la potestad reglamentaria. La potestad jurisdiccional corresponde exclusivamente a los Juzgados y Tribunales determinados por las leyes (art. 117.3 CE), no al Gobierno.",
+ "why":"A, B y D reproducen literalmente o resumen fielmente el art. 97. La potestad jurisdiccional es la función de juzgar y hacer ejecutar lo juzgado, atribuida al Poder Judicial, lo que la hace incompatible con el Gobierno.",
+ "norma":"Constitución Española de 1978","articulo":"Art. 97"},
+
+{"id":"B1T04-002","bloque":1,"tema":4,"test":4,"dificultad":"facil",
+ "pregunta":"Según el artículo 98.1 de la Constitución, ¿de qué órganos se compone el Gobierno?",
+ "opciones":{
+   "A":"Del Presidente, los Ministros y el Consejo de Estado",
+   "B":"Del Presidente, los Vicepresidentes en su caso, los Ministros y los demás miembros que establezca la ley",
+   "C":"Del Presidente, los Ministros y los Secretarios de Estado",
+   "D":"Del Presidente, los Vicepresidentes y los Ministros, sin que la ley pueda añadir más miembros"
+ },"correcta":"B",
+ "explicacion":"El artículo 98.1 CE establece que «el Gobierno se compone del Presidente, de los Vicepresidentes, en su caso, de los Ministros y de los demás miembros que establezca la ley». Tanto los Vicepresidentes como los posibles miembros adicionales son opcionales o dependen de ley.",
+ "why":"El Consejo de Estado (opción A) es el supremo órgano consultivo del Gobierno, pero no es un miembro del mismo (art. 107 CE). Los Secretarios de Estado (opción C) son órganos superiores de la Administración, no miembros del Gobierno (art. 7 Ley 50/1997). La D cierra la composición de manera incorrecta, ya que la ley sí puede añadir otros miembros.",
+ "norma":"Constitución Española de 1978","articulo":"Art. 98.1"},
+
+{"id":"B1T04-003","bloque":1,"tema":4,"test":4,"dificultad":"facil",
+ "pregunta":"Según el artículo 100 de la Constitución, ¿quién nombra y separa a los demás miembros del Gobierno (Ministros y Vicepresidentes)?",
+ "opciones":{
+   "A":"El Presidente del Gobierno, de forma directa y sin intervención del Rey",
+   "B":"El Congreso de los Diputados, mediante propuesta del Presidente del Gobierno",
+   "C":"El Rey, a propuesta del Presidente del Gobierno",
+   "D":"El Rey, por iniciativa propia previa consulta al Presidente del Gobierno"
+ },"correcta":"C",
+ "explicacion":"El artículo 100 CE dispone que «los demás miembros del Gobierno serán nombrados y separados por el Rey, a propuesta de su Presidente». La iniciativa es del Presidente, pero el acto formal de nombramiento y separación corresponde al Rey.",
+ "why":"La A atribuye al Presidente el acto formal de nombramiento, suprimiendo la intervención del Rey que exige la CE. La B introduce al Congreso, que no tiene papel en los nombramientos ministeriales ordinarios. La D invierte los papeles: la iniciativa es del Presidente, no del Rey.",
+ "norma":"Constitución Española de 1978","articulo":"Art. 100"},
+
+{"id":"B1T04-004","bloque":1,"tema":4,"test":4,"dificultad":"facil",
+ "pregunta":"¿Cómo define el artículo 107 de la Constitución al Consejo de Estado?",
+ "opciones":{
+   "A":"Como el órgano de control externo de las cuentas del Estado",
+   "B":"Como el supremo órgano consultivo del Gobierno",
+   "C":"Como el órgano de coordinación de la Administración General del Estado",
+   "D":"Como el tribunal superior de la jurisdicción contencioso-administrativa"
+ },"correcta":"B",
+ "explicacion":"El artículo 107 CE dispone que «el Consejo de Estado es el supremo órgano consultivo del Gobierno. Una ley orgánica regulará su composición y competencia». Es un órgano exclusivamente consultivo, sin funciones ejecutivas ni jurisdiccionales.",
+ "why":"El control externo de las cuentas del Estado corresponde al Tribunal de Cuentas (art. 136 CE). La coordinación de la AGE es una función gubernamental, no del Consejo de Estado. El órgano superior de lo contencioso-administrativo es el Tribunal Supremo (art. 123.1 CE).",
+ "norma":"Constitución Española de 1978","articulo":"Art. 107"},
+
+{"id":"B1T04-005","bloque":1,"tema":4,"test":4,"dificultad":"facil",
+ "pregunta":"El artículo 103.1 de la Constitución establece los principios con arreglo a los cuales actúa la Administración Pública. ¿Cuáles recoge literalmente dicho precepto?",
+ "opciones":{
+   "A":"Eficacia, jerarquía, descentralización, desconcentración y coordinación",
+   "B":"Eficiencia, jerarquía, centralización, desconcentración y coordinación",
+   "C":"Eficacia, independencia, descentralización, concentración y coordinación",
+   "D":"Eficacia, jerarquía, federalización, transparencia y coordinación"
+ },"correcta":"A",
+ "explicacion":"El artículo 103.1 CE dispone que la Administración Pública sirve con objetividad los intereses generales y actúa de acuerdo con los principios de «eficacia, jerarquía, descentralización, desconcentración y coordinación, con sometimiento pleno a la ley y al Derecho».",
+ "why":"La B sustituye 'eficacia' por 'eficiencia' y 'descentralización' por 'centralización', contrariando el texto literal. La C introduce 'independencia' y 'concentración', que no figuran en el precepto. La D añade 'federalización' y 'transparencia', principios ausentes del art. 103.1.",
+ "norma":"Constitución Española de 1978","articulo":"Art. 103.1"},
+
+{"id":"B1T04-006","bloque":1,"tema":4,"test":4,"dificultad":"facil",
+ "pregunta":"Según el artículo 11 de la Ley 50/1997, del Gobierno, ¿cuál de las siguientes opciones NO es un requisito para ser nombrado miembro del Gobierno?",
+ "opciones":{
+   "A":"Ser español y mayor de edad",
+   "B":"Disfrutar de los derechos de sufragio activo y pasivo",
+   "C":"No estar inhabilitado para ejercer empleo o cargo público por sentencia judicial firme",
+   "D":"Haber desempeñado previamente un cargo público de relevancia política o administrativa"
+ },"correcta":"D",
+ "explicacion":"El artículo 11 de la Ley 50/1997 exige: ser español, mayor de edad, disfrutar de los derechos de sufragio activo y pasivo, y no estar inhabilitado para ejercer empleo o cargo público por sentencia judicial firme. No se exige ningún antecedente en el ejercicio de cargos públicos.",
+ "why":"Las opciones A, B y C reproducen fielmente los requisitos del art. 11. La D introduce una exigencia de experiencia previa que no existe ni en la Ley 50/1997 ni en la Constitución: cualquier persona que cumpla los cuatro requisitos legales puede ser nombrada ministra o ministro.",
+ "norma":"Ley 50/1997, de 27 de noviembre, del Gobierno","articulo":"Art. 11"},
+
+{"id":"B1T04-007","bloque":1,"tema":4,"test":4,"dificultad":"media",
+ "pregunta":"El artículo 99.3 de la Constitución regula las mayorías necesarias para la investidura del Presidente del Gobierno. ¿Cuál es la mayoría exigida en la primera votación y qué sucede si no se alcanza?",
+ "opciones":{
+   "A":"Mayoría simple en la primera votación; mayoría absoluta cuarenta y ocho horas después",
+   "B":"Mayoría absoluta de los miembros del Congreso en la primera votación; si no se alcanza, nueva votación cuarenta y ocho horas después en que basta la mayoría de los votos emitidos",
+   "C":"Mayoría absoluta en la primera votación; mayoría de tres quintos cuarenta y ocho horas después",
+   "D":"Mayoría de dos tercios en la primera votación; si no se alcanza, el candidato se da por rechazado"
+ },"correcta":"B",
+ "explicacion":"El artículo 99.3 CE establece que, si el Congreso otorga su confianza por mayoría absoluta de sus miembros, el Rey nombra Presidente al candidato. De no alcanzarse esa mayoría, se celebra una nueva votación cuarenta y ocho horas después sobre la misma propuesta, y la confianza se entiende otorgada si el candidato obtiene la mayoría de los votos emitidos (mayoría simple).",
+ "why":"La A invierte el orden: la mayoría simple es la de la segunda votación, no de la primera. La C exige tres quintos en la segunda vuelta, un umbral que la CE no prevé para este caso. La D introduce dos tercios y elimina la segunda oportunidad, contradiciendo el mecanismo del art. 99.",
+ "norma":"Constitución Española de 1978","articulo":"Art. 99.3"},
+
+{"id":"B1T04-008","bloque":1,"tema":4,"test":4,"dificultad":"media",
+ "pregunta":"El artículo 101.1 de la Constitución enumera las causas de cese del Gobierno. ¿Cuál de las siguientes NO figura entre ellas?",
+ "opciones":{
+   "A":"La celebración de elecciones generales",
+   "B":"La pérdida de la confianza parlamentaria prevista en la Constitución",
+   "C":"La incapacidad sobrevenida del Presidente del Gobierno",
+   "D":"La dimisión o fallecimiento del Presidente del Gobierno"
+ },"correcta":"C",
+ "explicacion":"El artículo 101.1 CE establece que el Gobierno cesa: tras la celebración de elecciones generales, en casos de pérdida de la confianza parlamentaria previstos en la Constitución (moción de censura o cuestión de confianza), o por dimisión o fallecimiento de su Presidente. La incapacidad sobrevenida del Presidente no está contemplada como causa de cese en este precepto.",
+ "why":"La CE no menciona la incapacidad del Presidente como causa autónoma de cese del Gobierno en el art. 101.1. La situación de incapacidad podría generar otros mecanismos, pero no el cese automático regulado en este artículo. Las opciones A, B y D sí aparecen expresamente en el texto constitucional.",
+ "norma":"Constitución Española de 1978","articulo":"Art. 101.1"},
+
+{"id":"B1T04-009","bloque":1,"tema":4,"test":4,"dificultad":"media",
+ "pregunta":"El artículo 98.3 de la Constitución establece las incompatibilidades de los miembros del Gobierno. ¿Cuál de las siguientes afirmaciones las recoge correctamente?",
+ "opciones":{
+   "A":"No podrán ejercer otras funciones representativas que las propias del mandato parlamentario, ni cualquier otra función pública que no derive de su cargo, ni actividad profesional o mercantil alguna",
+   "B":"No podrán pertenecer a partidos políticos durante el ejercicio del cargo ni ejercer actividad profesional alguna",
+   "C":"Solo están obligados a abstenerse de las actividades que el Gobierno declare incompatibles mediante acuerdo del Consejo de Ministros",
+   "D":"No podrán ejercer ninguna función representativa, incluido el mandato parlamentario que hubieran ostentado antes de su nombramiento"
+ },"correcta":"A",
+ "explicacion":"El artículo 98.3 CE dispone que «los miembros del Gobierno no podrán ejercer otras funciones representativas que las propias del mandato parlamentario, ni cualquier otra función pública que no derive de su cargo, ni actividad profesional o mercantil alguna». Se permite, por tanto, conservar el escaño parlamentario.",
+ "why":"La B introduce la prohibición de pertenencia a partidos políticos, que el art. 98.3 no contempla. La C convierte la incompatibilidad en una materia disponible por el Gobierno, lo que contradice la reserva constitucional. La D suprime la excepción del mandato parlamentario, cuando el propio precepto la reconoce expresamente.",
+ "norma":"Constitución Española de 1978","articulo":"Art. 98.3"},
+
+{"id":"B1T04-010","bloque":1,"tema":4,"test":4,"dificultad":"media",
+ "pregunta":"El artículo 102.2 de la Constitución establece requisitos especiales para acusar al Presidente o a los ministros por traición o delito contra la seguridad del Estado. ¿Cuál es la iniciativa necesaria y qué mayoría del Congreso debe aprobarlo?",
+ "opciones":{
+   "A":"Iniciativa de una décima parte del Congreso y aprobación por mayoría de tres quintos",
+   "B":"Iniciativa de una cuarta parte del Congreso y aprobación por mayoría absoluta",
+   "C":"Iniciativa de una tercera parte del Congreso y aprobación por mayoría de dos tercios",
+   "D":"Iniciativa de una quinta parte del Congreso y aprobación por mayoría simple"
+ },"correcta":"B",
+ "explicacion":"El artículo 102.2 CE establece que la acusación por traición o delito contra la seguridad del Estado en el ejercicio de las funciones «solo podrá ser planteada por iniciativa de la cuarta parte de los miembros del Congreso, y con la aprobación de la mayoría absoluta del mismo».",
+ "why":"La décima parte (A) es la fracción del art. 167.3 para solicitar referéndum en reforma constitucional ordinaria. Los dos tercios (C) corresponden a otros supuestos agravados. La quinta parte y la mayoría simple (D) reducen el umbral de forma que no se corresponde con ningún precepto constitucional.",
+ "norma":"Constitución Española de 1978","articulo":"Art. 102.2"},
+
+{"id":"B1T04-011","bloque":1,"tema":4,"test":4,"dificultad":"media",
+ "pregunta":"El artículo 103.3 de la Constitución establece los principios que rigen el acceso a la función pública. ¿Cuáles son?",
+ "opciones":{
+   "A":"Publicidad, igualdad y objetividad",
+   "B":"Mérito y capacidad",
+   "C":"Antigüedad, mérito y especialización",
+   "D":"Concurso público, capacidad y representación territorial"
+ },"correcta":"B",
+ "explicacion":"El artículo 103.3 CE dispone que «la ley regulará el estatuto de los funcionarios públicos, el acceso a la función pública de acuerdo con los principios de mérito y capacidad». Son los dos únicos principios que la Constitución enuncia expresamente para el acceso.",
+ "why":"La publicidad y la igualdad (A) se derivan del principio general del art. 14 y de la jurisprudencia, pero no figuran en el art. 103.3 junto al mérito y la capacidad. La antigüedad (C) no es criterio de acceso inicial sino de carrera administrativa. El concurso y la representación territorial (D) son modalidades de provisión, no principios constitucionales de acceso.",
+ "norma":"Constitución Española de 1978","articulo":"Art. 103.3"},
+
+{"id":"B1T04-012","bloque":1,"tema":4,"test":4,"dificultad":"media",
+ "pregunta":"Según el artículo 104.1 de la Constitución, ¿cuál es la misión que la Constitución encomienda a las Fuerzas y Cuerpos de Seguridad?",
+ "opciones":{
+   "A":"Defender la soberanía e independencia de España e integrar su territorio",
+   "B":"Proteger el libre ejercicio de los derechos y libertades y garantizar la seguridad ciudadana",
+   "C":"Ejecutar las órdenes del Gobierno en materia de seguridad interior y exterior",
+   "D":"Garantizar el orden público y prevenir los delitos tipificados en el Código Penal"
+ },"correcta":"B",
+ "explicacion":"El artículo 104.1 CE dispone que «las Fuerzas y Cuerpos de seguridad, bajo la dependencia del Gobierno, tendrán como misión proteger el libre ejercicio de los derechos y libertades y garantizar la seguridad ciudadana».",
+ "why":"Defender la soberanía e integrar el territorio (A) es la misión de las Fuerzas Armadas según el art. 8.1 CE. Las opciones C y D reformulan la misión de forma más restrictiva o genérica que el texto literal del art. 104.1, que pone el acento en la protección de los derechos y libertades.",
+ "norma":"Constitución Española de 1978","articulo":"Art. 104.1"},
+
+{"id":"B1T04-013","bloque":1,"tema":4,"test":4,"dificultad":"media",
+ "pregunta":"El artículo 106.1 de la Constitución establece que los Tribunales controlan determinados aspectos de la Administración. ¿Cuál es el objeto de ese control según el precepto?",
+ "opciones":{
+   "A":"Únicamente los actos administrativos que vulneren derechos fundamentales",
+   "B":"La potestad reglamentaria y la legalidad de la actuación administrativa, así como el sometimiento de ésta a los fines que la justifican",
+   "C":"La constitucionalidad de los reglamentos dictados por el Gobierno",
+   "D":"El control exclusivo de los contratos y concesiones administrativas"
+ },"correcta":"B",
+ "explicacion":"El artículo 106.1 CE dispone que «los Tribunales controlan la potestad reglamentaria y la legalidad de la actuación administrativa, así como el sometimiento de ésta a los fines que la justifican». El control alcanza tanto a los reglamentos como a cualquier actuación administrativa y a la desviación de poder.",
+ "why":"La A limita el control a los actos que vulneren derechos fundamentales, cuando la CE no establece esa restricción. La C eleva el control al juicio de constitucionalidad, que corresponde al TC. La D circunscribe el control a los contratos, excluyendo todo lo demás.",
+ "norma":"Constitución Española de 1978","articulo":"Art. 106.1"},
+
+{"id":"B1T04-014","bloque":1,"tema":4,"test":4,"dificultad":"media",
+ "pregunta":"¿Qué naturaleza jurídica atribuye el artículo 7 de la Ley 50/1997 a los Secretarios de Estado y cuál es su relación con el Gobierno?",
+ "opciones":{
+   "A":"Son miembros plenos del Gobierno con derecho a voto en el Consejo de Ministros",
+   "B":"Son miembros del Gobierno pero sin derecho a voto; solo asisten con voz",
+   "C":"Son órganos superiores de la Administración General del Estado y no son miembros del Gobierno",
+   "D":"Son miembros del Gobierno únicamente cuando el Presidente lo establezca por decreto"
+ },"correcta":"C",
+ "explicacion":"El artículo 7.1 de la Ley 50/1997 define a los Secretarios de Estado como «órganos superiores de la Administración General del Estado». No forman parte del Gobierno: este se compone del Presidente, Vicepresidentes en su caso, Ministros y los demás miembros que establezca la ley (art. 98.1 CE), y los Secretarios de Estado no están incluidos en ninguna de esas categorías.",
+ "why":"Las opciones A y B atribuyen a los Secretarios de Estado la condición de miembros del Gobierno, lo que contradice tanto la Ley 50/1997 como la CE. La D introduce una vía discrecional de atribución que tampoco existe en el ordenamiento.",
+ "norma":"Ley 50/1997, de 27 de noviembre, del Gobierno","articulo":"Art. 7.1"},
+
+{"id":"B1T04-015","bloque":1,"tema":4,"test":4,"dificultad":"media",
+ "pregunta":"Según el artículo 6.1 de la Ley 50/1997, del Gobierno, ¿mediante qué tipo de norma se crean, modifican y suprimen las Comisiones Delegadas del Gobierno?",
+ "opciones":{
+   "A":"Por ley orgánica aprobada por las Cortes Generales",
+   "B":"Por Real Decreto acordado en Consejo de Ministros",
+   "C":"Por Orden del Presidente del Gobierno",
+   "D":"Por acuerdo del Consejo de Ministros sin necesidad de instrumento formal específico"
+ },"correcta":"B",
+ "explicacion":"El artículo 6.1 de la Ley 50/1997 dispone que «la creación, modificación y supresión de las Comisiones Delegadas del Gobierno será acordada por el Consejo de Ministros mediante Real Decreto, a propuesta del Presidente del Gobierno».",
+ "why":"Una ley orgánica (A) es una norma con rango parlamentario que no se emplea para crear órganos de coordinación gubernamental. La Orden presidencial (C) es un instrumento de rango inferior al Real Decreto y sin fundamento legal en este supuesto. El acuerdo informal (D) no se ajusta al requisito formal de Real Decreto exigido por la Ley 50/1997.",
+ "norma":"Ley 50/1997, de 27 de noviembre, del Gobierno","articulo":"Art. 6.1"},
+
+{"id":"B1T04-016","bloque":1,"tema":4,"test":4,"dificultad":"media",
+ "pregunta":"Cuando el Gobierno cesa, el artículo 101.2 de la Constitución establece qué ocurre hasta que tome posesión el nuevo Gobierno. ¿Qué dispone dicho precepto?",
+ "opciones":{
+   "A":"El Gobierno cesante queda disuelto y el Presidente del Congreso asume sus funciones de forma interina",
+   "B":"El Gobierno cesante continuará en funciones hasta la toma de posesión del nuevo Gobierno",
+   "C":"El Rey designa un Gobierno provisional hasta la celebración de nuevas elecciones",
+   "D":"El Gobierno cesante cesa de forma inmediata y las funciones ejecutivas pasan al Consejo de Estado"
+ },"correcta":"B",
+ "explicacion":"El artículo 101.2 CE establece literalmente que «el Gobierno cesante continuará en funciones hasta la toma de posesión del nuevo Gobierno». Esta previsión garantiza la continuidad de la acción ejecutiva y evita vacíos de poder.",
+ "why":"La CE no prevé la asunción de funciones ejecutivas por el Presidente del Congreso ni por el Consejo de Estado. La extinción inmediata sin sustituto (D) generaría un vacío ejecutivo contrario al principio de continuidad del Estado.",
+ "norma":"Constitución Española de 1978","articulo":"Art. 101.2"},
+
+{"id":"B1T04-017","bloque":1,"tema":4,"test":4,"dificultad":"dificil",
+ "pregunta":"El artículo 5 de la Ley 50/1997 distingue entre quienes integran el Consejo de Ministros como miembros del Gobierno y quienes pueden ser convocados a sus reuniones sin tener esa condición. ¿Qué altos cargos pueden asistir a las reuniones del Consejo de Ministros cuando sean convocados al efecto?",
+ "opciones":{
+   "A":"Los Directores Generales de los departamentos ministeriales",
+   "B":"Los Secretarios de Estado y excepcionalmente otros altos cargos",
+   "C":"El Presidente del Consejo de Estado, con voz pero sin voto",
+   "D":"Los presidentes de los organismos públicos de mayor rango adscrito a los ministerios"
+ },"correcta":"B",
+ "explicacion":"El artículo 5.2 de la Ley 50/1997 establece que «a las reuniones del Consejo de Ministros podrán asistir los Secretarios de Estado y excepcionalmente otros altos cargos, cuando sean convocados para ello». Esta asistencia es siempre por convocatoria, no por derecho propio, y no convierte a esos altos cargos en miembros del Gobierno.",
+ "why":"Los Directores Generales (A) tienen rango inferior al previsto y no están mencionados en el art. 5.2. El Consejo de Estado (C) es el supremo órgano consultivo del Gobierno, pero su Presidente no asiste de ordinario al Consejo de Ministros por derecho propio. Los presidentes de organismos públicos (D) tampoco están contemplados en ese precepto.",
+ "norma":"Ley 50/1997, de 27 de noviembre, del Gobierno","articulo":"Art. 5.2"},
+
+{"id":"B1T04-018","bloque":1,"tema":4,"test":4,"dificultad":"dificil",
+ "pregunta":"Un ciudadano sufre daños por una actuación negligente de un hospital público (servicio público). Otro ciudadano estuvo en prisión preventiva más tiempo del necesario por un error judicial. ¿Qué precepto constitucional fundamenta el derecho a indemnización de cada uno de ellos, respectivamente?",
+ "opciones":{
+   "A":"Al primero, el artículo 106.2 CE; al segundo, el artículo 121 CE",
+   "B":"A ambos, el artículo 106.2 CE, que cubre la responsabilidad del Estado frente a los particulares en todos sus ámbitos",
+   "C":"Al primero, el artículo 121 CE; al segundo, el artículo 106.2 CE",
+   "D":"A ambos, el artículo 121 CE, que es la norma constitucional general de responsabilidad patrimonial del Estado"
+ },"correcta":"A",
+ "explicacion":"El artículo 106.2 CE reconoce el derecho de los particulares a ser indemnizados por lesiones en sus bienes y derechos derivadas del funcionamiento de los servicios públicos, lo que ampara al primer ciudadano. El artículo 121 CE contempla específicamente los daños causados por error judicial o funcionamiento anormal de la Administración de Justicia, que es el supuesto del segundo.",
+ "why":"La B extiende el art. 106.2 al error judicial, cuando la CE reserva ese supuesto al art. 121. La C invierte la aplicación de ambos preceptos. La D atribuye al art. 121 un alcance general que en realidad solo tiene el art. 106.2.",
+ "norma":"Constitución Española de 1978","articulo":"Arts. 106.2 y 121"},
+
+{"id":"B1T04-019","bloque":1,"tema":4,"test":4,"dificultad":"dificil",
+ "pregunta":"Conforme al artículo 115.1 de la Constitución y al artículo 2 de la Ley 50/1997, ¿cuáles son las condiciones que debe cumplir el Presidente del Gobierno para proponer al Rey la disolución de las Cortes Generales o de alguna de sus Cámaras?",
+ "opciones":{
+   "A":"Previa deliberación del Consejo de Ministros y bajo su exclusiva responsabilidad",
+   "B":"Previa aprobación por mayoría absoluta del Consejo de Ministros y refrendo del Presidente del Congreso",
+   "C":"Previa deliberación del Consejo de Ministros, bajo su exclusiva responsabilidad, y con el refrendo del Presidente del Congreso de los Diputados",
+   "D":"Por iniciativa personal del Presidente, sin necesidad de deliberación previa del Consejo de Ministros"
+ },"correcta":"A",
+ "explicacion":"El artículo 115.1 CE establece que el Presidente del Gobierno, «previa deliberación del Consejo de Ministros, y bajo su exclusiva responsabilidad», podrá proponer la disolución de las Cámaras, que será decretada por el Rey. No se exige votación ni mayoría en el Consejo de Ministros, solo deliberación.",
+ "why":"La B añade el requisito de mayoría absoluta y atribuye el refrendo al Presidente del Congreso: ese refrendo específico solo procede en la disolución automática del art. 99.5 (tras fracaso de investidura), no en la disolución discrecional del art. 115. La C mezcla ambos preceptos de forma incorrecta. La D suprime la deliberación previa, que es un requisito constitucional expreso.",
+ "norma":"Constitución Española de 1978 y Ley 50/1997","articulo":"Art. 115.1 CE; Art. 2 Ley 50/1997"},
+
+{"id":"B1T04-020","bloque":1,"tema":4,"test":4,"dificultad":"dificil",
+ "pregunta":"Según el artículo 99.5 de la Constitución, ¿cuánto tiempo debe transcurrir desde la primera votación de investidura, sin que ningún candidato haya obtenido la confianza del Congreso, para que el Rey deba disolver ambas Cámaras y convocar nuevas elecciones?",
+ "opciones":{
+   "A":"Cuarenta y cinco días naturales desde la primera votación de investidura",
+   "B":"Dos meses desde la primera votación de investidura",
+   "C":"Noventa días naturales desde la primera votación de investidura",
+   "D":"Seis meses desde la celebración de las elecciones generales que dieron lugar al proceso de investidura"
+ },"correcta":"B",
+ "explicacion":"El artículo 99.5 CE dispone que «si transcurrido el plazo de dos meses, a partir de la primera votación de investidura, ningún candidato hubiere obtenido la confianza del Congreso, el Rey disolverá ambas Cámaras y convocará nuevas elecciones con el refrendo del Presidente del Congreso».",
+ "why":"Cuarenta y cinco días (A) es un plazo que aparece en otros procedimientos parlamentarios (como el veto senatorial urgente del art. 90.3), no en la investidura. Noventa días (C) supera el plazo constitucional. Seis meses (D) introduce un cómputo desde las elecciones generales que el art. 99.5 no contempla: el plazo comienza desde la primera votación de investidura.",
+ "norma":"Constitución Española de 1978","articulo":"Art. 99.5"}
+]
