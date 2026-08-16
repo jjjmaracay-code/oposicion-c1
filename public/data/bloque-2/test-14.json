@@ -1,0 +1,382 @@
+[
+  {
+    "id": "B2T14-001",
+    "bloque": 2,
+    "tema": 14,
+    "test": 14,
+    "dificultad": "facil",
+    "pregunta": "¿Cuál de las siguientes es una causa de nulidad de pleno derecho de los actos administrativos según el art. 47 de la Ley 39/2015?",
+    "opciones": {
+      "A": "Los actos dictados con infracción de las normas de procedimiento no esenciales.",
+      "B": "Los actos que tengan un contenido imposible.",
+      "C": "Los actos en los que el órgano actuó fuera del plazo establecido.",
+      "D": "Los actos que incurran en desviación de poder."
+    },
+    "correcta": "B",
+    "explicacion": "El art. 47.1.c) L39/2015 declara nulos de pleno derecho los actos que tengan un contenido imposible. La nulidad de pleno derecho solo se produce en los supuestos taxativos del art. 47; los demás defectos (A, C, D) dan lugar a anulabilidad.",
+    "why": "A describe defectos de procedimiento no esenciales, que son anulabilidad o incluso mera irregularidad no invalidante. C: actuar fuera de plazo solo provoca anulabilidad cuando la naturaleza del plazo lo imponga. D: la desviación de poder es causa de anulabilidad (art. 48), no de nulidad.",
+    "norma": "Ley 39/2015",
+    "articulo": "47"
+  },
+  {
+    "id": "B2T14-002",
+    "bloque": 2,
+    "tema": 14,
+    "test": 14,
+    "dificultad": "facil",
+    "pregunta": "Según el art. 40 de la Ley 39/2015, ¿en qué plazo deben notificarse las resoluciones y actos que afecten a derechos e intereses de los interesados?",
+    "opciones": {
+      "A": "En el plazo de cinco días hábiles desde que se dicta el acto.",
+      "B": "En el plazo de un mes desde que se dicta el acto.",
+      "C": "En el plazo de diez días desde que se dicta el acto.",
+      "D": "Sin plazo concreto; basta con que la notificación se produzca antes de que el acto sea ejecutivo."
+    },
+    "correcta": "C",
+    "explicacion": "El art. 40 L39/2015 establece que las resoluciones y actos que afecten a derechos e intereses deben notificarse a los interesados en el plazo de diez días desde la fecha en que el acto fue dictado. El incumplimiento de este plazo no afecta a la validez del acto pero puede generar responsabilidad.",
+    "why": "A fija cinco días hábiles, por debajo del plazo legal. B establece un mes, que es el plazo de algunos recursos pero no el de notificación. D elimina el plazo concreto, lo que privaría de sentido al mandato del art. 40.",
+    "norma": "Ley 39/2015",
+    "articulo": "40"
+  },
+  {
+    "id": "B2T14-003",
+    "bloque": 2,
+    "tema": 14,
+    "test": 14,
+    "dificultad": "facil",
+    "pregunta": "Según el art. 48 de la Ley 39/2015, ¿cuál es el ámbito general de la anulabilidad de los actos administrativos?",
+    "opciones": {
+      "A": "Solo los actos que lesionen derechos fundamentales susceptibles de amparo constitucional.",
+      "B": "Los actos dictados por órgano incompetente, con independencia del tipo de incompetencia.",
+      "C": "Los actos que incurran en cualquier infracción del ordenamiento jurídico, incluyendo la desviación de poder.",
+      "D": "Únicamente los actos que causen indefensión al interesado."
+    },
+    "correcta": "C",
+    "explicacion": "El art. 48 L39/2015 establece que son anulables los actos que incurran en cualquier infracción del ordenamiento jurídico, incluyendo la desviación de poder. La anulabilidad es la regla general para todos los vicios no incluidos en el art. 47 (nulidad de pleno derecho).",
+    "why": "A y D describen supuestos del art. 47 (nulidad de pleno derecho) o requisitos de la anulabilidad formal, pero no definen su ámbito general. B es parcialmente correcta para la incompetencia no manifiesta, pero la anulabilidad es más amplia: abarca cualquier infracción del ordenamiento.",
+    "norma": "Ley 39/2015",
+    "articulo": "48"
+  },
+  {
+    "id": "B2T14-004",
+    "bloque": 2,
+    "tema": 14,
+    "test": 14,
+    "dificultad": "facil",
+    "pregunta": "Según el art. 52 de la Ley 39/2015, ¿a qué tipo de actos puede aplicarse la convalidación?",
+    "opciones": {
+      "A": "A los actos nulos de pleno derecho, siempre que el vicio sea subsanable.",
+      "B": "A los actos nulos de pleno derecho y a los anulables, según la gravedad del vicio.",
+      "C": "Únicamente a los actos anulables, mediante la subsanación del vicio que los afecte.",
+      "D": "A cualquier acto irregular, con independencia de la causa de invalidez."
+    },
+    "correcta": "C",
+    "explicacion": "El art. 52 L39/2015 permite que la Administración convalide actos anulables subsanando los vicios que los afecten. Los actos nulos de pleno derecho no pueden ser convalidados: su invalidez es radical e insubsanable, y solo pueden eliminarse mediante revisión de oficio (art. 106).",
+    "why": "A y B extienden la convalidación a los actos nulos, lo que contradice directamente el art. 52 y la doctrina de la nulidad radical. D generaliza sin límites la posibilidad de convalidación, cuando la ley la reserva exclusivamente para los anulables.",
+    "norma": "Ley 39/2015",
+    "articulo": "52"
+  },
+  {
+    "id": "B2T14-005",
+    "bloque": 2,
+    "tema": 14,
+    "test": 14,
+    "dificultad": "facil",
+    "pregunta": "Según el art. 35 de la Ley 39/2015, ¿deben motivarse los actos que limitan derechos subjetivos o intereses legítimos de los administrados?",
+    "opciones": {
+      "A": "No; la motivación solo es obligatoria para los actos sancionadores.",
+      "B": "Solo si el interesado la solicita expresamente.",
+      "C": "Sí, siempre; la motivación es un requisito preceptivo para estos actos.",
+      "D": "Solo cuando el acto sea recurrible en vía administrativa."
+    },
+    "correcta": "C",
+    "explicacion": "El art. 35.1.a) L39/2015 incluye expresamente entre los actos que deben motivarse los que limiten o restrinjan derechos subjetivos o intereses legítimos. La motivación en estos casos no es potestativa ni depende de solicitud del interesado: es un requisito formal preceptivo.",
+    "why": "A restringe la motivación a los actos sancionadores, siendo estos solo uno de los supuestos del art. 35. B subordina la obligación a la voluntad del interesado, cuando la ley la impone de oficio. D conecta la motivación con la recurribilidad, que es una consecuencia pero no la condición de la obligación de motivar.",
+    "norma": "Ley 39/2015",
+    "articulo": "35"
+  },
+  {
+    "id": "B2T14-006",
+    "bloque": 2,
+    "tema": 14,
+    "test": 14,
+    "dificultad": "facil",
+    "pregunta": "Según el art. 39 de la Ley 39/2015, ¿desde cuándo producen efectos con carácter general los actos de las Administraciones Públicas sujetos al Derecho Administrativo?",
+    "opciones": {
+      "A": "Desde que se notifican al interesado, salvo que en el acto se disponga otra cosa.",
+      "B": "Desde la fecha en que se dictan, salvo que en ellos se disponga otra cosa o su eficacia esté supeditada a notificación, publicación o aprobación superior.",
+      "C": "Desde que adquieren firmeza por no haberse recurrido en plazo.",
+      "D": "Desde que el órgano superior jerárquico los aprueba."
+    },
+    "correcta": "B",
+    "explicacion": "El art. 39 L39/2015 establece que los actos se presumen válidos y producen efectos desde la fecha en que se dictan, salvo que en ellos se disponga otra cosa o que su eficacia quede supeditada a notificación, publicación o aprobación superior. Esta regla general se combina con la necesidad de notificación para que el acto sea oponible al interesado.",
+    "why": "A retrasa todos los efectos a la notificación, cuando la ley prevé que los actos producen efectos desde que se dictan, con salvedades. C exige firmeza, pero la ejecutividad es característica de los actos desde su dictado, no desde que sean firmes. D introduce la aprobación del superior como requisito general, cuando solo se exige en casos específicos.",
+    "norma": "Ley 39/2015",
+    "articulo": "39"
+  },
+  {
+    "id": "B2T14-007",
+    "bloque": 2,
+    "tema": 14,
+    "test": 14,
+    "dificultad": "media",
+    "pregunta": "¿Cuál de los siguientes supuestos constituye una causa de nulidad de pleno derecho según el art. 47.1.e) de la Ley 39/2015?",
+    "opciones": {
+      "A": "Los actos dictados por un órgano que actúa fuera de su ámbito territorial.",
+      "B": "Los actos en los que concurre un vicio de forma que produce indefensión.",
+      "C": "Los actos dictados prescindiendo total y absolutamente del procedimiento legalmente establecido.",
+      "D": "Los actos que incurren en desviación de poder verificada mediante prueba pericial."
+    },
+    "correcta": "C",
+    "explicacion": "El art. 47.1.e) L39/2015 declara nulos de pleno derecho los actos 'dictados prescindiendo total y absolutamente del procedimiento legalmente establecido o de las normas esenciales para la formación de la voluntad de los órganos colegiados'. La omisión ha de ser absoluta; una mera irregularidad procedimental no basta.",
+    "why": "A describe la incompetencia territorial, que si no es manifiesta es causa de anulabilidad. B recoge un supuesto de anulabilidad por vicio de forma con indefensión (art. 48). D es la desviación de poder, que el art. 48 encuadra expresamente en la anulabilidad.",
+    "norma": "Ley 39/2015",
+    "articulo": "47"
+  },
+  {
+    "id": "B2T14-008",
+    "bloque": 2,
+    "tema": 14,
+    "test": 14,
+    "dificultad": "media",
+    "pregunta": "El art. 47.1.b) de la Ley 39/2015 declara nulos los actos dictados por órgano 'manifiestamente incompetente'. ¿Qué ocurre con los actos dictados por un órgano incompetente cuya incompetencia no es manifiesta?",
+    "opciones": {
+      "A": "Son igualmente nulos de pleno derecho, porque toda incompetencia produce nulidad.",
+      "B": "Son anulables, al no alcanzar el umbral de incompetencia manifiesta que exige el art. 47.",
+      "C": "Son válidos si el órgano tenía alguna competencia sobre la materia, aunque fuera parcial.",
+      "D": "Son ineficaces pero no inválidos; producen efectos provisionalmente hasta su convalidación."
+    },
+    "correcta": "B",
+    "explicacion": "El art. 47.1.b) L39/2015 reserva la nulidad de pleno derecho a los actos dictados por un órgano 'manifiestamente incompetente' por razón de la materia o del territorio. La incompetencia que no alcanza ese umbral de evidencia o notoriedad encuadra en la regla general del art. 48: anulabilidad.",
+    "why": "A generaliza la nulidad a toda incompetencia, lo que contradice la distinción legal entre incompetencia manifiesta (nulidad) y no manifiesta (anulabilidad). C introduce el criterio de competencia parcial, que no figura en la ley. D confunde ineficacia con invalidez y crea una categoría inexistente en el ordenamiento.",
+    "norma": "Ley 39/2015",
+    "articulo": "47 y 48"
+  },
+  {
+    "id": "B2T14-009",
+    "bloque": 2,
+    "tema": 14,
+    "test": 14,
+    "dificultad": "media",
+    "pregunta": "Según el art. 48 de la Ley 39/2015, ¿cuándo el defecto de forma de un acto administrativo determina su anulabilidad?",
+    "opciones": {
+      "A": "Siempre que exista cualquier defecto de forma, por mínimo que sea.",
+      "B": "Únicamente cuando el defecto de forma afecte a la firma del titular del órgano.",
+      "C": "Cuando el acto carezca de los requisitos formales indispensables para alcanzar su fin o el defecto produzca indefensión.",
+      "D": "Solo cuando el interesado alegue expresamente el defecto formal en su recurso."
+    },
+    "correcta": "C",
+    "explicacion": "El art. 48.2 L39/2015 establece que el defecto de forma solo determina la anulabilidad del acto cuando este carezca de los requisitos formales indispensables para alcanzar su fin o cuando el defecto dé lugar a la indefensión de los interesados. Los vicios de forma menores que no cumplen estas condiciones son irregularidades no invalidantes.",
+    "why": "A aplicaría la anulabilidad a cualquier defecto formal, vaciando el principio de conservación del acto. B limita la anulabilidad a un tipo concreto de defecto (firma), cuando la ley establece un criterio más amplio y funcional. D subordina la anulabilidad a la alegación del interesado, cuando el art. 48 no hace depender la invalidez de que sea invocada.",
+    "norma": "Ley 39/2015",
+    "articulo": "48"
+  },
+  {
+    "id": "B2T14-010",
+    "bloque": 2,
+    "tema": 14,
+    "test": 14,
+    "dificultad": "media",
+    "pregunta": "Según el art. 52 de la Ley 39/2015, cuando el vicio de un acto anulable es la incompetencia del órgano que lo dictó (sin llegar a ser manifiesta), ¿quién puede convalidarlo?",
+    "opciones": {
+      "A": "El propio órgano que dictó el acto, mediante resolución motivada.",
+      "B": "El superior jerárquico del órgano que dictó el acto.",
+      "C": "El órgano competente para otorgar la autorización cuya ausencia motivó el vicio.",
+      "D": "Cualquier órgano de la misma Administración, si actúa en el plazo de un mes."
+    },
+    "correcta": "B",
+    "explicacion": "El art. 52.2 L39/2015 distingue dos supuestos específicos de convalidación: si el vicio es la incompetencia (que no determina nulidad), convalida el órgano superior jerárquico del que dictó el acto; si el vicio es la falta de una autorización, convalida el órgano competente para otorgarla.",
+    "why": "A atribuye la convalidación al mismo órgano que incurrió en el vicio de incompetencia, lo que sería contradictorio. C describe el supuesto de convalidación por falta de autorización, no por incompetencia. D no tiene base legal; no existe un plazo genérico de un mes ni la posibilidad de que cualquier órgano convalide.",
+    "norma": "Ley 39/2015",
+    "articulo": "52"
+  },
+  {
+    "id": "B2T14-011",
+    "bloque": 2,
+    "tema": 14,
+    "test": 14,
+    "dificultad": "media",
+    "pregunta": "Según el art. 41 de la Ley 39/2015, ¿cuántos intentos de notificación en papel deben realizarse y en qué condiciones?",
+    "opciones": {
+      "A": "Un solo intento; si no se consigue, se pasa directamente al anuncio en el BOE.",
+      "B": "Dos intentos, que deben realizarse en horas y días distintos.",
+      "C": "Tres intentos en días consecutivos; si fallan los tres, se recurre al BOE.",
+      "D": "Dos intentos, siempre en el mismo día pero en turnos de mañana y tarde."
+    },
+    "correcta": "B",
+    "explicacion": "El art. 41 L39/2015 exige que la notificación en papel se intente dos veces, y que ambos intentos se realicen en horas y días distintos. Solo si los dos intentos resultan infructuosos se recurre a la publicación en el tablón edictal único (BOE), conforme al art. 44.",
+    "why": "A es insuficiente: un solo intento fallido no habilita el paso al BOE. C exige tres intentos, por encima del mínimo legal. D permite los dos intentos en el mismo día, lo que contradice la exigencia de días distintos.",
+    "norma": "Ley 39/2015",
+    "articulo": "41"
+  },
+  {
+    "id": "B2T14-012",
+    "bloque": 2,
+    "tema": 14,
+    "test": 14,
+    "dificultad": "media",
+    "pregunta": "Según los arts. 45-46 de la Ley 39/2015, ¿en qué supuestos la publicación en el boletín oficial sustituye a la notificación individual?",
+    "opciones": {
+      "A": "Siempre que la Administración lo estime conveniente para agilizar el procedimiento.",
+      "B": "Cuando los interesados sean desconocidos, se ignore su domicilio o haya más de diez interesados.",
+      "C": "Solo cuando el interesado se encuentre en paradero desconocido y haya intentado una notificación fallida.",
+      "D": "Únicamente para los actos que afecten a una pluralidad de personas en el mismo municipio."
+    },
+    "correcta": "B",
+    "explicacion": "Los arts. 45-46 L39/2015 prevén la publicación como sustituta de la notificación individual en tres supuestos: (1) cuando los interesados sean desconocidos o indeterminados; (2) cuando se desconozca el domicilio o el lugar de notificación; y (3) cuando el acto afecte a más de diez interesados, en cuyo caso puede optarse por publicación en el boletín oficial.",
+    "why": "A deja la sustitución a la discreción de la Administración, sin restricciones. C exige una notificación fallida previa, requisito que la ley no establece para los supuestos de indeterminación de interesados. D limita la publicación al ámbito municipal, ignorando los demás supuestos.",
+    "norma": "Ley 39/2015",
+    "articulo": "45 y 46"
+  },
+  {
+    "id": "B2T14-013",
+    "bloque": 2,
+    "tema": 14,
+    "test": 14,
+    "dificultad": "media",
+    "pregunta": "¿Cuál de los siguientes actos administrativos debe motivarse obligatoriamente según el art. 35.1 de la Ley 39/2015?",
+    "opciones": {
+      "A": "Los actos reglados que aplican automáticamente criterios objetivos previstos en la norma.",
+      "B": "Los actos de mero trámite sin relevancia para los interesados.",
+      "C": "Los actos dictados en el ejercicio de potestades discrecionales.",
+      "D": "Los actos favorables que concedan autorizaciones de escasa cuantía."
+    },
+    "correcta": "C",
+    "explicacion": "El art. 35.1.g) L39/2015 obliga a motivar los actos dictados en el ejercicio de potestades discrecionales, ya que en ellos el órgano dispone de un margen de apreciación que debe quedar explicitado y controlado. Otros supuestos obligatorios son: actos que limitan derechos, resuelven impugnaciones, se apartan de criterios precedentes o dictámenes consultivos, y los acuerdos de suspensión.",
+    "why": "A describe actos reglados, en los que la motivación puede limitarse a la cita de la norma aplicada porque no hay margen de apreciación. B excluye los actos de trámite sin impacto para los interesados, para los que la ley no exige motivación. D concede autorizaciones regladas que no requieren motivación adicional si se cumplen los requisitos.",
+    "norma": "Ley 39/2015",
+    "articulo": "35"
+  },
+  {
+    "id": "B2T14-014",
+    "bloque": 2,
+    "tema": 14,
+    "test": 14,
+    "dificultad": "media",
+    "pregunta": "El art. 50 de la Ley 39/2015 regula la conversión de actos inválidos. ¿En qué consiste?",
+    "opciones": {
+      "A": "La Administración rehace el acto inválido desde el inicio, eliminando todos los vicios.",
+      "B": "El acto nulo o anulable que contenga los elementos constitutivos de otro acto distinto producirá los efectos de este último.",
+      "C": "La Administración sustituye el acto inválido por uno reglamentario sin necesidad de un nuevo procedimiento.",
+      "D": "Los interesados pueden solicitar que un acto anulable sea convertido en un acuerdo de terminación convencional."
+    },
+    "correcta": "B",
+    "explicacion": "El art. 50 L39/2015 define la conversión: si un acto nulo o anulable contiene los elementos constitutivos de otro acto distinto y válido, producirá los efectos de este último. La conversión opera automáticamente cuando concurren los elementos del acto alternativo, sin necesidad de rehacer el procedimiento.",
+    "why": "A describe el inicio de un nuevo procedimiento, que no es la conversión sino una actuación autónoma. C introduce la posibilidad de 'sustitución reglamentaria', figura inexistente como tal en la ley. D atribuye a los interesados la iniciativa de la conversión, cuando el art. 50 la configura como un efecto legal automático.",
+    "norma": "Ley 39/2015",
+    "articulo": "50"
+  },
+  {
+    "id": "B2T14-015",
+    "bloque": 2,
+    "tema": 14,
+    "test": 14,
+    "dificultad": "media",
+    "pregunta": "El art. 51 de la Ley 39/2015 recoge el principio de conservación de actos y trámites. ¿Cuál es su contenido?",
+    "opciones": {
+      "A": "Los actos nulos de pleno derecho producen efectos mientras no sean declarados nulos por resolución firme.",
+      "B": "La Administración está obligada a conservar todos los actos, aunque sean nulos, durante un plazo mínimo de cuatro años.",
+      "C": "La nulidad o anulación de un acto no implica la de los actos y trámites independientes cuyo contenido hubiera sido el mismo de no haberse producido la infracción.",
+      "D": "Los actos dictados por órgano incompetente se conservan si el órgano competente los ratifica expresamente."
+    },
+    "correcta": "C",
+    "explicacion": "El art. 51 L39/2015 establece que la nulidad o anulación de un acto no implica la de los sucesivos en el procedimiento que sean independientes del primero, ni la de aquellos cuyo contenido hubiera sido idéntico de no haberse producido la infracción. Es la aplicación del principio de economía procedimental y conservación.",
+    "why": "A describe la ejecutividad del acto antes de su declaración de nulidad, que no es el objeto del art. 51. B crea una obligación de conservación documental por cuatro años, que corresponde a la normativa de archivo, no al art. 51. D describe una ratificación expresa, que se acercaría a la convalidación (art. 52), no a la conservación.",
+    "norma": "Ley 39/2015",
+    "articulo": "51"
+  },
+  {
+    "id": "B2T14-016",
+    "bloque": 2,
+    "tema": 14,
+    "test": 14,
+    "dificultad": "media",
+    "pregunta": "Según el art. 34 de la Ley 39/2015, ¿cuáles son los requisitos de producción y contenido que deben reunir los actos administrativos?",
+    "opciones": {
+      "A": "Deben producirse por el órgano competente, ajustarse al ordenamiento jurídico y tener un contenido determinado y adecuado a los fines del acto.",
+      "B": "Deben ser escritos, publicados en el boletín oficial y motivados en todos los casos.",
+      "C": "Deben producirse en el plazo máximo establecido en la norma sectorial y ser notificados de forma inmediata.",
+      "D": "Deben tener forma escrita, firma del titular y sello del órgano emisor."
+    },
+    "correcta": "A",
+    "explicacion": "El art. 34 L39/2015 exige que los actos administrativos: (1) se produzcan por el órgano competente, (2) se ajusten al ordenamiento jurídico y al fin para el que fueron establecidos, y (3) tengan un contenido determinado y adecuado. El elemento teleológico (adecuación al fin) es clave para evitar la desviación de poder.",
+    "why": "B añade la publicación y motivación como requisitos generales, cuando la ley solo los exige en los supuestos específicos de los arts. 35 y 45. C traslada la atención al plazo y la notificación, que son requisitos de eficacia, no de producción. D describe requisitos formales de la firma y el sello, que la ley no eleva a requisitos generales de producción.",
+    "norma": "Ley 39/2015",
+    "articulo": "34"
+  },
+  {
+    "id": "B2T14-017",
+    "bloque": 2,
+    "tema": 14,
+    "test": 14,
+    "dificultad": "dificil",
+    "pregunta": "El art. 47.1.f) de la Ley 39/2015 declara nulos los actos que permiten adquirir facultades o derechos careciendo de los requisitos esenciales. ¿A qué supuesto paradigmático se aplica esta causa?",
+    "opciones": {
+      "A": "A los actos dictados en fraude de ley por el órgano competente.",
+      "B": "A los actos en los que el interesado ocultó información relevante durante el procedimiento.",
+      "C": "A los actos expresos y a los actos presuntos por silencio positivo cuando el interesado carece de los requisitos esenciales para obtener el derecho o la facultad.",
+      "D": "A los actos de gravamen dictados sin audiencia previa al interesado."
+    },
+    "correcta": "C",
+    "explicacion": "El art. 47.1.f) L39/2015 se aplica expresamente tanto a actos expresos como a actos presuntos (silencio positivo) contrarios al ordenamiento que permiten adquirir facultades o derechos cuando se carecía de los requisitos esenciales. Es la 'nulidad del silencio positivo ilegal': el silencio positivo no puede convalidar lo que la ley prohíbe.",
+    "why": "A y B describen situaciones de fraude de ley o dolo del interesado, que pueden dar lugar a revisión pero no son el supuesto específico del art. 47.1.f). D recoge la omisión de audiencia, que generalmente es causa de anulabilidad por indefensión (art. 48), no de nulidad, salvo que sea absoluta.",
+    "norma": "Ley 39/2015",
+    "articulo": "47"
+  },
+  {
+    "id": "B2T14-018",
+    "bloque": 2,
+    "tema": 14,
+    "test": 14,
+    "dificultad": "dificil",
+    "pregunta": "El art. 47.2 de la Ley 39/2015 establece causas específicas de nulidad para las disposiciones administrativas (reglamentos). ¿Cuál de las siguientes es una causa de nulidad de las disposiciones administrativas?",
+    "opciones": {
+      "A": "Las disposiciones que establecen plazos superiores a seis meses para resolver.",
+      "B": "Las disposiciones que regulan materias reservadas a la Ley.",
+      "C": "Las disposiciones aprobadas sin informe preceptivo del Consejo de Estado.",
+      "D": "Las disposiciones que se apartan del criterio seguido en una circular anterior del mismo órgano."
+    },
+    "correcta": "B",
+    "explicacion": "El art. 47.2 L39/2015 declara nulas las disposiciones administrativas que: vulneren la Constitución, leyes u otras disposiciones de rango superior; regulen materias reservadas a la Ley; o establezcan retroactividad de disposiciones sancionadoras no favorables o restrictivas de derechos individuales.",
+    "why": "A no es causa de nulidad; los plazos pueden ser modulados por norma con rango de ley. C: la omisión del dictamen del Consejo de Estado puede generar anulabilidad si es preceptivo y determinante, pero el art. 47.2 no la recoge como causa de nulidad autónoma de los reglamentos. D: apartarse de una circular precedente no constituye ninguna causa de invalidez.",
+    "norma": "Ley 39/2015",
+    "articulo": "47"
+  },
+  {
+    "id": "B2T14-019",
+    "bloque": 2,
+    "tema": 14,
+    "test": 14,
+    "dificultad": "dificil",
+    "pregunta": "Según el art. 48.3 de la Ley 39/2015, ¿cuándo provocan anulabilidad las actuaciones realizadas fuera del plazo establecido?",
+    "opciones": {
+      "A": "Siempre; el incumplimiento de cualquier plazo es causa automática de anulabilidad.",
+      "B": "Nunca; los plazos son meros requisitos de orden interno sin incidencia en la validez del acto.",
+      "C": "Solo cuando la naturaleza del término o plazo establezca que el transcurso sin actuación determina la extinción del derecho o la pérdida de eficacia.",
+      "D": "Solo cuando el retraso sea superior a la mitad del plazo establecido y cause perjuicio al interesado."
+    },
+    "correcta": "C",
+    "explicacion": "El art. 48.3 L39/2015 establece que las actuaciones fuera de plazo solo implican anulabilidad cuando la naturaleza del término o plazo lo imponga. Esto conecta con la distinción entre plazos preclusivos (cuyo incumplimiento produce invalidez) y plazos de ordenación (cuyo incumplimiento genera responsabilidad pero no invalida el acto).",
+    "why": "A aplica la anulabilidad automática a cualquier incumplimiento de plazo, lo que haría que la mayoría de actos administrativos fueran inválidos. B excluye toda relevancia a los plazos, ignorando los plazos sustantivos. D introduce un criterio cuantitativo (la mitad del plazo) que la ley no establece.",
+    "norma": "Ley 39/2015",
+    "articulo": "48"
+  },
+  {
+    "id": "B2T14-020",
+    "bloque": 2,
+    "tema": 14,
+    "test": 14,
+    "dificultad": "dificil",
+    "pregunta": "Según el art. 52.2 de la Ley 39/2015, si el vicio de un acto anulable consiste en la falta de una autorización requerida para su dictado, ¿quién puede convalidarlo?",
+    "opciones": {
+      "A": "El superior jerárquico del órgano que dictó el acto viciado.",
+      "B": "El propio órgano que dictó el acto, en el plazo de un mes desde que se dicta.",
+      "C": "El órgano competente para otorgar la autorización de cuya falta derivó el vicio.",
+      "D": "Cualquier órgano de la Administración competente por razón de la materia."
+    },
+    "correcta": "C",
+    "explicacion": "El art. 52.2 L39/2015 regula dos supuestos específicos de convalidación según el tipo de vicio: si el vicio es la incompetencia no manifiesta, convalida el superior jerárquico; si el vicio es la falta de autorización preceptiva, convalida el órgano que hubiera sido competente para otorgar dicha autorización. La distinción es fundamental en el examen.",
+    "why": "A describe el convalidante en el supuesto de incompetencia, no en el de falta de autorización. B atribuye la convalidación al propio órgano en plazo de un mes, que no existe en la ley. D generaliza sin distinguir el tipo de vicio.",
+    "norma": "Ley 39/2015",
+    "articulo": "52"
+  }
+]
