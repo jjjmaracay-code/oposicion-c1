@@ -1,0 +1,186 @@
+[
+{"id":"B1T01-001","bloque":1,"tema":1,"test":1,"dificultad":"facil",
+ "pregunta":"Además del Título Preliminar, ¿cuántos títulos integran la Constitución Española de 1978?",
+ "opciones":{"A":"Ocho","B":"Nueve","C":"Diez","D":"Once"},"correcta":"C",
+ "explicacion":"La CE de 1978 se estructura en un Título Preliminar y diez títulos (del I al X), además de disposiciones adicionales, transitorias, una derogatoria y una final.",
+ "why":"Ocho y nueve se quedan cortos; once añade uno de más. La cifra exacta es diez títulos numerados tras el Preliminar.",
+ "norma":"Constitución Española de 1978","articulo":"Índice sistemático"},
+
+{"id":"B1T01-002","bloque":1,"tema":1,"test":1,"dificultad":"media",
+ "pregunta":"Según el artículo 1.1 de la Constitución, ¿cuál de los siguientes NO es uno de los valores superiores del ordenamiento jurídico?",
+ "opciones":{"A":"La libertad","B":"La igualdad","C":"La seguridad jurídica","D":"El pluralismo político"},"correcta":"C",
+ "explicacion":"El artículo 1.1 proclama como valores superiores la libertad, la justicia, la igualdad y el pluralismo político. La seguridad jurídica es un principio constitucional recogido en el artículo 9.3, no un valor superior.",
+ "why":"Libertad, igualdad y pluralismo político sí figuran literalmente en el 1.1. La seguridad jurídica pertenece a otro precepto distinto (art. 9.3).",
+ "norma":"Constitución Española de 1978","articulo":"Art. 1.1"},
+
+{"id":"B1T01-003","bloque":1,"tema":1,"test":1,"dificultad":"facil",
+ "pregunta":"¿Cuál es la forma política del Estado español según el artículo 1.3 de la Constitución?",
+ "opciones":{"A":"República parlamentaria","B":"Monarquía parlamentaria","C":"Monarquía constitucional","D":"Estado federal"},"correcta":"B",
+ "explicacion":"El artículo 1.3 establece literalmente que 'la forma política del Estado español es la Monarquía parlamentaria'.",
+ "why":"España no es una república ni un Estado federal; el término técnico y literal del texto es 'Monarquía parlamentaria', no 'constitucional'.",
+ "norma":"Constitución Española de 1978","articulo":"Art. 1.3"},
+
+{"id":"B1T01-004","bloque":1,"tema":1,"test":1,"dificultad":"media",
+ "pregunta":"El artículo 2 de la Constitución se refiere a la unidad de la Nación española. ¿Cuál de las siguientes afirmaciones es correcta?",
+ "opciones":{
+   "A":"Reconoce el derecho a la autodeterminación de nacionalidades y regiones",
+   "B":"Se fundamenta en la indisoluble unidad de la Nación española y reconoce el derecho a la autonomía de las nacionalidades y regiones que la integran",
+   "C":"Establece un Estado exclusivamente centralizado sin reconocimiento de autonomías",
+   "D":"Reserva la autonomía únicamente a las Comunidades Autónomas históricas"
+ },"correcta":"B",
+ "explicacion":"El artículo 2 combina dos principios: la unidad indisoluble de la Nación española, patria común e indivisible de todos los españoles, y el reconocimiento del derecho a la autonomía de las nacionalidades y regiones que la integran, así como la solidaridad entre ellas.",
+ "why":"La A confunde autonomía con autodeterminación. La C ignora el reconocimiento expreso de autonomías. La D introduce una restricción que el artículo no contempla.",
+ "norma":"Constitución Española de 1978","articulo":"Art. 2"},
+
+{"id":"B1T01-005","bloque":1,"tema":1,"test":1,"dificultad":"facil",
+ "pregunta":"¿Dónde reside la soberanía nacional según la Constitución Española?",
+ "opciones":{"A":"En las Cortes Generales","B":"En el Rey","C":"En el pueblo español, del que emanan los poderes del Estado","D":"En el Gobierno de la Nación"},"correcta":"C",
+ "explicacion":"El artículo 1.2 establece que la soberanía nacional reside en el pueblo español, del que emanan los poderes del Estado.",
+ "why":"Cortes Generales, Rey y Gobierno son poderes o instituciones del Estado, pero ninguno es depositario de la soberanía: son los poderes que emanan de ella.",
+ "norma":"Constitución Española de 1978","articulo":"Art. 1.2"},
+
+{"id":"B1T01-006","bloque":1,"tema":1,"test":1,"dificultad":"dificil",
+ "pregunta":"Dentro del Capítulo II del Título I, la Sección 1ª ('De los derechos fundamentales y de las libertades públicas') comprende los derechos regulados en los artículos:",
+ "opciones":{"A":"Del 14 al 29","B":"Del 15 al 29","C":"Del 15 al 38","D":"Del 10 al 29"},"correcta":"B",
+ "explicacion":"La Sección 1ª del Capítulo II del Título I abarca los artículos 15 a 29. El artículo 14 (igualdad ante la ley) encabeza el capítulo pero se sitúa antes de esta sección, aunque comparte su nivel máximo de garantía.",
+ "why":"Incluir el 14 (opción A) es el error típico. La C se extiende indebidamente hasta la Sección 2ª (30-38). La D confunde el inicio del Título I completo con el de esta sección concreta.",
+ "norma":"Constitución Española de 1978","articulo":"Arts. 15 a 29 (Título I, Cap. II, Sección 1ª)"},
+
+{"id":"B1T01-007","bloque":1,"tema":1,"test":1,"dificultad":"media",
+ "pregunta":"La Sección 2ª del Capítulo II del Título I, relativa a 'De los derechos y deberes de los ciudadanos', comprende los artículos:",
+ "opciones":{"A":"Del 14 al 29","B":"Del 30 al 38","C":"Del 39 al 52","D":"Del 30 al 55"},"correcta":"B",
+ "explicacion":"La Sección 2ª se extiende desde el artículo 30 hasta el 38, e incluye, entre otros, el derecho de propiedad, la libertad de empresa y los deberes militares y tributarios.",
+ "why":"Los artículos 39 a 52 corresponden al Capítulo III (principios rectores), no a esta sección. El rango 30-55 excede el final real de la sección.",
+ "norma":"Constitución Española de 1978","articulo":"Arts. 30 a 38 (Título I, Cap. II, Sección 2ª)"},
+
+{"id":"B1T01-008","bloque":1,"tema":1,"test":1,"dificultad":"dificil",
+ "pregunta":"Un ciudadano considera vulnerado su derecho a la libertad ideológica (artículo 16) por parte de la Administración. ¿Qué vía de garantía reforzada, además de la ordinaria, puede activar ante el Tribunal Constitucional?",
+ "opciones":{
+   "A":"El recurso de amparo, por tratarse de un derecho comprendido en los artículos 14 a 29",
+   "B":"Una cuestión de inconstitucionalidad, reservada a jueces y tribunales",
+   "C":"Un recurso de inconstitucionalidad directo ante el Tribunal Constitucional",
+   "D":"No cabe ninguna garantía reforzada porque el artículo 16 no está incluido en esa protección"
+ },"correcta":"A",
+ "explicacion":"El artículo 53.2 reconoce el recurso de amparo ante el Tribunal Constitucional para la tutela de las libertades y derechos reconocidos en el artículo 14 y la Sección 1ª del Capítulo II del Título I (arts. 15 a 29), donde se encuadra la libertad ideológica del artículo 16.",
+ "why":"La cuestión de inconstitucionalidad la plantea un órgano judicial, no un ciudadano. El recurso de inconstitucionalidad está reservado a sujetos legitimados frente a normas con rango de ley, no a particulares frente a actuaciones concretas.",
+ "norma":"Constitución Española de 1978","articulo":"Art. 53.2"},
+
+{"id":"B1T01-009","bloque":1,"tema":1,"test":1,"dificultad":"media",
+ "pregunta":"¿Cuál de las siguientes afirmaciones sobre la suspensión de derechos y libertades es INCORRECTA?",
+ "opciones":{
+   "A":"Existe una suspensión de carácter general, ligada a la declaración de los estados de excepción y de sitio",
+   "B":"Existe una suspensión de carácter individual, vinculada a investigaciones sobre bandas armadas o elementos terroristas",
+   "C":"La suspensión general puede acordarse también durante el estado de alarma",
+   "D":"La suspensión individual requiere intervención judicial y control parlamentario adecuados"
+ },"correcta":"C",
+ "explicacion":"El artículo 55.1 vincula la suspensión general de derechos a los estados de excepción y de sitio, pero no al estado de alarma, durante el cual no cabe suspender derechos fundamentales, sino solo limitarlos.",
+ "why":"A y B describen correctamente los dos tipos de suspensión del artículo 55. D recoge una exigencia real del art. 55.2. La afirmación falsa es la C.",
+ "norma":"Constitución Española de 1978","articulo":"Art. 55"},
+
+{"id":"B1T01-010","bloque":1,"tema":1,"test":1,"dificultad":"media",
+ "pregunta":"Para la reforma ordinaria de la Constitución, prevista en el artículo 167, ¿qué mayoría se exige en cada Cámara como regla general?",
+ "opciones":{"A":"Mayoría simple","B":"Mayoría absoluta","C":"Tres quintos","D":"Dos tercios"},"correcta":"C",
+ "explicacion":"El artículo 167.1 exige la aprobación por mayoría de tres quintos de cada Cámara. Si no hay acuerdo, se intenta una Comisión mixta paritaria, y si tampoco así se logra, el Congreso puede aprobar por dos tercios si el Senado la hubiera aprobado por mayoría absoluta.",
+ "why":"Los dos tercios (D) solo entran en juego en la vía subsidiaria, no como regla general. Mayoría absoluta y simple corresponden a otros procedimientos.",
+ "norma":"Constitución Española de 1978","articulo":"Art. 167.1"},
+
+{"id":"B1T01-011","bloque":1,"tema":1,"test":1,"dificultad":"dificil",
+ "pregunta":"Se pretende reformar el Título II de la Constitución (La Corona). ¿Qué procedimiento de reforma resulta aplicable?",
+ "opciones":{
+   "A":"El procedimiento ordinario del artículo 167, con mayoría de tres quintos",
+   "B":"El procedimiento agravado del artículo 168, con aprobación del principio por dos tercios, disolución de las Cortes, ratificación por las nuevas Cámaras por dos tercios y referéndum",
+   "C":"Basta con una ley orgánica aprobada por mayoría absoluta del Congreso",
+   "D":"No es posible reformar el Título II en ningún caso"
+ },"correcta":"B",
+ "explicacion":"El artículo 168 reserva el procedimiento agravado para la revisión total de la Constitución o la parcial que afecte al Título Preliminar, a la Sección 1ª del Cap. II del Título I, o al Título II (la Corona).",
+ "why":"El procedimiento ordinario (A) corresponde al resto de la Constitución. La ley orgánica (C) nunca reforma la Constitución. La D es falsa: no hay materias irreformables, solo procedimiento agravado.",
+ "norma":"Constitución Española de 1978","articulo":"Art. 168"},
+
+{"id":"B1T01-012","bloque":1,"tema":1,"test":1,"dificultad":"media",
+ "pregunta":"En el procedimiento de reforma ordinaria del artículo 167, ¿quién puede solicitar que la reforma aprobada por las Cortes se someta a referéndum, y en qué plazo?",
+ "opciones":{
+   "A":"Una décima parte de los miembros de cualquiera de las Cámaras, dentro de los quince días siguientes a la aprobación",
+   "B":"El Presidente del Gobierno, dentro de los treinta días siguientes a la aprobación",
+   "C":"Cualquier ciudadano mediante iniciativa legislativa popular",
+   "D":"Una cuarta parte de los miembros de cualquiera de las Cámaras, dentro de los quince días siguientes"
+ },"correcta":"A",
+ "explicacion":"El artículo 167.3 permite que, dentro de los quince días siguientes a la aprobación, una décima parte de los miembros de cualquiera de las Cámaras solicite el referéndum de ratificación.",
+ "why":"La fracción exigida es una décima parte, no una cuarta (D). Ni el Presidente del Gobierno ni la iniciativa legislativa popular tienen esta facultad concreta.",
+ "norma":"Constitución Española de 1978","articulo":"Art. 167.3"},
+
+{"id":"B1T01-013","bloque":1,"tema":1,"test":1,"dificultad":"facil",
+ "pregunta":"¿Qué título de la Constitución Española lleva la denominación 'De los derechos y deberes fundamentales'?",
+ "opciones":{"A":"El Título Preliminar","B":"El Título I","C":"El Título II","D":"El Título X"},"correcta":"B",
+ "explicacion":"El Título I, artículos 10 a 55, se denomina 'De los derechos y deberes fundamentales'.",
+ "why":"El Título Preliminar recoge principios generales; el Título II regula la Corona; el Título X, la reforma constitucional.",
+ "norma":"Constitución Española de 1978","articulo":"Título I"},
+
+{"id":"B1T01-014","bloque":1,"tema":1,"test":1,"dificultad":"media",
+ "pregunta":"¿Cuál de los siguientes deberes está expresamente recogido en el Título I de la Constitución?",
+ "opciones":{
+   "A":"El deber de contribuir al sostenimiento de los gastos públicos según la capacidad económica",
+   "B":"El deber de afiliación sindical obligatoria",
+   "C":"El deber de residencia en el territorio nacional",
+   "D":"El deber de participación en referéndums"
+ },"correcta":"A",
+ "explicacion":"El artículo 31.1 establece que todos contribuirán al sostenimiento de los gastos públicos según su capacidad económica, mediante un sistema tributario justo e inspirado en igualdad y progresividad.",
+ "why":"La afiliación sindical es voluntaria (art. 28). No existe deber general de residencia ni de participación en referéndums.",
+ "norma":"Constitución Española de 1978","articulo":"Art. 31.1"},
+
+{"id":"B1T01-015","bloque":1,"tema":1,"test":1,"dificultad":"facil",
+ "pregunta":"¿En qué título de la Constitución se regula la institución de la Corona?",
+ "opciones":{"A":"Título I","B":"Título II","C":"Título III","D":"Título IV"},"correcta":"B",
+ "explicacion":"El Título II, artículos 56 a 65, se dedica íntegramente a la Corona.",
+ "why":"El Título I regula derechos y deberes; el III, las Cortes Generales; el IV, el Gobierno y la Administración.",
+ "norma":"Constitución Española de 1978","articulo":"Título II"},
+
+{"id":"B1T01-016","bloque":1,"tema":1,"test":1,"dificultad":"media",
+ "pregunta":"Respecto a la responsabilidad del Rey, ¿cuál de las siguientes afirmaciones recoge correctamente el artículo 56.3 de la Constitución?",
+ "opciones":{
+   "A":"La persona del Rey es inviolable y no está sujeta a responsabilidad; sus actos estarán siempre refrendados",
+   "B":"El Rey responde personalmente ante las Cortes Generales de todos sus actos",
+   "C":"El Rey solo carece de responsabilidad en el ejercicio de sus funciones representativas",
+   "D":"La inviolabilidad del Rey se extiende también a los miembros de su familia sin necesidad de refrendo"
+ },"correcta":"A",
+ "explicacion":"El artículo 56.3 dispone que la persona del Rey es inviolable y no está sujeta a responsabilidad, y que sus actos estarán siempre refrendados, careciendo de validez sin dicho refrendo (salvo art. 65.2).",
+ "why":"La B contradice la irresponsabilidad regia. La C introduce una limitación inexistente. La D extiende indebidamente la inviolabilidad a terceros.",
+ "norma":"Constitución Española de 1978","articulo":"Art. 56.3"},
+
+{"id":"B1T01-017","bloque":1,"tema":1,"test":1,"dificultad":"dificil",
+ "pregunta":"Entre las funciones que el artículo 62 atribuye al Rey, ¿cuál de las siguientes NO se encuentra recogida en dicho precepto?",
+ "opciones":{
+   "A":"Sancionar y promulgar las leyes",
+   "B":"Proponer el candidato a Presidente del Gobierno y, en su caso, nombrarlo",
+   "C":"El mando supremo de las Fuerzas Armadas",
+   "D":"Presidir habitualmente las sesiones del Consejo de Ministros con voto decisorio"
+ },"correcta":"D",
+ "explicacion":"El artículo 62 atribuye al Rey sancionar y promulgar leyes, proponer al candidato a Presidente del Gobierno, y el mando supremo de las Fuerzas Armadas. El art. 62.g permite que presida el Consejo de Ministros a petición del Presidente, pero sin voto.",
+ "why":"A, B y C son funciones literales del artículo 62. La D distorsiona la función real: el Rey nunca tiene voto decisorio, por carecer de responsabilidad política.",
+ "norma":"Constitución Española de 1978","articulo":"Art. 62"},
+
+{"id":"B1T01-018","bloque":1,"tema":1,"test":1,"dificultad":"media",
+ "pregunta":"Un ciudadano quiere impugnar una ley orgánica por considerarla contraria a la Constitución, actuando por su propia iniciativa como particular. ¿Es esto posible mediante el recurso de inconstitucionalidad?",
+ "opciones":{
+   "A":"Sí, cualquier ciudadano está legitimado para interponer recurso de inconstitucionalidad",
+   "B":"No, la legitimación corresponde a sujetos tasados como el Presidente del Gobierno, el Defensor del Pueblo, 50 diputados, 50 senadores u órganos autonómicos, no a los particulares",
+   "C":"Sí, siempre que cuente con el respaldo de al menos 500.000 firmas",
+   "D":"No, porque las leyes orgánicas no pueden ser objeto de recurso de inconstitucionalidad"
+ },"correcta":"B",
+ "explicacion":"La legitimación para el recurso de inconstitucionalidad está tasada: Presidente del Gobierno, Defensor del Pueblo, 50 diputados, 50 senadores, y órganos colegiados ejecutivos y Asambleas de las CCAA en los términos previstos.",
+ "why":"La C confunde este recurso con la iniciativa legislativa popular (500.000 firmas sirven para proponer una ley, no para impugnarla). La D es falsa: las leyes orgánicas sí son recurribles.",
+ "norma":"Constitución Española de 1978","articulo":"Art. 162.1.a"},
+
+{"id":"B1T01-019","bloque":1,"tema":1,"test":1,"dificultad":"facil",
+ "pregunta":"¿Qué mecanismo de garantía permite a los tribunales ordinarios plantear ante el Tribunal Constitucional dudas sobre la constitucionalidad de una norma con rango de ley aplicable a un caso concreto?",
+ "opciones":{"A":"El recurso de amparo","B":"El recurso de inconstitucionalidad","C":"La cuestión de inconstitucionalidad","D":"El conflicto de competencias"},"correcta":"C",
+ "explicacion":"La cuestión de inconstitucionalidad es el instrumento por el que un juez o tribunal, cuando considera que una norma aplicable al caso puede ser contraria a la Constitución, la plantea ante el Tribunal Constitucional.",
+ "why":"El amparo protege derechos frente a actuaciones concretas. El recurso de inconstitucionalidad lo interponen sujetos legitimados, no un tribunal en el curso de un proceso. El conflicto de competencias resuelve disputas Estado-CCAA.",
+ "norma":"Constitución Española de 1978","articulo":"Art. 163"},
+
+{"id":"B1T01-020","bloque":1,"tema":1,"test":1,"dificultad":"dificil",
+ "pregunta":"Ordene cronológicamente las siguientes fases del procedimiento de reforma agravada del artículo 168: (1) referéndum de ratificación, (2) disolución de las Cortes, (3) aprobación del principio de reforma por dos tercios de cada Cámara, (4) ratificación de la decisión por las nuevas Cámaras.",
+ "opciones":{"A":"3, 2, 4, 1","B":"2, 3, 4, 1","C":"3, 4, 2, 1","D":"1, 3, 2, 4"},"correcta":"A",
+ "explicacion":"Orden correcto: aprobación del principio por dos tercios (3), disolución de las Cortes (2), ratificación por las nuevas Cámaras por dos tercios (4), referéndum final (1).",
+ "why":"La disolución solo tiene sentido después de aprobado el principio de reforma (descarta B). El referéndum es siempre el paso final, no intermedio (descarta C y D).",
+ "norma":"Constitución Española de 1978","articulo":"Art. 168"}
+]

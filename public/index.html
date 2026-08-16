@@ -1,0 +1,418 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Administrativo C1 — Comunidad de Madrid</title>
+<style>
+  :root{
+    --ink:#1c2230; --ink-soft:#4a5266;
+    --paper:#f3f1ea; --paper-raised:#fffdf8;
+    --navy:#152238; --navy-2:#233457;
+    --burdeos:#8a2c34;
+    --ok:#2f5e46; --ok-bg:#e4ede6;
+    --err:#8a2c34; --err-bg:#f3e3e2;
+    --line:#d8d3c4; --gold:#a9822f;
+    --serif:'Iowan Old Style','Palatino Linotype','Book Antiqua',Georgia,serif;
+    --sans:-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif;
+    --mono:'SFMono-Regular',Consolas,'Liberation Mono',Menlo,monospace;
+  }
+  *{box-sizing:border-box;}
+  html,body{margin:0;padding:0;}
+  body{
+    background:var(--paper); color:var(--ink); font-family:var(--sans); min-height:100vh;
+    background-image:
+      linear-gradient(180deg, var(--navy) 0px, var(--navy) 8px, transparent 8px),
+      repeating-linear-gradient(90deg, rgba(0,0,0,0.015) 0 1px, transparent 1px 40px);
+  }
+  #app{max-width:760px;margin:0 auto;padding:0 20px 80px;}
+  .masthead{padding:36px 0 20px;border-bottom:3px double var(--line);margin-bottom:28px;}
+  .masthead .eyebrow{font-family:var(--mono);font-size:11px;letter-spacing:.14em;text-transform:uppercase;color:var(--ink-soft);display:flex;justify-content:space-between;margin-bottom:14px;flex-wrap:wrap;gap:4px;}
+  .masthead h1{font-family:var(--serif);font-weight:400;font-size:34px;line-height:1.05;margin:0 0 4px;color:var(--navy);letter-spacing:.01em;}
+  .masthead .sub{font-family:var(--serif);font-style:italic;color:var(--ink-soft);font-size:16px;}
+  .section-label{font-family:var(--mono);font-size:11px;text-transform:uppercase;letter-spacing:.12em;color:var(--gold);margin:30px 0 12px;padding-bottom:6px;border-bottom:1px solid var(--line);}
+  .block-grid{display:flex;flex-direction:column;gap:10px;}
+  .block-row{display:flex;align-items:center;justify-content:space-between;padding:16px 18px;background:var(--paper-raised);border:1px solid var(--line);cursor:pointer;transition:border-color .15s ease, transform .1s ease;}
+  .block-row:hover{border-color:var(--navy-2);}
+  .block-row:active{transform:translateY(1px);}
+  .block-row .num{font-family:var(--serif);font-size:22px;color:var(--burdeos);width:44px;flex-shrink:0;}
+  .block-row .meta{flex:1;padding:0 12px;}
+  .block-row .meta .name{font-weight:600;font-size:15px;color:var(--navy);}
+  .block-row .meta .progress-text{font-size:12px;color:var(--ink-soft);margin-top:2px;}
+  .block-row .arrow{font-family:var(--mono);color:var(--ink-soft);font-size:14px;}
+  .progress-track{width:100%;height:3px;background:var(--line);margin-top:8px;}
+  .progress-fill{height:100%;background:var(--gold);}
+  .util-grid{display:grid;grid-template-columns:1fr 1fr;gap:10px;}
+  .util-btn{padding:16px;background:var(--navy);color:var(--paper-raised);border:1px solid var(--navy);cursor:pointer;text-align:left;font-family:var(--sans);}
+  .util-btn .t{font-weight:600;font-size:14px;}
+  .util-btn .d{font-size:11.5px;color:#c7cede;margin-top:4px;}
+  .util-btn.alt{background:var(--paper-raised);color:var(--navy);border-color:var(--line);}
+  .util-btn.alt .d{color:var(--ink-soft);}
+  .util-btn:disabled{opacity:.45;cursor:not-allowed;}
+  .backlink{font-family:var(--mono);font-size:12px;color:var(--ink-soft);cursor:pointer;display:inline-block;margin-bottom:16px;}
+  .backlink:hover{color:var(--navy);}
+  .test-list{display:flex;flex-direction:column;gap:8px;}
+  .test-row{display:flex;align-items:center;justify-content:space-between;padding:13px 16px;background:var(--paper-raised);border:1px solid var(--line);cursor:pointer;}
+  .test-row.locked{cursor:not-allowed;opacity:.5;}
+  .test-row:hover:not(.locked){border-color:var(--navy-2);}
+  .test-row .name{font-size:14px;color:var(--navy);font-weight:600;}
+  .test-row .status{font-family:var(--mono);font-size:11px;color:var(--ink-soft);text-transform:uppercase;letter-spacing:.06em;}
+  .q-header{display:flex;justify-content:space-between;align-items:baseline;margin-bottom:18px;padding-bottom:10px;border-bottom:1px solid var(--line);}
+  .q-count{font-family:var(--mono);font-size:13px;color:var(--ink-soft);}
+  .q-score{font-family:var(--mono);font-size:13px;color:var(--navy);font-weight:600;}
+  .q-tema{font-family:var(--mono);font-size:11px;color:var(--gold);text-transform:uppercase;letter-spacing:.08em;margin-bottom:10px;}
+  .q-diff{display:inline-block;font-family:var(--mono);font-size:10px;text-transform:uppercase;letter-spacing:.08em;padding:2px 7px;border:1px solid var(--line);color:var(--ink-soft);margin-left:8px;}
+  .q-text{font-family:var(--serif);font-size:20px;line-height:1.4;color:var(--ink);margin:0 0 22px;}
+  .options{display:flex;flex-direction:column;gap:9px;}
+  .opt{display:flex;gap:12px;align-items:flex-start;padding:13px 15px;background:var(--paper-raised);border:1px solid var(--line);cursor:pointer;font-size:14.5px;line-height:1.45;}
+  .opt:hover:not(.answered){border-color:var(--navy-2);}
+  .opt .letter{font-family:var(--mono);font-weight:700;color:var(--navy);width:18px;flex-shrink:0;}
+  .opt.correct{border-color:var(--ok);background:var(--ok-bg);}
+  .opt.correct .letter{color:var(--ok);}
+  .opt.incorrect{border-color:var(--err);background:var(--err-bg);}
+  .opt.incorrect .letter{color:var(--err);}
+  .opt.dim{opacity:.55;}
+  .feedback{margin-top:18px;padding:16px 18px;border:1px solid var(--line);border-left:4px solid var(--navy);background:var(--paper-raised);}
+  .feedback.ok{border-left-color:var(--ok);}
+  .feedback.bad{border-left-color:var(--err);}
+  .feedback .verdict{font-weight:700;font-size:13px;letter-spacing:.03em;text-transform:uppercase;margin-bottom:8px;}
+  .feedback.ok .verdict{color:var(--ok);}
+  .feedback.bad .verdict{color:var(--err);}
+  .feedback .expl{font-size:14px;line-height:1.55;color:var(--ink);margin-bottom:10px;}
+  .feedback .legal{font-family:var(--mono);font-size:12px;color:var(--ink-soft);padding-top:8px;border-top:1px dashed var(--line);}
+  .feedback .why-others{font-size:13px;color:var(--ink-soft);margin-top:10px;line-height:1.5;}
+  .nav-row{display:flex;justify-content:space-between;margin-top:22px;}
+  .btn{font-family:var(--sans);font-size:13.5px;font-weight:600;padding:11px 20px;cursor:pointer;border:1px solid var(--navy);background:var(--navy);color:var(--paper-raised);}
+  .btn:hover{background:var(--navy-2);}
+  .btn.ghost{background:transparent;color:var(--navy);}
+  .btn:disabled{opacity:.4;cursor:not-allowed;}
+  .result-hero{text-align:center;padding:36px 20px;background:var(--paper-raised);border:1px solid var(--line);}
+  .result-hero .grade{font-family:var(--serif);font-size:52px;color:var(--navy);margin:0;}
+  .result-hero .label{font-family:var(--mono);text-transform:uppercase;letter-spacing:.1em;font-size:12px;color:var(--gold);margin-top:6px;}
+  .stat-grid{display:grid;grid-template-columns:repeat(4,1fr);gap:1px;background:var(--line);margin-top:22px;border:1px solid var(--line);}
+  .stat-cell{background:var(--paper-raised);padding:14px 8px;text-align:center;}
+  .stat-cell .v{font-family:var(--serif);font-size:22px;color:var(--navy);}
+  .stat-cell .k{font-family:var(--mono);font-size:9.5px;text-transform:uppercase;color:var(--ink-soft);letter-spacing:.06em;margin-top:2px;}
+  .review-list{margin-top:26px;display:flex;flex-direction:column;gap:8px;}
+  .review-row{display:flex;gap:10px;padding:11px 14px;background:var(--paper-raised);border:1px solid var(--line);font-size:13px;align-items:flex-start;}
+  .review-row .mark{font-family:var(--mono);font-weight:700;width:16px;flex-shrink:0;}
+  .review-row.ok .mark{color:var(--ok);}
+  .review-row.bad .mark{color:var(--err);}
+  .empty-note{padding:18px;background:var(--paper-raised);border:1px dashed var(--line);font-size:13px;color:var(--ink-soft);line-height:1.6;}
+  .empty-note b{color:var(--navy);}
+  footer.note{margin-top:40px;padding-top:16px;border-top:1px solid var(--line);font-size:11.5px;color:var(--ink-soft);line-height:1.6;font-family:var(--mono);}
+  .loading{padding:40px 0;text-align:center;color:var(--ink-soft);font-family:var(--mono);font-size:13px;}
+</style>
+</head>
+<body>
+<div id="app"><div class="loading">Cargando temario…</div></div>
+
+<script>
+/* ============================================================
+   MOTOR DATA-DRIVEN
+   El contenido vive en /data/temario.json + /data/bloque-N/test-NN.json
+   Este fichero NO debe editarse para añadir preguntas: solo añadir
+   nuevos JSON en /data/ y el índice MANIFEST de abajo.
+   ============================================================ */
+
+// MANIFEST: lista de tests ya construidos y verificados.
+// Claude Code añade una línea aquí por cada test-NN.json nuevo que confirme.
+const MANIFEST = {
+  1: [1],      // Bloque 1: tests construidos -> [1]
+  2: [],
+  3: [],
+  4: [],
+  5: [],
+};
+
+let TEMARIO = null;
+const QUESTION_CACHE = {}; // "bloque-test" -> array de preguntas
+
+let state = {
+  view: "home",
+  currentBlock: null,
+  currentTest: null,
+  questions: [],
+  index: 0,
+  answers: {},
+};
+
+async function loadTemario(){
+  const res = await fetch("./data/temario.json");
+  TEMARIO = await res.json();
+}
+
+async function loadTest(bloque, test){
+  const key = bloque+"-"+test;
+  if(QUESTION_CACHE[key]) return QUESTION_CACHE[key];
+  const path = `./data/bloque-${bloque}/test-${String(test).padStart(2,"0")}.json`;
+  const res = await fetch(path);
+  const data = await res.json();
+  QUESTION_CACHE[key] = data;
+  return data;
+}
+
+async function loadAllBuilt(){
+  const all = [];
+  for(const bloque in MANIFEST){
+    for(const test of MANIFEST[bloque]){
+      const qs = await loadTest(bloque, test);
+      all.push(...qs);
+    }
+  }
+  return all;
+}
+
+function totalBuiltInBlock(bloque){
+  return (MANIFEST[bloque]||[]).length * 20; // cada test tiene 20 preguntas verificadas
+}
+
+function el(tag, cls, html){
+  const e = document.createElement(tag);
+  if(cls) e.className = cls;
+  if(html!==undefined) e.innerHTML = html;
+  return e;
+}
+
+async function render(){
+  const app = document.getElementById("app");
+  app.innerHTML = "";
+  if(!TEMARIO) await loadTemario();
+  app.appendChild(renderMasthead());
+  if(state.view==="home") app.appendChild(await renderHome());
+  if(state.view==="testList") app.appendChild(renderTestList());
+  if(state.view==="quiz") app.appendChild(renderQuiz());
+  if(state.view==="results") app.appendChild(renderResults());
+  app.appendChild(renderFooter());
+}
+
+function renderMasthead(){
+  const wrap = el("div","masthead");
+  const eyebrow = el("div","eyebrow");
+  eyebrow.innerHTML = `<span>Cuerpo de Administrativos · Grupo C, Subgrupo C1</span><span>${TEMARIO.convocatoria.orden} · ${TEMARIO.convocatoria.bocm}</span>`;
+  wrap.appendChild(eyebrow);
+  wrap.appendChild(el("h1", null, "Administrativo C1"));
+  wrap.appendChild(el("div","sub","Comunidad de Madrid — banco de preguntas y simulacros"));
+  return wrap;
+}
+
+async function renderHome(){
+  const frag = document.createDocumentFragment();
+  frag.appendChild(el("div","section-label","Bloques del temario"));
+  const grid = el("div","block-grid");
+  TEMARIO.bloques.forEach(b=>{
+    const built = totalBuiltInBlock(b.bloque);
+    const pct = Math.round((built/200)*100);
+    const row = el("div","block-row");
+    row.appendChild(el("div","num", "B"+b.bloque));
+    const meta = el("div","meta");
+    meta.appendChild(el("div","name", b.nombre));
+    meta.appendChild(el("div","progress-text", `${built} de 200 preguntas construidas y verificadas (${b.temas.length} temas)`));
+    const track = el("div","progress-track");
+    track.appendChild(el("div","progress-fill")).style.width = pct+"%";
+    meta.appendChild(track);
+    row.appendChild(meta);
+    row.appendChild(el("div","arrow","→"));
+    row.onclick = ()=>{ state.view="testList"; state.currentBlock=b.bloque; render(); };
+    grid.appendChild(row);
+  });
+  frag.appendChild(grid);
+
+  frag.appendChild(el("div","section-label","Modos de estudio"));
+  const util = el("div","util-grid");
+  const totalBuilt = Object.values(MANIFEST).reduce((s,arr)=>s+arr.length*20,0);
+  const modes = [
+    {t:"Test aleatorio", d:"20 preguntas mezcladas de todo lo construido", enabled: totalBuilt>=20, act: startRandomTest},
+    {t:"Modo examen", d:"Sin corrección hasta el final, como en la prueba real", enabled:false, act:null},
+    {t:"Simulacro general", d:"Disponible al completar los 5 bloques", enabled:false, act:null},
+    {t:"Mis estadísticas", d:"Aciertos, errores y dominio por tema", enabled:false, act:null},
+  ];
+  modes.forEach(m=>{
+    const b = el("button","util-btn"+(m.enabled?"":" alt"));
+    b.disabled = !m.enabled;
+    b.appendChild(el("div","t", m.t));
+    b.appendChild(el("div","d", m.d + (m.enabled? "" : " — se activa según se amplíe el banco")));
+    if(m.enabled) b.onclick = m.act;
+    util.appendChild(b);
+  });
+  frag.appendChild(util);
+
+  const note = el("div","empty-note",
+    `<b>Estado del proyecto:</b> construcción por lotes verificados, bloque a bloque. Cada test nuevo se añade como
+     JSON independiente en /data/ y se registra en el MANIFEST de index.html — sin tocar el motor.`);
+  note.style.marginTop = "26px";
+  frag.appendChild(note);
+  return frag;
+}
+
+function renderTestList(){
+  const frag = document.createDocumentFragment();
+  const back = el("div","backlink","← Volver a bloques");
+  back.onclick = ()=>{ state.view="home"; render(); };
+  frag.appendChild(back);
+
+  const b = TEMARIO.bloques.find(x=>x.bloque===state.currentBlock);
+  frag.appendChild(el("div","section-label", `Bloque ${state.currentBlock} — ${b.nombre}`));
+
+  const list = el("div","test-list");
+  const built = new Set(MANIFEST[state.currentBlock]||[]);
+  for(let t=1;t<=10;t++){
+    const has = built.has(t);
+    const row = el("div","test-row"+(has?"":" locked"));
+    row.appendChild(el("div","name", `Test ${String(t).padStart(2,"0")}`));
+    row.appendChild(el("div","status", has? "20 preguntas" : "pendiente de construir"));
+    if(has){
+      row.onclick = async ()=>{
+        state.currentTest = t;
+        state.questions = await loadTest(state.currentBlock, t);
+        state.index = 0;
+        state.answers = {};
+        state.view = "quiz";
+        render();
+      };
+    }
+    list.appendChild(row);
+  }
+  frag.appendChild(list);
+  return frag;
+}
+
+async function startRandomTest(){
+  const all = await loadAllBuilt();
+  const shuffled = [...all].sort(()=>Math.random()-0.5).slice(0,20);
+  state.currentBlock = "aleatorio";
+  state.currentTest = "aleatorio";
+  state.questions = shuffled;
+  state.index = 0;
+  state.answers = {};
+  state.view = "quiz";
+  render();
+}
+
+function renderQuiz(){
+  const frag = document.createDocumentFragment();
+  const q = state.questions[state.index];
+  const answered = state.answers[q.id];
+
+  const header = el("div","q-header");
+  header.appendChild(el("div","q-count", `Pregunta ${state.index+1}/${state.questions.length}`));
+  const correctSoFar = Object.values(state.answers).filter(a=>a.correct).length;
+  header.appendChild(el("div","q-score", `Aciertos: ${correctSoFar}`));
+  frag.appendChild(header);
+
+  const temaLabel = TEMARIO.bloques.find(b=>b.bloque===q.bloque)?.temas[q.tema-1] || "";
+  const temaLine = el("div","q-tema", `Bloque ${q.bloque} · Tema ${q.tema} — ${temaLabel}`);
+  temaLine.appendChild(el("span","q-diff", q.dificultad));
+  frag.appendChild(temaLine);
+  frag.appendChild(el("div","q-text", q.pregunta));
+
+  const opts = el("div","options");
+  ["A","B","C","D"].forEach(letter=>{
+    const opt = el("div","opt"+(answered?" answered":""));
+    opt.appendChild(el("div","letter", letter));
+    opt.appendChild(el("div", null, q.opciones[letter]));
+    if(answered){
+      if(letter===q.correcta) opt.classList.add("correct");
+      else if(letter===answered.selected) opt.classList.add("incorrect");
+      else opt.classList.add("dim");
+    } else {
+      opt.onclick = ()=>{ state.answers[q.id] = {selected:letter, correct: letter===q.correcta}; render(); };
+    }
+    opts.appendChild(opt);
+  });
+  frag.appendChild(opts);
+
+  if(answered){
+    const isOk = answered.correct;
+    const fb = el("div","feedback "+(isOk?"ok":"bad"));
+    fb.appendChild(el("div","verdict", isOk? "Correcta" : "Incorrecta"));
+    if(!isOk){
+      const rc = el("div", null, `<strong>Respuesta correcta: ${q.correcta}</strong>`);
+      rc.style.marginBottom="8px"; rc.style.fontSize="14px";
+      fb.appendChild(rc);
+    }
+    fb.appendChild(el("div","expl", q.explicacion));
+    fb.appendChild(el("div","why-others", q.why));
+    fb.appendChild(el("div","legal", `${q.norma} — ${q.articulo}`));
+    frag.appendChild(fb);
+  }
+
+  const nav = el("div","nav-row");
+  const prevBtn = el("button","btn ghost","← Anterior");
+  prevBtn.disabled = state.index===0;
+  prevBtn.onclick = ()=>{ state.index--; render(); };
+  nav.appendChild(prevBtn);
+
+  const isLast = state.index === state.questions.length-1;
+  const nextBtn = el("button","btn", isLast? "Ver resultado" : "Siguiente →");
+  nextBtn.disabled = !answered;
+  nextBtn.onclick = ()=>{
+    if(isLast){ state.view="results"; render(); }
+    else { state.index++; render(); }
+  };
+  nav.appendChild(nextBtn);
+  frag.appendChild(nav);
+  return frag;
+}
+
+function renderResults(){
+  const frag = document.createDocumentFragment();
+  const total = state.questions.length;
+  const correct = Object.values(state.answers).filter(a=>a.correct).length;
+  const wrong = Object.values(state.answers).filter(a=>!a.correct).length;
+  const blank = total - correct - wrong;
+  const nota = (correct/total*10).toFixed(1);
+
+  let label = "NECESITA REPASO";
+  if(correct>=18) label="EXCELENTE";
+  else if(correct>=16) label="MUY BIEN";
+  else if(correct>=14) label="BIEN";
+  else if(correct>=10) label="NECESITA MEJORAR";
+
+  const hero = el("div","result-hero");
+  hero.appendChild(el("p","grade", `${correct}/${total}`));
+  hero.appendChild(el("div","label", label));
+  frag.appendChild(hero);
+
+  const stats = el("div","stat-grid");
+  [["Aciertos",correct],["Errores",wrong],["Sin responder",blank],["Nota /10",nota]].forEach(([k,v])=>{
+    const c = el("div","stat-cell");
+    c.appendChild(el("div","v", v));
+    c.appendChild(el("div","k", k));
+    stats.appendChild(c);
+  });
+  frag.appendChild(stats);
+
+  frag.appendChild(el("div","section-label","Revisión pregunta a pregunta"));
+  const list = el("div","review-list");
+  state.questions.forEach((q,i)=>{
+    const a = state.answers[q.id];
+    const row = el("div","review-row "+(a && a.correct?"ok":"bad"));
+    row.appendChild(el("div","mark", a && a.correct? "✓" : "✗"));
+    row.appendChild(el("div", null, `${i+1}. ${q.pregunta}`));
+    list.appendChild(row);
+  });
+  frag.appendChild(list);
+
+  const nav = el("div","nav-row");
+  const retryBtn = el("button","btn ghost","Repetir test");
+  retryBtn.onclick = ()=>{ state.index=0; state.answers={}; state.view="quiz"; render(); };
+  nav.appendChild(retryBtn);
+  const homeBtn = el("button","btn","Volver al inicio");
+  homeBtn.onclick = ()=>{ state.view="home"; render(); };
+  nav.appendChild(homeBtn);
+  frag.appendChild(nav);
+  return frag;
+}
+
+function renderFooter(){
+  return el("footer","note",
+    `Puntuación de estudio: acierto +1 · error 0 · sin responder 0.
+     El examen oficial real penaliza los errores con 1/3 del valor de la pregunta (Anexo I, ${TEMARIO.convocatoria.orden}).
+     Datos de convocatoria y temario verificados contra ${TEMARIO.convocatoria.bocm}.`);
+}
+
+render();
+</script>
+</body>
+</html>

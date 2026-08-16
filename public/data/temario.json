@@ -1,0 +1,91 @@
+{
+  "convocatoria": {
+    "orden": "Orden 1634/2026, de 30 de junio",
+    "bocm": "BOCM núm. 166, de 14 de julio de 2026",
+    "cuerpo": "Administrativos, Administración General, Grupo C, Subgrupo C1, Comunidad de Madrid",
+    "sistema": "Acceso libre — oposición",
+    "primer_ejercicio": "40 preguntas test + 5 reserva, 45 min, 4 opciones, error = -1/3 del valor de acierto",
+    "segundo_ejercicio": "2 supuestos prácticos de 15 preguntas cada uno, 45 min",
+    "tercer_ejercicio": "40 preguntas test + 5 reserva sobre Bloque V, 45 min, referidas a Windows 11 y Microsoft 365 escritorio",
+    "verificado_contra": "https://www.bocm.es/boletin/CM_Orden_BOCM/2026/07/14/BOCM-20260714-6.PDF"
+  },
+  "bloques": [
+    {
+      "bloque": 1,
+      "nombre": "Organización del Estado y Comunidad de Madrid",
+      "temas": [
+        "La Constitución Española de 1978",
+        "La Corona y las Cortes Generales",
+        "El Poder Judicial",
+        "El Gobierno y la Administración",
+        "Organización territorial del Estado",
+        "La Comunidad de Madrid (I)",
+        "La Comunidad de Madrid (II)",
+        "La Unión Europea"
+      ]
+    },
+    {
+      "bloque": 2,
+      "nombre": "Derecho Administrativo General",
+      "temas": [
+        "Fuentes del Derecho Administrativo",
+        "El órgano administrativo",
+        "Procedimiento Administrativo Común (I)",
+        "El acto administrativo",
+        "Procedimiento Administrativo Común (II)",
+        "Recursos administrativos y contencioso",
+        "Responsabilidad patrimonial",
+        "Potestad sancionadora",
+        "Expropiación forzosa",
+        "Contratos del sector público",
+        "Subvenciones públicas",
+        "Transparencia y buen gobierno",
+        "Igualdad de género",
+        "Administración electrónica",
+        "Documentos y archivo",
+        "Protección de datos"
+      ]
+    },
+    {
+      "bloque": 3,
+      "nombre": "Gestión de Recursos Humanos",
+      "temas": [
+        "Estatuto Básico del Empleado Público",
+        "Selección y provisión de puestos",
+        "Derechos y deberes",
+        "Situaciones administrativas",
+        "Personal laboral",
+        "El contrato de trabajo",
+        "Seguridad Social (I)",
+        "Seguridad Social (II)"
+      ]
+    },
+    {
+      "bloque": 4,
+      "nombre": "Gestión Financiera",
+      "temas": [
+        "Ingresos públicos y sistema tributario",
+        "Hacienda de la CM (I)",
+        "Hacienda de la CM (II)",
+        "Hacienda de la CM (III)",
+        "Hacienda de la CM (IV)",
+        "Retribuciones de funcionarios",
+        "Plan General de Contabilidad Pública"
+      ]
+    },
+    {
+      "bloque": 5,
+      "nombre": "Informática y Ofimática",
+      "temas": [
+        "Informática básica",
+        "Windows",
+        "Explorador de Windows",
+        "Word",
+        "Excel",
+        "Access y Power BI",
+        "Outlook",
+        "Trabajo colaborativo M365"
+      ]
+    }
+  ]
+}

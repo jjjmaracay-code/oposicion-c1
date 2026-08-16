@@ -1,0 +1,9 @@
+{
+  "name": "oposicion-c1-quiz",
+  "version": "0.1.0",
+  "private": true,
+  "description": "Plataforma de tests interactivos — Administrativo C1, Comunidad de Madrid",
+  "scripts": {
+    "validate": "node scripts/validate.js"
+  }
+}
