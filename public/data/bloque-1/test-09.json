@@ -1,0 +1,223 @@
+[
+{"id":"B1T09-001","bloque":1,"tema":9,"test":9,"dificultad":"facil",
+ "pregunta":"¿Cuál es la característica esencial de los Reglamentos de la Unión Europea, que los distingue del resto de actos legislativos?",
+ "opciones":{
+   "A":"Son vinculantes solo para los Estados miembros destinatarios específicos que menciona el acto",
+   "B":"Son directamente aplicables en todos los Estados miembros sin necesidad de transposición o desarrollo normativo nacional",
+   "C":"Obligan en cuanto al resultado, pero dejan a cada Estado la elección de la forma y los medios para alcanzarlo",
+   "D":"No son vinculantes y solo expresan la posición política de la UE sobre una materia determinada"
+ },"correcta":"B",
+ "explicacion":"El artículo 288 TFUE define los Reglamentos como actos de alcance general, obligatorios en todos sus elementos y directamente aplicables en cada Estado miembro. No precisan ninguna norma de transposición nacional: entran en vigor automáticamente en todos los EM desde su publicación en el Diario Oficial de la UE.",
+ "why":"La vinculación solo a destinatarios específicos (A) caracteriza a las Decisiones. La obligación en cuanto al resultado con libertad de forma y medios (C) define a las Directivas. La no vinculatoriedad (D) es propia de las Recomendaciones y los Dictámenes.",
+ "norma":"Tratado de Funcionamiento de la UE (TFUE)","articulo":"Art. 288 TFUE"},
+
+{"id":"B1T09-002","bloque":1,"tema":9,"test":9,"dificultad":"facil",
+ "pregunta":"¿En qué ciudad tiene su sede el Tribunal de Justicia de la Unión Europea (TJUE)?",
+ "opciones":{"A":"Bruselas (Bélgica)","B":"Estrasburgo (Francia)","C":"La Haya (Países Bajos)","D":"Luxemburgo"},"correcta":"D",
+ "explicacion":"El Tribunal de Justicia de la Unión Europea, que comprende el Tribunal de Justicia y el Tribunal General, tiene su sede en Luxemburgo. No debe confundirse con el Tribunal Europeo de Derechos Humanos (TEDH), que es un órgano del Consejo de Europa con sede en Estrasburgo.",
+ "why":"Bruselas es sede de la mayor parte de la Comisión y del Consejo. Estrasburgo acoge las sesiones plenarias del PE y el TEDH (Consejo de Europa, no UE). La Haya es sede de la Corte Internacional de Justicia de la ONU y del Tribunal Penal Internacional.",
+ "norma":"Protocolo sobre el Estatuto del TJUE","articulo":"Art. 19 TUE y Protocolo núm. 3"},
+
+{"id":"B1T09-003","bloque":1,"tema":9,"test":9,"dificultad":"facil",
+ "pregunta":"¿En qué ciudad tiene su sede el Banco Central Europeo (BCE)?",
+ "opciones":{"A":"Bruselas (Bélgica)","B":"París (Francia)","C":"Fráncfort del Meno (Alemania)","D":"Ámsterdam (Países Bajos)"},"correcta":"C",
+ "explicacion":"El Banco Central Europeo tiene su sede en Fráncfort del Meno (Alemania). Es la institución responsable de la política monetaria de la zona euro, con el objetivo principal de mantener la estabilidad de precios. Goza de independencia respecto de los gobiernos nacionales y de las demás instituciones de la UE.",
+ "why":"Bruselas es sede de la Comisión y el Consejo. París alberga la OCDE, no el BCE. Ámsterdam fue sede del Tribunal de Justicia en sus primeros años, pero hoy el BCE está en Fráncfort.",
+ "norma":"Protocolo sobre los Estatutos del Sistema Europeo de Bancos Centrales y del BCE","articulo":"Art. 282 TFUE"},
+
+{"id":"B1T09-004","bloque":1,"tema":9,"test":9,"dificultad":"facil",
+ "pregunta":"¿En qué se basa la ciudadanía de la Unión Europea, según el artículo 20 del TFUE?",
+ "opciones":{
+   "A":"En la residencia efectiva y continuada durante cinco años en el territorio de la UE",
+   "B":"En la posesión de la nacionalidad de un Estado miembro de la UE",
+   "C":"En la obtención de un permiso especial de ciudadanía europea expedido por la Comisión",
+   "D":"En la condición de contribuyente a los presupuestos de la UE a través de tributos nacionales"
+ },"correcta":"B",
+ "explicacion":"El artículo 20 TFUE establece que «es ciudadano de la Unión toda persona que ostente la nacionalidad de un Estado miembro». La ciudadanía de la UE es adicional y no sustituye a la ciudadanía nacional: se adquiere automáticamente por tener la nacionalidad de cualquier EM.",
+ "why":"La residencia de cinco años (A) otorga ciertos derechos de residencia pero no la ciudadanía de la UE. No existe ningún permiso especial de ciudadanía europea emitido por la Comisión (C). La condición de contribuyente (D) no es criterio de ciudadanía en ningún ordenamiento jurídico.",
+ "norma":"Tratado de Funcionamiento de la UE (TFUE)","articulo":"Art. 20 TFUE"},
+
+{"id":"B1T09-005","bloque":1,"tema":9,"test":9,"dificultad":"facil",
+ "pregunta":"¿En qué consiste el principio de subsidiariedad de la Unión Europea, según el artículo 5.3 TUE?",
+ "opciones":{
+   "A":"La UE solo actúa cuando los objetivos pueden ser alcanzados de forma más eficiente en el ámbito de la Unión que por los Estados miembros actuando por separado, en el ámbito no exclusivo",
+   "B":"Los Estados miembros siempre actúan antes que la UE; la UE es subsidiaria de los EM en todas las materias",
+   "C":"La UE actúa en lugar de los EM en todos los ámbitos sin excepción, con prioridad absoluta del Derecho de la Unión",
+   "D":"Las instituciones de la UE consultan a los Parlamentos nacionales antes de legislar, pero pueden actuar independientemente de su opinión"
+ },"correcta":"A",
+ "explicacion":"El principio de subsidiariedad (art. 5.3 TUE) establece que, en los ámbitos que no sean de la competencia exclusiva de la UE, esta solo interviene «en la medida en que los objetivos de la acción pretendida no puedan ser alcanzados de manera suficiente por los Estados miembros» pero sí pueden serlo, por razones de escala o efectos, a nivel de la Unión.",
+ "why":"La B invierte el principio: no se trata de que la UE sea siempre secundaria, sino de que solo actúa cuando su intervención aporta valor añadido. La C suprime el principio de subsidiariedad y describe el monismo absoluto del Derecho de la UE, que no es correcto. La D describe el mecanismo de control de subsidiariedad por Parlamentos nacionales (protocolo núm. 2), que es un procedimiento de control, no la definición del principio.",
+ "norma":"Tratado de la Unión Europea (TUE)","articulo":"Art. 5.3 TUE"},
+
+{"id":"B1T09-006","bloque":1,"tema":9,"test":9,"dificultad":"facil",
+ "pregunta":"¿Qué estatus jurídico adquirió la Carta de los Derechos Fundamentales de la Unión Europea con el Tratado de Lisboa?",
+ "opciones":{
+   "A":"Se convirtió en una declaración política sin valor jurídico vinculante",
+   "B":"Fue incorporada como anexo al TFUE con el mismo rango que los tratados",
+   "C":"Adquirió el mismo valor jurídico que los Tratados, pasando a ser jurídicamente vinculante",
+   "D":"Solo vincula a la Comisión y al Parlamento Europeo, no a los Estados miembros"
+ },"correcta":"C",
+ "explicacion":"El artículo 6.1 TUE, en la versión introducida por el Tratado de Lisboa, proclama que «la Unión reconoce los derechos, libertades y principios enunciados en la Carta de los Derechos Fundamentales de la Unión Europea [...], la cual tendrá el mismo valor jurídico que los Tratados». Antes de Lisboa, la Carta tenía una naturaleza política sin fuerza jurídica vinculante.",
+ "why":"Antes de Lisboa (A), la Carta era una declaración política; después, es jurídicamente vinculante. La Carta no fue incorporada como texto en el articulado del TFUE (B): el TUE simplemente le atribuye el mismo valor jurídico que los Tratados, por referencia. El ámbito de aplicación de la Carta se extiende a la acción de las instituciones de la UE y a los EM cuando aplican el Derecho de la Unión (D).",
+ "norma":"Tratado de la Unión Europea (TUE)","articulo":"Art. 6.1 TUE"},
+
+{"id":"B1T09-007","bloque":1,"tema":9,"test":9,"dificultad":"media",
+ "pregunta":"¿Cuál es la característica definitoria de las Directivas de la Unión Europea?",
+ "opciones":{
+   "A":"Son directamente aplicables en los EM sin transposición, igual que los Reglamentos",
+   "B":"Son vinculantes solo para los EM destinatarios específicos que las reciben y no tienen aplicación general",
+   "C":"Obligan a los Estados miembros en cuanto al resultado que debe alcanzarse, dejando a cada uno la elección de la forma y los medios",
+   "D":"No son vinculantes y solo expresan la posición política de la UE que los EM pueden seguir o no"
+ },"correcta":"C",
+ "explicacion":"El artículo 288 TFUE define la Directiva como el acto que «obligará al Estado miembro destinatario en cuanto al resultado que deba conseguirse, dejando, sin embargo, a las autoridades nacionales la elección de la forma y de los medios». Los EM deben transponer la Directiva al Derecho nacional en el plazo fijado.",
+ "why":"La aplicabilidad directa sin transposición (A) es la característica de los Reglamentos. La vinculación solo a destinatarios específicos (B) define a las Decisiones. La no vinculatoriedad (D) es propia de las Recomendaciones y los Dictámenes. Las Directivas siempre son vinculantes, aunque requieren transposición.",
+ "norma":"Tratado de Funcionamiento de la UE (TFUE)","articulo":"Art. 288 TFUE"},
+
+{"id":"B1T09-008","bloque":1,"tema":9,"test":9,"dificultad":"media",
+ "pregunta":"Entre los actos jurídicos de la UE contemplados en el artículo 288 TFUE, ¿cuáles NO son vinculantes para sus destinatarios?",
+ "opciones":{
+   "A":"Los Reglamentos y las Directivas","B":"Las Decisiones","C":"Las Recomendaciones y los Dictámenes","D":"Los Reglamentos y las Decisiones"},"correcta":"C",
+ "explicacion":"El artículo 288 TFUE establece que las Recomendaciones y los Dictámenes «no serán vinculantes». En cambio, los Reglamentos son directamente aplicables, las Directivas obligan en cuanto al resultado y las Decisiones son obligatorias para sus destinatarios.",
+ "why":"Los Reglamentos (A y D) son vinculantes en todos sus elementos. Las Decisiones (B) son vinculantes para aquellos a quienes están destinadas. Solo las Recomendaciones y Dictámenes carecen de fuerza jurídica vinculante.",
+ "norma":"Tratado de Funcionamiento de la UE (TFUE)","articulo":"Art. 288 TFUE"},
+
+{"id":"B1T09-009","bloque":1,"tema":9,"test":9,"dificultad":"media",
+ "pregunta":"¿Cuáles son las materias de competencia EXCLUSIVA de la Unión Europea enumeradas en el artículo 3 del TFUE?",
+ "opciones":{
+   "A":"Política exterior y de seguridad, agricultura, medio ambiente y política de cohesión",
+   "B":"Unión aduanera, normas de competencia del mercado interior, política monetaria de la eurozona, conservación de los recursos biológicos marinos y política comercial común",
+   "C":"Educación, salud, cultura, turismo y protección civil",
+   "D":"Política social, transportes, energía y espacio de libertad, seguridad y justicia"
+ },"correcta":"B",
+ "explicacion":"El artículo 3 TFUE enumera las competencias exclusivas de la UE: (a) la unión aduanera; (b) el establecimiento de las normas sobre competencia necesarias para el funcionamiento del mercado interior; (c) la política monetaria de los Estados miembros cuya moneda es el euro; (d) la conservación de los recursos biológicos marinos dentro de la política pesquera común; y (e) la política comercial común.",
+ "why":"La política exterior y la agricultura (A) son competencias compartidas, no exclusivas (en el caso de la política exterior y de seguridad común, se rige por reglas especiales). Educación, cultura y turismo (C) son competencias de apoyo o complementarias. Política social, transportes y energía (D) son competencias compartidas.",
+ "norma":"Tratado de Funcionamiento de la UE (TFUE)","articulo":"Art. 3 TFUE"},
+
+{"id":"B1T09-010","bloque":1,"tema":9,"test":9,"dificultad":"media",
+ "pregunta":"Las competencias compartidas entre la UE y los Estados miembros abarcan un amplio conjunto de materias. ¿Cuál de las siguientes es competencia COMPARTIDA?",
+ "opciones":{
+   "A":"La unión aduanera","B":"La política monetaria de la zona euro","C":"El mercado interior","D":"La política comercial común"},"correcta":"C",
+ "explicacion":"El artículo 4 TFUE incluye el mercado interior como competencia compartida entre la UE y los EM. En las competencias compartidas, tanto la UE como los EM pueden legislar, pero los EM solo pueden hacerlo en la medida en que la UE no haya ejercido su competencia (o haya decidido dejar de ejercerla).",
+ "why":"La unión aduanera (A), la política monetaria de la eurozona (B) y la política comercial común (D) son competencias exclusivas de la UE (art. 3 TFUE). El mercado interior, en cambio, figura expresamente en el art. 4.2.a TFUE como competencia compartida.",
+ "norma":"Tratado de Funcionamiento de la UE (TFUE)","articulo":"Art. 4 TFUE"},
+
+{"id":"B1T09-011","bloque":1,"tema":9,"test":9,"dificultad":"media",
+ "pregunta":"¿Cuáles son las competencias de apoyo, coordinación o complemento (art. 6 TFUE) de la Unión Europea? ¿En qué se diferencian de las competencias exclusivas y compartidas?",
+ "opciones":{
+   "A":"La UE puede legislar sobre esas materias sin limitación; los EM pierden la competencia cuando la UE actúa",
+   "B":"La UE puede llevar a cabo acciones de apoyo, coordinación o complemento, pero no puede sustituir la competencia de los EM mediante armonización legislativa",
+   "C":"La UE solo puede financiar programas en esas materias, sin poder emitir ningún tipo de acto jurídico",
+   "D":"Los EM están obligados a seguir las directivas de la UE en esas materias, aunque conserven su competencia legislativa"
+ },"correcta":"B",
+ "explicacion":"El artículo 6 TFUE incluye entre las competencias de apoyo o complemento materias como la protección y mejora de la salud humana, la industria, la cultura, el turismo, la educación y la formación profesional, y la protección civil. La peculiaridad es que la UE puede actuar, pero sus actos «no podrán conllevar armonización alguna de las disposiciones legales y reglamentarias de los Estados miembros».",
+ "why":"En las competencias de apoyo la UE no desplaza la competencia de los EM (A): los EM conservan plena capacidad legislativa. La UE sí puede emitir actos jurídicos en estas materias, no solo financiar (C): puede crear programas, directrices, etc. Pero esos actos no pueden armonizar las legislaciones nacionales (D no es correcta: las Directivas de armonización no se aplican a las competencias de apoyo).",
+ "norma":"Tratado de Funcionamiento de la UE (TFUE)","articulo":"Art. 6 TFUE"},
+
+{"id":"B1T09-012","bloque":1,"tema":9,"test":9,"dificultad":"media",
+ "pregunta":"La ciudadanía de la UE confiere el derecho de sufragio activo y pasivo en las elecciones municipales. ¿Bajo qué condición puede ejercerse ese derecho?",
+ "opciones":{
+   "A":"Solo si se reside en el Estado miembro del que se tiene la nacionalidad",
+   "B":"En el Estado miembro de residencia, aunque sea diferente del Estado miembro de la propia nacionalidad",
+   "C":"Solo si se lleva residiendo en el Estado miembro de acogida más de diez años",
+   "D":"Solo en los países cuyos Parlamentos nacionales hayan aprobado una ley específica reconociendo ese derecho"
+ },"correcta":"B",
+ "explicacion":"El artículo 22 TFUE reconoce a todo ciudadano de la UE el derecho a votar y a presentarse como candidato en las elecciones municipales del Estado miembro en que resida, «en las mismas condiciones que los nacionales de dicho Estado». No es necesario tener la nacionalidad de ese Estado ni haber residido un tiempo mínimo de diez años.",
+ "why":"Votar solo en el Estado de la propia nacionalidad (A) sería idéntico al sistema previo a la ciudadanía europea: la novedad es precisamente poder votar en el Estado de residencia. El requisito de diez años de residencia (C) no existe en el TFUE; las condiciones de ejercicio las fija el Estado de residencia dentro del marco del art. 22. Todos los EM están obligados por el TFUE sin necesidad de ley nacional específica (D).",
+ "norma":"Tratado de Funcionamiento de la UE (TFUE)","articulo":"Art. 22 TFUE"},
+
+{"id":"B1T09-013","bloque":1,"tema":9,"test":9,"dificultad":"media",
+ "pregunta":"¿En qué consiste el principio de proporcionalidad de la UE según el artículo 5.4 TUE?",
+ "opciones":{
+   "A":"Las instituciones de la UE deben repartir proporcionalmente las competencias entre los EM según su tamaño",
+   "B":"El contenido y la forma de la acción de la UE no excederán de lo necesario para alcanzar los objetivos de los Tratados",
+   "C":"Los actos de la UE deben ser adoptados proporcionalmente al número de votos a favor en el PE y el Consejo",
+   "D":"La UE debe asignar proporcionalmente el presupuesto entre los EM en función de su contribución al PIB europeo"
+ },"correcta":"B",
+ "explicacion":"El artículo 5.4 TUE establece que «en virtud del principio de proporcionalidad, el contenido y la forma de la acción de la Unión no excederán de lo necesario para alcanzar los objetivos de los Tratados». Este principio controla el alcance y la intensidad de las intervenciones de la UE, incluso cuando ya tiene competencia para actuar.",
+ "why":"El principio de proporcionalidad no regula el reparto de competencias entre EM (A), ni el procedimiento de votación (C), ni la distribución presupuestaria (D). Se refiere al grado de intervención: aunque la UE pueda actuar, no debe ir más allá de lo estrictamente necesario.",
+ "norma":"Tratado de la Unión Europea (TUE)","articulo":"Art. 5.4 TUE"},
+
+{"id":"B1T09-014","bloque":1,"tema":9,"test":9,"dificultad":"media",
+ "pregunta":"¿Cuál es la función de la cuestión prejudicial ante el Tribunal de Justicia de la UE (art. 267 TFUE)?",
+ "opciones":{
+   "A":"Permite a cualquier ciudadano de la UE recurrir directamente ante el TJUE cuando considera que un Estado miembro ha vulnerado sus derechos",
+   "B":"Permite a un órgano jurisdiccional nacional plantear al TJUE una cuestión sobre la interpretación o validez del Derecho de la UE cuando sea necesario para resolver el litigio pendiente",
+   "C":"Permite al TJUE anular directamente leyes nacionales que contradigan el Derecho de la UE, sin pasar por el juez nacional",
+   "D":"Permite a la Comisión Europea solicitar al TJUE que sancione a un EM por incumplimiento de los Tratados"
+ },"correcta":"B",
+ "explicacion":"El artículo 267 TFUE regula el procedimiento de remisión prejudicial (cuestión prejudicial): un órgano jurisdiccional nacional que duda sobre la interpretación o la validez de una norma de Derecho de la UE puede —y si es tribunal de última instancia, debe— suspender el proceso y plantear la cuestión al TJUE, que responde con una sentencia vinculante para el tribunal nacional.",
+ "why":"Los ciudadanos no pueden acudir directamente al TJUE mediante la cuestión prejudicial (A): solo los órganos jurisdiccionales pueden plantearla. El TJUE no anula leyes nacionales (C): declara la incompatibilidad del Derecho nacional con el Derecho de la UE, pero es el juez nacional quien aplica esa declaración. El procedimiento de infracción contra un EM (D) es diferente y se regula en los arts. 258-260 TFUE.",
+ "norma":"Tratado de Funcionamiento de la UE (TFUE)","articulo":"Art. 267 TFUE"},
+
+{"id":"B1T09-015","bloque":1,"tema":9,"test":9,"dificultad":"media",
+ "pregunta":"¿Cómo se aprueba el presupuesto anual de la Unión Europea?",
+ "opciones":{
+   "A":"Lo propone el Parlamento Europeo y lo aprueba el Consejo por unanimidad",
+   "B":"Lo elabora la Comisión, que lo adopta directamente sin intervención del PE ni del Consejo",
+   "C":"Lo elabora la Comisión; es adoptado conjuntamente por el Parlamento Europeo y el Consejo de la UE",
+   "D":"Lo elabora el Consejo Europeo y lo aprueba el Parlamento Europeo por mayoría de tres quintos"
+ },"correcta":"C",
+ "explicacion":"El procedimiento presupuestario anual de la UE (arts. 313-316 TFUE) coloca a la Comisión como elaboradora del proyecto de presupuesto, que después se adopta conjuntamente por el Parlamento Europeo y el Consejo de la UE. El PE tiene la última palabra sobre los gastos no obligatorios y puede rechazar el presupuesto en su conjunto.",
+ "why":"El PE no propone el presupuesto (A): lo propone la Comisión. La Comisión no aprueba el presupuesto directamente (B): es una autoridad de ejecución, no de decisión presupuestaria final. El Consejo Europeo no elabora el presupuesto anual (D): aprueba el Marco Financiero Plurianual por unanimidad, pero el presupuesto anual lo elabora la Comisión.",
+ "norma":"Tratado de Funcionamiento de la UE (TFUE)","articulo":"Arts. 313-316 TFUE"},
+
+{"id":"B1T09-016","bloque":1,"tema":9,"test":9,"dificultad":"media",
+ "pregunta":"¿Cuántos jueces componen el Tribunal de Justicia (la formación superior del TJUE) y qué otros miembros tiene ese órgano?",
+ "opciones":{
+   "A":"21 jueces y 8 Abogados Generales, elegidos por el Parlamento Europeo",
+   "B":"27 jueces (uno por Estado miembro) y 11 Abogados Generales, nombrados de común acuerdo por los Gobiernos de los EM",
+   "C":"15 jueces designados por el Consejo Europeo y sin Abogados Generales",
+   "D":"27 jueces y un número ilimitado de Abogados Generales según las necesidades de cada asunto"
+ },"correcta":"B",
+ "explicacion":"El Tribunal de Justicia (la formación superior del TJUE) cuenta con un juez por Estado miembro —actualmente 27— y 11 Abogados Generales, todos ellos nombrados de común acuerdo por los Gobiernos de los Estados miembros por períodos renovables de seis años. Los Abogados Generales emiten conclusiones motivadas e imparciales sobre los asuntos sometidos al Tribunal.",
+ "why":"21 jueces (A) sería un número inferior al de EM; el Tribunal tiene un juez por EM. Los jueces no son elegidos por el PE (A): los nombran los Gobiernos de los EM de común acuerdo. El número de Abogados Generales (11) sí está fijado en el Estatuto del TJUE; no es ilimitado (D).",
+ "norma":"Tratado de la Unión Europea (TUE) y Estatuto del TJUE","articulo":"Art. 19 TUE"},
+
+{"id":"B1T09-017","bloque":1,"tema":9,"test":9,"dificultad":"dificil",
+ "pregunta":"En el procedimiento legislativo ordinario (codecisión), ¿cuál es el papel de cada una de las tres instituciones principales (Comisión, Parlamento Europeo y Consejo de la UE)?",
+ "opciones":{
+   "A":"La Comisión legisla directamente; el PE y el Consejo solo pueden proponer enmiendas no vinculantes",
+   "B":"El Consejo propone; el PE aprueba o rechaza sin posibilidad de enmienda; la Comisión ejecuta",
+   "C":"La Comisión propone; el PE y el Consejo adoptan conjuntamente el acto legislativo, pudiendo pasar por hasta tres lecturas y una fase de conciliación",
+   "D":"El PE propone y aprueba en primera lectura; el Consejo puede vetar en segunda lectura; la Comisión da el visto bueno final"
+ },"correcta":"C",
+ "explicacion":"El procedimiento legislativo ordinario (art. 294 TFUE) asigna el monopolio de la iniciativa a la Comisión, que presenta la propuesta. El PE y el Consejo son los co-legisladores: adoptan el acto conjuntamente tras una, dos o (en caso de desacuerdo) tres lecturas, con posibilidad de Comité de Conciliación en la tercera. Si no hay acuerdo, la propuesta decae.",
+ "why":"La Comisión no adopta directamente actos legislativos (A). El Consejo no tiene la iniciativa legislativa (B): esa función es de la Comisión. El PE no tiene la iniciativa ni el Consejo un veto definitivo (D): el procedimiento es de codecisión real, con igualdad entre PE y Consejo.",
+ "norma":"Tratado de Funcionamiento de la UE (TFUE)","articulo":"Art. 294 TFUE"},
+
+{"id":"B1T09-018","bloque":1,"tema":9,"test":9,"dificultad":"dificil",
+ "pregunta":"¿Cuál es la diferencia esencial entre un Reglamento y una Directiva de la Unión Europea desde el punto de vista de su eficacia en el ordenamiento jurídico de los Estados miembros?",
+ "opciones":{
+   "A":"Los Reglamentos son actos de la UE de rango superior a las Directivas; las Directivas solo tienen valor orientativo",
+   "B":"Los Reglamentos son directamente aplicables sin necesidad de norma nacional de transposición; las Directivas obligan en cuanto al resultado pero exigen que los EM adopten una norma nacional que las incorpore a su ordenamiento interno",
+   "C":"Las Directivas son directamente aplicables; los Reglamentos requieren siempre una ley nacional para su desarrollo",
+   "D":"Reglamentos y Directivas son equivalentes; la diferencia es solo que las Directivas se dirigen solo a algunos EM y los Reglamentos a todos"
+ },"correcta":"B",
+ "explicacion":"La distinción clave entre Reglamentos y Directivas está en la forma de incorporarse al Derecho nacional. Los Reglamentos son directamente aplicables: producen efectos automáticamente en todos los EM desde su entrada en vigor, sin necesidad de acto de transposición. Las Directivas establecen un resultado que los EM deben alcanzar dentro de un plazo, pero dejan la elección de forma y medios al legislador nacional.",
+ "why":"La jerarquía de fuentes dentro del Derecho de la UE no clasifica los Reglamentos como superiores a las Directivas (A): ambos son Derecho derivado del mismo rango. La C invierte las características de ambos tipos de actos. La D confunde la distinción Reglamentos/Directivas con la distinción acto general/acto individual.",
+ "norma":"Tratado de Funcionamiento de la UE (TFUE)","articulo":"Art. 288 TFUE"},
+
+{"id":"B1T09-019","bloque":1,"tema":9,"test":9,"dificultad":"dificil",
+ "pregunta":"La agricultura es una de las políticas más antiguas de la UE. Sin embargo, desde el punto de vista de la distribución de competencias del artículo 4 TFUE, ¿qué tipo de competencia tiene la UE en materia agrícola?",
+ "opciones":{
+   "A":"Competencia exclusiva, porque la Política Agrícola Común (PAC) es una competencia que la UE ejerce íntegramente",
+   "B":"Competencia compartida, de modo que los EM pueden legislar en la medida en que la UE no haya ejercido su competencia",
+   "C":"Competencia de apoyo o complemento, en la que la UE no puede armonizar las legislaciones nacionales",
+   "D":"Competencia delegada ad hoc por los EM para cada reforma de la PAC, sin base en el Tratado"
+ },"correcta":"B",
+ "explicacion":"El artículo 4.2.d TFUE clasifica la agricultura y la pesca —salvo la conservación de los recursos biológicos marinos— como competencia compartida entre la UE y los EM. Aunque la PAC es una política muy integrada en la que la UE ejerce ampliamente su competencia, los EM pueden legislar en ámbitos en los que la UE no haya actuado o haya dejado de actuar.",
+ "why":"La agricultura no es exclusiva (A): la conservación de los recursos biológicos marinos sí lo es (art. 3.1.d TFUE), pero no la agricultura en general. No es competencia de apoyo (C): en las competencias de apoyo no puede haber armonización, y la PAC armoniza ampliamente. La delegación ad hoc (D) no existe como categoría en el TFUE.",
+ "norma":"Tratado de Funcionamiento de la UE (TFUE)","articulo":"Arts. 3 y 4 TFUE"},
+
+{"id":"B1T09-020","bloque":1,"tema":9,"test":9,"dificultad":"dificil",
+ "pregunta":"Un ciudadano español viaja a un país no perteneciente a la UE donde España no tiene embajada ni consulado. ¿Qué protección le reconoce la ciudadanía de la UE según el artículo 23 TFUE?",
+ "opciones":{
+   "A":"Puede acudir a la representación de cualquier otro Estado miembro de la UE para solicitar asistencia consular, en las mismas condiciones que los nacionales de ese Estado",
+   "B":"Puede acudir a la sede de la Comisión Europea en ese país, que tiene misiones diplomáticas en todos los países del mundo",
+   "C":"No tiene derecho a protección consular de la UE; debe reclamar asistencia a su Gobierno por medios propios",
+   "D":"Puede acudir únicamente a la embajada del Estado miembro con el que comparte frontera terrestre, por razones de proximidad geográfica"
+ },"correcta":"A",
+ "explicacion":"El artículo 23 TFUE reconoce a todo ciudadano de la UE que se encuentre en el territorio de un tercer país donde el Estado miembro del que es nacional no tenga representación el derecho a acogerse a la protección de las autoridades diplomáticas y consulares de cualquier Estado miembro, en las mismas condiciones que los nacionales de ese Estado.",
+ "why":"La Comisión no tiene misiones consulares que presten asistencia individual a los ciudadanos (B): las delegaciones de la UE en terceros países realizan funciones diplomáticas generales, no protección consular individual. La ausencia de protección (C) contradice expresamente el art. 23 TFUE. El criterio de frontera geográfica (D) no existe en el ordenamiento europeo.",
+ "norma":"Tratado de Funcionamiento de la UE (TFUE)","articulo":"Art. 23 TFUE"}
+]
