@@ -1,0 +1,221 @@
+[
+{"id":"B1T08-001","bloque":1,"tema":8,"test":8,"dificultad":"facil",
+ "pregunta":"¿Cuándo entró en vigor el Tratado de Lisboa?",
+ "opciones":{"A":"El 13 de diciembre de 2007","B":"El 1 de enero de 2009","C":"El 1 de diciembre de 2009","D":"El 1 de enero de 2010"},"correcta":"C",
+ "explicacion":"El Tratado de Lisboa fue firmado el 13 de diciembre de 2007, pero entró en vigor el 1 de diciembre de 2009, tras ser ratificado por todos los Estados miembros, siendo Irlanda (que celebró dos referéndums) y la República Checa los últimos en ratificarlo.",
+ "why":"La fecha de firma (13 diciembre 2007, opción A) se confunde fácilmente con la de entrada en vigor. El 1 de enero de 2009 (B) y el 1 de enero de 2010 (D) no corresponden a ningún hito relevante del Tratado de Lisboa.",
+ "norma":"Tratado de Lisboa (TUE y TFUE, versión consolidada)","articulo":"Preámbulo y Disposición final del Tratado"},
+
+{"id":"B1T08-002","bloque":1,"tema":8,"test":8,"dificultad":"facil",
+ "pregunta":"¿Cuántos Estados miembros integran actualmente la Unión Europea?",
+ "opciones":{"A":"25","B":"27","C":"28","D":"30"},"correcta":"B",
+ "explicacion":"La UE cuenta con 27 Estados miembros tras la salida del Reino Unido, que abandonó formalmente la Unión el 31 de enero de 2020 (Brexit). El número 28 corresponde a la composición previa al Brexit.",
+ "why":"25 EM es la composición de 2004-2006 (antes de las adhesiones de Bulgaria y Rumanía). 28 EM es la composición antes del Brexit. 30 EM superaría la composición actual. El dato actual es 27.",
+ "norma":"Tratado de la Unión Europea (TUE)","articulo":"Composición actual de la UE"},
+
+{"id":"B1T08-003","bloque":1,"tema":8,"test":8,"dificultad":"facil",
+ "pregunta":"¿Cuántos miembros tiene el Parlamento Europeo en la legislatura 2024-2029?",
+ "opciones":{"A":"705","B":"720","C":"736","D":"751"},"correcta":"B",
+ "explicacion":"El Parlamento Europeo para la legislatura 2024-2029, elegido en junio de 2024, tiene 720 eurodiputados, conforme a la Decisión UE 2023/2061. El Tratado de Lisboa fija en 751 el número máximo, pero el Consejo Europeo puede adoptar decisiones que se sitúen por debajo de ese máximo.",
+ "why":"705 era la composición de la legislatura 2019-2024. 736 correspondía a la legislatura previa. 751 es el máximo establecido en el art. 14.2 TUE, pero la composición concreta de cada legislatura la fija el Consejo Europeo; para 2024-2029 es 720.",
+ "norma":"TUE art. 14.2 y Decisión UE 2023/2061","articulo":"Art. 14.2 TUE"},
+
+{"id":"B1T08-004","bloque":1,"tema":8,"test":8,"dificultad":"facil",
+ "pregunta":"La Comisión Europea ejerce el derecho de iniciativa legislativa en el procedimiento ordinario. ¿Qué significa esto?",
+ "opciones":{
+   "A":"Puede adoptar directamente actos legislativos sin pasar por el Parlamento Europeo ni el Consejo",
+   "B":"Es, con carácter general, el único órgano que puede proponer formalmente proyectos de legislación al Parlamento Europeo y al Consejo",
+   "C":"Puede imponer legislación de urgencia sin necesidad de que la aprueben el Parlamento ni el Consejo",
+   "D":"Comparte el derecho de iniciativa en igualdad con el Parlamento Europeo y con el Consejo"
+ },"correcta":"B",
+ "explicacion":"En el procedimiento legislativo ordinario de la UE, la Comisión Europea tiene el monopolio de la iniciativa legislativa: es el único órgano que puede presentar formalmente propuestas de Reglamentos o Directivas ante el Parlamento Europeo y el Consejo. Estos dos órganos co-deciden, pero no pueden iniciar el proceso sin propuesta de la Comisión (salvo excepciones).",
+ "why":"La Comisión no adopta actos legislativos directamente (A): esa función corresponde al PE y al Consejo. No puede imponer legislación de urgencia por su cuenta (C). El PE puede solicitar a la Comisión que presente propuestas, pero la iniciativa formal es de la Comisión, no un derecho compartido en igualdad (D).",
+ "norma":"Tratado de Funcionamiento de la UE (TFUE)","articulo":"Art. 17.2 TUE"},
+
+{"id":"B1T08-005","bloque":1,"tema":8,"test":8,"dificultad":"facil",
+ "pregunta":"¿Cuánto dura el mandato del Presidente del Consejo Europeo y cuántas veces puede renovarse?",
+ "opciones":{
+   "A":"Cinco años, renovable indefinidamente",
+   "B":"Dos años y medio (treinta meses), renovable una sola vez",
+   "C":"Cuatro años, renovable una sola vez",
+   "D":"Dos años y medio, no renovable"
+ },"correcta":"B",
+ "explicacion":"El artículo 15.5 TUE establece que el Presidente del Consejo Europeo es elegido por mayoría cualificada del Consejo Europeo para un mandato de dos años y medio (30 meses), renovable una sola vez. Además, no puede ejercer ningún mandato nacional durante su cargo.",
+ "why":"Cinco años (A) es el mandato de la Comisión y del Parlamento Europeo, no del Presidente del Consejo Europeo. El mandato de cuatro años (C) no corresponde a ningún cargo de esta institución. La no renovabilidad (D) haría el mandato más corto que el de la propia Comisión y no reproduce el texto del TUE.",
+ "norma":"Tratado de la Unión Europea (TUE)","articulo":"Art. 15.5 TUE"},
+
+{"id":"B1T08-006","bloque":1,"tema":8,"test":8,"dificultad":"facil",
+ "pregunta":"¿Cuántos miembros componen la Comisión Europea y cuál es la duración de su mandato?",
+ "opciones":{
+   "A":"27 miembros con un mandato de cuatro años",
+   "B":"27 miembros con un mandato de cinco años",
+   "C":"Un número variable según las materias, con mandato de tres años",
+   "D":"30 miembros con un mandato de cinco años"
+ },"correcta":"B",
+ "explicacion":"La Comisión Europea está compuesta por 27 miembros —uno por cada Estado miembro— y su mandato es de cinco años, coincidiendo con el de la legislatura del Parlamento Europeo. El Tratado de Lisboa confirmó un comisario por Estado miembro.",
+ "why":"Cuatro años (A) es el mandato del Parlamento nacional español, no de la Comisión. El número variable de comisarios (C) fue una propuesta descartada del Tratado de Lisboa, que finalmente mantuvo un comisario por EM. 30 miembros (D) superan los 27 Estados miembros actuales.",
+ "norma":"Tratado de la Unión Europea (TUE)","articulo":"Art. 17.3 y 17.4 TUE"},
+
+{"id":"B1T08-007","bloque":1,"tema":8,"test":8,"dificultad":"media",
+ "pregunta":"¿Cuál es la composición exacta del Consejo Europeo según el artículo 15.2 del TUE?",
+ "opciones":{
+   "A":"Los ministros de Asuntos Exteriores de los 27 Estados miembros y el Alto Representante para Asuntos Exteriores",
+   "B":"Los jefes de Estado o de Gobierno de los 27 Estados miembros, el Presidente del Consejo Europeo y el Presidente del Parlamento Europeo",
+   "C":"Los jefes de Estado o de Gobierno de los 27 Estados miembros y el Presidente de la Comisión",
+   "D":"Los jefes de Estado o de Gobierno de los 27 Estados miembros, el Presidente de la Comisión y los Presidentes del Parlamento y del Tribunal de Justicia"
+ },"correcta":"C",
+ "explicacion":"El artículo 15.2 TUE establece que el Consejo Europeo estará compuesto por los jefes de Estado o de Gobierno de los Estados miembros y el Presidente de la Comisión. El Alto Representante participa en sus trabajos pero no es miembro con el mismo estatus. El Consejo Europeo también tiene su propio Presidente (art. 15.5 TUE).",
+ "why":"Los ministros de Asuntos Exteriores (A) integran el Consejo de la UE en su configuración de Asuntos Exteriores, no el Consejo Europeo. El Presidente del PE (B) asiste a las reuniones del Consejo Europeo para ser escuchado, pero no es miembro de esta institución. El Presidente del TJUE (D) no interviene en el Consejo Europeo.",
+ "norma":"Tratado de la Unión Europea (TUE)","articulo":"Art. 15.2 TUE"},
+
+{"id":"B1T08-008","bloque":1,"tema":8,"test":8,"dificultad":"media",
+ "pregunta":"Según el artículo 16.4 TUE, ¿qué requisitos deben cumplirse simultáneamente para que una propuesta se apruebe en el Consejo de la UE por mayoría cualificada en el procedimiento estándar?",
+ "opciones":{
+   "A":"Mayoría absoluta de los Estados miembros y mayoría absoluta de la población de la UE",
+   "B":"El 55% de los miembros del Consejo (al menos 15 de 27) y el 65% de la población total de la UE",
+   "C":"Unanimidad de los Estados miembros o, al menos, el 80% de votos ponderados según la población",
+   "D":"El 60% de los Estados miembros y el 60% de la población de la UE"
+ },"correcta":"B",
+ "explicacion":"El artículo 16.4 TUE define la mayoría cualificada como la que reúne simultáneamente el voto favorable de al menos el 55% de los miembros del Consejo —que, con 27 EM, significa un mínimo de 15 Estados— y la representación de al menos el 65% de la población total de la UE.",
+ "why":"La mayoría absoluta (A) sería el 50%+1, no el 55%. La unanimidad (C) es la regla de algunos ámbitos especiales (PESC, fiscalidad) pero no la regla general. El 60%/60% (D) no reproduce el texto literal del TUE, que fija el 55% para los Estados y el 65% para la población.",
+ "norma":"Tratado de la Unión Europea (TUE)","articulo":"Art. 16.4 TUE"},
+
+{"id":"B1T08-009","bloque":1,"tema":8,"test":8,"dificultad":"media",
+ "pregunta":"¿Cómo funciona la presidencia del Consejo de la Unión Europea y cuál es su duración?",
+ "opciones":{
+   "A":"La ejerce permanentemente el Estado miembro con mayor población; dura toda la legislatura",
+   "B":"La ostentan rotatoriamente los Estados miembros por períodos de seis meses",
+   "C":"La ejerce permanentemente el Presidente del Consejo Europeo, que también preside el Consejo de la UE",
+   "D":"La ostentan grupos de dos Estados miembros por períodos de un año, presidiendo cada uno seis meses"
+ },"correcta":"B",
+ "explicacion":"La presidencia del Consejo de la UE es rotatoria: cada Estado miembro la ejerce por un período de seis meses. Desde 2009 los presidentes se organizan en grupos de tres Estados (trío de presidencias) que comparten programas de 18 meses, pero cada uno preside durante sus seis meses. La única excepción es el Consejo de Asuntos Exteriores, presidido permanentemente por el Alto Representante.",
+ "why":"Presidencia según población (A) no existe en el sistema de la UE. El Presidente del Consejo Europeo (C) preside esa institución pero no el Consejo de Ministros. Los grupos de dos Estados (D) reflejan confusamente el sistema del trío de presidencias: el grupo es de tres EM (18 meses) pero cada uno preside individualmente 6 meses.",
+ "norma":"Tratado de la Unión Europea (TUE)","articulo":"Art. 16.9 TUE"},
+
+{"id":"B1T08-010","bloque":1,"tema":8,"test":8,"dificultad":"media",
+ "pregunta":"¿Cuántas configuraciones tiene el Consejo de la Unión Europea y cuáles son las que se reúnen con mayor frecuencia?",
+ "opciones":{
+   "A":"6 configuraciones; las más frecuentes son Asuntos Generales, Asuntos Exteriores y Justicia e Interior",
+   "B":"10 configuraciones; las más frecuentes son Asuntos Generales, Asuntos Exteriores y Asuntos Económicos y Financieros (ECOFIN)",
+   "C":"4 configuraciones, una por gran área temática (política exterior, economía, interior y competitividad)",
+   "D":"27 configuraciones, una por Estado miembro presidente de turno"
+ },"correcta":"B",
+ "explicacion":"El Consejo de la UE tiene 10 configuraciones, que agrupan a los ministros nacionales competentes según la materia a tratar. Las que se reúnen con mayor periodicidad son el Consejo de Asuntos Generales, el de Asuntos Exteriores (presidido por el Alto Representante) y el ECOFIN (Asuntos Económicos y Financieros).",
+ "why":"6 configuraciones (A) son insuficientes; hay 10. Las 4 grandes áreas (C) es una simplificación incorrecta. Las 27 configuraciones (D) confunden el número de presidencias rotatorias con el número de formaciones del Consejo.",
+ "norma":"Tratado de la Unión Europea (TUE) y Reglamento interno del Consejo","articulo":"Art. 16.6 TUE"},
+
+{"id":"B1T08-011","bloque":1,"tema":8,"test":8,"dificultad":"media",
+ "pregunta":"¿Qué es el COREPER y cuál es su función en el sistema institucional de la UE?",
+ "opciones":{
+   "A":"El Comité de Regiones y Pueblos Europeos; asesora al Consejo en materia de política regional",
+   "B":"El Comité de Representantes Permanentes; prepara los trabajos del Consejo de la UE y ejecuta los mandatos que éste le confía",
+   "C":"El Comité de Coordinación Económica y Presupuestaria; gestiona el presupuesto anual de la UE",
+   "D":"El Comité de Representantes del Parlamento Europeo; enlaza entre el PE y el Consejo en el procedimiento de codecisión"
+ },"correcta":"B",
+ "explicacion":"El COREPER (Comité de Representantes Permanentes) está formado por los embajadores de los Estados miembros ante la UE. Prepara los trabajos de todas las sesiones del Consejo, distinguiéndose entre el COREPER I (embajadores adjuntos, que se ocupa de asuntos técnicos) y el COREPER II (embajadores plenos, que trata la 'alta política').",
+ "why":"El Comité de las Regiones (CdR) es un órgano consultivo diferente del COREPER. El COREPER no gestiona el presupuesto (C): eso corresponde a la Comisión con control del PE y el Consejo. No representa al PE (D): es un órgano del Consejo, compuesto por representantes de los EM.",
+ "norma":"Tratado de Funcionamiento de la UE (TFUE)","articulo":"Art. 240 TFUE"},
+
+{"id":"B1T08-012","bloque":1,"tema":8,"test":8,"dificultad":"media",
+ "pregunta":"¿Qué función principal atribuye el artículo 15.1 TUE al Consejo Europeo y qué función NO le corresponde?",
+ "opciones":{
+   "A":"Define las orientaciones y prioridades políticas generales de la UE; sí ejerce función legislativa ordinaria junto al Consejo de Ministros",
+   "B":"Da a la Unión los impulsos necesarios para su desarrollo y define sus orientaciones y prioridades políticas generales; NO ejerce función legislativa",
+   "C":"Coordina la política exterior de los Estados miembros; ejerce función legislativa en materia de política económica",
+   "D":"Gestiona el presupuesto plurianual de la UE; no interviene en las negociaciones de los tratados"
+ },"correcta":"B",
+ "explicacion":"El artículo 15.1 TUE establece que el Consejo Europeo «dará a la Unión los impulsos necesarios para su desarrollo y definirá sus orientaciones y prioridades políticas generales» y precisa expresamente que «no ejercerá función legislativa». La función legislativa corresponde al Parlamento Europeo y al Consejo de la UE.",
+ "why":"La opción A contradice el propio TUE al atribuir función legislativa al Consejo Europeo. La C confunde la función del Consejo Europeo con la del Consejo de la UE en PESC. La D atribuye la gestión del presupuesto plurianual al Consejo Europeo, cuando esta función es del PE y el Consejo, aunque el Consejo Europeo adopta el marco financiero plurianual por unanimidad.",
+ "norma":"Tratado de la Unión Europea (TUE)","articulo":"Art. 15.1 TUE"},
+
+{"id":"B1T08-013","bloque":1,"tema":8,"test":8,"dificultad":"media",
+ "pregunta":"¿Cuál es el mandato del Parlamento Europeo y cómo son elegidos sus miembros?",
+ "opciones":{
+   "A":"Cuatro años; elegidos por los Parlamentos nacionales de los Estados miembros",
+   "B":"Cinco años; elegidos por sufragio universal directo por los ciudadanos de la UE",
+   "C":"Cinco años; designados por los Gobiernos de los Estados miembros en proporción a su tamaño",
+   "D":"Tres años; elegidos por sufragio universal directo, renovándose por tercios cada año"
+ },"correcta":"B",
+ "explicacion":"El Parlamento Europeo tiene un mandato de cinco años y sus miembros son elegidos por sufragio universal directo por los ciudadanos de la Unión Europea. Desde las primeras elecciones directas al PE en 1979, todos los ciudadanos europeos pueden votar en las elecciones europeas en el Estado miembro en el que residan.",
+ "why":"Los parlamentarios europeos no son elegidos por los Parlamentos nacionales (A) —eso sería sufragio indirecto— ni designados por los Gobiernos (C). El mandato de tres años (D) con renovación por tercios corresponde a la dinámica del Senado de EE.UU., no al PE europeo.",
+ "norma":"Tratado de la Unión Europea (TUE)","articulo":"Art. 14.3 TUE"},
+
+{"id":"B1T08-014","bloque":1,"tema":8,"test":8,"dificultad":"media",
+ "pregunta":"¿Cuál es la función del Parlamento Europeo en el proceso de nombramiento de la Comisión Europea?",
+ "opciones":{
+   "A":"Propone los candidatos a la Comisión y el Consejo Europeo los aprueba por unanimidad",
+   "B":"Ratifica la composición de la Comisión por mayoría simple de los votos emitidos",
+   "C":"Elige al Presidente de la Comisión y aprueba el nombramiento del Colegio de Comisarios",
+   "D":"Solo tiene función consultiva; el Consejo Europeo nombra la Comisión sin necesidad de aprobación parlamentaria"
+ },"correcta":"C",
+ "explicacion":"El PE desempeña un papel fundamental: primero elige al Presidente de la Comisión (por mayoría de sus miembros, una vez propuesto por el Consejo Europeo) y posteriormente aprueba el nombramiento del Colegio de Comisarios en su conjunto mediante un voto de aprobación. Si el PE rechaza el Colegio, el Consejo Europeo debe proponer uno nuevo.",
+ "why":"El PE no propone los candidatos (A): los EM proponen los comisarios. El PE no ratifica por mayoría simple de votos emitidos (B): el Presidente se elige por mayoría de los miembros del PE (mayoría absoluta), y el Colegio también requiere un voto de aprobación. El PE tiene función decisiva, no meramente consultiva (D).",
+ "norma":"Tratado de la Unión Europea (TUE)","articulo":"Art. 17.7 TUE"},
+
+{"id":"B1T08-015","bloque":1,"tema":8,"test":8,"dificultad":"media",
+ "pregunta":"¿Qué tratado convirtió al Consejo Europeo en una institución de pleno derecho de la UE, con un Presidente permanente propio?",
+ "opciones":{"A":"El Tratado de Maastricht (1992)","B":"El Tratado de Ámsterdam (1997)","C":"El Tratado de Niza (2001)","D":"El Tratado de Lisboa (2009)"},"correcta":"D",
+ "explicacion":"El Tratado de Lisboa (en vigor desde el 1 de diciembre de 2009) convirtió al Consejo Europeo en una institución de pleno derecho de la UE, enumerada en el artículo 13 TUE, y creó la figura del Presidente permanente del Consejo Europeo, elegido por los propios miembros del Consejo Europeo por mayoría cualificada.",
+ "why":"El Tratado de Maastricht (A) creó la estructura de tres pilares y la ciudadanía de la UE, pero el Consejo Europeo ya existía informalmente. Ámsterdam (B) y Niza (C) reformaron aspectos institucionales, pero no elevaron el Consejo Europeo a institución con Presidente permanente. Esa fue la aportación específica de Lisboa.",
+ "norma":"Tratado de Lisboa (TUE reformado)","articulo":"Art. 13 y 15 TUE"},
+
+{"id":"B1T08-016","bloque":1,"tema":8,"test":8,"dificultad":"media",
+ "pregunta":"¿Qué institución de la UE preside de forma permanente el Consejo de Asuntos Exteriores, sin seguir la presidencia rotatoria semestral?",
+ "opciones":{
+   "A":"El Presidente del Consejo Europeo",
+   "B":"El Presidente de la Comisión Europea",
+   "C":"El Alto Representante de la Unión para Asuntos Exteriores y Política de Seguridad",
+   "D":"El Ministro de Asuntos Exteriores del Estado miembro que ostente la presidencia rotatoria"
+ },"correcta":"C",
+ "explicacion":"El Consejo de Asuntos Exteriores es la única configuración del Consejo de la UE que no sigue la presidencia rotatoria semestral: es presidida permanentemente por el Alto Representante de la Unión para Asuntos Exteriores y Política de Seguridad (AR), que también es Vicepresidente de la Comisión (el llamado «doble sombrero»).",
+ "why":"El Presidente del Consejo Europeo (A) preside esa institución, no el Consejo de Ministros. El Presidente de la Comisión (B) no preside el Consejo. El ministro de turno del país con presidencia rotatoria (D) preside todas las demás configuraciones del Consejo, pero no la de Asuntos Exteriores.",
+ "norma":"Tratado de la Unión Europea (TUE)","articulo":"Art. 18.3 TUE"},
+
+{"id":"B1T08-017","bloque":1,"tema":8,"test":8,"dificultad":"dificil",
+ "pregunta":"¿Cuál es la diferencia esencial entre el Consejo Europeo y el Consejo de la Unión Europea en cuanto a su composición, función y regla de votación habitual?",
+ "opciones":{
+   "A":"Ambos están compuestos por jefes de Estado o de Gobierno; se diferencian solo en que el Consejo Europeo adopta normas legislativas y el Consejo de la UE no",
+   "B":"El Consejo Europeo está compuesto por jefes de Estado o de Gobierno y define orientaciones políticas generales sin función legislativa; el Consejo de la UE está compuesto por ministros sectoriales y es co-legislador; el Consejo Europeo decide por consenso y el Consejo por mayoría cualificada como regla general",
+   "C":"Ambos tienen función legislativa; el Consejo Europeo legisla por unanimidad y el Consejo de la UE por mayoría cualificada",
+   "D":"El Consejo de la UE está compuesto por jefes de Estado o de Gobierno y define la dirección política; el Consejo Europeo está compuesto por ministros y ejerce la función legislativa"
+ },"correcta":"B",
+ "explicacion":"Son dos instituciones distintas: el Consejo Europeo (art. 15 TUE) reúne a los jefes de Estado o de Gobierno, define orientaciones políticas generales y decide por consenso (sin función legislativa). El Consejo de la UE (art. 16 TUE) está formado por un ministro sectorial de cada EM, es co-legislador junto al PE, y adopta la mayoría de sus decisiones por mayoría cualificada.",
+ "why":"A atribuye función legislativa al Consejo Europeo, que el TUE excluye expresamente. C también atribuye incorrectamente función legislativa al Consejo Europeo. D invierte completamente las composiciones y funciones de ambas instituciones.",
+ "norma":"Tratado de la Unión Europea (TUE)","articulo":"Arts. 15 y 16 TUE"},
+
+{"id":"B1T08-018","bloque":1,"tema":8,"test":8,"dificultad":"dificil",
+ "pregunta":"La mayoría cualificada «reforzada» en el Consejo de la UE se aplica cuando la propuesta no procede de la Comisión Europea ni del Alto Representante. ¿Qué umbral exige?",
+ "opciones":{
+   "A":"El 55% de los miembros del Consejo y el 65% de la población (igual que la mayoría cualificada estándar)",
+   "B":"El 72% de los miembros del Consejo (mínimo 20 de 27) y el 65% de la población de la UE",
+   "C":"La unanimidad de todos los miembros del Consejo",
+   "D":"El 66% de los miembros del Consejo y el 50% de la población de la UE"
+ },"correcta":"B",
+ "explicacion":"Cuando la propuesta no procede de la Comisión Europea ni del Alto Representante, el Consejo puede adoptarla por «mayoría cualificada reforzada»: requiere el 72% de los miembros del Consejo —al menos 20 de 27— y la representación del 65% de la población de la UE. Se aplica, por ejemplo, a las propuestas de iniciativa de los propios Estados miembros en el espacio de libertad, seguridad y justicia.",
+ "why":"El 55%/65% (A) es la mayoría cualificada estándar, que se aplica cuando la propuesta viene de la Comisión o el AR. La unanimidad (C) se requiere en materias específicas (PESC, fiscalidad), no en general. El 66%/50% (D) no corresponde a ningún umbral del TUE.",
+ "norma":"Tratado de la Unión Europea (TUE)","articulo":"Art. 16.4 TUE"},
+
+{"id":"B1T08-019","bloque":1,"tema":8,"test":8,"dificultad":"dificil",
+ "pregunta":"El artículo 14.2 TUE fija un techo máximo para la composición del Parlamento Europeo. ¿Cuál es ese máximo y cómo se relaciona con el número de eurodiputados de la legislatura 2024-2029?",
+ "opciones":{
+   "A":"El máximo es 751 según el TUE; la legislatura 2024-2029 tiene 720 eurodiputados, por decisión del Consejo Europeo, dentro de ese máximo",
+   "B":"El máximo es 751 según el TUE; la legislatura 2024-2029 también tiene 751, alcanzando el límite del Tratado",
+   "C":"El TUE no fija un máximo; el número de eurodiputados lo determina libremente el Consejo Europeo en cada legislatura",
+   "D":"El máximo es 700 según el TUE; la legislatura 2024-2029 tiene 720, superando el límite del Tratado tras una reforma"
+ },"correcta":"A",
+ "explicacion":"El artículo 14.2 TUE establece que el PE «no excederá de 751 miembros». Para la legislatura 2024-2029, el Consejo Europeo, mediante la Decisión UE 2023/2061, fijó la composición en 720 eurodiputados, cifra inferior al máximo del Tratado.",
+ "why":"La B sería incorrecta porque la legislatura 2024-2029 tiene 720, no 751. La C niega el límite constitutivo del Tratado, que sí existe. La D inventa un máximo de 700 y afirma que se superó, cuando en realidad 720 está por debajo del máximo de 751.",
+ "norma":"Tratado de la Unión Europea (TUE) y Decisión UE 2023/2061","articulo":"Art. 14.2 TUE"},
+
+{"id":"B1T08-020","bloque":1,"tema":8,"test":8,"dificultad":"dificil",
+ "pregunta":"¿Qué mayoría necesita el Parlamento Europeo para elegir al candidato propuesto por el Consejo Europeo a la Presidencia de la Comisión Europea, según el artículo 17.7 TUE?",
+ "opciones":{
+   "A":"Mayoría simple de los votos emitidos en la sesión plenaria",
+   "B":"Mayoría de dos tercios de los eurodiputados",
+   "C":"Mayoría de los miembros que componen el Parlamento Europeo (mayoría absoluta de todos los eurodiputados)",
+   "D":"Mayoría de tres quintos de los eurodiputados presentes"
+ },"correcta":"C",
+ "explicacion":"El artículo 17.7 TUE establece que el PE elegirá al candidato propuesto por el Consejo Europeo «por mayoría de los miembros que lo componen». Esto significa una mayoría absoluta de la totalidad de los eurodiputados (en la actualidad, más de 360 de 720), no una mayoría simple de los presentes ni una mayoría de dos tercios.",
+ "why":"La mayoría simple de votos emitidos (A) sería más fácil de alcanzar: se calcula solo sobre quienes votan, no sobre el total. Los dos tercios (B) son un umbral más elevado que el exigido por el TUE. Los tres quintos de los presentes (D) también es una construcción que no reproduce el texto del art. 17.7 TUE, que habla de mayoría de «los miembros que lo componen».",
+ "norma":"Tratado de la Unión Europea (TUE)","articulo":"Art. 17.7 TUE"}
+]
