@@ -1,0 +1,382 @@
+[
+  {
+    "id": "B2T13-001",
+    "bloque": 2,
+    "tema": 13,
+    "test": 13,
+    "dificultad": "facil",
+    "pregunta": "Según el art. 2 de la Ley 39/2015, ¿cuáles de las siguientes entidades tienen la consideración de Administraciones Públicas a efectos de la ley?",
+    "opciones": {
+      "A": "La AGE, las CCAA, las entidades locales y todas las entidades del sector público, incluidas las de derecho privado.",
+      "B": "La AGE, las CCAA, las entidades locales y los organismos públicos y entidades de derecho público vinculados o dependientes de ellas.",
+      "C": "Únicamente la Administración General del Estado y las Comunidades Autónomas.",
+      "D": "Solo las entidades que forman parte de la Administración General del Estado."
+    },
+    "correcta": "B",
+    "explicacion": "El art. 2 L39/2015 diferencia entre el 'sector público' (más amplio) y las 'Administraciones Públicas' (más restringido). Son AAPP: la AGE, las CCAA, las entidades locales y los organismos públicos y entidades de derecho público vinculados o dependientes. Las entidades de derecho privado solo se rigen por la ley cuando ejercen potestades administrativas.",
+    "why": "A es incorrecta porque las entidades de derecho privado no tienen la consideración de AAPP aunque pertenezcan al sector público. C y D restringen el concepto de AAPP, excluyendo a las entidades locales y organismos públicos.",
+    "norma": "Ley 39/2015",
+    "articulo": "2"
+  },
+  {
+    "id": "B2T13-002",
+    "bloque": 2,
+    "tema": 13,
+    "test": 13,
+    "dificultad": "facil",
+    "pregunta": "Si la norma reguladora de un procedimiento no establece plazo máximo de resolución, ¿cuál se aplica por defecto según el art. 21 de la Ley 39/2015?",
+    "opciones": {
+      "A": "Seis meses.",
+      "B": "Un mes.",
+      "C": "Tres meses.",
+      "D": "El que determine la Administración competente en cada caso."
+    },
+    "correcta": "C",
+    "explicacion": "El art. 21 L39/2015 establece que, cuando la norma reguladora no fija plazo, el máximo de resolución es de tres meses. El límite absoluto que puede establecer la norma reguladora es de seis meses, salvo que una ley o el Derecho de la UE fijen uno mayor.",
+    "why": "A confunde el plazo máximo que puede fijar una norma (6 meses) con el plazo supletorio (3 meses). B es demasiado corto y no tiene base en la ley. D no existe: la Ley no permite que la Administración fije el plazo de forma discrecional.",
+    "norma": "Ley 39/2015",
+    "articulo": "21"
+  },
+  {
+    "id": "B2T13-003",
+    "bloque": 2,
+    "tema": 13,
+    "test": 13,
+    "dificultad": "facil",
+    "pregunta": "Según el art. 68 de la Ley 39/2015, si una solicitud no reúne los requisitos exigidos, ¿qué ocurre si el interesado no subsana en el plazo concedido?",
+    "opciones": {
+      "A": "La Administración puede resolver directamente sin tramitar el procedimiento.",
+      "B": "Se archiva la solicitud por causa de inadmisión, con pérdida de todos los derechos.",
+      "C": "Se le tendrá por desistido de su petición, previa resolución dictada en los términos del art. 21.",
+      "D": "El procedimiento continúa de oficio con los datos disponibles."
+    },
+    "correcta": "C",
+    "explicacion": "El art. 68 L39/2015 prevé un plazo de diez días (ampliable hasta cinco más en función de la dificultad) para subsanar los defectos de la solicitud. Si el interesado no subsana, se le tendrá por desistido, lo que exige una resolución expresa conforme al art. 21.",
+    "why": "A atribuye a la Administración una facultad de resolver sin procedimiento que no existe. B introduce el efecto de 'inadmisión con pérdida de derechos', que no prevé la ley: el desistimiento no perjudica el derecho sustantivo, que puede ejercerse de nuevo. D contradice el precepto, que exige resolución expresa de desistimiento.",
+    "norma": "Ley 39/2015",
+    "articulo": "68"
+  },
+  {
+    "id": "B2T13-004",
+    "bloque": 2,
+    "tema": 13,
+    "test": 13,
+    "dificultad": "facil",
+    "pregunta": "Según el art. 43 de la Ley 39/2015, ¿cuándo se entiende rechazada una notificación electrónica puesta a disposición del interesado?",
+    "opciones": {
+      "A": "A los cinco días hábiles desde la puesta a disposición, si el interesado no accede.",
+      "B": "A los diez días naturales desde la puesta a disposición, si el interesado no accede, salvo causa ajena a él.",
+      "C": "Únicamente cuando el interesado manifiesta expresamente su rechazo.",
+      "D": "A los quince días hábiles desde la puesta a disposición, si no existe acuse de recibo."
+    },
+    "correcta": "B",
+    "explicacion": "El art. 43 L39/2015 dispone que la notificación electrónica se entiende rechazada cuando hayan transcurrido diez días naturales desde su puesta a disposición sin que el interesado acceda a su contenido, salvo que se acredite que el acceso fue imposible por causa ajena al interesado. Surtirá plenos efectos.",
+    "why": "A fija cinco días hábiles, plazo que no recoge la ley. C exige rechazo expreso, lo que no es necesario: el mero transcurso del plazo sin acceso produce los mismos efectos. D fija quince días hábiles, también inexistente en el precepto.",
+    "norma": "Ley 39/2015",
+    "articulo": "43"
+  },
+  {
+    "id": "B2T13-005",
+    "bloque": 2,
+    "tema": 13,
+    "test": 13,
+    "dificultad": "facil",
+    "pregunta": "¿Cuál de los siguientes colectivos está obligado a relacionarse electrónicamente con las Administraciones Públicas según el art. 14 de la Ley 39/2015?",
+    "opciones": {
+      "A": "Todas las personas físicas, sin excepción.",
+      "B": "Las personas físicas mayores de edad y con acceso a internet.",
+      "C": "Las personas jurídicas y las entidades sin personalidad jurídica.",
+      "D": "Solo los empleados públicos, para cualquier trámite personal."
+    },
+    "correcta": "C",
+    "explicacion": "El art. 14 L39/2015 establece la obligación de relacionarse electrónicamente para: las personas jurídicas; las entidades sin personalidad jurídica; los que ejerzan actividad profesional con colegiación obligatoria (para trámites de su actividad); los empleados de las AAPP para trámites con su empleadora; y los representantes de cualquier obligado.",
+    "why": "A generaliza la obligación a todas las personas físicas, lo que excede la ley. B introduce criterios (mayoría de edad + internet) que la ley no contempla. D limita la obligación de los empleados públicos a todos sus trámites personales, cuando la ley los obliga solo para los trámites con su empleadora.",
+    "norma": "Ley 39/2015",
+    "articulo": "14"
+  },
+  {
+    "id": "B2T13-006",
+    "bloque": 2,
+    "tema": 13,
+    "test": 13,
+    "dificultad": "facil",
+    "pregunta": "Según el art. 6 de la Ley 39/2015, ¿cuál es la validez máxima de los poderes inscritos en el registro electrónico general de apoderamientos?",
+    "opciones": {
+      "A": "Un año desde la inscripción, renovable por períodos iguales.",
+      "B": "Tres años desde la inscripción, prorrogables por acuerdo expreso.",
+      "C": "Cinco años desde la inscripción, renovables.",
+      "D": "Tienen validez indefinida salvo revocación expresa del poderdante."
+    },
+    "correcta": "C",
+    "explicacion": "El art. 6 L39/2015 fija una validez máxima de cinco años para los poderes inscritos en el registro electrónico de apoderamientos, con posibilidad de renovación. El registro admite tres tipos de poder: general para cualquier AAPP, específico para una AAPP u organismo, y para trámites concretos.",
+    "why": "A y B fijan períodos más cortos que el legal. D elimina el límite temporal establecido por la ley: los poderes no son indefinidos sino que caducan a los cinco años si no se renuevan.",
+    "norma": "Ley 39/2015",
+    "articulo": "6"
+  },
+  {
+    "id": "B2T13-007",
+    "bloque": 2,
+    "tema": 13,
+    "test": 13,
+    "dificultad": "media",
+    "pregunta": "El art. 4 de la Ley 39/2015 define quiénes son interesados en un procedimiento. ¿Cuál de las siguientes afirmaciones describe correctamente uno de esos supuestos?",
+    "opciones": {
+      "A": "Únicamente quienes promuevan el procedimiento en calidad de titulares de un derecho subjetivo reconocido por sentencia firme.",
+      "B": "Quienes, sin haber iniciado el procedimiento, sean titulares de derechos que puedan resultar afectados por la resolución.",
+      "C": "Solo quienes hayan presentado su solicitud antes de que se dicte la propuesta de resolución.",
+      "D": "Quienes acrediten un interés económico directo en el asunto, con independencia de cualquier otro requisito."
+    },
+    "correcta": "B",
+    "explicacion": "El art. 4 L39/2015 reconoce como interesados: a) los que promuevan el procedimiento como titulares de derechos o intereses legítimos; b) los que sin haberlo iniciado sean titulares de derechos que puedan resultar afectados; c) los que tengan intereses legítimos afectados y se personen antes de la resolución definitiva.",
+    "why": "A añade el requisito de una sentencia firme, que la ley no exige. C limita la personación a quien presenta solicitud, ignorando que el art. 4 reconoce interesados sobrevenidos. D reduce el interés a su dimensión económica, cuando la ley habla de derechos o intereses legítimos en sentido amplio.",
+    "norma": "Ley 39/2015",
+    "articulo": "4"
+  },
+  {
+    "id": "B2T13-008",
+    "bloque": 2,
+    "tema": 13,
+    "test": 13,
+    "dificultad": "media",
+    "pregunta": "Según el art. 5 de la Ley 39/2015, ¿qué régimen especial se aplica a los actos de mero trámite realizados por quien actúa como representante sin acreditar formalmente la representación?",
+    "opciones": {
+      "A": "Son nulos de pleno derecho por falta del requisito esencial de representación.",
+      "B": "Se suspende el procedimiento hasta que se acredite la representación.",
+      "C": "Se presume la representación y el acto se tiene por realizado, sin perjuicio de que el interesado la ratifique.",
+      "D": "Solo son válidos si el representado comparece personalmente en el plazo de diez días."
+    },
+    "correcta": "C",
+    "explicacion": "El art. 5 L39/2015 distingue según la naturaleza del acto: para formular solicitudes, interponer recursos o desistir, la representación debe acreditarse; para los actos de mero trámite, se presume la representación. Esta presunción simplifica la actuación en la fase instructora sin exigir acreditación formal en cada paso.",
+    "why": "A aplica la nulidad radical a un supuesto que la ley resuelve mediante presunción: la falta de acreditación en actos de trámite no es causa de nulidad. B suspende el procedimiento, lo que es contrario al principio de celeridad e impulso de oficio. D exige comparecencia personal en diez días, requisito que no prevé la ley.",
+    "norma": "Ley 39/2015",
+    "articulo": "5"
+  },
+  {
+    "id": "B2T13-009",
+    "bloque": 2,
+    "tema": 13,
+    "test": 13,
+    "dificultad": "media",
+    "pregunta": "Según el art. 21 de la Ley 39/2015, ¿desde qué momento se computa el plazo máximo de resolución en los procedimientos iniciados a instancia de parte?",
+    "opciones": {
+      "A": "Desde la fecha en que el órgano competente acuerda la apertura del procedimiento.",
+      "B": "Desde la fecha de la primera notificación practicada al interesado.",
+      "C": "Desde la entrada de la solicitud en el registro del órgano competente.",
+      "D": "Desde que el órgano instructor declara completo el expediente."
+    },
+    "correcta": "C",
+    "explicacion": "El art. 21 L39/2015 distingue el punto de inicio según la forma de iniciación: en los procedimientos iniciados de oficio, el plazo se computa desde el acuerdo de iniciación; en los iniciados a instancia del interesado, desde la entrada de la solicitud en el registro del órgano competente.",
+    "why": "A describe el cómputo propio de los procedimientos iniciados de oficio, no de los iniciados a instancia. B no tiene base legal: la notificación al interesado no es el momento de inicio del cómputo. D es un momento posterior dentro de la instrucción que la ley no reconoce como dies a quo.",
+    "norma": "Ley 39/2015",
+    "articulo": "21"
+  },
+  {
+    "id": "B2T13-010",
+    "bloque": 2,
+    "tema": 13,
+    "test": 13,
+    "dificultad": "media",
+    "pregunta": "El art. 22 de la Ley 39/2015 prevé la suspensión del plazo máximo de resolución cuando se soliciten informes preceptivos a otro órgano. ¿Cuál es el límite máximo de esa suspensión?",
+    "opciones": {
+      "A": "Un mes, transcurrido el cual el procedimiento queda automáticamente caducado.",
+      "B": "Dos meses, prorrogables por resolución motivada del órgano instructor.",
+      "C": "Tres meses; si el informe no llega en ese plazo, el procedimiento continúa.",
+      "D": "El tiempo que tarde el órgano consultado, sin límite temporal establecido en la ley."
+    },
+    "correcta": "C",
+    "explicacion": "El art. 22.1.d) L39/2015 permite suspender el plazo cuando se solicitan informes preceptivos a otro órgano. La suspensión tiene un límite máximo de tres meses. Si el informe no se recibe en ese plazo, el procedimiento continúa su tramitación, salvo que el informe sea determinante para la resolución.",
+    "why": "A fija un mes, insuficiente para muchos informes técnicos; además, la caducidad automática no está prevista en este supuesto. B prevé prórroga motivada, que la ley no contempla: el límite de tres meses es absoluto. D eliminaría cualquier garantía para el interesado, contradiciendo la finalidad de la norma.",
+    "norma": "Ley 39/2015",
+    "articulo": "22"
+  },
+  {
+    "id": "B2T13-011",
+    "bloque": 2,
+    "tema": 13,
+    "test": 13,
+    "dificultad": "media",
+    "pregunta": "Cuando un plazo se fija en días hábiles, ¿qué días quedan excluidos del cómputo según el art. 30 de la Ley 39/2015?",
+    "opciones": {
+      "A": "Solo los domingos y los festivos nacionales; los sábados y festivos autonómicos son hábiles.",
+      "B": "Los sábados, los domingos y los declarados festivos en el BOE.",
+      "C": "Los sábados, los domingos, y los festivos nacionales, autonómicos y locales correspondientes al domicilio del interesado.",
+      "D": "Únicamente los domingos; los sábados computan siempre como días hábiles en el procedimiento administrativo."
+    },
+    "correcta": "B",
+    "explicacion": "El art. 30 L39/2015 establece que, en los plazos fijados en días hábiles, se excluyen del cómputo los sábados, los domingos y los declarados festivos en el BOE. La declaración de inhabilidad por CCAA o entidades locales solo afecta a sus propios procedimientos, no al cómputo general.",
+    "why": "A excluye los sábados del listado, cuando la ley los considera inhábiles. C incluye festivos locales del domicilio del interesado, pero la ley remite al BOE para los inhábiles generales; los festivos autonómicos o locales solo inhabilitan los procedimientos de esa Administración. D considera los sábados como días hábiles, en contra del tenor literal del art. 30.",
+    "norma": "Ley 39/2015",
+    "articulo": "30"
+  },
+  {
+    "id": "B2T13-012",
+    "bloque": 2,
+    "tema": 13,
+    "test": 13,
+    "dificultad": "media",
+    "pregunta": "Según el art. 31 de la Ley 39/2015, ¿cuál es el límite de la ampliación de plazo que puede conceder la Administración a instancia del interesado?",
+    "opciones": {
+      "A": "Hasta el doble del plazo inicial concedido.",
+      "B": "Hasta la mitad del plazo inicial, siempre que no perjudique derechos de terceros.",
+      "C": "Hasta un tercio del plazo inicial, independientemente de la causa alegada.",
+      "D": "Hasta quince días naturales adicionales, sin necesidad de justificación."
+    },
+    "correcta": "B",
+    "explicacion": "El art. 31 L39/2015 permite ampliar el plazo hasta la mitad del concedido, con dos condiciones: que no perjudique derechos de terceros y que la causa sea adecuada. Además, no cabe la ampliación para los plazos de interposición de recursos.",
+    "why": "A duplica el plazo, lo que excede el máximo legal. C fija un tercio, por debajo del límite. D fija quince días con criterio temporal fijo, ignorando que la ley establece un límite proporcional (la mitad) y no un número fijo de días.",
+    "norma": "Ley 39/2015",
+    "articulo": "31"
+  },
+  {
+    "id": "B2T13-013",
+    "bloque": 2,
+    "tema": 13,
+    "test": 13,
+    "dificultad": "media",
+    "pregunta": "Según el art. 82 de la Ley 39/2015, ¿en qué plazo se concede audiencia a los interesados antes de la propuesta de resolución, y en qué supuesto puede omitirse?",
+    "opciones": {
+      "A": "Diez días; puede omitirse siempre que el expediente sea sencillo.",
+      "B": "Entre diez y quince días; puede omitirse si no hay en el procedimiento hechos ni alegaciones distintos de los aducidos por el propio interesado.",
+      "C": "Entre cinco y diez días; puede omitirse cuando el interesado ya ha presentado alegaciones en fases anteriores.",
+      "D": "Quince días improrrogables; no puede omitirse en ningún caso porque es un trámite esencial."
+    },
+    "correcta": "B",
+    "explicacion": "El art. 82 L39/2015 fija un plazo de entre diez y quince días para el trámite de audiencia. Puede omitirse únicamente cuando no figuren en el procedimiento ni hayan de tenerse en cuenta otros hechos ni otras alegaciones que los ya aducidos por el interesado; en ese caso, la audiencia carecería de utilidad.",
+    "why": "A fija solo diez días (el límite mínimo) y generaliza la causa de omisión a la 'sencillez', criterio que la ley no recoge. C rebaja el plazo mínimo a cinco días y admite la omisión por alegaciones anteriores, lo que es insuficiente según la ley. D niega la posibilidad de omitir la audiencia, contrariando el art. 82.",
+    "norma": "Ley 39/2015",
+    "articulo": "82"
+  },
+  {
+    "id": "B2T13-014",
+    "bloque": 2,
+    "tema": 13,
+    "test": 13,
+    "dificultad": "media",
+    "pregunta": "En la tramitación simplificada del procedimiento (arts. 96-97 Ley 39/2015), ¿cuál es el plazo máximo de resolución y en qué plazo puede oponerse el interesado?",
+    "opciones": {
+      "A": "Plazo máximo de resolución: quince días; oposición del interesado: en cualquier momento antes de la resolución.",
+      "B": "Plazo máximo de resolución: treinta días; oposición del interesado: en el plazo de cinco días desde la notificación del acuerdo.",
+      "C": "Plazo máximo de resolución: dos meses; oposición del interesado: en el plazo de diez días.",
+      "D": "Plazo máximo de resolución: treinta días; oposición imposible, el interesado solo puede recurrir la resolución final."
+    },
+    "correcta": "B",
+    "explicacion": "La tramitación simplificada (arts. 96-97 L39/2015, a veces referenciada en la práctica docente como arts. 70-74 de texto previo) prevé un plazo máximo de resolución de treinta días. El interesado puede oponerse en el plazo de cinco días desde la notificación del acuerdo de tramitación simplificada; si se opone, el procedimiento vuelve a la vía ordinaria.",
+    "why": "A fija quince días, por debajo del máximo legal, y elimina el plazo de oposición. C duplica el plazo a dos meses, que supera el de la tramitación simplificada. D niega al interesado la posibilidad de oponerse a la vía simplificada, derecho que la ley le reconoce expresamente.",
+    "norma": "Ley 39/2015",
+    "articulo": "96 y 97"
+  },
+  {
+    "id": "B2T13-015",
+    "bloque": 2,
+    "tema": 13,
+    "test": 13,
+    "dificultad": "media",
+    "pregunta": "Si se realizan dos intentos infructuosos de notificación en papel a un interesado, ¿qué mecanismo prevé el art. 44 de la Ley 39/2015?",
+    "opciones": {
+      "A": "Se archiva el expediente por imposibilidad de notificar.",
+      "B": "Se practicará un tercer intento en el domicilio del interesado antes de adoptar cualquier otra medida.",
+      "C": "Se anunciará la notificación en el tablón edictal único (BOE) y en el boletín oficial de la CCAA o de la provincia.",
+      "D": "La notificación se tendrá por practicada desde el primer intento fallido, a todos los efectos."
+    },
+    "correcta": "C",
+    "explicacion": "El art. 44 L39/2015 establece que cuando dos intentos de notificación en papel resultan infructuosos (en horas y días distintos), la notificación se anunciará en el tablón edictal único del BOE y, adicionalmente, en el boletín oficial de la CCAA o de la provincia. Con ello se da publicidad a la notificación fallida.",
+    "why": "A archiva sin más, lo que privaría al interesado de toda oportunidad de conocer el acto. B prevé un tercer intento físico que la ley no exige: basta con dos intentos en distintas horas y días. D produciría efectos desde el primer intento, contrariando la finalidad garantista de la norma.",
+    "norma": "Ley 39/2015",
+    "articulo": "44"
+  },
+  {
+    "id": "B2T13-016",
+    "bloque": 2,
+    "tema": 13,
+    "test": 13,
+    "dificultad": "media",
+    "pregunta": "Según el art. 13 de la Ley 39/2015, ¿cuál de los siguientes derechos NO figura expresamente en el catálogo de derechos de las personas en sus relaciones con las Administraciones Públicas?",
+    "opciones": {
+      "A": "Conocer el estado de la tramitación de los procedimientos en que tengan la condición de interesados.",
+      "B": "Obtener copia de los documentos que obren en el procedimiento.",
+      "C": "Exigir responsabilidad civil personal al funcionario que dicte un acto contrario a Derecho.",
+      "D": "Actuar asistidos de asesor para el ejercicio de sus derechos."
+    },
+    "correcta": "C",
+    "explicacion": "El art. 13 L39/2015 recoge un catálogo de derechos que incluye: conocer el estado de tramitación, identificar a los responsables, obtener copia de documentos, formular alegaciones, obtener resolución expresa, actuar por representante, obtener información, actuar asistidos de asesor, y otros reconocidos por el ordenamiento. La responsabilidad civil directa del funcionario no es un derecho reconocido en este precepto (se rige por otras normas).",
+    "why": "A, B y D están expresamente recogidos en el art. 13 L39/2015. La responsabilidad personal del funcionario se canaliza por otras vías (acción de regreso de la Administración, responsabilidad disciplinaria), no como un derecho de ejercicio directo del administrado en este catálogo.",
+    "norma": "Ley 39/2015",
+    "articulo": "13"
+  },
+  {
+    "id": "B2T13-017",
+    "bloque": 2,
+    "tema": 13,
+    "test": 13,
+    "dificultad": "dificil",
+    "pregunta": "El art. 22 de la Ley 39/2015 distingue entre suspensiones potestativas y suspensiones obligatorias del plazo máximo de resolución. ¿Cuál de las siguientes es una causa de suspensión OBLIGATORIA?",
+    "opciones": {
+      "A": "La solicitud de informes preceptivos a otro órgano de la misma Administración.",
+      "B": "La realización de pruebas técnicas o análisis contradictorios propuestos por el interesado.",
+      "C": "La promoción de la recusación de quienes intervengan en el procedimiento, hasta que se resuelva.",
+      "D": "La apertura de un período de información pública de más de treinta días."
+    },
+    "correcta": "C",
+    "explicacion": "El art. 22 L39/2015 distingue la suspensión potestativa (puede suspenderse) de la obligatoria (se suspenderá). Las causas de suspensión obligatoria son: (1) cuando una AAPP requiere a otra que anule o revise un acto ilegal que sirve de base al procedimiento; (2) cuando el órgano decide actuaciones complementarias; (3) cuando los interesados promuevan la recusación, hasta que el superior jerárquico la resuelva.",
+    "why": "A y B son causas de suspensión potestativa (puede suspenderse), no obligatoria. D no es una causa de suspensión reconocida en el art. 22 L39/2015; la información pública puede alargar el procedimiento, pero no suspende el plazo de resolución en los términos de ese artículo.",
+    "norma": "Ley 39/2015",
+    "articulo": "22"
+  },
+  {
+    "id": "B2T13-018",
+    "bloque": 2,
+    "tema": 13,
+    "test": 13,
+    "dificultad": "dificil",
+    "pregunta": "Según el art. 5 de la Ley 39/2015, si el representante actúa con defecto de representación acreditable, ¿cuál es la consecuencia si aporta la acreditación dentro del plazo concedido para subsanar?",
+    "opciones": {
+      "A": "El acto se considera nulo y debe rehacerse con la representación debidamente acreditada desde el inicio.",
+      "B": "El acto se considera realizado en la fecha en que se subsanó el defecto, no en la de la actuación original.",
+      "C": "El acto se tiene por realizado válidamente en la fecha en que tuvo lugar, con eficacia retroactiva desde esa fecha.",
+      "D": "El defecto subsanado no convalida el acto si entre tanto se ha dictado una resolución provisional."
+    },
+    "correcta": "C",
+    "explicacion": "El art. 5 L39/2015 prevé un plazo de diez días (ampliable) para subsanar el defecto de representación. Si el representado aporta la acreditación en ese plazo, la falta de representación no impide que el acto se tenga por válidamente realizado. El efecto es retroactivo: el acto se entiende producido en la fecha original de la actuación.",
+    "why": "A declara la nulidad y exige rehacer el acto, cuando la ley precisamente permite subsanarlo retroactivamente. B sitúa los efectos en la fecha de la subsanación, perdiendo la retroactividad que garantiza el precepto. D introduce una excepción (resolución provisional) que la ley no prevé.",
+    "norma": "Ley 39/2015",
+    "articulo": "5"
+  },
+  {
+    "id": "B2T13-019",
+    "bloque": 2,
+    "tema": 13,
+    "test": 13,
+    "dificultad": "dificil",
+    "pregunta": "El art. 14 de la Ley 39/2015 obliga a los profesionales con colegiación obligatoria a relacionarse electrónicamente con las AAPP. ¿Cuál es el alcance exacto de esa obligación?",
+    "opciones": {
+      "A": "Deben relacionarse electrónicamente en todos sus trámites con cualquier Administración Pública, sin excepción.",
+      "B": "Solo están obligados cuando actúan en nombre de personas jurídicas que son sus clientes.",
+      "C": "La obligación se limita a los trámites y actuaciones que realicen en el ejercicio de su actividad profesional.",
+      "D": "Solo están obligados frente a la Administración del Estado, no frente a las CCAA ni a las entidades locales."
+    },
+    "correcta": "C",
+    "explicacion": "El art. 14.2.c) L39/2015 establece que los profesionales con colegiación obligatoria están obligados a relacionarse electrónicamente 'en el ejercicio de su actividad profesional'. Fuera de ese ámbito (por ejemplo, en trámites personales no relacionados con su profesión), no son obligados electrónicos por esta causa.",
+    "why": "A generaliza la obligación a todos sus trámites, incluidos los personales ajenos a la profesión, lo que excede el precepto. B reduce la obligación a cuando actúan por cuenta de personas jurídicas, excluyendo sus actuaciones profesionales propias. D limita la obligación a la AGE, cuando el art. 14 la proyecta sobre todas las AAPP.",
+    "norma": "Ley 39/2015",
+    "articulo": "14"
+  },
+  {
+    "id": "B2T13-020",
+    "bloque": 2,
+    "tema": 13,
+    "test": 13,
+    "dificultad": "dificil",
+    "pregunta": "El art. 21 de la Ley 39/2015 fija como límite general el plazo de seis meses para que las normas reguladoras establezcan el plazo máximo de resolución. ¿Qué tipo de norma puede establecer un plazo superior a esos seis meses?",
+    "opciones": {
+      "A": "Un reglamento aprobado por el Consejo de Ministros, si lo justifica la complejidad del procedimiento.",
+      "B": "Una orden ministerial, siempre que cuente con el informe favorable del Consejo de Estado.",
+      "C": "Una norma con rango de ley o el Derecho de la Unión Europea.",
+      "D": "Una instrucción de servicio del órgano competente, con publicación en el BOE."
+    },
+    "correcta": "C",
+    "explicacion": "El art. 21 L39/2015 dispone que el plazo máximo de resolución fijado por la norma reguladora no puede exceder de seis meses 'salvo que una ley establezca uno mayor o así lo prevea la normativa de la Unión Europea'. Solo una norma con rango de ley o el Derecho UE pueden superar ese límite; un reglamento o una instrucción no pueden hacerlo.",
+    "why": "A y B proponen normas de rango inferior a la ley (reglamento, orden ministerial) como habilitantes para superar el límite de seis meses, lo que contradice la reserva de ley establecida en el precepto. D es una instrucción interna sin rango normativo suficiente.",
+    "norma": "Ley 39/2015",
+    "articulo": "21"
+  }
+]
