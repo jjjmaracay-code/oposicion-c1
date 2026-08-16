@@ -1,0 +1,241 @@
+[
+{"id":"B1T05-001","bloque":1,"tema":5,"test":5,"dificultad":"facil",
+ "pregunta":"¿En qué entidades territoriales se organiza el Estado español según el artículo 137 de la Constitución?",
+ "opciones":{
+   "A":"En municipios, en comarcas y en las Comunidades Autónomas que se constituyan",
+   "B":"En municipios, en provincias y en las Comunidades Autónomas que se constituyan",
+   "C":"En municipios, en provincias, en regiones y en Comunidades Autónomas",
+   "D":"En municipios, en mancomunidades y en las Comunidades Autónomas"
+ },"correcta":"B",
+ "explicacion":"El artículo 137 CE dispone que «el Estado se organiza territorialmente en municipios, en provincias y en las Comunidades Autónomas que se constituyan». Todas estas entidades gozan de autonomía para la gestión de sus respectivos intereses.",
+ "why":"La comarca (A) no figura en el art. 137; algunas CCAA la han creado por ley autonómica, pero no es una entidad constitucional básica. «Regiones» (C) es un término descriptivo que la CE no emplea en este precepto. Las mancomunidades (D) son agrupaciones voluntarias de municipios, distintas de las entidades del art. 137.",
+ "norma":"Constitución Española de 1978","articulo":"Art. 137"},
+
+{"id":"B1T05-002","bloque":1,"tema":5,"test":5,"dificultad":"facil",
+ "pregunta":"Según el artículo 141.1 de la Constitución, ¿mediante qué tipo de norma debe aprobarse cualquier alteración de los límites provinciales?",
+ "opciones":{
+   "A":"Por Real Decreto del Consejo de Ministros",
+   "B":"Por ley ordinaria de las Cortes Generales",
+   "C":"Por ley orgánica de las Cortes Generales",
+   "D":"Por acuerdo del Consejo de Ministros con el informe preceptivo del Consejo de Estado"
+ },"correcta":"C",
+ "explicacion":"El artículo 141.1 CE establece que «cualquier alteración de los límites provinciales habrá de ser aprobada por las Cortes Generales mediante ley orgánica». La provincia, como entidad local con personalidad jurídica propia, no puede ser modificada sino con el rango normativo más exigente que prevé la Constitución para la organización territorial.",
+ "why":"El Real Decreto (A) y el acuerdo del Consejo de Ministros (D) son actos del ejecutivo, de rango insuficiente para alterar la organización territorial básica del Estado. La ley ordinaria (B) tampoco es suficiente: la CE exige expresamente ley orgánica, que requiere mayoría absoluta del Congreso.",
+ "norma":"Constitución Española de 1978","articulo":"Art. 141.1"},
+
+{"id":"B1T05-003","bloque":1,"tema":5,"test":5,"dificultad":"facil",
+ "pregunta":"El artículo 145.1 de la Constitución contiene una prohibición expresa sobre cierto tipo de unión entre Comunidades Autónomas. ¿Cuál es?",
+ "opciones":{
+   "A":"Los convenios de colaboración interautonómica para la gestión y prestación de servicios propios",
+   "B":"La federación de Comunidades Autónomas",
+   "C":"Las mancomunidades de Comunidades Autónomas para proyectos de infraestructuras de interés común",
+   "D":"Los acuerdos de cooperación con efectos normativos suscritos ante las Cortes Generales"
+ },"correcta":"B",
+ "explicacion":"El artículo 145.1 CE dispone literalmente que «en ningún caso se admitirá la federación de Comunidades Autónomas». La misma Constitución, en el artículo 145.2, sí permite los convenios entre CCAA para la gestión y prestación de servicios propios, con comunicación a las Cortes Generales.",
+ "why":"Los convenios de colaboración (A) están expresamente permitidos por el art. 145.2. Las mancomunidades entre CCAA (C) y los acuerdos de cooperación (D) no están prohibidos con ese nombre en la CE; lo que se prohíbe es la federación, estructura política que supondría un nivel de gobierno supraautonómico incompatible con el modelo de la CE.",
+ "norma":"Constitución Española de 1978","articulo":"Art. 145.1"},
+
+{"id":"B1T05-004","bloque":1,"tema":5,"test":5,"dificultad":"facil",
+ "pregunta":"¿Cómo define el artículo 147.1 de la Constitución la naturaleza jurídica de los Estatutos de Autonomía?",
+ "opciones":{
+   "A":"La ley fundamental de cada Comunidad Autónoma, de rango equivalente a la Constitución en su ámbito territorial",
+   "B":"La norma institucional básica de cada Comunidad Autónoma",
+   "C":"El reglamento superior de cada Comunidad Autónoma, aprobado en forma de ley orgánica estatal",
+   "D":"La ley de bases que rige el ordenamiento jurídico autonómico con subordinación a la legislación básica del Estado"
+ },"correcta":"B",
+ "explicacion":"El artículo 147.1 CE establece que «dentro de los términos de la presente Constitución, los Estatutos serán la norma institucional básica de cada Comunidad Autónoma y el Estado los reconocerá y amparará como parte integrante de su ordenamiento jurídico».",
+ "why":"Los Estatutos no tienen rango constitucional (A): están subordinados a la CE y el TC los controla. No son reglamentos (C): se aprueban formalmente como leyes orgánicas del Estado, pero su naturaleza constitucional específica es la de norma institucional básica. No son leyes de bases (D), que son un tipo de norma de articulación muy distinto.",
+ "norma":"Constitución Española de 1978","articulo":"Art. 147.1"},
+
+{"id":"B1T05-005","bloque":1,"tema":5,"test":5,"dificultad":"facil",
+ "pregunta":"Según el artículo 154 de la Constitución, ¿qué figura constitucional dirige la Administración del Estado en el territorio de una Comunidad Autónoma y la coordina con la Administración propia de ésta?",
+ "opciones":{
+   "A":"El Presidente de la Comunidad Autónoma",
+   "B":"El Subdelegado del Gobierno en la capital de la CA",
+   "C":"El Delegado del Gobierno",
+   "D":"El Ministro competente en razón de la materia"
+ },"correcta":"C",
+ "explicacion":"El artículo 154 CE atribuye al Delegado del Gobierno en la Comunidad Autónoma la función de «dirigir la Administración del Estado en el territorio de la Comunidad Autónoma y coordinarla, cuando proceda, con la administración propia de la Comunidad».",
+ "why":"El Presidente de la CA (A) dirige la Administración autonómica, no la del Estado en ese territorio. El Subdelegado (B) opera dentro del organigrama del Delegado del Gobierno, con funciones en el ámbito provincial, no a nivel de CA. El Ministro (D) ejerce competencias a nivel nacional, no en el territorio concreto de cada CA.",
+ "norma":"Constitución Española de 1978","articulo":"Art. 154"},
+
+{"id":"B1T05-006","bloque":1,"tema":5,"test":5,"dificultad":"facil",
+ "pregunta":"El artículo 158.2 de la Constitución crea el Fondo de Compensación Interterritorial. ¿Cuál es su finalidad, a qué tipo de gastos se destina y quién distribuye sus recursos?",
+ "opciones":{
+   "A":"Financiar los servicios ordinarios de las CCAA con menor renta per cápita; gestionado por el Ministerio de Hacienda",
+   "B":"Corregir desequilibrios económicos interterritoriales y hacer efectivo el principio de solidaridad; destinado a gastos de inversión y distribuido por las Cortes Generales",
+   "C":"Garantizar un nivel mínimo de prestaciones sociales en todas las CCAA; su cuantía la fija el Gobierno anualmente",
+   "D":"Financiar la organización y el funcionamiento de las instituciones autonómicas; distribuido entre CCAA por sus propios Parlamentos"
+ },"correcta":"B",
+ "explicacion":"El artículo 158.2 CE establece que el Fondo de Compensación se constituye «con destino a gastos de inversión», con el fin de «corregir desequilibrios económicos interterritoriales y hacer efectivo el principio de solidaridad», y que sus recursos «serán distribuidos por las Cortes Generales entre las Comunidades Autónomas y provincias, en su caso».",
+ "why":"La A atribuye la gestión al Ministerio de Hacienda, cuando la CE la reserva a las Cortes Generales. Las opciones C y D alteran la finalidad: la CE reserva el Fondo expresamente a gastos de inversión, no a servicios ordinarios ni al funcionamiento institucional.",
+ "norma":"Constitución Española de 1978","articulo":"Art. 158.2"},
+
+{"id":"B1T05-007","bloque":1,"tema":5,"test":5,"dificultad":"media",
+ "pregunta":"El artículo 143.2 de la Constitución establece los requisitos para impulsar la iniciativa autonómica por la vía ordinaria. ¿Cuál de las siguientes opciones los recoge correctamente?",
+ "opciones":{
+   "A":"Acuerdo de la mayoría de las Diputaciones interesadas y mayoría simple de los municipios de cada provincia, en el plazo de seis meses",
+   "B":"Acuerdo de todas las Diputaciones interesadas y dos terceras partes de los municipios cuya población represente al menos la mayoría del censo electoral de cada provincia, en el plazo de seis meses",
+   "C":"Acuerdo de todas las Diputaciones interesadas y mayoría absoluta de los municipios de cada provincia, en el plazo de un año",
+   "D":"Acuerdo de dos terceras partes de las Diputaciones interesadas y mayoría simple de los municipios, con posterior referéndum, en el plazo de seis meses"
+ },"correcta":"B",
+ "explicacion":"El artículo 143.2 CE exige: el acuerdo de «todas las Diputaciones interesadas» (no una mayoría, sino todas), más «las dos terceras partes de los municipios cuya población represente, al menos, la mayoría del censo electoral de cada provincia o isla». Estos requisitos deben cumplirse «en el plazo de seis meses desde el primer acuerdo adoptado al respecto por alguna de las Corporaciones locales interesadas».",
+ "why":"La A rebaja las Diputaciones a 'mayoría' y los municipios a 'mayoría simple' sin el requisito del censo electoral. La C exige mayoría absoluta de los municipios —que no aparece en el texto— y amplía el plazo a un año. La D fracciona el requisito de las Diputaciones a dos terceras partes e introduce un referéndum que el art. 143 no contempla para la vía ordinaria.",
+ "norma":"Constitución Española de 1978","articulo":"Art. 143.2"},
+
+{"id":"B1T05-008","bloque":1,"tema":5,"test":5,"dificultad":"media",
+ "pregunta":"Según el artículo 143.3 de la Constitución, ¿cuánto tiempo debe transcurrir para que pueda reiterarse una iniciativa autonómica que no hubiera prosperado?",
+ "opciones":{
+   "A":"Dos años desde que se declaró fallida la iniciativa",
+   "B":"Tres años desde que se declaró fallida la iniciativa",
+   "C":"Cinco años desde que no prosperó la iniciativa",
+   "D":"Una legislatura completa del Parlamento nacional"
+ },"correcta":"C",
+ "explicacion":"El artículo 143.3 CE dispone que «la iniciativa, en caso de no prosperar, solamente podrá reiterarse pasados cinco años». Este plazo pretende evitar que la presión política impulse sucesivas iniciativas autonómicas en períodos muy cortos.",
+ "why":"Dos y tres años (A y B) son inferiores al plazo constitucional y no tienen apoyo en ningún precepto del Título VIII. Una legislatura (D) dura cuatro años como regla general, pero no es el criterio fijado por la CE: el plazo es fijo en cinco años, sin vinculación al ciclo electoral.",
+ "norma":"Constitución Española de 1978","articulo":"Art. 143.3"},
+
+{"id":"B1T05-009","bloque":1,"tema":5,"test":5,"dificultad":"media",
+ "pregunta":"El artículo 147.2 de la Constitución establece el contenido mínimo obligatorio de los Estatutos de Autonomía. ¿Cuál de las siguientes opciones lo recoge correctamente?",
+ "opciones":{
+   "A":"La denominación de la CA, la capital autonómica, la lengua cooficial y el sistema de financiación",
+   "B":"La denominación de la CA que mejor corresponda a su identidad histórica, la delimitación del territorio, la denominación, organización y sede de las instituciones autónomas propias, y las competencias asumidas con las bases para el traspaso de servicios",
+   "C":"La delimitación del territorio, los órganos ejecutivo y legislativo, el régimen electoral autonómico y las competencias asumidas",
+   "D":"La denominación de la CA, la relación de municipios integrados, las instituciones propias y los principios de solidaridad interterritorial aplicables"
+ },"correcta":"B",
+ "explicacion":"El artículo 147.2 CE exige que los Estatutos contengan: (a) la denominación de la Comunidad que mejor corresponda a su identidad histórica; (b) la delimitación de su territorio; (c) la denominación, organización y sede de las instituciones autónomas propias; y (d) las competencias asumidas dentro del marco constitucional y las bases para el traspaso de los servicios correspondientes.",
+ "why":"La A incluye la capital y la lengua cooficial, que no son contenido mínimo constitucionalmente exigido aunque muchos estatutos las regulen. La C sustituye la organización de las instituciones por el régimen electoral autonómico, que no aparece en el art. 147.2. La D introduce la relación de municipios y los principios de solidaridad, elementos ajenos al elenco del precepto.",
+ "norma":"Constitución Española de 1978","articulo":"Art. 147.2"},
+
+{"id":"B1T05-010","bloque":1,"tema":5,"test":5,"dificultad":"media",
+ "pregunta":"El artículo 148.2 de la Constitución permite que las Comunidades Autónomas amplíen sus competencias más allá de las listadas en el artículo 148.1. ¿Cuándo y mediante qué instrumento puede producirse esa ampliación?",
+ "opciones":{
+   "A":"Transcurridos dos años, mediante ley orgánica de las Cortes Generales a petición de la Comunidad Autónoma",
+   "B":"Transcurridos cinco años, mediante la reforma del propio Estatuto de Autonomía, dentro del marco del artículo 149",
+   "C":"Transcurridos diez años, mediante ley marco de las Cortes Generales aprobada por mayoría absoluta del Congreso",
+   "D":"En cualquier momento, mediante acuerdo del Gobierno y aprobación del Senado por mayoría absoluta"
+ },"correcta":"B",
+ "explicacion":"El artículo 148.2 CE dispone que «transcurridos cinco años, y mediante la reforma de sus Estatutos, las Comunidades Autónomas podrán ampliar sucesivamente sus competencias dentro del marco establecido en el artículo 149». El instrumento es la reforma estatutaria, que requiere la aprobación de las Cortes Generales.",
+ "why":"Dos años (A) y diez años (C) son plazos no previstos en la CE. La CE no atribuye al Gobierno ni al Senado esta decisión con carácter directo (D): la ampliación requiere reforma del Estatuto. El límite material es siempre el marco del art. 149, que recoge las competencias exclusivas del Estado.",
+ "norma":"Constitución Española de 1978","articulo":"Art. 148.2"},
+
+{"id":"B1T05-011","bloque":1,"tema":5,"test":5,"dificultad":"media",
+ "pregunta":"El artículo 149.3 de la Constitución contiene la denominada cláusula residual sobre las materias no atribuidas expresamente al Estado. ¿Qué dispone dicho precepto para esas materias?",
+ "opciones":{
+   "A":"Corresponden siempre al Estado, que puede delegarlas a las CCAA mediante ley orgánica",
+   "B":"Pueden ser asumidas por las CCAA mediante sus Estatutos; si no las asumen, corresponden al Estado. El Derecho estatal es, en todo caso, supletorio del Derecho de las CCAA",
+   "C":"Se distribuyen entre el Estado y las CCAA en proporción a su población y capacidad de gestión",
+   "D":"El Gobierno puede atribuirlas discrecionalmente a las CCAA por Real Decreto si lo estima conveniente"
+ },"correcta":"B",
+ "explicacion":"El artículo 149.3 CE establece que las materias no atribuidas expresamente al Estado «podrán corresponder a las Comunidades Autónomas, en virtud de sus respectivos Estatutos»; si no las asumen, «la competencia sobre estas materias corresponderá al Estado». Añade que «el derecho estatal será, en todo caso, supletorio del derecho de las Comunidades Autónomas».",
+ "why":"La A invierte la cláusula: el art. 149.3 parte de la posibilidad autonómica de asumir la materia, no de la atribución automática al Estado. Las opciones C y D introducen criterios (población, decreto del Gobierno) que la CE no contempla. La supletoriedad del Derecho estatal sobre el autonómico es un elemento esencial que solo recoge la opción B.",
+ "norma":"Constitución Española de 1978","articulo":"Art. 149.3"},
+
+{"id":"B1T05-012","bloque":1,"tema":5,"test":5,"dificultad":"media",
+ "pregunta":"Según el artículo 150.3 de la Constitución, las Cortes Generales pueden dictar leyes de armonización de las disposiciones normativas de las Comunidades Autónomas. ¿Cuál es su característica más relevante?",
+ "opciones":{
+   "A":"Solo pueden dictarse respecto de materias de competencia exclusiva del Estado y requieren mayoría de tres quintos de ambas Cámaras",
+   "B":"Pueden dictarse incluso respecto de materias de competencia de las Comunidades Autónomas, cuando así lo exija el interés general",
+   "C":"Son iniciativa exclusiva del Senado como Cámara de representación territorial",
+   "D":"Requieren el previo acuerdo de los Parlamentos autonómicos afectados para poder tramitarse en las Cortes Generales"
+ },"correcta":"B",
+ "explicacion":"El artículo 150.3 CE permite a las Cortes Generales dictar leyes que establezcan los principios necesarios para armonizar las disposiciones normativas de las CCAA, «aunque sea en materias de la competencia de éstas, cuando así lo exija el interés general». Es un instrumento de cierre del sistema que puede operar sobre el Derecho autonómico.",
+ "why":"La A restringe indebidamente el ámbito a materias estatales, cuando el precepto es precisamente lo contrario: la ley de armonización actúa sobre materias autonómicas. La C atribuye la iniciativa exclusiva al Senado, sin apoyo en el art. 150.3. La D introduce el consentimiento previo de los Parlamentos autonómicos, que tampoco existe en la CE.",
+ "norma":"Constitución Española de 1978","articulo":"Art. 150.3"},
+
+{"id":"B1T05-013","bloque":1,"tema":5,"test":5,"dificultad":"media",
+ "pregunta":"El artículo 152.1 de la Constitución describe la organización institucional de las Comunidades Autónomas que accedieron a la autonomía por la vía del artículo 151. ¿Cuáles son esas instituciones?",
+ "opciones":{
+   "A":"Asamblea Legislativa elegida por sufragio universal, Consejo de Gobierno, Presidente y Tribunal Superior de Justicia",
+   "B":"Asamblea Legislativa, Presidente, Administración autonómica y Defensor del Pueblo autonómico",
+   "C":"Parlamento autonómico, Consejo Ejecutivo, Presidente y Fiscalía autonómica propia",
+   "D":"Parlamento autonómico, Consejo de Gobierno, Presidente y Tribunal Constitucional autonómico"
+ },"correcta":"A",
+ "explicacion":"El artículo 152.1 CE establece que las CCAA constituidas por la vía del art. 151 contarán con: una Asamblea Legislativa, elegida por sufragio universal según el sistema de representación proporcional; un Consejo de Gobierno, con funciones ejecutivas y administrativas; un Presidente, elegido por la Asamblea de entre sus miembros y responsable políticamente ante ella; y un Tribunal Superior de Justicia que culmina la organización judicial en el territorio de la CA.",
+ "why":"La B incluye el Defensor del Pueblo autonómico, que no aparece en el art. 152.1 aunque algunas CCAA lo hayan creado por ley. La C introduce la «Fiscalía autonómica propia», que no existe constitucionalmente. La D menciona un «Tribunal Constitucional autonómico», figura que la CE no contempla en ningún caso.",
+ "norma":"Constitución Española de 1978","articulo":"Art. 152.1"},
+
+{"id":"B1T05-014","bloque":1,"tema":5,"test":5,"dificultad":"media",
+ "pregunta":"Según el artículo 153 de la Constitución, ¿qué órgano controla la actividad económica y presupuestaria de las Comunidades Autónomas?",
+ "opciones":{
+   "A":"El Tribunal Constitucional, que controla toda la actividad normativa y de gestión de las CCAA",
+   "B":"El Gobierno central a través de la Intervención General de la Administración del Estado",
+   "C":"El Tribunal de Cuentas",
+   "D":"El Consejo de Estado, como supremo órgano consultivo del Gobierno"
+ },"correcta":"C",
+ "explicacion":"El artículo 153 CE distribuye el control de la actividad autonómica entre varios órganos. La letra d) atribuye al Tribunal de Cuentas el control de «la actividad económica y presupuestaria» de las Comunidades Autónomas. Los demás subapartados reservan al TC la constitucionalidad de las leyes autonómicas, y al orden contencioso-administrativo el control de la administración ordinaria.",
+ "why":"El TC (A) controla la constitucionalidad de las disposiciones normativas con fuerza de ley (art. 153.a), no la actividad económica y presupuestaria. La IGAE (B) fiscaliza la Administración General del Estado, no las CCAA con carácter ordinario. El Consejo de Estado (D) es órgano consultivo sin funciones de control sobre las CCAA.",
+ "norma":"Constitución Española de 1978","articulo":"Art. 153.d"},
+
+{"id":"B1T05-015","bloque":1,"tema":5,"test":5,"dificultad":"media",
+ "pregunta":"El artículo 139 de la Constitución consagra dos principios vinculados a la organización territorial. ¿Cuáles son?",
+ "opciones":{
+   "A":"El principio de solidaridad interterritorial y la prohibición de desigualdad de trato normativo entre Comunidades Autónomas",
+   "B":"La igualdad de derechos y obligaciones de todos los españoles en cualquier parte del territorio, y la prohibición de medidas que obstaculicen la libre circulación de personas y bienes",
+   "C":"La uniformidad normativa entre Comunidades Autónomas y la libre circulación de capitales por todo el territorio",
+   "D":"La prohibición de discriminación territorial y el deber de los poderes públicos de compensar las desigualdades regionales"
+ },"correcta":"B",
+ "explicacion":"El artículo 139 CE contiene dos mandatos: el apartado 1 proclama que «todos los españoles tienen los mismos derechos y obligaciones en cualquier parte del territorio del Estado»; el apartado 2 dispone que «ninguna autoridad podrá adoptar medidas que directa o indirectamente obstaculicen la libertad de circulación y establecimiento de las personas y la libre circulación de bienes en todo el territorio español».",
+ "why":"La solidaridad (A) es un principio de los arts. 2 y 138, no del 139. La uniformidad normativa (C) es incompatible con la autonomía legislativa autonómica y tampoco recoge el texto del art. 139. La compensación de desigualdades regionales (D) es la finalidad del Fondo de Compensación del art. 158.2, no el objeto del art. 139.",
+ "norma":"Constitución Española de 1978","articulo":"Arts. 139.1 y 139.2"},
+
+{"id":"B1T05-016","bloque":1,"tema":5,"test":5,"dificultad":"media",
+ "pregunta":"El artículo 156.1 de la Constitución reconoce la autonomía financiera de las Comunidades Autónomas. ¿Con arreglo a qué principios se ejerce esa autonomía, según dicho precepto?",
+ "opciones":{
+   "A":"Suficiencia de recursos y proporcionalidad con el nivel de competencias asumido por cada CA",
+   "B":"Coordinación con la Hacienda estatal y solidaridad entre todos los españoles",
+   "C":"Equilibrio presupuestario y corresponsabilidad fiscal con el Estado",
+   "D":"Equidad en la distribución de recursos y autonomía plena respecto del Gobierno central"
+ },"correcta":"B",
+ "explicacion":"El artículo 156.1 CE establece que las CCAA «gozarán de autonomía financiera para el desarrollo y ejecución de sus competencias con arreglo a los principios de coordinación con la Hacienda Estatal y de solidaridad entre todos los españoles».",
+ "why":"Las opciones A, C y D contienen principios razonables en abstracto, pero ninguno de ellos es el que literalmente establece el art. 156.1. La CE vincula la autonomía financiera autonómica a dos parámetros concretos: coordinación con la Hacienda estatal (para evitar disfunciones del sistema tributario) y solidaridad entre todos los españoles (que conecta con el principio del art. 2 y con el art. 158.2).",
+ "norma":"Constitución Española de 1978","articulo":"Art. 156.1"},
+
+{"id":"B1T05-017","bloque":1,"tema":5,"test":5,"dificultad":"dificil",
+ "pregunta":"El artículo 155.1 de la Constitución regula la intervención del Estado sobre las Comunidades Autónomas cuando éstas incumplan sus obligaciones o actúen gravemente contra el interés general. ¿Cuál es el procedimiento exacto que establece la Constitución?",
+ "opciones":{
+   "A":"El Gobierno, con la aprobación del Congreso de los Diputados por mayoría de tres quintos, puede adoptar directamente las medidas sin requerimiento previo a la Comunidad Autónoma",
+   "B":"El Gobierno, previo requerimiento al Presidente de la Comunidad Autónoma y, si no es atendido, con la aprobación por mayoría absoluta del Senado, puede adoptar las medidas necesarias para obligar al cumplimiento forzoso o proteger el interés general",
+   "C":"El Senado, por iniciativa propia y mediante aprobación por mayoría absoluta, puede acordar las medidas de coerción sin necesidad de propuesta del Gobierno",
+   "D":"El Tribunal Constitucional, a solicitud del Gobierno y previa audiencia de la CA, ordena la intervención y puede suspender los órganos de gobierno de la Comunidad Autónoma"
+ },"correcta":"B",
+ "explicacion":"El artículo 155.1 CE establece que, si una CA no cumple las obligaciones constitucionales o legales, o actúa gravemente contra el interés general, «el Gobierno, previo requerimiento al Presidente de la Comunidad Autónoma y, en el caso de no ser atendido, con la aprobación por mayoría absoluta del Senado, podrá adoptar las medidas necesarias para obligar a aquélla al cumplimiento forzoso de dichas obligaciones o para la protección del mencionado interés general».",
+ "why":"La A atribuye la aprobación al Congreso (con mayoría de 3/5) y suprime el requerimiento previo; la CE reserva esa aprobación al Senado —como Cámara de representación territorial— y exige primero el requerimiento al Presidente de la CA. La C convierte al Senado en sujeto activo, cuando es el Gobierno quien actúa previo aval del Senado. La D introduce al TC en un papel que el art. 155 no le atribuye.",
+ "norma":"Constitución Española de 1978","articulo":"Art. 155.1"},
+
+{"id":"B1T05-018","bloque":1,"tema":5,"test":5,"dificultad":"dificil",
+ "pregunta":"El artículo 149.1 CE reserva al Estado competencias exclusivas, mientras el artículo 148.1 lista materias que las CCAA pueden asumir. ¿Cuál de las siguientes materias está reservada como competencia EXCLUSIVA DEL ESTADO en el artículo 149.1, frente a sus homólogas del artículo 148.1?",
+ "opciones":{
+   "A":"La gestión en materia de protección del medio ambiente (asumible por las CCAA en virtud del art. 148.1)",
+   "B":"Los museos, bibliotecas y conservatorios de música de interés para la propia CA",
+   "C":"La legislación básica sobre protección del medio ambiente, sin perjuicio de que las CCAA establezcan normas adicionales de protección",
+   "D":"La promoción del deporte y de la adecuada utilización del ocio"
+ },"correcta":"C",
+ "explicacion":"El artículo 149.1.23ª CE atribuye al Estado la «legislación básica sobre protección del medio ambiente», mientras que el art. 148.1.9ª permite a las CCAA asumir la «gestión en materia de protección del medio ambiente». Esta distinción legislación básica (Estado) / gestión y normas adicionales de protección (CCAA) ilustra el reparto de un mismo ámbito material entre los dos niveles de gobierno.",
+ "why":"A (gestión del medio ambiente) y D (deporte y ocio) son materias del art. 148.1, asumibles por las CCAA. B (museos, bibliotecas y conservatorios de música de interés propio) está en el art. 148.1.15ª, también asumible. Solo C corresponde al art. 149.1.23ª como competencia exclusiva del Estado.",
+ "norma":"Constitución Española de 1978","articulo":"Arts. 148.1.9ª y 149.1.23ª"},
+
+{"id":"B1T05-019","bloque":1,"tema":5,"test":5,"dificultad":"dificil",
+ "pregunta":"El artículo 150 CE establece distintos mecanismos para flexibilizar el reparto de competencias. ¿Cuál describe correctamente la diferencia esencial entre las leyes marco del artículo 150.1 y las leyes orgánicas de transferencia o delegación del artículo 150.2?",
+ "opciones":{
+   "A":"Las leyes marco regulan principios mínimos comunes para todas las CCAA; las del 150.2 transfieren competencias estatales con carácter definitivo e irrevocable",
+   "B":"Las leyes marco del 150.1 atribuyen a las CCAA la facultad de dictar normas legislativas en materias de competencia estatal, conservando el Estado la titularidad y el control parlamentario; las del 150.2 transfieren o delegan en las CCAA facultades correspondientes a materias de titularidad estatal, mediante ley orgánica",
+   "C":"Ambos mecanismos producen idénticos efectos; la única diferencia es formal: unas son leyes ordinarias y otras son leyes orgánicas",
+   "D":"Las leyes marco únicamente pueden aplicarse a materias de competencia compartida; las de transferencia operan solo sobre competencias exclusivas del Estado"
+ },"correcta":"B",
+ "explicacion":"El art. 150.1 CE permite a las Cortes atribuir a las CCAA la facultad de «dictar, para sí mismas, normas legislativas en el marco de los principios, bases y directrices fijados por una ley estatal», manteniendo las Cortes el control. El art. 150.2 permite al Estado «transferir o delegar en las Comunidades Autónomas, mediante ley orgánica, facultades correspondientes a materia de titularidad estatal». La diferencia clave: en el 150.1 el Estado conserva la titularidad y la CCAA actúa en el marco estatal; en el 150.2 se produce una cesión real de las facultades correspondientes.",
+ "why":"La A introduce la irreversibilidad definitiva del 150.2, que no es exacta: la delegación puede modularse. La C niega las diferencias de fondo. La D introduce una distinción entre materias compartidas y exclusivas que el art. 150 no establece: el 150.1 opera sobre «materias de competencia estatal» en general, sin esa restricción.",
+ "norma":"Constitución Española de 1978","articulo":"Arts. 150.1 y 150.2"},
+
+{"id":"B1T05-020","bloque":1,"tema":5,"test":5,"dificultad":"dificil",
+ "pregunta":"El artículo 157.1 de la Constitución enumera los recursos de las Comunidades Autónomas. ¿Cuál de las siguientes categorías forma efectivamente parte de ese listado constitucional?",
+ "opciones":{
+   "A":"Las subvenciones específicas acordadas discrecionalmente por el Consejo de Ministros para proyectos autonómicos",
+   "B":"La recaudación íntegra de todos los tributos estatales obtenida en el territorio de la CA",
+   "C":"Los rendimientos procedentes del patrimonio de la CA y sus ingresos de derecho privado",
+   "D":"Las cuotas de la Seguridad Social gestionadas por la propia Comunidad Autónoma"
+ },"correcta":"C",
+ "explicacion":"El artículo 157.1 CE enumera cinco categorías: (a) impuestos cedidos total o parcialmente por el Estado, recargos sobre impuestos estatales y otras participaciones en sus ingresos; (b) sus propios impuestos, tasas y contribuciones especiales; (c) transferencias del Fondo de Compensación Interterritorial y otras asignaciones con cargo a los PGE; (d) rendimientos procedentes de su patrimonio e ingresos de derecho privado; y (e) el producto de las operaciones de crédito. La opción C describe el subapartado (d).",
+ "why":"Las subvenciones discrecionales del CM (A) no figuran como categoría autónoma en el art. 157.1. La recaudación íntegra de todos los tributos estatales (B) confunde los «impuestos cedidos» —concepto técnico específico— con la cesión de la totalidad de la recaudación, que son realidades distintas. Las cuotas de la SS (D) son ingresos del sistema de seguridad social, no recursos constitucionales de las CCAA.",
+ "norma":"Constitución Española de 1978","articulo":"Art. 157.1"}
+]
