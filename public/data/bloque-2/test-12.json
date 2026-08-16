@@ -1,0 +1,382 @@
+[
+  {
+    "id": "B2T12-001",
+    "bloque": 2,
+    "tema": 12,
+    "test": 12,
+    "dificultad": "facil",
+    "pregunta": "Según el art. 5 de la Ley 40/2015, ¿qué unidades administrativas tienen la consideración de órganos administrativos?",
+    "opciones": {
+      "A": "Todas las unidades con personal funcionario a su cargo.",
+      "B": "Las unidades a las que se atribuyan funciones con efectos jurídicos frente a terceros o cuya actuación tenga carácter preceptivo.",
+      "C": "Únicamente las unidades con rango de Dirección General o superior.",
+      "D": "Las unidades integradas exclusivamente en la estructura central de la Administración General del Estado."
+    },
+    "correcta": "B",
+    "explicacion": "El art. 5 L40/2015 define los órganos administrativos como las unidades a las que se atribuyan funciones con efectos jurídicos frente a terceros o cuya actuación tenga carácter preceptivo. No basta tener personal a cargo ni depender del rango jerárquico.",
+    "why": "A confunde dotación de personal con atribución de funciones jurídicas. C introduce el rango jerárquico, que la ley no exige. D limita la definición a la AGE central, cuando también son órganos los de CCAA y EE.LL.",
+    "norma": "Ley 40/2015",
+    "articulo": "5"
+  },
+  {
+    "id": "B2T12-002",
+    "bloque": 2,
+    "tema": 12,
+    "test": 12,
+    "dificultad": "facil",
+    "pregunta": "De acuerdo con la Ley 40/2015, ¿cuál es el principio general que rige la competencia de los órganos administrativos?",
+    "opciones": {
+      "A": "La competencia puede cederse cuando existan razones de eficacia debidamente motivadas.",
+      "B": "La competencia es irrenunciable y se ejerce por el órgano que la tenga atribuida, salvo los casos de delegación y avocación.",
+      "C": "La competencia es renunciable si lo solicita el interesado en el procedimiento.",
+      "D": "La competencia puede transferirse a un sujeto privado cuando la Administración lo estime oportuno."
+    },
+    "correcta": "B",
+    "explicacion": "El art. 8 L40/2015 establece que la competencia es irrenunciable y se ejerce por el órgano que la tenga atribuida como norma de principio. Las únicas excepciones legales son la delegación y la avocación.",
+    "why": "A confunde eficacia con causa legítima de cesión: la eficacia no permite ceder unilateralmente la competencia. C es incorrecta porque la irrenunciabilidad no puede eliminarse por solicitud del interesado. D no existe en el ordenamiento; la competencia no puede transferirse a sujetos privados.",
+    "norma": "Ley 40/2015",
+    "articulo": "8"
+  },
+  {
+    "id": "B2T12-003",
+    "bloque": 2,
+    "tema": 12,
+    "test": 12,
+    "dificultad": "facil",
+    "pregunta": "¿Cuál es la diferencia esencial entre la delegación de firma (art. 12 Ley 40/2015) y la delegación de competencias (art. 9)?",
+    "opciones": {
+      "A": "La delegación de firma requiere publicación en el BOE; la de competencias, no.",
+      "B": "En la delegación de firma el acto se imputa al firmante; en la de competencias, al órgano delegante.",
+      "C": "La delegación de firma no requiere publicación para su validez; la de competencias sí.",
+      "D": "La delegación de firma transfiere el ejercicio de la competencia; la de competencias solo traslada la firma."
+    },
+    "correcta": "C",
+    "explicacion": "La diferencia formal más relevante es la publicidad: la delegación de competencias (art. 9) debe publicarse en el BOE/BOCA/BOP para ser válida; la delegación de firma (art. 12) no requiere publicación. En ambos casos el acto se imputa al órgano delegante.",
+    "why": "A invierte la regla: es la delegación de competencias la que exige publicación, no la de firma. B es incorrecta porque en ambas figuras el acto se imputa al órgano delegante. D confunde los objetos: la delegación de firma solo delega la firma, no el ejercicio de la competencia.",
+    "norma": "Ley 40/2015",
+    "articulo": "12"
+  },
+  {
+    "id": "B2T12-004",
+    "bloque": 2,
+    "tema": 12,
+    "test": 12,
+    "dificultad": "facil",
+    "pregunta": "Según el art. 13 de la Ley 40/2015, ¿en qué supuestos procede la suplencia del titular de un órgano administrativo?",
+    "opciones": {
+      "A": "Solo en caso de vacante del titular del órgano.",
+      "B": "Únicamente cuando el titular está de baja por enfermedad prolongada.",
+      "C": "Cuando hay declaración formal de incompatibilidad entre el titular y el asunto.",
+      "D": "En caso de vacante, ausencia o enfermedad del titular, o cuando haya sido declarada su abstención o recusación."
+    },
+    "correcta": "D",
+    "explicacion": "El art. 13 L40/2015 enumera cuatro supuestos de suplencia: vacante, ausencia, enfermedad del titular, y cuando haya sido declarada su abstención o recusación. La suplencia es temporal y no altera la competencia del órgano.",
+    "why": "A, B y C recogen solo uno o ninguno de los supuestos legales. En particular, C no es un supuesto de suplencia en la Ley 40/2015; la incompatibilidad se rige por normativa específica.",
+    "norma": "Ley 40/2015",
+    "articulo": "13"
+  },
+  {
+    "id": "B2T12-005",
+    "bloque": 2,
+    "tema": 12,
+    "test": 12,
+    "dificultad": "facil",
+    "pregunta": "Para que un órgano colegiado quede válidamente constituido, el art. 17 de la Ley 40/2015 exige la asistencia de:",
+    "opciones": {
+      "A": "Todos los miembros del órgano sin excepción.",
+      "B": "El Presidente y la mayoría cualificada (dos tercios) de los vocales.",
+      "C": "El Presidente, el Secretario y al menos la mitad de los miembros.",
+      "D": "El Secretario y dos tercios de los vocales, sin necesidad de que esté el Presidente."
+    },
+    "correcta": "C",
+    "explicacion": "El quórum de constitución de los órganos colegiados exige la presencia del Presidente, el Secretario y al menos la mitad de sus miembros (art. 17 L40/2015). La asistencia puede ser presencial o a distancia.",
+    "why": "A exige unanimidad de asistencia, que la ley no requiere. B eleva el quórum a dos tercios y omite al Secretario. D omite al Presidente, que es imprescindible salvo que designe un sustituto.",
+    "norma": "Ley 40/2015",
+    "articulo": "17"
+  },
+  {
+    "id": "B2T12-006",
+    "bloque": 2,
+    "tema": 12,
+    "test": 12,
+    "dificultad": "facil",
+    "pregunta": "¿Quién levanta el acta de las sesiones de los órganos colegiados y en qué plazo puede aprobarse?",
+    "opciones": {
+      "A": "El Presidente, necesariamente en la misma sesión en que se celebra.",
+      "B": "El Secretario; puede aprobarse en la misma sesión o en la inmediata siguiente.",
+      "C": "El vocal más antiguo; siempre en la sesión siguiente.",
+      "D": "Cualquier miembro designado por mayoría; en el plazo de diez días hábiles."
+    },
+    "correcta": "B",
+    "explicacion": "El art. 18 L40/2015 atribuye al Secretario la función de levantar el acta, que recoge los asistentes, el orden del día, el lugar y tiempo, los puntos principales de las deliberaciones y el contenido de los acuerdos. El acta puede aprobarse en la misma sesión o en la inmediata siguiente.",
+    "why": "A atribuye la función al Presidente y exige aprobación inmediata, lo que no prevé la ley. C atribuye la función al vocal más antiguo, cargo inexistente en la ley para este fin. D no tiene base legal.",
+    "norma": "Ley 40/2015",
+    "articulo": "18"
+  },
+  {
+    "id": "B2T12-007",
+    "bloque": 2,
+    "tema": 12,
+    "test": 12,
+    "dificultad": "media",
+    "pregunta": "¿Cuál de las siguientes materias NO puede ser objeto de delegación de competencias según el art. 9 de la Ley 40/2015?",
+    "opciones": {
+      "A": "Las resoluciones sancionadoras en expedientes de escasa cuantía.",
+      "B": "La adopción de disposiciones de carácter general (reglamentos).",
+      "C": "Los actos de trámite en procedimientos de responsabilidad patrimonial.",
+      "D": "Las concesiones de autorizaciones de carácter reglado."
+    },
+    "correcta": "B",
+    "explicacion": "El art. 9 L40/2015 prohíbe delegar la adopción de disposiciones de carácter general, los asuntos relativos a las relaciones con los más altos órganos constitucionales, la resolución de recursos por el mismo órgano que dictó el acto recurrido, y las materias que una ley así lo establezca.",
+    "why": "A, C y D son competencias que, en principio, admiten delegación salvo norma en contrario. La prohibición de delegar la potestad reglamentaria responde a que los reglamentos tienen eficacia normativa general y su delegación vaciaría de contenido la responsabilidad del titular.",
+    "norma": "Ley 40/2015",
+    "articulo": "9"
+  },
+  {
+    "id": "B2T12-008",
+    "bloque": 2,
+    "tema": 12,
+    "test": 12,
+    "dificultad": "media",
+    "pregunta": "Respecto a la avocación regulada en el art. 10 de la Ley 40/2015, ¿cuál de estas afirmaciones es correcta?",
+    "opciones": {
+      "A": "Cabe recurso independiente contra el acuerdo de avocación antes de que se dicte la resolución final.",
+      "B": "No requiere motivación cuando la avoca el superior jerárquico directo del órgano que tenía el asunto.",
+      "C": "Solo procede cuando concurren circunstancias de índole técnica, económica, social, jurídica o territorial; debe acordarse mediante resolución motivada.",
+      "D": "Solo puede producirse cuando el órgano inferior ha solicitado expresamente la avocación."
+    },
+    "correcta": "C",
+    "explicacion": "La avocación (art. 10 L40/2015) requiere que concurran circunstancias técnicas, económicas, sociales, jurídicas o territoriales que la hagan conveniente. Debe formalizarse mediante acuerdo motivado, notificado a los interesados antes o simultáneamente a la resolución final.",
+    "why": "A es incorrecta: el art. 10 dispone que contra el acuerdo de avocación no cabe recurso por separado; solo puede impugnarse junto a la resolución final. B es incorrecta: siempre se requiere motivación, con independencia de la relación jerárquica. D no existe en la ley.",
+    "norma": "Ley 40/2015",
+    "articulo": "10"
+  },
+  {
+    "id": "B2T12-009",
+    "bloque": 2,
+    "tema": 12,
+    "test": 12,
+    "dificultad": "media",
+    "pregunta": "¿Qué traslada la encomienda de gestión conforme al art. 11 de la Ley 40/2015?",
+    "opciones": {
+      "A": "La titularidad de la competencia y el ejercicio pleno de sus elementos sustantivos.",
+      "B": "El ejercicio de actividades de carácter material o técnico, sin ceder la titularidad ni los elementos sustantivos de la competencia.",
+      "C": "Únicamente la firma de los actos, mientras el encomendante retiene todas las demás funciones.",
+      "D": "La plena competencia, incluida la resolución de recursos, al órgano encomendado."
+    },
+    "correcta": "B",
+    "explicacion": "La encomienda de gestión (art. 11 L40/2015) traslada solo la realización de actividades materiales o técnicas; el órgano encomendante conserva la titularidad de la competencia y dicta todos los actos con efectos jurídicos. El encomendado queda como encargado del tratamiento de los datos personales involucrados.",
+    "why": "A describe la desconcentración (traslado de titularidad), no la encomienda. C describe la delegación de firma. D atribuye a la encomienda efectos propios de la delegación de competencias plena.",
+    "norma": "Ley 40/2015",
+    "articulo": "11"
+  },
+  {
+    "id": "B2T12-010",
+    "bloque": 2,
+    "tema": 12,
+    "test": 12,
+    "dificultad": "media",
+    "pregunta": "Cuando la encomienda de gestión se produce entre órganos de distintas Administraciones Públicas, ¿cómo debe formalizarse según el art. 11 de la Ley 40/2015?",
+    "opciones": {
+      "A": "Mediante resolución del órgano encomendante publicada en el BOE.",
+      "B": "Mediante acuerdo expreso del Consejo de Ministros, con publicación en el BOE.",
+      "C": "Mediante convenio entre las Administraciones implicadas, publicado en el boletín oficial correspondiente.",
+      "D": "Basta la comunicación entre los órganos competentes, sin necesidad de publicación."
+    },
+    "correcta": "C",
+    "explicacion": "El art. 11 L40/2015 distingue dos modalidades: cuando la encomienda se produce entre órganos de la misma Administración, se formaliza mediante acuerdo expreso; cuando intervienen distintas Administraciones, debe formalizarse mediante convenio. En ambos casos es necesaria la publicación en el boletín oficial correspondiente.",
+    "why": "A describe solo la modalidad intraadministrativa y la atribuye incorrectamente a una resolución. B no tiene apoyo legal; el Consejo de Ministros no interviene en toda encomienda interadministrativa. D es incorrecta porque la encomienda exige publicidad formal.",
+    "norma": "Ley 40/2015",
+    "articulo": "11"
+  },
+  {
+    "id": "B2T12-011",
+    "bloque": 2,
+    "tema": 12,
+    "test": 12,
+    "dificultad": "media",
+    "pregunta": "Según el art. 23 de la Ley 40/2015, ¿hasta qué grado de consanguinidad con el interesado obliga al funcionario a abstenerse?",
+    "opciones": {
+      "A": "Hasta el segundo grado de consanguinidad.",
+      "B": "Hasta el tercer grado de consanguinidad.",
+      "C": "Hasta el cuarto grado de consanguinidad.",
+      "D": "Hasta el quinto grado de consanguinidad."
+    },
+    "correcta": "C",
+    "explicacion": "El art. 23 L40/2015 exige abstenerse cuando existe parentesco de consanguinidad hasta el cuarto grado (bisnietos, primos hermanos, tíos abuelos) o de afinidad hasta el segundo grado con el interesado o sus representantes y asesores.",
+    "why": "A y B fijan grados inferiores al legalmente establecido y dejarían sin protección situaciones de parentesco próximo (primos, tíos abuelos). D supera el umbral legal e impondría una carga desproporcionada. El binomio 4.º consanguinidad / 2.º afinidad es un dato clave del examen.",
+    "norma": "Ley 40/2015",
+    "articulo": "23"
+  },
+  {
+    "id": "B2T12-012",
+    "bloque": 2,
+    "tema": 12,
+    "test": 12,
+    "dificultad": "media",
+    "pregunta": "Cuando un interesado recusa a un funcionario y este no se abstiene voluntariamente, ¿en qué plazo debe resolver el superior jerárquico según el art. 24 de la Ley 40/2015?",
+    "opciones": {
+      "A": "En el plazo de cinco días hábiles.",
+      "B": "En el plazo de diez días.",
+      "C": "En el plazo de tres días.",
+      "D": "En el plazo de quince días hábiles."
+    },
+    "correcta": "C",
+    "explicacion": "El art. 24 L40/2015 establece que el superior jerárquico resuelve la recusación en el plazo de tres días. Además, contra la resolución sobre la recusación no cabe recurso por separado; solo puede impugnarse junto al recurso contra la resolución final del procedimiento.",
+    "why": "Los plazos de cinco, diez y quince días se aplican en otras figuras procedimentales (vista del expediente, subsanación de defectos), pero no en la recusación. El plazo brevísimo de tres días responde a la necesidad de que el procedimiento no se paralice.",
+    "norma": "Ley 40/2015",
+    "articulo": "24"
+  },
+  {
+    "id": "B2T12-013",
+    "bloque": 2,
+    "tema": 12,
+    "test": 12,
+    "dificultad": "media",
+    "pregunta": "Los actos dictados por delegación de competencias, ¿a quién se imputan y cómo deben identificarse?",
+    "opciones": {
+      "A": "Al órgano delegado, que actúa con plena autonomía y en nombre propio.",
+      "B": "Al órgano delegante; el acto debe indicar expresamente que se dicta por delegación.",
+      "C": "Al órgano delegado, con mención expresa del órgano delegante como garante.",
+      "D": "Al órgano delegante, sin necesidad de indicar en el acto la circunstancia de la delegación."
+    },
+    "correcta": "B",
+    "explicacion": "El art. 9 L40/2015 establece que las resoluciones adoptadas por delegación se consideran dictadas por el órgano delegante y deben indicar expresamente esta circunstancia. Ello garantiza transparencia y permite identificar el origen de la competencia.",
+    "why": "A y C atribuyen el acto al delegado, lo que contradice el art. 9. D es incorrecta porque la mención expresa de la delegación es un requisito formal preceptivo: su omisión puede afectar a la transparencia del acto.",
+    "norma": "Ley 40/2015",
+    "articulo": "9"
+  },
+  {
+    "id": "B2T12-014",
+    "bloque": 2,
+    "tema": 12,
+    "test": 12,
+    "dificultad": "media",
+    "pregunta": "Según el art. 17 de la Ley 40/2015, ¿en qué condiciones pueden tratarse en un órgano colegiado asuntos no incluidos en el orden del día de la convocatoria?",
+    "opciones": {
+      "A": "Nunca; cualquier modificación del orden del día exige nueva convocatoria.",
+      "B": "Si están presentes todos los miembros del órgano y se declara la urgencia por mayoría de votos.",
+      "C": "Si lo aprueba el Presidente con el voto favorable del Secretario.",
+      "D": "Si el asunto urgente lo solicita al menos un tercio de los vocales presentes."
+    },
+    "correcta": "B",
+    "explicacion": "El art. 17 L40/2015 permite tratar asuntos no previstos en el orden del día siempre que estén presentes todos los miembros del órgano y la urgencia sea declarada por mayoría de votos. Ambos requisitos son acumulativos.",
+    "why": "A es demasiado rígida: la ley admite la excepción cuando hay unanimidad de presencia y acuerdo de urgencia. C no tiene apoyo legal; el Presidente no puede modificar el orden del día unilateralmente con el Secretario. D fija una mayoría inferior (un tercio) que la ley no contempla.",
+    "norma": "Ley 40/2015",
+    "articulo": "17"
+  },
+  {
+    "id": "B2T12-015",
+    "bloque": 2,
+    "tema": 12,
+    "test": 12,
+    "dificultad": "media",
+    "pregunta": "El art. 23 de la Ley 40/2015 obliga a abstenerse cuando existe relación de servicio con el interesado. ¿Cuál es el período de tiempo que delimita esa causa?",
+    "opciones": {
+      "A": "Servicios prestados en los últimos seis meses.",
+      "B": "Servicios prestados en el último año.",
+      "C": "Servicios profesionales prestados en los dos últimos años.",
+      "D": "Cualquier servicio prestado en cualquier momento, sin límite temporal."
+    },
+    "correcta": "C",
+    "explicacion": "El art. 23.1.e) L40/2015 exige abstenerse cuando se hayan prestado servicios profesionales de cualquier tipo al interesado en los dos últimos años. El límite temporal de dos años busca equilibrar la imparcialidad con la operatividad de la Administración.",
+    "why": "A y B fijan plazos inferiores que no recoge la ley. D eliminaría el límite temporal creando una causa de abstención prácticamente permanente, lo que no es la voluntad del legislador.",
+    "norma": "Ley 40/2015",
+    "articulo": "23"
+  },
+  {
+    "id": "B2T12-016",
+    "bloque": 2,
+    "tema": 12,
+    "test": 12,
+    "dificultad": "media",
+    "pregunta": "¿En qué se diferencia fundamentalmente la desconcentración de la delegación de competencias en la Ley 40/2015?",
+    "opciones": {
+      "A": "La desconcentración solo puede hacerse a organismos autónomos; la delegación, a cualquier órgano.",
+      "B": "En la delegación se transfiere la titularidad de la competencia; en la desconcentración, solo el ejercicio.",
+      "C": "La desconcentración transfiere tanto la titularidad como el ejercicio de la competencia mediante una norma con carácter permanente; la delegación solo traslada el ejercicio.",
+      "D": "La desconcentración requiere publicación en el BOE igual que la delegación, pero con carácter permanente y sin posibilidad de revocación."
+    },
+    "correcta": "C",
+    "explicacion": "La desconcentración transfiere la titularidad y el ejercicio de la competencia de forma definitiva mediante norma; el órgano receptor actúa como propio titular. La delegación, en cambio, solo traslada el ejercicio; la titularidad permanece en el órgano delegante, que puede revocarla en cualquier momento.",
+    "why": "B invierte la relación: es precisamente la desconcentración, no la delegación, la que transfiere la titularidad. A no tiene base legal: la desconcentración puede operar a favor de cualquier órgano de la estructura administrativa. D confunde publicidad y permanencia: la delegación también se publica, y la desconcentración sí es revocable mediante norma.",
+    "norma": "Ley 40/2015",
+    "articulo": "8 y 9"
+  },
+  {
+    "id": "B2T12-017",
+    "bloque": 2,
+    "tema": 12,
+    "test": 12,
+    "dificultad": "dificil",
+    "pregunta": "Según el art. 9 de la Ley 40/2015, ¿en qué supuesto puede un órgano delegado subdelegar a su vez la competencia recibida por delegación?",
+    "opciones": {
+      "A": "Cuando el órgano delegante lo autorice mediante resolución motivada en cada caso concreto.",
+      "B": "Solo si una ley lo autoriza expresamente.",
+      "C": "Cuando la delegación original provenga del órgano jerárquico superior y no exista prohibición reglamentaria.",
+      "D": "La subdelegación está siempre prohibida con carácter absoluto; ninguna norma puede autorizarla."
+    },
+    "correcta": "B",
+    "explicacion": "El art. 9 L40/2015 prohíbe la subdelegación como regla general. Solo puede practicarse cuando una ley lo autorice expresamente. No basta con la autorización del órgano delegante ni con la ausencia de prohibición reglamentaria.",
+    "why": "A es incorrecta porque la autorización del delegante no es suficiente: se requiere habilitación legal. C introduce una condición que la ley no prevé (rango del delegante + ausencia de prohibición reglamentaria). D exagera la prohibición: la ley admite la subdelegación cuando una norma con rango de ley la habilita.",
+    "norma": "Ley 40/2015",
+    "articulo": "9"
+  },
+  {
+    "id": "B2T12-018",
+    "bloque": 2,
+    "tema": 12,
+    "test": 12,
+    "dificultad": "dificil",
+    "pregunta": "El art. 10 de la Ley 40/2015 establece una regla especial sobre la avocación cuando la delegación original se hizo a un órgano no jerárquicamente dependiente del avocante. ¿Cuál es esa regla?",
+    "opciones": {
+      "A": "No puede producirse avocación alguna; el superior jerárquico debe resolver el asunto directamente sin avocar.",
+      "B": "La avocación debe ser aprobada por el órgano máximo de la Administración en cuyo seno se realizó la delegación.",
+      "C": "Solo puede avocar el propio órgano que efectuó la delegación, no cualquier superior jerárquico.",
+      "D": "La avocación requiere autorización previa del Consejo de Ministros cuando afecta a la Administración General del Estado."
+    },
+    "correcta": "C",
+    "explicacion": "El art. 10 L40/2015 establece que cuando la delegación se hizo a un órgano no jerárquicamente dependiente, solo puede avocar el órgano delegante —el que realizó la delegación—, no cualquier superior jerárquico. Esta limitación evita que órganos ajenos a la relación de delegación interfieran en el asunto.",
+    "why": "A es incorrecta porque la avocación sí es posible en estos casos; lo que se restringe es quién puede ejercerla. B introduce la aprobación del órgano máximo, que la ley no exige. D no tiene apoyo en la Ley 40/2015.",
+    "norma": "Ley 40/2015",
+    "articulo": "10"
+  },
+  {
+    "id": "B2T12-019",
+    "bloque": 2,
+    "tema": 12,
+    "test": 12,
+    "dificultad": "dificil",
+    "pregunta": "Si un funcionario obligado a abstenerse no lo hace y dicta un acto administrativo, ¿qué consecuencia jurídica directa establece el art. 23 de la Ley 40/2015 para ese acto?",
+    "opciones": {
+      "A": "El acto es nulo de pleno derecho por lesionar un derecho fundamental del interesado.",
+      "B": "El acto es nulo de pleno derecho por incompetencia manifiesta del órgano que lo dictó.",
+      "C": "El incumplimiento genera responsabilidad disciplinaria para el funcionario, pero no determina necesariamente la invalidez del acto; su impugnación ha de valorarse caso a caso.",
+      "D": "El acto es anulable en todo caso, sin necesidad de alegar ninguna otra causa de invalidez."
+    },
+    "correcta": "C",
+    "explicacion": "El art. 23.3 L40/2015 dispone expresamente que la actuación de autoridades y personal en los que concurran motivos de abstención no implicará, necesariamente, la invalidez de los actos en que hayan intervenido. El incumplimiento genera responsabilidad (disciplinaria), pero el acto no es automáticamente inválido; su nulidad o anulabilidad depende de si la infracción causó indefensión o lesionó un interés legítimo.",
+    "why": "A y B aplican la nulidad de pleno derecho de forma automática, lo que contradice el tenor literal del art. 23.3 L40. D afirma una anulabilidad automática igualmente infundada. La ley separa deliberadamente la responsabilidad personal del funcionario de la validez del acto.",
+    "norma": "Ley 40/2015",
+    "articulo": "23"
+  },
+  {
+    "id": "B2T12-020",
+    "bloque": 2,
+    "tema": 12,
+    "test": 12,
+    "dificultad": "dificil",
+    "pregunta": "Según el art. 18 de la Ley 40/2015, ¿en qué condiciones puede sustituirse el acta escrita de un órgano colegiado por la grabación de la sesión?",
+    "opciones": {
+      "A": "Siempre que lo aprueben dos tercios de los miembros del órgano antes de iniciar la sesión.",
+      "B": "Solo cuando todos los miembros del órgano consientan expresamente la grabación en el momento de constituirse.",
+      "C": "Cuando se cuente con el fichero de la grabación junto con la certificación del Secretario que acredite la autenticidad e integridad del contenido.",
+      "D": "Nunca; el acta escrita es un requisito formal imperativo e inderogable en todo caso."
+    },
+    "correcta": "C",
+    "explicacion": "El art. 18 L40/2015 permite que el fichero de la grabación, junto con la certificación del Secretario que acredite su autenticidad e integridad, sustituya al acta escrita. No se exige consentimiento unánime ni mayoría especial: basta con la certificación del Secretario.",
+    "why": "A y B introducen mayorías o consentimientos que la ley no exige. D es incorrecta porque la ley admite expresamente la sustitución del acta escrita por la grabación certificada, con el objetivo de simplificar el funcionamiento de los órganos colegiados.",
+    "norma": "Ley 40/2015",
+    "articulo": "18"
+  }
+]
