@@ -1,0 +1,382 @@
+[
+  {
+    "id": "B2T17-001",
+    "bloque": 2,
+    "tema": 17,
+    "test": 17,
+    "dificultad": "facil",
+    "pregunta": "¿Cuál es el fundamento constitucional del derecho a ser indemnizado por los daños causados por el funcionamiento de los servicios públicos?",
+    "opciones": {
+      "A": "El art. 24 CE, que garantiza el derecho a la tutela judicial efectiva.",
+      "B": "El art. 9.3 CE, que consagra el principio de responsabilidad de los poderes públicos.",
+      "C": "El art. 106.2 CE, que reconoce el derecho de los particulares a ser indemnizados por toda lesión consecuencia del funcionamiento de los servicios públicos, salvo fuerza mayor.",
+      "D": "El art. 103.1 CE, que establece que la Administración sirve con objetividad los intereses generales."
+    },
+    "correcta": "C",
+    "explicacion": "El art. 106.2 CE establece expresamente que los particulares tienen derecho a ser indemnizados por toda lesión que sufran en sus bienes y derechos, salvo en los casos de fuerza mayor, siempre que la lesión sea consecuencia del funcionamiento de los servicios públicos. Es la base constitucional del régimen de responsabilidad patrimonial de las AAPP.",
+    "why": "A el art. 24 CE tutela el acceso a la justicia, no la responsabilidad patrimonial. B el art. 9.3 CE recoge el principio de responsabilidad de los poderes públicos de forma genérica pero no es la base específica de la responsabilidad patrimonial administrativa. D el art. 103.1 CE enuncia los principios de organización de la Administración, no el derecho a indemnización.",
+    "norma": "Constitución Española",
+    "articulo": "106.2"
+  },
+  {
+    "id": "B2T17-002",
+    "bloque": 2,
+    "tema": 17,
+    "test": 17,
+    "dificultad": "facil",
+    "pregunta": "¿Cuál es la naturaleza de la responsabilidad patrimonial de las Administraciones Públicas según el art. 32 de la Ley 40/2015?",
+    "opciones": {
+      "A": "Subjetiva: solo surge cuando el funcionario actuó con culpa o negligencia.",
+      "B": "Objetiva y directa: la AAPP responde de los daños causados por el funcionamiento normal o anormal de sus servicios, sin necesidad de probar culpa.",
+      "C": "Subsidiaria: la AAPP solo responde si el funcionario causante del daño es insolvente.",
+      "D": "Solidaria: la AAPP y el funcionario responden conjuntamente ante el particular perjudicado."
+    },
+    "correcta": "B",
+    "explicacion": "El art. 32 L40/2015 configura la responsabilidad patrimonial de las AAPP como objetiva (no requiere culpa: basta el daño causado por el servicio, sea normal o anormal) y directa (el particular dirige su reclamación directamente contra la AAPP, sin necesidad de demostrar la culpa del funcionario concreto). La Administración puede ejercer después la acción de regreso contra el funcionario responsable.",
+    "why": "A la responsabilidad patrimonial administrativa es objetiva, no subjetiva; no se exige acreditar culpa. C la responsabilidad es directa, no subsidiaria: el particular reclama a la AAPP sin esperar la insolvencia del funcionario. D la ley no establece solidaridad con el funcionario frente al administrado; el funcionario solo responde internamente ante la AAPP por la acción de regreso.",
+    "norma": "Ley 40/2015",
+    "articulo": "32"
+  },
+  {
+    "id": "B2T17-003",
+    "bloque": 2,
+    "tema": 17,
+    "test": 17,
+    "dificultad": "facil",
+    "pregunta": "Según el art. 67 de la Ley 39/2015, ¿cuál es el plazo para ejercitar la acción de responsabilidad patrimonial?",
+    "opciones": {
+      "A": "Cuatro años desde que se produjo el hecho causante.",
+      "B": "Dos años desde que el perjudicado conoce el daño.",
+      "C": "Un año desde que se produjo el hecho causante o desde que el perjudicado tuvo conocimiento del daño y de su origen administrativo.",
+      "D": "Seis meses desde que el daño fue causado por el funcionamiento del servicio."
+    },
+    "correcta": "C",
+    "explicacion": "El art. 67 L39/2015 fija en un año el plazo de prescripción de la acción de responsabilidad patrimonial. El cómputo se inicia desde que se produce el hecho causante o, si el perjudicado no lo conocía, desde que tiene conocimiento del daño y de su posible origen administrativo. Para los daños físicos o psíquicos, el plazo se computa desde la curación o desde que se determina el alcance de las secuelas.",
+    "why": "A el plazo de cuatro años corresponde a la declaración de lesividad (art. 107 L39/2015), no a la responsabilidad patrimonial. B dos años es el plazo de la responsabilidad civil extracontractual, no de la patrimonial administrativa. D seis meses es el plazo de silencio en la resolución del expediente de responsabilidad, no el de la reclamación.",
+    "norma": "Ley 39/2015",
+    "articulo": "67"
+  },
+  {
+    "id": "B2T17-004",
+    "bloque": 2,
+    "tema": 17,
+    "test": 17,
+    "dificultad": "facil",
+    "pregunta": "Para que sea indemnizable, el daño debe reunir determinadas características según el art. 32 de la Ley 40/2015. ¿Cuáles son?",
+    "opciones": {
+      "A": "Debe ser grave, previsible y haber sido causado por negligencia de un funcionario identificado.",
+      "B": "Debe ser efectivo, evaluable económicamente e individualizado respecto a una persona o grupo.",
+      "C": "Debe ser irreversible, cuantificable en términos jurídicos y haber generado reclamación previa.",
+      "D": "Debe producirse en el ámbito de una prestación de servicio esencial y ser de carácter permanente."
+    },
+    "correcta": "B",
+    "explicacion": "El art. 32 L40/2015 exige que la lesión sea efectiva (real, no meramente posible o hipotética), evaluable económicamente (susceptible de cuantificación) e individualizada respecto a una persona o grupo de personas. Un daño genérico o difuso no cumple el requisito de individualización.",
+    "why": "A exige gravedad y previsibilidad, que la ley no establece como requisitos, y añade la identificación del funcionario, incompatible con la responsabilidad objetiva. C introduce la irreversibilidad y la reclamación previa como requisitos del daño, cuando son condiciones de otro tipo (procedimentales). D limita los daños a los de servicios esenciales y permanentes, sin base legal.",
+    "norma": "Ley 40/2015",
+    "articulo": "32"
+  },
+  {
+    "id": "B2T17-005",
+    "bloque": 2,
+    "tema": 17,
+    "test": 17,
+    "dificultad": "facil",
+    "pregunta": "¿Qué efecto tiene la fuerza mayor sobre la responsabilidad patrimonial de las AAPP, y en qué se diferencia del caso fortuito?",
+    "opciones": {
+      "A": "Ni la fuerza mayor ni el caso fortuito excluyen la responsabilidad; la AAPP siempre responde.",
+      "B": "Ambos excluyen la responsabilidad cuando el daño es consecuencia de un evento imprevisible.",
+      "C": "La fuerza mayor excluye la responsabilidad (evento externo e irresistible); el caso fortuito no la excluye porque el evento es interno al sistema de riesgos del servicio.",
+      "D": "El caso fortuito excluye la responsabilidad; la fuerza mayor no la excluye nunca porque la Administración debe prever todo tipo de contingencias."
+    },
+    "correcta": "C",
+    "explicacion": "El art. 106.2 CE y el art. 32 L40/2015 excluyen la responsabilidad en los casos de fuerza mayor: evento externo al servicio, imprevisible e irresistible (terremoto, inundación extraordinaria). El caso fortuito, en cambio, es un evento inherente al propio funcionamiento del sistema, por lo que no rompe el nexo causal y la responsabilidad objetiva subsiste.",
+    "why": "A y D son contrarios a la ley: la fuerza mayor sí excluye la responsabilidad, y el caso fortuito no la excluye. B equipara ambas figuras, cuando la distinción entre evento externo (fuerza mayor) e interno (caso fortuito) tiene consecuencias jurídicas distintas.",
+    "norma": "Ley 40/2015",
+    "articulo": "32"
+  },
+  {
+    "id": "B2T17-006",
+    "bloque": 2,
+    "tema": 17,
+    "test": 17,
+    "dificultad": "facil",
+    "pregunta": "Según el art. 34 de la Ley 40/2015, ¿a qué fecha se toma como referencia para calcular la cuantía de la indemnización por responsabilidad patrimonial?",
+    "opciones": {
+      "A": "La fecha en que el interesado presenta la reclamación administrativa.",
+      "B": "La fecha en que se dicta la resolución administrativa que reconoce la responsabilidad.",
+      "C": "La fecha en que la lesión efectivamente se produjo, actualizándose hasta la fecha de pago con el IPC.",
+      "D": "La fecha de la sentencia judicial que reconoce el derecho a indemnización."
+    },
+    "correcta": "C",
+    "explicacion": "El art. 34 L40/2015 establece que la indemnización se calculará con referencia al día en que la lesión efectivamente se produjo. Para evitar la depreciación monetaria, la cantidad se actualiza aplicando el IPC u otro índice equivalente hasta la fecha de pago efectivo. Alternativamente, puede sustituirse por una compensación en especie si el perjudicado lo prefiere.",
+    "why": "A la fecha de la reclamación es posterior al daño y podría no reflejar el valor real de la lesión. B la fecha de la resolución puede ser muy posterior, perjudicando al administrado si no se actualiza correctamente. D la sentencia judicial puede llegar años después del daño; la ley fija la referencia en el momento del daño.",
+    "norma": "Ley 40/2015",
+    "articulo": "34"
+  },
+  {
+    "id": "B2T17-007",
+    "bloque": 2,
+    "tema": 17,
+    "test": 17,
+    "dificultad": "media",
+    "pregunta": "¿Qué se entiende por 'lesión antijurídica' como requisito de la responsabilidad patrimonial según el art. 32 de la Ley 40/2015?",
+    "opciones": {
+      "A": "Que el daño haya sido causado por una actuación ilegal o contraria al ordenamiento de la Administración.",
+      "B": "Que el particular no tenga el deber jurídico de soportar el daño, con independencia de si la actuación administrativa fue legal o no.",
+      "C": "Que el daño derive de una infracción penal cometida por un funcionario en el ejercicio de sus funciones.",
+      "D": "Que el daño haya sido declarado antijurídico por resolución judicial firme."
+    },
+    "correcta": "B",
+    "explicacion": "La antijuridicidad en la responsabilidad patrimonial administrativa es una antijuridicidad objetiva referida al daño, no a la conducta de la Administración. La lesión es antijurídica cuando el particular no tiene el deber jurídico de soportarla: ni la ley ni el ordenamiento le imponen la carga de ese daño. Este requisito permite que exista responsabilidad incluso ante actuaciones formalmente legales de la Administración.",
+    "why": "A limita la responsabilidad a actuaciones ilegales, cuando el art. 32 L40/2015 la extiende expresamente al funcionamiento 'normal o anormal' del servicio: una actuación perfectamente legal puede generar responsabilidad si el particular no tiene el deber de soportar el daño. C y D introducen requisitos (ilícito penal, sentencia firme) que no prevé la ley.",
+    "norma": "Ley 40/2015",
+    "articulo": "32"
+  },
+  {
+    "id": "B2T17-008",
+    "bloque": 2,
+    "tema": 17,
+    "test": 17,
+    "dificultad": "media",
+    "pregunta": "La responsabilidad patrimonial de las AAPP surge tanto del funcionamiento normal como del anormal de los servicios públicos. ¿Qué implica la responsabilidad por funcionamiento normal?",
+    "opciones": {
+      "A": "Nada; el funcionamiento normal no puede generar responsabilidad porque la Administración actúa correctamente.",
+      "B": "Que incluso cuando el servicio funciona sin irregularidades, si se produce una lesión antijurídica, la AAPP debe indemnizar.",
+      "C": "Que la Administración responde únicamente de los daños previsibles en el funcionamiento ordinario.",
+      "D": "Que el interesado debe probar que el servicio funcionaba correctamente para recibir la indemnización."
+    },
+    "correcta": "B",
+    "explicacion": "La extensión de la responsabilidad al funcionamiento 'normal' del servicio es la consecuencia más característica de la naturaleza objetiva de la responsabilidad patrimonial española. Si el servicio opera con plena regularidad pero causa un daño que el particular no tiene el deber de soportar, la AAPP está obligada a indemnizar. No se requiere irregularidad, negligencia ni dolo.",
+    "why": "A excluye la responsabilidad ante funcionamiento normal, lo que sería contrario al texto literal del art. 32 L40/2015 y a la doctrina consolidada. C limita la responsabilidad a daños previsibles, cuando la norma no establece ese requisito. D invierte la carga de la prueba: el administrado prueba el daño y el nexo causal, pero no tiene que demostrar la normalidad del servicio.",
+    "norma": "Ley 40/2015",
+    "articulo": "32"
+  },
+  {
+    "id": "B2T17-009",
+    "bloque": 2,
+    "tema": 17,
+    "test": 17,
+    "dificultad": "media",
+    "pregunta": "¿Qué papel desempeña la relación de causalidad en el régimen de responsabilidad patrimonial de las AAPP?",
+    "opciones": {
+      "A": "No es necesaria; basta con demostrar que se produjo un daño y que la AAPP tenía competencia sobre el servicio.",
+      "B": "Es un requisito esencial: debe existir un nexo causal directo entre el funcionamiento del servicio público y el daño producido.",
+      "C": "Solo es exigible cuando la responsabilidad deriva del funcionamiento anormal, no del normal.",
+      "D": "La causalidad se presume siempre que el daño se produce en instalaciones públicas."
+    },
+    "correcta": "B",
+    "explicacion": "El nexo causal entre el funcionamiento del servicio y el daño es un requisito esencial del art. 32 L40/2015. Sin él, aunque exista un daño efectivo, no hay responsabilidad de la AAPP. La ruptura del nexo causal (por fuerza mayor, culpa exclusiva del perjudicado o hecho de un tercero) excluye o reduce la responsabilidad.",
+    "why": "A elimina el nexo causal, lo que convertiría a la AAPP en una aseguradora universal de cualquier daño que se produzca en su ámbito. C limita la exigencia del nexo al funcionamiento anormal, cuando el art. 32 lo exige en ambos tipos. D presume la causalidad en instalaciones públicas, lo que no recoge la ley y vaciaría de sentido la prueba del nexo causal.",
+    "norma": "Ley 40/2015",
+    "articulo": "32"
+  },
+  {
+    "id": "B2T17-010",
+    "bloque": 2,
+    "tema": 17,
+    "test": 17,
+    "dificultad": "media",
+    "pregunta": "Según el art. 67 de la Ley 39/2015, ¿desde cuándo comienza a computarse el plazo de un año cuando los daños son de carácter físico o psíquico?",
+    "opciones": {
+      "A": "Desde la fecha en que se produjo el accidente o hecho causante del daño.",
+      "B": "Desde la fecha en que la víctima presenta la reclamación ante la Administración.",
+      "C": "Desde que se produce la curación del afectado o se determina médicamente el alcance de las secuelas.",
+      "D": "Desde que la Administración reconoce formalmente su responsabilidad."
+    },
+    "correcta": "C",
+    "explicacion": "El art. 67 L39/2015 establece una regla especial para los daños físicos o psíquicos: el plazo de un año no se computa desde el hecho causante (que puede ser incierto o la lesión puede seguir evolucionando), sino desde que se produce la curación completa o, si quedan secuelas, desde que se determina médicamente su alcance definitivo. Esta regla garantiza que la víctima pueda reclamar una vez conocida la totalidad del daño.",
+    "why": "A aplica el dies a quo general (hecho causante), que para daños físicos puede dejar al perjudicado sin tiempo suficiente si la lesión está en evolución. B fija la reclamación como punto de inicio, lo que carece de base legal y sería circular. D condiciona el inicio del plazo a un reconocimiento de la AAPP, que puede no producirse.",
+    "norma": "Ley 39/2015",
+    "articulo": "67"
+  },
+  {
+    "id": "B2T17-011",
+    "bloque": 2,
+    "tema": 17,
+    "test": 17,
+    "dificultad": "media",
+    "pregunta": "Según el art. 36 de la Ley 40/2015, ¿en qué supuestos puede la Administración ejercer la acción de regreso contra el funcionario que causó el daño?",
+    "opciones": {
+      "A": "En cualquier caso en que el funcionario haya causado un daño, con independencia de su grado de culpa.",
+      "B": "Solo cuando el funcionario haya actuado fuera de las instrucciones recibidas.",
+      "C": "Cuando el funcionario haya actuado con dolo, o culpa o negligencia graves.",
+      "D": "Solo cuando el funcionario haya sido previamente condenado en vía penal."
+    },
+    "correcta": "C",
+    "explicacion": "El art. 36 L40/2015 distingue la responsabilidad externa de la Administración (directa y objetiva frente al perjudicado) de la responsabilidad interna del funcionario. La Administración, una vez satisfecha la indemnización, puede ejercer la acción de regreso contra el funcionario responsable cuando este haya actuado con dolo o con culpa o negligencia graves. La culpa leve no da lugar a la acción de regreso.",
+    "why": "A aplicaría la acción de regreso a cualquier grado de culpa, incluyendo la leve, lo que iría más allá del art. 36. B el criterio de incumplimiento de instrucciones no es el que establece la ley. D exigir condena penal previa limitaría gravemente la acción de regreso, cuando puede ejercerse de forma independiente a la vía penal.",
+    "norma": "Ley 40/2015",
+    "articulo": "36"
+  },
+  {
+    "id": "B2T17-012",
+    "bloque": 2,
+    "tema": 17,
+    "test": 17,
+    "dificultad": "media",
+    "pregunta": "El art. 32.3 de la Ley 40/2015 regula la responsabilidad del Estado legislador. ¿Cuándo puede el particular reclamar daños derivados de la aplicación de una ley declarada inconstitucional?",
+    "opciones": {
+      "A": "En cualquier momento, con independencia de si impugnó o no los actos de aplicación de esa ley.",
+      "B": "Cuando la ley haya sido declarada inconstitucional por el Tribunal Constitucional y el perjudicado haya obtenido sentencia firme en un proceso contencioso al amparo de esa ley, o bien no hubiera podido impugnar la aplicación de la ley por carecer de acceso a un procedimiento.",
+      "C": "Solo cuando el daño derive de una norma con rango de reglamento, no de una ley formal aprobada por las Cortes.",
+      "D": "Únicamente cuando la inconstitucionalidad haya sido declarada a instancia del propio perjudicado mediante cuestión de inconstitucionalidad."
+    },
+    "correcta": "B",
+    "explicacion": "El art. 32.3 L40/2015 establece que la responsabilidad del Estado legislador por ley inconstitucional procede cuando el TC la declara inconstitucional y el particular sufrió un daño como consecuencia de su aplicación, siempre que hubiera obtenido, en cualquier instancia, sentencia firme desestimatoria de un recurso contra la actuación administrativa que le causó el daño, fundamentada en la ley inconstitucional; o bien que no hubiera podido impugnarla por no haber tenido acceso a un recurso.",
+    "why": "A elimina el requisito de haber impugnado o de no haber podido impugnar, lo que abriría la puerta a reclamaciones de quienes no actuaron diligentemente. C confunde la responsabilidad del Estado legislador (derivada de la ley formal) con la del poder reglamentario. D limita la cuestión de inconstitucionalidad a la iniciativa del perjudicado, cuando en realidad solo pueden plantearla jueces y tribunales.",
+    "norma": "Ley 40/2015",
+    "articulo": "32"
+  },
+  {
+    "id": "B2T17-013",
+    "bloque": 2,
+    "tema": 17,
+    "test": 17,
+    "dificultad": "media",
+    "pregunta": "Si la Administración no resuelve la reclamación de responsabilidad patrimonial en el plazo establecido, ¿cuál es el efecto del silencio y qué vía queda abierta para el interesado?",
+    "opciones": {
+      "A": "Silencio positivo: la reclamación se entiende estimada y la AAPP debe abonar la indemnización solicitada.",
+      "B": "La reclamación queda pendiente indefinidamente hasta que la Administración dicte resolución expresa.",
+      "C": "Silencio negativo (desestimatorio): el interesado puede interponer recurso contencioso-administrativo, ya que las resoluciones de responsabilidad patrimonial ponen fin a la vía administrativa.",
+      "D": "El interesado debe interponer recurso de alzada ante el órgano superior antes de acudir al contencioso."
+    },
+    "correcta": "C",
+    "explicacion": "El procedimiento de responsabilidad patrimonial es uno de los supuestos en que la ley establece silencio negativo (desestimatorio), como excepción a la regla general del silencio positivo. Además, el art. 113 L39/2015 establece que las resoluciones en materia de responsabilidad patrimonial ponen fin a la vía administrativa, por lo que el interesado puede acudir directamente al contencioso-administrativo sin necesidad de recurso de alzada previo.",
+    "why": "A el silencio en la responsabilidad patrimonial es negativo, no positivo; admitir el silencio positivo crearía un mecanismo de indemnización automática por inacción de la AAPP. B el silencio no genera indefinición; produce efectos desestimatorios que habilitan la vía contenciosa. D la alzada no es preceptiva porque las resoluciones de responsabilidad patrimonial ponen fin a la vía administrativa.",
+    "norma": "Ley 39/2015",
+    "articulo": "113"
+  },
+  {
+    "id": "B2T17-014",
+    "bloque": 2,
+    "tema": 17,
+    "test": 17,
+    "dificultad": "media",
+    "pregunta": "Según el art. 34 de la Ley 40/2015, ¿puede la Administración sustituir la indemnización económica por una compensación en especie?",
+    "opciones": {
+      "A": "No; la indemnización debe ser siempre dineraria para garantizar la efectividad del derecho.",
+      "B": "Sí, pero solo cuando el perjudicado sea una persona jurídica, no una persona física.",
+      "C": "Sí, siempre que sea posible y resulte adecuado, contando con el consentimiento del perjudicado.",
+      "D": "Solo si la compensación en especie tiene un valor superior a la indemnización económica calculada."
+    },
+    "correcta": "C",
+    "explicacion": "El art. 34 L40/2015 admite que la indemnización se sustituya por una compensación en especie cuando sea posible y resulte adecuada para reparar el daño. Esta alternativa requiere el acuerdo del perjudicado; no puede imponerse unilateralmente por la Administración.",
+    "why": "A limita la indemnización a la forma dineraria, cuando la ley expresamente prevé la compensación en especie. B distingue entre personas físicas y jurídicas, distinción que el art. 34 no establece. D exige que el valor en especie supere el económico, cuando la ley no establece ese condicionante, sino que la sustitución sea adecuada y acordada.",
+    "norma": "Ley 40/2015",
+    "articulo": "34"
+  },
+  {
+    "id": "B2T17-015",
+    "bloque": 2,
+    "tema": 17,
+    "test": 17,
+    "dificultad": "media",
+    "pregunta": "Si el perjudicado contribuyó con su propia conducta a la producción del daño, ¿cómo afecta esa concurrencia de culpas a la responsabilidad patrimonial de la AAPP?",
+    "opciones": {
+      "A": "Excluye totalmente la responsabilidad de la AAPP, que queda exonerada.",
+      "B": "No afecta en absoluto a la responsabilidad de la AAPP, que sigue siendo integral.",
+      "C": "Reduce la cuantía de la indemnización en proporción al grado de intervención del perjudicado en la causación del daño.",
+      "D": "Solo produce efecto si la conducta del perjudicado fue el motivo exclusivo del daño; en ese caso, se convierte en fuerza mayor."
+    },
+    "correcta": "C",
+    "explicacion": "La doctrina y jurisprudencia consolidadas establecen que cuando el perjudicado contribuyó con su propia conducta a la producción o agravación del daño (concurrencia de culpas o de causas), la indemnización se modera o reduce en la proporción que corresponda a su intervención. Solo cuando la conducta del perjudicado sea la causa exclusiva y total del daño se excluye completamente la responsabilidad administrativa.",
+    "why": "A excluye toda responsabilidad ante cualquier contribución del perjudicado, cuando la concurrencia de culpas solo reduce (no elimina) la responsabilidad salvo que el daño sea exclusivamente imputable al particular. B ignora el efecto moderador de la conducta del perjudicado, reconocido por toda la jurisprudencia. D asimila la conducta del perjudicado a la fuerza mayor, lo que no es correcto.",
+    "norma": "Ley 40/2015",
+    "articulo": "32"
+  },
+  {
+    "id": "B2T17-016",
+    "bloque": 2,
+    "tema": 17,
+    "test": 17,
+    "dificultad": "media",
+    "pregunta": "¿Cuál es el plazo máximo para que la Administración resuelva una reclamación de responsabilidad patrimonial iniciada por el interesado?",
+    "opciones": {
+      "A": "Tres meses, por ser el plazo supletorio general del art. 21 Ley 39/2015.",
+      "B": "Un año desde la presentación de la reclamación.",
+      "C": "Seis meses; transcurridos sin resolución expresa, el silencio es desestimatorio.",
+      "D": "Cuatro meses, prorrogables por resolución motivada hasta ocho meses."
+    },
+    "correcta": "C",
+    "explicacion": "El procedimiento de responsabilidad patrimonial tiene un plazo máximo de resolución de seis meses. Transcurrido ese plazo sin resolución expresa, se produce silencio negativo (desestimatorio), lo que habilita al interesado para interponer recurso contencioso-administrativo. La Administración mantiene la obligación de resolver expresamente aunque el silencio ya haya habilitado la vía jurisdiccional.",
+    "why": "A aplica el plazo supletorio general (tres meses), pero el procedimiento de responsabilidad patrimonial tiene su propio plazo de seis meses. B confunde el plazo de resolución del procedimiento con el plazo de prescripción de la acción (un año, art. 67 L39). D fija cuatro meses prorrogables, que no prevé la normativa de responsabilidad patrimonial.",
+    "norma": "Ley 39/2015",
+    "articulo": "91"
+  },
+  {
+    "id": "B2T17-017",
+    "bloque": 2,
+    "tema": 17,
+    "test": 17,
+    "dificultad": "dificil",
+    "pregunta": "El art. 32.4 de la Ley 40/2015 regula la responsabilidad patrimonial del Estado por vulneración del Derecho de la Unión Europea. ¿Cuáles son los requisitos que exige la ley para que nazca esa responsabilidad?",
+    "opciones": {
+      "A": "Que la vulneración sea declarada por el Tribunal Constitucional y que el perjudicado no haya podido impugnarla.",
+      "B": "Que la norma de la UE tenga por objeto conferir derechos a los particulares, que la violación sea suficientemente caracterizada y que exista nexo causal directo entre la infracción y el daño.",
+      "C": "Que el Estado haya sido condenado por el TJUE en un procedimiento por incumplimiento y que la condena sea firme.",
+      "D": "Que el perjudicado haya agotado previamente todos los recursos disponibles ante los tribunales nacionales."
+    },
+    "correcta": "B",
+    "explicacion": "El art. 32.4 L40/2015 incorpora al ordenamiento interno la doctrina Francovich del TJUE. Los tres requisitos para que nazca la responsabilidad patrimonial del Estado por vulneración del Derecho UE son: (1) que la norma de Derecho UE tenga por objeto conferir derechos a los particulares; (2) que la violación sea 'suficientemente caracterizada' (grave y manifiesta); y (3) que exista nexo causal directo entre la infracción del Estado y el daño sufrido.",
+    "why": "A confunde los requisitos de la responsabilidad por ley inconstitucional (art. 32.3) con los de la responsabilidad por infracción del Derecho UE. C exige condena del TJUE, cuando la responsabilidad puede ejercerse sin ese pronunciamiento previo. D el agotamiento de recursos internos puede ser relevante pero no es un requisito autónomo del art. 32.4.",
+    "norma": "Ley 40/2015",
+    "articulo": "32"
+  },
+  {
+    "id": "B2T17-018",
+    "bloque": 2,
+    "tema": 17,
+    "test": 17,
+    "dificultad": "dificil",
+    "pregunta": "Cuando los daños son causados por el contratista de una AAPP durante la ejecución de un contrato, ¿quién responde ante el tercero perjudicado, según los principios de la responsabilidad patrimonial?",
+    "opciones": {
+      "A": "La AAPP responde siempre, con independencia del origen del daño, al ser la responsabilidad objetiva.",
+      "B": "La AAPP responde solo si el daño deriva de una orden directa de la propia Administración; en caso contrario, responde el contratista.",
+      "C": "El contratista responde siempre con carácter solidario junto a la AAPP.",
+      "D": "Nadie responde si el daño se produce en el ámbito de una concesión administrativa."
+    },
+    "correcta": "B",
+    "explicacion": "El régimen de responsabilidad patrimonial en la contratación pública distingue según el origen del daño: si el daño deriva de la ejecución del contrato por el propio contratista (sin instrucciones directas de la AAPP), responde el contratista; si el daño es consecuencia de una orden directa e imperativa de la Administración o de un vicio del proyecto impuesto por ella, la responsabilidad recae sobre la AAPP. Este esquema está recogido en la normativa de contratos del sector público (LCSP).",
+    "why": "A convierte a la AAPP en responsable universal de todos los daños en el ámbito contractual, lo que vaciaría de sentido la responsabilidad del contratista. C la solidaridad generalizada entre AAPP y contratista no es la regla legal. D la responsabilidad en concesiones sí existe y tiene su propio régimen.",
+    "norma": "Ley 40/2015",
+    "articulo": "32"
+  },
+  {
+    "id": "B2T17-019",
+    "bloque": 2,
+    "tema": 17,
+    "test": 17,
+    "dificultad": "dificil",
+    "pregunta": "La responsabilidad patrimonial de las AAPP exige la existencia de un daño efectivo. ¿Es indemnizable el lucro cesante (ganancias que el perjudicado dejó de obtener) según el régimen del art. 32 de la Ley 40/2015?",
+    "opciones": {
+      "A": "No; solo se indemnizan los daños patrimoniales directos (daño emergente), no los lucros cesantes.",
+      "B": "Sí, pero únicamente cuando el perjudicado acredita que el lucro cesante era cierto y no meramente hipotético, y que guarda nexo causal con el funcionamiento del servicio.",
+      "C": "Sí, de forma automática por el doble del daño emergente sufrido, como criterio de valoración legal.",
+      "D": "Solo si el lucro cesante fue reconocido previamente por sentencia firme en vía civil."
+    },
+    "correcta": "B",
+    "explicacion": "El art. 32 L40/2015 no excluye el lucro cesante de la indemnización: el daño debe ser efectivo y evaluable económicamente, lo que incluye tanto el daño emergente como el lucro cesante. Sin embargo, el lucro cesante debe acreditarse con certeza suficiente; las ganancias meramente hipotéticas o especulativas no son indemnizables. El interesado debe probar tanto la probabilidad razonada de obtenerlas como el nexo causal con el funcionamiento del servicio.",
+    "why": "A excluye el lucro cesante de forma absoluta, cuando la jurisprudencia consolidada lo admite si está suficientemente acreditado. C fija un criterio automático del doble del daño emergente, que no tiene base legal alguna. D exige sentencia civil previa, cuando el procedimiento de responsabilidad patrimonial es autónomo.",
+    "norma": "Ley 40/2015",
+    "articulo": "32"
+  },
+  {
+    "id": "B2T17-020",
+    "bloque": 2,
+    "tema": 17,
+    "test": 17,
+    "dificultad": "dificil",
+    "pregunta": "Según el art. 36.2 de la Ley 40/2015, ¿cuál es el plazo para que la Administración ejercite la acción de regreso contra el funcionario responsable del daño?",
+    "opciones": {
+      "A": "Cuatro años desde que se dictó el acto dañoso.",
+      "B": "Dos años desde que se pagó la indemnización al perjudicado.",
+      "C": "Un año desde que la resolución que reconoce la responsabilidad es firme.",
+      "D": "El mismo plazo de prescripción que el del daño original (un año), contado desde el pago de la indemnización."
+    },
+    "correcta": "C",
+    "explicacion": "El art. 36.2 L40/2015 establece que la Administración debe exigir de oficio la responsabilidad al funcionario en el plazo de un año desde la firmeza de la resolución administrativa o judicial que reconoce la responsabilidad patrimonial. Pasado ese plazo sin haberse iniciado el procedimiento de regreso, la acción prescribe.",
+    "why": "A aplica el plazo de cuatro años de la declaración de lesividad, figura distinta. B fija dos años desde el pago, pero la ley hace correr el plazo desde la firmeza de la resolución, no desde el pago efectivo. D equipara el plazo de regreso al de la acción de responsabilidad (art. 67 L39), cuando son plazos distintos con dies a quo diferentes.",
+    "norma": "Ley 40/2015",
+    "articulo": "36"
+  }
+]
