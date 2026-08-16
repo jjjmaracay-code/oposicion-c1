@@ -1,0 +1,221 @@
+[
+{"id":"B1T06-001","bloque":1,"tema":6,"test":6,"dificultad":"facil",
+ "pregunta":"¿Cuál es la denominación oficial de la Comunidad Autónoma regulada por la Ley Orgánica 3/1983, de 25 de febrero?",
+ "opciones":{"A":"Comunidad Autónoma de Madrid","B":"Comunidad de Madrid","C":"Región de Madrid","D":"Comunidad Metropolitana de Madrid"},"correcta":"B",
+ "explicacion":"El artículo 1 del Estatuto de Autonomía dispone que «la Comunidad Autónoma de Madrid se denomina Comunidad de Madrid». La denominación oficial abreviada es simplemente «Comunidad de Madrid», sin el término «autónoma» en el uso ordinario.",
+ "why":"«Comunidad Autónoma de Madrid» (A) es la denominación genérica que el propio art. 1 abrevia en «Comunidad de Madrid». «Región de Madrid» (C) es una denominación histórica que no fue la adoptada en el Estatuto. «Comunidad Metropolitana» (D) no existe como denominación oficial.",
+ "norma":"LO 3/1983, de 25 de febrero, Estatuto de Autonomía de la Comunidad de Madrid","articulo":"Art. 1"},
+
+{"id":"B1T06-002","bloque":1,"tema":6,"test":6,"dificultad":"facil",
+ "pregunta":"¿Cuál es el territorio de la Comunidad de Madrid según el artículo 2 del Estatuto de Autonomía?",
+ "opciones":{
+   "A":"El municipio de Madrid y los municipios de su área metropolitana",
+   "B":"El comprendido dentro de los límites de la provincia de Madrid",
+   "C":"El correspondiente a las provincias históricas de Madrid y Guadalajara",
+   "D":"El que determinen las Cortes Generales mediante ley orgánica en cada momento"
+ },"correcta":"B",
+ "explicacion":"El artículo 2 del Estatuto de Autonomía establece que «el territorio de la Comunidad de Madrid es el comprendido dentro de los límites de la provincia de Madrid». La Comunidad de Madrid es una Comunidad Autónoma uniprovincial.",
+ "why":"El área metropolitana (A) es un concepto urbanístico que no define el territorio de la CA. La provincia de Guadalajara (C) pertenece a Castilla-La Mancha. La determinación por ley orgánica de las Cortes en cada momento (D) no corresponde al modelo constitucional: el territorio se fija en el propio Estatuto.",
+ "norma":"LO 3/1983, de 25 de febrero, Estatuto de Autonomía de la Comunidad de Madrid","articulo":"Art. 2"},
+
+{"id":"B1T06-003","bloque":1,"tema":6,"test":6,"dificultad":"facil",
+ "pregunta":"¿Cuál es la capital de la Comunidad de Madrid y sede de sus instituciones, según el artículo 5 del Estatuto?",
+ "opciones":{"A":"Alcalá de Henares","B":"Aranjuez","C":"La villa de Madrid","D":"La ciudad de Madrid"},"correcta":"C",
+ "explicacion":"El artículo 5 del Estatuto establece que «la capital de la Comunidad, sede de sus instituciones, es la villa de Madrid». El Estatuto emplea el término histórico «villa» y no simplemente «ciudad».",
+ "why":"Alcalá de Henares (A) y Aranjuez (B) son municipios históricos de la provincia pero no son la capital autonómica. La opción D usa el término «ciudad», mientras el Estatuto emplea específicamente «villa», denominación histórica de Madrid que el texto estatutario mantiene.",
+ "norma":"LO 3/1983, de 25 de febrero, Estatuto de Autonomía de la Comunidad de Madrid","articulo":"Art. 5"},
+
+{"id":"B1T06-004","bloque":1,"tema":6,"test":6,"dificultad":"facil",
+ "pregunta":"¿Qué fecha se declara fiesta de la Comunidad de Madrid en el Estatuto de Autonomía?",
+ "opciones":{"A":"El 25 de febrero, aniversario del Estatuto","B":"El 15 de mayo, festividad de San Isidro","C":"El 2 de mayo","D":"El 6 de diciembre, Día de la Constitución"},"correcta":"C",
+ "explicacion":"El artículo 4 del Estatuto establece que «se declara fiesta de la Comunidad de Madrid el día 2 de mayo», en conmemoración de la sublevación popular del 2 de mayo de 1808 contra la ocupación napoleónica.",
+ "why":"El 25 de febrero (A) es la fecha de aprobación del Estatuto, pero no es la fiesta autonómica. El 15 de mayo (B) es la festividad del patrón de Madrid, San Isidro Labrador, pero no la fiesta oficial de la CA. El 6 de diciembre (D) es el Día de la Constitución, festividad nacional.",
+ "norma":"LO 3/1983, de 25 de febrero, Estatuto de Autonomía de la Comunidad de Madrid","articulo":"Art. 4"},
+
+{"id":"B1T06-005","bloque":1,"tema":6,"test":6,"dificultad":"facil",
+ "pregunta":"¿Por cuántos años es elegida la Asamblea de Madrid, según el artículo 11 del Estatuto de Autonomía?",
+ "opciones":{"A":"Tres años","B":"Cuatro años","C":"Cinco años","D":"Cuatro años, prorrogables a cinco por acuerdo del Pleno"},"correcta":"B",
+ "explicacion":"El artículo 11 del Estatuto dispone que «el mandato de los Diputados termina cuatro años después de su elección», salvo disolución anticipada. El período legislativo ordinario de la Asamblea de Madrid es, por tanto, de cuatro años.",
+ "why":"Tres años (A) y cinco años (C) no se corresponden con el mandato fijado en el Estatuto. La prórroga por acuerdo del Pleno (D) no existe en el ordenamiento autonómico madrileño: el mandato es fijo en cuatro años y no puede alargarse por decisión de la propia Cámara.",
+ "norma":"LO 3/1983, de 25 de febrero, Estatuto de Autonomía de la Comunidad de Madrid","articulo":"Art. 11"},
+
+{"id":"B1T06-006","bloque":1,"tema":6,"test":6,"dificultad":"facil",
+ "pregunta":"¿Cuál es la norma que aprueba el Estatuto de Autonomía de la Comunidad de Madrid, y cuándo fue aprobada?",
+ "opciones":{
+   "A":"Ley Orgánica 1/1983, de 1 de enero",
+   "B":"Ley Orgánica 3/1983, de 25 de febrero",
+   "C":"Ley Orgánica 5/1982, de 10 de agosto",
+   "D":"Ley Orgánica 4/1984, de 15 de junio"
+ },"correcta":"B",
+ "explicacion":"El Estatuto de Autonomía de la Comunidad de Madrid fue aprobado como Ley Orgánica 3/1983, de 25 de febrero, publicada en el BOE (BOE-A-1983-6317). Ha sido reformado en varias ocasiones, siendo las más importantes las operadas por la LO 10/1994 y la LO 5/1998.",
+ "why":"LO 5/1982 (C) corresponde al Estatuto de Autonomía del País Vasco. LO 1/1983 (A) y LO 4/1984 (D) no se corresponden con ningún estatuto de autonomía: el número y la fecha correctos para Madrid son LO 3/1983, de 25 de febrero.",
+ "norma":"LO 3/1983, de 25 de febrero, Estatuto de Autonomía de la Comunidad de Madrid","articulo":"Identificación de la norma"},
+
+{"id":"B1T06-007","bloque":1,"tema":6,"test":6,"dificultad":"media",
+ "pregunta":"El artículo 4 del Estatuto de Autonomía describe la bandera de la Comunidad de Madrid. ¿Cuál de las siguientes opciones la describe correctamente?",
+ "opciones":{
+   "A":"Franja horizontal roja sobre fondo blanco, con el escudo de la Comunidad en el centro",
+   "B":"Roja carmesí, con siete estrellas en blanco de cinco puntas, colocadas cuatro y tres en el centro del lienzo",
+   "C":"Roja carmesí, con seis estrellas doradas de seis puntas, dispuestas en dos filas",
+   "D":"Azul marino con siete estrellas de plata en disposición horizontal"
+ },"correcta":"B",
+ "explicacion":"El artículo 4 del Estatuto establece que la bandera de la Comunidad de Madrid es «roja carmesí, con siete estrellas en blanco, de cinco puntas, colocadas cuatro y tres en el centro del lienzo». Las siete estrellas representan los siete arrabales históricos de Madrid.",
+ "why":"La A inventa una franja horizontal y un escudo central que no existen. La C altera el número (seis) y el color (doradas) de las estrellas, y su número de puntas (seis). La D cambia el color de fondo a azul marino y la disposición de las estrellas. El Estatuto precisa: fondo rojo carmesí, siete estrellas blancas de cinco puntas en disposición 4+3.",
+ "norma":"LO 3/1983, de 25 de febrero, Estatuto de Autonomía de la Comunidad de Madrid","articulo":"Art. 4"},
+
+{"id":"B1T06-008","bloque":1,"tema":6,"test":6,"dificultad":"media",
+ "pregunta":"Según el artículo 4 del Estatuto, ¿cómo se establecen el escudo y el himno de la Comunidad de Madrid?",
+ "opciones":{
+   "A":"Están definidos en el propio Estatuto de Autonomía, junto con la bandera",
+   "B":"Los establece el Gobierno de la Comunidad de Madrid mediante decreto",
+   "C":"Los establece la Asamblea de Madrid mediante ley",
+   "D":"Los establece el Rey mediante Real Decreto a propuesta del Presidente de la Comunidad"
+ },"correcta":"C",
+ "explicacion":"El artículo 4 del Estatuto de Autonomía establece que el escudo y el himno de la Comunidad de Madrid «se establecen por ley de la Asamblea». Solo la bandera y el día festivo están directamente definidos en el propio Estatuto; el escudo y el himno requieren una ley autonómica aprobada por la Asamblea.",
+ "why":"El Estatuto define directamente la bandera, pero no el escudo ni el himno (A). El Gobierno mediante decreto (B) no tiene atribuida esta función: la CE y el Estatuto reservan la aprobación de los símbolos institucionales a la Asamblea por ley. El Rey (D) no interviene en la determinación de los símbolos autonómicos.",
+ "norma":"LO 3/1983, de 25 de febrero, Estatuto de Autonomía de la Comunidad de Madrid","articulo":"Art. 4"},
+
+{"id":"B1T06-009","bloque":1,"tema":6,"test":6,"dificultad":"media",
+ "pregunta":"El artículo 9 del Estatuto enumera las funciones de la Asamblea de Madrid. ¿Cuál de las siguientes las recoge correctamente?",
+ "opciones":{
+   "A":"Representar al pueblo de Madrid, ejercer la potestad reglamentaria, aprobar el presupuesto y controlar al Consejo de Gobierno",
+   "B":"Representar al pueblo de Madrid, ejercer la potestad legislativa de la Comunidad, aprobar y controlar el Presupuesto, e impulsar, orientar y controlar la acción del Gobierno",
+   "C":"Ejercer la potestad legislativa, proponer candidatos al Presidente de la CM, aprobar los tratados internacionales autonómicos y controlar al Consejo de Gobierno",
+   "D":"Representar al pueblo de Madrid, ejercer la potestad legislativa y ejecutiva, aprobar el presupuesto y designar al Defensor del Pueblo autonómico"
+ },"correcta":"B",
+ "explicacion":"El artículo 9 del Estatuto dispone que la Asamblea «representa al pueblo de Madrid, ejerce la potestad legislativa de la Comunidad, aprueba y controla el Presupuesto de la Comunidad, impulsa, orienta y controla la acción del Gobierno» y ejerce las demás competencias que le atribuya el ordenamiento jurídico.",
+ "why":"La A atribuye a la Asamblea la potestad reglamentaria, que corresponde al Consejo de Gobierno (no a la Asamblea). La C introduce la aprobación de tratados internacionales, función de las Cortes Generales del Estado, no de la Asamblea autonómica. La D confunde la potestad legislativa con la ejecutiva: la Asamblea ejerce la primera, no la segunda.",
+ "norma":"LO 3/1983, de 25 de febrero, Estatuto de Autonomía de la Comunidad de Madrid","articulo":"Art. 9"},
+
+{"id":"B1T06-010","bloque":1,"tema":6,"test":6,"dificultad":"media",
+ "pregunta":"Según el artículo 10 del Estatuto, ¿cómo se determina el número de Diputados de la Asamblea de Madrid?",
+ "opciones":{
+   "A":"La Asamblea tiene siempre 130 Diputados, fijados directamente por el Estatuto",
+   "B":"Un Diputado por cada 50.000 habitantes o fracción superior a 25.000 del censo electoral de la CM",
+   "C":"Un mínimo de 102 Diputados, ampliable por la ley electoral autonómica hasta un máximo de 150",
+   "D":"El número lo fija el Gobierno de la CM mediante decreto en cada convocatoria electoral"
+ },"correcta":"B",
+ "explicacion":"El artículo 10 del Estatuto establece que «la Asamblea estará compuesta por un Diputado por cada 50.000 habitantes o fracción superior a 25.000» del censo electoral de la Comunidad de Madrid en el momento de convocarse las elecciones. El número varía en función de la población censada.",
+ "why":"El Estatuto no fija un número cerrado de 130 Diputados (A): la composición es variable según la fórmula demográfica. La C introduce un mínimo de 102 y un máximo de 150 que no reproducen el texto literal del art. 10 del Estatuto, que solo establece la fórmula de cálculo. El Gobierno no fija el número (D): lo determina la fórmula estatutaria.",
+ "norma":"LO 3/1983, de 25 de febrero, Estatuto de Autonomía de la Comunidad de Madrid","articulo":"Art. 10"},
+
+{"id":"B1T06-011","bloque":1,"tema":6,"test":6,"dificultad":"media",
+ "pregunta":"El artículo 18 del Estatuto regula la elección del Presidente de la Comunidad de Madrid. ¿Cuál de las siguientes afirmaciones la describe correctamente?",
+ "opciones":{
+   "A":"El Rey nombra al Presidente entre los Diputados de la Asamblea, a propuesta de ésta por mayoría absoluta",
+   "B":"La Asamblea elige al Presidente de entre sus miembros; en primera votación se requiere mayoría absoluta y, si no se alcanza, una nueva votación cuarenta y ocho horas después en la que basta la mayoría simple",
+   "C":"Los ciudadanos de la CM eligen directamente al Presidente mediante sufragio universal en elecciones separadas",
+   "D":"La Asamblea elige al Presidente por mayoría de dos tercios en primera votación y por mayoría absoluta cuarenta y ocho horas después"
+ },"correcta":"B",
+ "explicacion":"El artículo 18 del Estatuto establece que la Asamblea elige al Presidente de entre sus miembros. En la primera votación se exige mayoría absoluta. Si no se alcanza, se celebra una nueva votación cuarenta y ocho horas después, bastando en ese caso la mayoría simple (más votos a favor que en contra).",
+ "why":"El Rey no interviene directamente en el nombramiento del Presidente de la CM (A): es la Asamblea quien lo elige. La elección directa por los ciudadanos (C) no existe: el Presidente es elegido por la Asamblea. La D invierte las mayorías: dos tercios en primera vuelta es un umbral más alto que el de mayoría absoluta previsto en el Estatuto.",
+ "norma":"LO 3/1983, de 25 de febrero, Estatuto de Autonomía de la Comunidad de Madrid","articulo":"Art. 18"},
+
+{"id":"B1T06-012","bloque":1,"tema":6,"test":6,"dificultad":"media",
+ "pregunta":"Según el artículo 22 del Estatuto, ¿cómo se compone el Consejo de Gobierno de la Comunidad de Madrid y quién nombra y cesa a sus miembros?",
+ "opciones":{
+   "A":"El Consejo de Gobierno está integrado por el Presidente y los Consejeros; son elegidos por la Asamblea a propuesta del Presidente",
+   "B":"El Consejo de Gobierno está integrado por el Presidente, el o los Vicepresidentes en su caso y los Consejeros; todos son nombrados y cesados por el Presidente",
+   "C":"El Consejo de Gobierno está integrado por el Presidente y los Consejeros; son nombrados por la Asamblea por mayoría simple a propuesta del Presidente",
+   "D":"El Consejo de Gobierno está integrado por el Presidente, los Vicepresidentes y los Consejeros; los Consejeros son nombrados por el Rey a propuesta del Presidente"
+ },"correcta":"B",
+ "explicacion":"El artículo 22 del Estatuto establece que el Consejo de Gobierno «estará compuesto por el Presidente, el o los Vicepresidentes, en su caso, y los Consejeros», y que sus miembros «son nombrados y cesados por el Presidente». El nombramiento y el cese son facultades exclusivas del Presidente, sin intervención de la Asamblea ni del Rey.",
+ "why":"La A omite a los Vicepresidentes y atribuye a la Asamblea el nombramiento de los Consejeros, lo que no existe. La C también hace intervenir a la Asamblea en el nombramiento. La D atribuye al Rey el nombramiento de los Consejeros, por analogía errónea con el modelo nacional del art. 100 CE, que no se replica en la estructura autonómica madrileña.",
+ "norma":"LO 3/1983, de 25 de febrero, Estatuto de Autonomía de la Comunidad de Madrid","articulo":"Art. 22"},
+
+{"id":"B1T06-013","bloque":1,"tema":6,"test":6,"dificultad":"media",
+ "pregunta":"¿Cuáles son las funciones principales del Consejo de Gobierno de la Comunidad de Madrid, según el Estatuto de Autonomía?",
+ "opciones":{
+   "A":"Representar a la CM, ejercer la potestad legislativa y aprobar el presupuesto de la Comunidad",
+   "B":"Dirigir la política de la Comunidad, ejercer funciones ejecutivas y administrativas, y ejercer la potestad reglamentaria en materias no reservadas a la Asamblea",
+   "C":"Controlar la actuación del Presidente, aprobar el presupuesto y proponer la disolución de la Asamblea",
+   "D":"Ejercer la potestad legislativa en materias de urgente necesidad y la potestad reglamentaria en todas las materias"
+ },"correcta":"B",
+ "explicacion":"El Estatuto atribuye al Consejo de Gobierno la dirección de la política de la Comunidad de Madrid, las funciones ejecutivas y administrativas, y el ejercicio de la potestad reglamentaria en las materias que no están reservadas a la Asamblea por el propio Estatuto.",
+ "why":"La representación de la CM y la potestad legislativa (A) corresponden al Presidente y a la Asamblea, respectivamente, no al Consejo de Gobierno. El Consejo de Gobierno no controla al Presidente (C): es el Presidente quien preside y dirige el Consejo. La potestad legislativa en casos de urgencia (D) no existe con ese nombre en el ámbito autonómico madrileño; correspondería en todo caso a los decretos-leyes autonómicos, no al Consejo de Gobierno en general.",
+ "norma":"LO 3/1983, de 25 de febrero, Estatuto de Autonomía de la Comunidad de Madrid","articulo":"Art. 23"},
+
+{"id":"B1T06-014","bloque":1,"tema":6,"test":6,"dificultad":"media",
+ "pregunta":"¿Cuál de las siguientes materias figura como competencia EXCLUSIVA de la Comunidad de Madrid en el artículo 26 del Estatuto?",
+ "opciones":{
+   "A":"Las bases y coordinación general de la sanidad",
+   "B":"La legislación laboral",
+   "C":"La ordenación del territorio, el urbanismo y la vivienda",
+   "D":"La legislación procesal civil y penal"
+ },"correcta":"C",
+ "explicacion":"El artículo 26 del Estatuto incluye entre las competencias exclusivas de la CM la «ordenación del territorio, el urbanismo y la vivienda». Las bases y coordinación general de la sanidad (A) son competencia exclusiva del Estado (art. 149.1.16ª CE). La legislación laboral (B) es también competencia exclusiva estatal (art. 149.1.7ª CE). La legislación procesal civil y penal (D) corresponde igualmente al Estado (art. 149.1.6ª CE).",
+ "why":"El error más frecuente es confundir las competencias exclusivas autonómicas de la CM con materias en las que el Estado tiene la legislación básica (sanidad, laboral). El urbanismo y la ordenación del territorio son competencias propias de las CCAA desde el Título VIII CE (art. 148.1.3ª), asumidas como exclusivas por el Estatuto madrileño.",
+ "norma":"LO 3/1983, de 25 de febrero, Estatuto de Autonomía de la Comunidad de Madrid","articulo":"Art. 26"},
+
+{"id":"B1T06-015","bloque":1,"tema":6,"test":6,"dificultad":"media",
+ "pregunta":"La sanidad e higiene aparece en el Estatuto de Autonomía de la Comunidad de Madrid. ¿En qué categoría competencial la encuadra el artículo 27?",
+ "opciones":{
+   "A":"Competencia exclusiva de la CM, sin necesidad de respetar la legislación básica del Estado",
+   "B":"Competencia de desarrollo legislativo y ejecución dentro del marco de la legislación básica del Estado",
+   "C":"Competencia exclusiva del Estado, que solo puede delegarla a la CM mediante ley orgánica",
+   "D":"Competencia compartida entre el Estado y la CM al 50%, sin posibilidad de que ninguno legisle unilateralmente"
+ },"correcta":"B",
+ "explicacion":"El artículo 27 del Estatuto encuadra la sanidad e higiene y la coordinación hospitalaria como competencias de desarrollo legislativo y ejecución de la legislación básica del Estado. Esto significa que la CM puede legislar y ejecutar en este ámbito, pero debe respetar las bases que establezca el Estado al amparo del artículo 149.1.16ª CE.",
+ "why":"La sanidad no es competencia exclusiva de la CM (A): el Estado retiene las bases y la coordinación general de la sanidad (art. 149.1.16ª CE). Tampoco es competencia exclusiva del Estado (C): las CCAA pueden asumir el desarrollo legislativo y la ejecución. No existe el modelo de «competencia al 50%» (D) en el ordenamiento constitucional español.",
+ "norma":"LO 3/1983, de 25 de febrero, Estatuto de Autonomía de la Comunidad de Madrid","articulo":"Art. 27"},
+
+{"id":"B1T06-016","bloque":1,"tema":6,"test":6,"dificultad":"media",
+ "pregunta":"El artículo 64 del Estatuto de Autonomía regula el procedimiento de reforma del propio Estatuto. ¿Qué mayoría debe alcanzar la Asamblea de Madrid para aprobar la reforma, y qué intervención tienen las Cortes Generales?",
+ "opciones":{
+   "A":"Mayoría absoluta de la Asamblea, seguida de su promulgación como ley ordinaria de las Cortes Generales",
+   "B":"Mayoría de dos tercios de la Asamblea, seguida de la aprobación de las Cortes Generales mediante ley orgánica",
+   "C":"Mayoría de tres quintos de la Asamblea, seguida de un referéndum autonómico de ratificación",
+   "D":"Mayoría de dos tercios de la Asamblea, seguida de un referéndum y de su sanción por el Rey"
+ },"correcta":"B",
+ "explicacion":"El artículo 64 del Estatuto establece que la reforma requiere la aprobación de la Asamblea de Madrid por mayoría de dos tercios y, a continuación, la aprobación de las Cortes Generales mediante ley orgánica. No se prevé referéndum autonómico de ratificación.",
+ "why":"La mayoría absoluta (A) es insuficiente: el Estatuto exige dos tercios, que es un umbral más elevado. Los tres quintos y el referéndum autonómico (C) no están previstos en el art. 64. La D combina correctamente los dos tercios y la intervención de las Cortes, pero añade un referéndum que el Estatuto no contempla en la vía ordinaria de reforma.",
+ "norma":"LO 3/1983, de 25 de febrero, Estatuto de Autonomía de la Comunidad de Madrid","articulo":"Art. 64"},
+
+{"id":"B1T06-017","bloque":1,"tema":6,"test":6,"dificultad":"dificil",
+ "pregunta":"El artículo 20 del Estatuto de Autonomía regula la moción de censura contra el Presidente de la Comunidad de Madrid. ¿Cuáles son sus características esenciales?",
+ "opciones":{
+   "A":"Puede ser presentada por un tercio de los Diputados y aprobada por mayoría simple; no necesita incluir candidato alternativo",
+   "B":"Debe ser presentada por al menos una décima parte de los Diputados e incluir un candidato alternativo; se aprueba por mayoría absoluta de la Asamblea",
+   "C":"Requiere mayoría absoluta de los miembros de la Asamblea e incluye un candidato alternativo a la Presidencia",
+   "D":"Debe ser presentada por la mitad más uno de los Diputados y aprobada por mayoría de dos tercios de la Asamblea"
+ },"correcta":"C",
+ "explicacion":"El artículo 20 del Estatuto establece que la moción de censura requiere la aprobación por mayoría absoluta de los miembros de la Asamblea y debe incluir un candidato alternativo a la Presidencia (moción constructiva). Si prospera, el candidato incluido en la moción queda investido automáticamente como nuevo Presidente.",
+ "why":"La mayoría simple (A) es insuficiente para una moción de censura: se exige mayoría absoluta. La décima parte de los Diputados (B) corresponde a los quórums de iniciativa de las mociones de censura nacionales (art. 113.2 CE), pero el Estatuto madrileño regula el umbral de aprobación (mayoría absoluta) y la necesidad de candidato alternativo. La presentación por la mitad de los Diputados y la mayoría de dos tercios (D) son umbrales no previstos en el art. 20.",
+ "norma":"LO 3/1983, de 25 de febrero, Estatuto de Autonomía de la Comunidad de Madrid","articulo":"Art. 20"},
+
+{"id":"B1T06-018","bloque":1,"tema":6,"test":6,"dificultad":"dificil",
+ "pregunta":"El artículo 64 del Estatuto fija quiénes tienen iniciativa para proponer la reforma del Estatuto de Autonomía de la Comunidad de Madrid. ¿Cuál de las siguientes opciones los enumera correctamente?",
+ "opciones":{
+   "A":"El Consejo de Gobierno, cualquier Diputado o grupo parlamentario, y el Gobierno de la Nación",
+   "B":"El Consejo de Gobierno de la CM, un tercio de los miembros de la Asamblea, o dos terceras partes de los municipios cuya población represente la mayoría de la población de la CM",
+   "C":"Solo la Asamblea de Madrid, por mayoría de dos tercios, sin posibilidad de iniciativa gubernamental o municipal",
+   "D":"El Consejo de Gobierno, la mitad de los Diputados de la Asamblea, o los municipios por mayoría simple"
+ },"correcta":"B",
+ "explicacion":"El artículo 64 del Estatuto establece que la iniciativa de reforma corresponde al Consejo de Gobierno de la Comunidad, a un tercio de los miembros de la Asamblea de Madrid, o a dos terceras partes de los municipios cuya población represente la mayoría de la población de la Comunidad.",
+ "why":"La A incluye al Gobierno de la Nación (Estado), que no tiene iniciativa en la reforma del Estatuto madrileño según el art. 64. La C limita erróneamente la iniciativa a la Asamblea y excluye al Consejo de Gobierno y a los municipios. La D altera los umbrales: el Estatuto exige un tercio de la Asamblea (no la mitad) y dos tercios de los municipios con mayoría de población (no mayoría simple de municipios).",
+ "norma":"LO 3/1983, de 25 de febrero, Estatuto de Autonomía de la Comunidad de Madrid","articulo":"Art. 64"},
+
+{"id":"B1T06-019","bloque":1,"tema":6,"test":6,"dificultad":"dificil",
+ "pregunta":"¿Cuál de las siguientes afirmaciones describe correctamente la diferencia entre una materia del artículo 26 (competencia exclusiva) y una del artículo 27 (desarrollo legislativo) del Estatuto de la Comunidad de Madrid?",
+ "opciones":{
+   "A":"En el art. 26 la CM legisla y ejecuta sin límite estatal; en el art. 27 la CM solo ejecuta, sin poder legislar",
+   "B":"En el art. 26 la CM tiene plena competencia legislativa y ejecutiva sin necesidad de respetar legislación estatal básica; en el art. 27 la CM puede dictar leyes de desarrollo y ejecutar, pero dentro del marco de la legislación básica del Estado",
+   "C":"En ambos artículos la CM tiene competencia plena; la diferencia es solo administrativa, referida al órgano competente para dictar los reglamentos",
+   "D":"En el art. 26 la CM puede legislar pero no ejecutar; en el art. 27 la CM puede ejecutar pero no legislar"
+ },"correcta":"B",
+ "explicacion":"Las competencias del artículo 26 son exclusivas: la CM ostenta la plena potestad legislativa y ejecutiva en esas materias, sin necesidad de atenerse a legislación estatal básica. Las del artículo 27 son de desarrollo legislativo y ejecución: la CM puede legislar y ejecutar, pero dentro del marco de la legislación básica que fija el Estado al amparo de las reservas del artículo 149.1 CE.",
+ "why":"La A confunde el art. 27 con una mera competencia ejecutiva; en realidad el art. 27 incluye también la facultad de legislar (desarrollo legislativo). La C niega la diferencia de fondo, que es esencial. La D invierte el contenido de ambos artículos.",
+ "norma":"LO 3/1983, de 25 de febrero, Estatuto de Autonomía de la Comunidad de Madrid","articulo":"Arts. 26 y 27"},
+
+{"id":"B1T06-020","bloque":1,"tema":6,"test":6,"dificultad":"dificil",
+ "pregunta":"El Estatuto de Autonomía atribuye al Presidente de la Comunidad de Madrid una doble función representativa. ¿Cuál de las siguientes afirmaciones la recoge correctamente?",
+ "opciones":{
+   "A":"El Presidente ejerce la representación de la CM ante las demás Comunidades Autónomas y la representación del Estado ante los municipios madrileños",
+   "B":"El Presidente ejerce la más alta representación de la Comunidad de Madrid y la representación ordinaria del Estado en la Comunidad",
+   "C":"El Presidente ejerce únicamente la representación de la CM; la representación del Estado en el territorio corresponde al Delegado del Gobierno",
+   "D":"El Presidente ejerce la representación de la CM en sus relaciones con el Senado, y el Delegado del Gobierno ejerce la representación del Estado ante la Asamblea"
+ },"correcta":"B",
+ "explicacion":"El Estatuto de Autonomía atribuye al Presidente de la Comunidad de Madrid la más alta representación de la Comunidad y, simultáneamente, la representación ordinaria del Estado en la Comunidad. Esta doble representación (de la CA y del Estado en la CA) es característica de todos los presidentes autonómicos en el modelo constitucional español (art. 152.1 CE).",
+ "why":"La A inventa dos ámbitos de representación que no corresponden al texto estatutario. La C confunde las funciones del Presidente con las del Delegado del Gobierno: el Delegado dirige la Administración del Estado en el territorio (art. 154 CE), pero la representación ordinaria del Estado en la CA corresponde al Presidente de la CA, no al Delegado. La D introduce al Senado y a la Asamblea como destinatarios de representaciones diferenciadas, lo que no existe.",
+ "norma":"LO 3/1983, de 25 de febrero, Estatuto de Autonomía de la Comunidad de Madrid","articulo":"Art. 17"}
+]
