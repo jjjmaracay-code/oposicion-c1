@@ -1,0 +1,216 @@
+[
+{"id":"B1T03-001","bloque":1,"tema":3,"test":3,"dificultad":"facil",
+ "pregunta":"¿Entre qué artículos se extiende el Título VI de la Constitución Española, dedicado al Poder Judicial?",
+ "opciones":{"A":"Del artículo 115 al 127","B":"Del artículo 117 al 127","C":"Del artículo 117 al 130","D":"Del artículo 117 al 125"},"correcta":"B",
+ "explicacion":"El Título VI de la CE, «Del Poder Judicial», comprende los artículos 117 a 127, ambos inclusive. El Título V (art. 113-116) regula las relaciones entre el Gobierno y las Cortes Generales, y el Título VII (art. 128-136) regula la Economía y Hacienda.",
+ "why":"Empezar en el 115 incluye el Título V; terminar en el 130 o en el 125 desplaza el límite real del título. El rango exacto del Título VI es 117-127.",
+ "norma":"Constitución Española de 1978","articulo":"Título VI (Arts. 117 a 127)"},
+
+{"id":"B1T03-002","bloque":1,"tema":3,"test":3,"dificultad":"facil",
+ "pregunta":"El artículo 117.1 de la Constitución predica cuatro atributos de los Jueces y Magistrados integrantes del Poder Judicial. ¿Cuáles son?",
+ "opciones":{
+   "A":"Independientes, inamovibles, responsables y sometidos únicamente al imperio de la ley",
+   "B":"Independientes, imparciales, inamovibles y no sujetos a mandato imperativo",
+   "C":"Independientes, inamovibles, irresponsables y sometidos a la Constitución",
+   "D":"Imparciales, inamovibles, responsables y autónomos"
+ },"correcta":"A",
+ "explicacion":"El artículo 117.1 CE dispone literalmente que la justicia se administra «por Jueces y Magistrados integrantes del poder judicial, independientes, inamovibles, responsables y sometidos únicamente al imperio de la ley». Son cuatro atributos que se acumulan: ninguno excluye a los demás.",
+ "why":"La B sustituye «responsables» por «imparciales» y añade la expresión «no sujeto a mandato imperativo», propia de los parlamentarios (art. 67.2 CE). La C los convierte en «irresponsables», contrariando el texto literal. La D omite el sometimiento al imperio de la ley e introduce «autónomos», que no figura en el precepto.",
+ "norma":"Constitución Española de 1978","articulo":"Art. 117.1"},
+
+{"id":"B1T03-003","bloque":1,"tema":3,"test":3,"dificultad":"facil",
+ "pregunta":"Según el artículo 117.3 de la Constitución, ¿a qué órganos corresponde EXCLUSIVAMENTE el ejercicio de la potestad jurisdiccional?",
+ "opciones":{
+   "A":"Al Tribunal Constitucional, en su condición de intérprete supremo de la Constitución",
+   "B":"A los Juzgados y Tribunales determinados por las leyes",
+   "C":"Al Consejo General del Poder Judicial, como órgano de gobierno del Poder Judicial",
+   "D":"Al Ministerio Fiscal, conjuntamente con los Jueces y Tribunales"
+ },"correcta":"B",
+ "explicacion":"El artículo 117.3 CE atribuye el ejercicio de la potestad jurisdiccional «exclusivamente a los Juzgados y Tribunales determinados por las leyes». Dicha potestad consiste en juzgar y hacer ejecutar lo juzgado en todo tipo de procesos.",
+ "why":"El TC no forma parte del Poder Judicial ordinario (es un órgano constitucional separado) y no ejerce la potestad jurisdiccional del art. 117.3. El CGPJ es el órgano de gobierno, no de ejercicio de la función jurisdiccional. El MF promueve la acción de la justicia (art. 124) pero no juzga.",
+ "norma":"Constitución Española de 1978","articulo":"Art. 117.3"},
+
+{"id":"B1T03-004","bloque":1,"tema":3,"test":3,"dificultad":"facil",
+ "pregunta":"Según el artículo 123.1 de la Constitución, ¿cuál es el órgano jurisdiccional superior en todos los órdenes, salvo lo dispuesto en materia de garantías constitucionales?",
+ "opciones":{"A":"La Audiencia Nacional","B":"El Consejo General del Poder Judicial","C":"El Tribunal Supremo","D":"El Tribunal Constitucional"},"correcta":"C",
+ "explicacion":"El artículo 123.1 CE dispone que «el Tribunal Supremo, con jurisdicción en toda España, es el órgano jurisdiccional superior en todos los órdenes, salvo lo dispuesto en materia de garantías constitucionales». La salvedad se refiere al Tribunal Constitucional, que es el intérprete supremo de la CE.",
+ "why":"La Audiencia Nacional es un órgano de competencia especial, no el superior de todos los órdenes. El CGPJ es el órgano de gobierno, no jurisdiccional. El TC no está integrado en el Poder Judicial y no actúa como instancia ordinaria superior.",
+ "norma":"Constitución Española de 1978","articulo":"Art. 123.1"},
+
+{"id":"B1T03-005","bloque":1,"tema":3,"test":3,"dificultad":"facil",
+ "pregunta":"¿Cuál es el órgano de gobierno del Poder Judicial, según el artículo 122.2 de la Constitución?",
+ "opciones":{
+   "A":"El Ministerio de Justicia",
+   "B":"El Presidente del Tribunal Supremo",
+   "C":"El Consejo General del Poder Judicial",
+   "D":"La Sala de Gobierno del Tribunal Supremo"
+ },"correcta":"C",
+ "explicacion":"El artículo 122.2 CE establece expresamente que «el Consejo General del Poder Judicial es el órgano de gobierno del mismo». Su existencia como órgano constitucional es la garantía de la independencia del Poder Judicial frente al ejecutivo.",
+ "why":"El Ministerio de Justicia tiene competencias sobre la Administración de Justicia, no sobre el Poder Judicial como poder del Estado. El Presidente del TS preside el CGPJ pero no es el órgano de gobierno. La Sala de Gobierno del TS es un órgano interno del propio Tribunal.",
+ "norma":"Constitución Española de 1978","articulo":"Art. 122.2"},
+
+{"id":"B1T03-006","bloque":1,"tema":3,"test":3,"dificultad":"facil",
+ "pregunta":"¿Cuántos magistrados componen el Tribunal Constitucional, según el artículo 159.1 de la Constitución?",
+ "opciones":{"A":"Nueve","B":"Diez","C":"Once","D":"Doce"},"correcta":"D",
+ "explicacion":"El artículo 159.1 CE dispone que «el Tribunal Constitucional se compone de doce miembros nombrados por el Rey». Se distribuyen entre el Congreso (4), el Senado (4), el Gobierno (2) y el Consejo General del Poder Judicial (2).",
+ "why":"Nueve es el número de magistrados del Tribunal Supremo de EE.UU., no del TC español. Diez y once no se corresponden con ningún precepto de la CE. El número exacto constitucional es doce.",
+ "norma":"Constitución Española de 1978","articulo":"Art. 159.1"},
+
+{"id":"B1T03-007","bloque":1,"tema":3,"test":3,"dificultad":"media",
+ "pregunta":"El artículo 117.5 de la Constitución reconoce una excepción al principio de unidad jurisdiccional. ¿Cuál es esa excepción?",
+ "opciones":{
+   "A":"La jurisdicción arbitral, cuando la ley la reconozca como alternativa a los tribunales ordinarios",
+   "B":"La jurisdicción militar en el ámbito estrictamente castrense y en los supuestos de estado de sitio",
+   "C":"El Tribunal Constitucional, que actúa como un orden jurisdiccional separado del Poder Judicial ordinario",
+   "D":"Los juzgados de paz, que ejercen competencias por delegación sin pertenecer a la carrera judicial"
+ },"correcta":"B",
+ "explicacion":"El artículo 117.5 CE establece que «el principio de unidad jurisdiccional es la base de la organización y funcionamiento de los Tribunales», pero inmediatamente reconoce la excepción: «La ley regulará el ejercicio de la jurisdicción militar en el ámbito estrictamente castrense y en los supuestos de estado de sitio, de acuerdo con los principios de la Constitución».",
+ "why":"Los árbitros no ejercen la potestad jurisdiccional reservada a juzgados y tribunales (art. 117.3). El TC es un órgano constitucional separado del Poder Judicial, pero la CE no lo trata como excepción al principio de unidad jurisdiccional. Los juzgados de paz forman parte del Poder Judicial ordinario.",
+ "norma":"Constitución Española de 1978","articulo":"Art. 117.5"},
+
+{"id":"B1T03-008","bloque":1,"tema":3,"test":3,"dificultad":"media",
+ "pregunta":"Según el artículo 122.3 de la Constitución, ¿cómo se distribuyen los veinte vocales del Consejo General del Poder Judicial entre los distintos órganos de designación?",
+ "opciones":{
+   "A":"Doce entre Jueces y Magistrados, cuatro a propuesta del Congreso y cuatro a propuesta del Senado",
+   "B":"Diez a propuesta del Congreso y diez a propuesta del Senado",
+   "C":"Ocho entre Jueces y Magistrados, seis a propuesta del Congreso y seis a propuesta del Senado",
+   "D":"Catorce entre Jueces y Magistrados, tres a propuesta del Congreso y tres a propuesta del Senado"
+ },"correcta":"A",
+ "explicacion":"El artículo 122.3 CE dispone que los veinte vocales se distribuyen así: doce «entre Jueces y Magistrados de todas las categorías judiciales, en los términos que establezca la ley orgánica»; cuatro «a propuesta del Congreso de los Diputados» y cuatro «a propuesta del Senado», elegidos por mayoría de tres quintos entre abogados y juristas con más de quince años de ejercicio.",
+ "why":"La opción B describe el régimen instaurado por la LO 4/2013 en el plano de la LOPJ (donde todos los vocales se proponen por las Cámaras), pero el texto de la CE no ha sido reformado y sigue fijando la distribución 12+4+4. Para la oposición, la fuente de referencia es el texto constitucional.",
+ "norma":"Constitución Española de 1978","articulo":"Art. 122.3"},
+
+{"id":"B1T03-009","bloque":1,"tema":3,"test":3,"dificultad":"media",
+ "pregunta":"¿Por cuántos años son nombrados los vocales del Consejo General del Poder Judicial, según el artículo 122.3 de la Constitución?",
+ "opciones":{"A":"Tres años","B":"Cuatro años","C":"Cinco años","D":"Nueve años, igual que los magistrados del Tribunal Constitucional"},"correcta":"C",
+ "explicacion":"El artículo 122.3 CE establece que los veinte vocales son «nombrados por el Rey por un período de cinco años». El mandato es de cinco años, no coincide con el de los magistrados del TC (nueve años) ni con el de los Diputados (cuatro años).",
+ "why":"Cuatro años es la duración del Congreso de los Diputados (art. 68.4). Nueve años es el mandato de los magistrados del TC (art. 159.3). Tres años no corresponde a ningún mandato constitucional del CGPJ. El dato exacto del art. 122.3 es cinco años.",
+ "norma":"Constitución Española de 1978","articulo":"Art. 122.3"},
+
+{"id":"B1T03-010","bloque":1,"tema":3,"test":3,"dificultad":"media",
+ "pregunta":"Según el artículo 124.2 de la Constitución, ¿con arreglo a qué principios ejerce el Ministerio Fiscal sus funciones?",
+ "opciones":{
+   "A":"Unidad de actuación, dependencia jerárquica, legalidad e imparcialidad",
+   "B":"Independencia funcional, legalidad, imparcialidad y objetividad",
+   "C":"Autonomía orgánica, legalidad, proporcionalidad e imparcialidad",
+   "D":"Unidad de actuación, autonomía orgánica, legalidad y objetividad"
+ },"correcta":"A",
+ "explicacion":"El artículo 124.2 CE dispone que «el Ministerio Fiscal ejerce sus funciones por medio de órganos propios conforme a los principios de unidad de actuación y dependencia jerárquica y con sujeción, en todo caso, a los de legalidad e imparcialidad».",
+ "why":"El MF no es «independiente» en sentido orgánico: está estructurado jerárquicamente bajo la unidad de actuación. La «objetividad» y la «autonomía orgánica» no aparecen en el art. 124.2. La proporcionalidad tampoco figura entre sus principios constitucionales.",
+ "norma":"Constitución Española de 1978","articulo":"Art. 124.2"},
+
+{"id":"B1T03-011","bloque":1,"tema":3,"test":3,"dificultad":"media",
+ "pregunta":"El artículo 124.4 de la Constitución regula el nombramiento del Fiscal General del Estado. ¿A propuesta de quién lo nombra el Rey y con qué trámite previo?",
+ "opciones":{
+   "A":"A propuesta del Consejo General del Poder Judicial, sin más trámite",
+   "B":"A propuesta del Congreso de los Diputados, por mayoría absoluta",
+   "C":"A propuesta del Gobierno, oído el Consejo General del Poder Judicial",
+   "D":"A propuesta del Presidente del Tribunal Supremo, con el visto bueno del Gobierno"
+ },"correcta":"C",
+ "explicacion":"El artículo 124.4 CE establece que «el Fiscal General del Estado será nombrado por el Rey, a propuesta del Gobierno, oído el Consejo General del Poder Judicial». El Gobierno propone, el CGPJ emite dictamen (no vinculante) y el Rey formaliza el nombramiento.",
+ "why":"La propuesta no corresponde al CGPJ sino al Gobierno. El Congreso no interviene en este nombramiento (a diferencia de otros cargos). El Presidente del TS propone a los candidatos para el puesto de Presidente del TS, no para el de Fiscal General.",
+ "norma":"Constitución Española de 1978","articulo":"Art. 124.4"},
+
+{"id":"B1T03-012","bloque":1,"tema":3,"test":3,"dificultad":"media",
+ "pregunta":"El artículo 120.3 de la Constitución impone dos exigencias específicas respecto de las sentencias judiciales. ¿Cuáles son?",
+ "opciones":{
+   "A":"Que sean siempre motivadas y que se pronuncien en audiencia pública",
+   "B":"Que sean siempre orales y que se notifiquen personalmente a las partes",
+   "C":"Que sean motivadas, salvo en las resoluciones de trámite, y que sean públicas",
+   "D":"Que sean públicas en materia penal y reservadas cuando así lo acuerde el tribunal en materia civil"
+ },"correcta":"A",
+ "explicacion":"El artículo 120.3 CE establece literalmente: «Las sentencias serán siempre motivadas y se pronunciarán en audiencia pública». Ambas exigencias se imponen sin excepción.",
+ "why":"La oralidad del procedimiento se predica del proceso en general y 'sobre todo en materia criminal' (art. 120.2), no de las sentencias en particular. No hay excepción para resoluciones de trámite en el art. 120.3. La reserva en materia civil no está contemplada en este precepto.",
+ "norma":"Constitución Española de 1978","articulo":"Art. 120.3"},
+
+{"id":"B1T03-013","bloque":1,"tema":3,"test":3,"dificultad":"media",
+ "pregunta":"Según el artículo 121 de la Constitución, ¿quién responde de los daños causados por error judicial o por el funcionamiento anormal de la Administración de Justicia?",
+ "opciones":{
+   "A":"El juez o magistrado que dictó la resolución errónea, a título personal",
+   "B":"El Estado, conforme a la ley",
+   "C":"El Consejo General del Poder Judicial, con cargo a su presupuesto",
+   "D":"La parte que obtuvo la resolución favorablemente y se benefició del error"
+ },"correcta":"B",
+ "explicacion":"El artículo 121 CE dispone que «los daños causados por error judicial, así como los que sean consecuencia del funcionamiento anormal de la Administración de Justicia, darán derecho a una indemnización a cargo del Estado, conforme a la ley».",
+ "why":"La responsabilidad recae en el Estado como garante del funcionamiento del sistema judicial, no en el juez a título personal (aunque pueda haber acciones de repetición). El CGPJ es el órgano de gobierno, no el responsable patrimonial. La parte beneficiada no tiene obligación de indemnizar a la perjudicada en este supuesto.",
+ "norma":"Constitución Española de 1978","articulo":"Art. 121"},
+
+{"id":"B1T03-014","bloque":1,"tema":3,"test":3,"dificultad":"media",
+ "pregunta":"Según el artículo 126 de la Constitución, ¿de quién depende la policía judicial en sus funciones de averiguación del delito y descubrimiento y aseguramiento del delincuente?",
+ "opciones":{
+   "A":"Únicamente del Ministerio del Interior",
+   "B":"Del Ministerio del Interior y del Ministerio Fiscal, de forma compartida",
+   "C":"De los Jueces, de los Tribunales y del Ministerio Fiscal",
+   "D":"Exclusivamente del Ministerio Fiscal"
+ },"correcta":"C",
+ "explicacion":"El artículo 126 CE establece que «la policía judicial depende de los Jueces, de los Tribunales y del Ministerio Fiscal en sus funciones de averiguación del delito y descubrimiento y aseguramiento del delincuente, en los términos que la ley establezca».",
+ "why":"El Ministerio del Interior tiene la dependencia orgánica de la policía, pero la dependencia funcional en la investigación criminal corresponde a los Jueces, Tribunales y MF según el art. 126. La exclusividad del MF suprimiría la dependencia judicial, que es la garantía esencial.",
+ "norma":"Constitución Española de 1978","articulo":"Art. 126"},
+
+{"id":"B1T03-015","bloque":1,"tema":3,"test":3,"dificultad":"media",
+ "pregunta":"¿Qué incompatibilidades establece el artículo 127.1 de la Constitución para jueces, magistrados y fiscales mientras se hallen en activo?",
+ "opciones":{
+   "A":"No podrán desempeñar otros cargos públicos ni pertenecer a partidos políticos o sindicatos",
+   "B":"No podrán pertenecer a partidos políticos, pero sí pueden afiliarse a sindicatos de carácter profesional",
+   "C":"Solo les está prohibido desempeñar cargos remunerados en la Administración Pública",
+   "D":"No podrán pertenecer a sindicatos, pero sí a asociaciones profesionales de la judicatura"
+ },"correcta":"A",
+ "explicacion":"El artículo 127.1 CE prohíbe a los jueces, magistrados y fiscales en activo «desempeñar otros cargos públicos, ni pertenecer a partidos políticos o sindicatos». El artículo añade que la ley establecerá el sistema y modalidades de asociación profesional de los jueces, magistrados y fiscales.",
+ "why":"La D confunde la prohibición: la CE prohíbe expresamente tanto sindicatos como partidos. Los jueces sí pueden pertenecer a asociaciones profesionales judiciales (art. 127.1 in fine), pero eso es distinto de los sindicatos. La B y la C introducen excepciones que el texto constitucional no prevé.",
+ "norma":"Constitución Española de 1978","articulo":"Art. 127.1"},
+
+{"id":"B1T03-016","bloque":1,"tema":3,"test":3,"dificultad":"media",
+ "pregunta":"El artículo 125 de la Constitución reconoce a los ciudadanos dos formas de participación en la Administración de Justicia. ¿Cuáles son?",
+ "opciones":{
+   "A":"Como jueces de paz y como mediadores en conflictos civiles",
+   "B":"Mediante el ejercicio de la acción popular y mediante la institución del Jurado, en los procesos penales que la ley determine",
+   "C":"Mediante la denuncia popular y a través del Tribunal del Jurado en toda clase de procesos",
+   "D":"A través del Defensor del Pueblo y mediante la iniciativa legislativa popular en materia procesal"
+ },"correcta":"B",
+ "explicacion":"El artículo 125 CE dispone que «los ciudadanos podrán ejercer la acción popular y participar en la Administración de Justicia mediante la institución del Jurado, en la forma y con respecto a aquellos procesos penales que la ley determine, así como en los Tribunales consuetudinarios y tradicionales».",
+ "why":"La acción popular no es solo una denuncia, sino un instrumento procesal para personarse como acusación sin ser víctima. El Jurado está restringido a los procesos penales que la ley determine, no a toda clase de procesos. El Defensor del Pueblo y la iniciativa legislativa popular son instituciones ajenas al art. 125.",
+ "norma":"Constitución Española de 1978","articulo":"Art. 125"},
+
+{"id":"B1T03-017","bloque":1,"tema":3,"test":3,"dificultad":"dificil",
+ "pregunta":"El artículo 159.1 de la Constitución distribuye los doce magistrados del Tribunal Constitucional entre cuatro órganos proponentes. ¿Cuál es la distribución exacta que recoge dicho precepto?",
+ "opciones":{
+   "A":"Cuatro a propuesta del Congreso, cuatro a propuesta del Senado, dos a propuesta del Gobierno y dos a propuesta del CGPJ",
+   "B":"Cuatro a propuesta del Congreso, cuatro a propuesta del Senado, tres a propuesta del Gobierno y uno a propuesta del CGPJ",
+   "C":"Tres a propuesta del Congreso, tres a propuesta del Senado, tres a propuesta del Gobierno y tres a propuesta del CGPJ",
+   "D":"Seis a propuesta conjunta de las Cortes Generales, cuatro a propuesta del Gobierno y dos a propuesta del CGPJ"
+ },"correcta":"A",
+ "explicacion":"El artículo 159.1 CE establece la distribución 4-4-2-2: cuatro magistrados a propuesta del Congreso (por mayoría de tres quintos), cuatro a propuesta del Senado (con idéntica mayoría), dos a propuesta del Gobierno, y dos a propuesta del Consejo General del Poder Judicial.",
+ "why":"La opción B altera la proporción Gobierno/CGPJ (3 y 1 en lugar de 2 y 2). La C propone una distribución igualitaria entre los cuatro órganos que no existe en la CE. La D ignora que las Cortes actúan por Cámaras separadas con cuotas distintas, y suma mal (6+4+2 = 12, pero la distribución es incorrecta).",
+ "norma":"Constitución Española de 1978","articulo":"Art. 159.1"},
+
+{"id":"B1T03-018","bloque":1,"tema":3,"test":3,"dificultad":"dificil",
+ "pregunta":"Según el artículo 159.3 de la Constitución, los magistrados del Tribunal Constitucional son designados por un período de nueve años y el Tribunal se renueva periódicamente por tercios. ¿Con qué periodicidad se produce esa renovación?",
+ "opciones":{"A":"Cada dos años","B":"Cada tres años","C":"Cada cuatro años","D":"Coincidiendo con cada nueva legislatura"},"correcta":"B",
+ "explicacion":"El artículo 159.3 CE dispone que «los miembros del Tribunal Constitucional serán designados por un período de nueve años y se renovarán por tercios cada tres». Como el mandato es de nueve años y la renovación es por tercios, cada tres años se sustituyen cuatro magistrados.",
+ "why":"Cada dos años generaría renovaciones de menos de un tercio (cuatro de doce en dos años implica períodos distintos). Cada cuatro años haría que el mandato total y los ciclos de renovación no cuadraran matemáticamente con nueve años. El mandato es personal, no depende de las legislaturas, que duran cuatro años (art. 68.4).",
+ "norma":"Constitución Española de 1978","articulo":"Art. 159.3"},
+
+{"id":"B1T03-019","bloque":1,"tema":3,"test":3,"dificultad":"dificil",
+ "pregunta":"Según el artículo 162.1.b) de la Constitución, ¿quiénes están legitimados para interponer el recurso de amparo ante el Tribunal Constitucional?",
+ "opciones":{
+   "A":"Únicamente los ciudadanos españoles mayores de edad que acrediten la lesión directa de un derecho fundamental",
+   "B":"Solo el Defensor del Pueblo, en cuanto comisionado parlamentario con funciones de tutela de derechos",
+   "C":"Toda persona natural o jurídica que invoque un interés legítimo, así como el Defensor del Pueblo y el Ministerio Fiscal",
+   "D":"Los mismos sujetos legitimados para el recurso de inconstitucionalidad: Gobierno, Defensor del Pueblo y grupos parlamentarios"
+ },"correcta":"C",
+ "explicacion":"El artículo 162.1.b) CE dispone que para interponer el recurso de amparo están legitimados «toda persona natural o jurídica que invoque un interés legítimo, así como el Defensor del Pueblo y el Ministerio Fiscal». El recurso de amparo es, por tanto, de legitimación amplísima.",
+ "why":"La A restringe la legitimación a ciudadanos españoles e introduce el requisito de lesión directa, cuando la CE se refiere a «interés legítimo» e incluye a personas jurídicas y extranjeras. La B excluye al MF y a los particulares. La D confunde el amparo con el recurso de inconstitucionalidad, que tiene una legitimación tasada y restringida a sujetos institucionales.",
+ "norma":"Constitución Española de 1978","articulo":"Art. 162.1.b"},
+
+{"id":"B1T03-020","bloque":1,"tema":3,"test":3,"dificultad":"dificil",
+ "pregunta":"La Ley Orgánica del Poder Judicial establece cuatro órdenes jurisdiccionales ordinarios. ¿Cuáles son?",
+ "opciones":{
+   "A":"Civil, penal, contencioso-administrativo y social",
+   "B":"Civil, penal, mercantil y social",
+   "C":"Civil, penal, contencioso-administrativo y mercantil",
+   "D":"Civil, penal, constitucional y social"
+ },"correcta":"A",
+ "explicacion":"El artículo 9 de la LOPJ (LO 6/1985) establece cuatro órdenes jurisdiccionales ordinarios: civil, penal, contencioso-administrativo y social. A ellos se añade la jurisdicción militar, de carácter especial, cuyo ejercicio prevé el artículo 117.5 CE.",
+ "why":"El orden 'mercantil' no existe como orden autónomo; los juzgados de lo mercantil pertenecen al orden civil. No existe un orden 'constitucional' en el sentido de la LOPJ: el Tribunal Constitucional es un órgano constitucional separado, no un orden jurisdiccional ordinario. El orden social es el correcto término para la jurisdicción laboral.",
+ "norma":"Ley Orgánica 6/1985, de 1 de julio, del Poder Judicial (LOPJ)","articulo":"Art. 9 LOPJ"}
+]
