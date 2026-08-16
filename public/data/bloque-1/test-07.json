@@ -1,0 +1,226 @@
+[
+{"id":"B1T07-001","bloque":1,"tema":7,"test":7,"dificultad":"facil",
+ "pregunta":"Según el artículo 10 del Estatuto de Autonomía, ¿cuál es la circunscripción electoral para las elecciones a la Asamblea de Madrid?",
+ "opciones":{"A":"La Comunidad de Madrid como circunscripción única","B":"La provincia","C":"Cada municipio de más de 50.000 habitantes","D":"La comarca, en los términos que establezca la ley electoral autonómica"},"correcta":"B",
+ "explicacion":"El artículo 10.5 del Estatuto de Autonomía establece que «la circunscripción electoral es la provincia». Al ser la Comunidad de Madrid una CA uniprovincial, el resultado práctico es el mismo que si fuera una circunscripción única, pero el Estatuto emplea el término «provincia».",
+ "why":"Aunque en la práctica la provincia y la CM coinciden territorialmente, la opción A (circunscripción única de la CM) no reproduce el término literal del Estatuto. Los municipios (C) y las comarcas (D) no son circunscripciones previstas en el Estatuto para las elecciones autonómicas.",
+ "norma":"LO 3/1983, Estatuto de Autonomía de la Comunidad de Madrid","articulo":"Art. 10.5"},
+
+{"id":"B1T07-002","bloque":1,"tema":7,"test":7,"dificultad":"facil",
+ "pregunta":"¿Qué umbral mínimo de votos deben superar las candidaturas para que se tengan en cuenta en el reparto de escaños de la Asamblea de Madrid, según el Estatuto de Autonomía?",
+ "opciones":{"A":"El 3 por 100 de los sufragios emitidos","B":"El 5 por 100 de los sufragios válidamente emitidos","C":"El 10 por 100 de los sufragios emitidos","D":"No existe umbral electoral en el Estatuto; lo fija la ley electoral autonómica"},"correcta":"B",
+ "explicacion":"El artículo 10.6 del Estatuto dispone que «para la distribución de escaños sólo serán tenidas en cuenta las listas que hubieran obtenido, al menos, el 5 por 100 de los sufragios válidamente emitidos».",
+ "why":"El 3% es el umbral habitual en las elecciones municipales en España (Ley Electoral General). El 10% supera ampliamente el fijado en el Estatuto. El umbral no se delega a la ley electoral: el Estatuto lo fija directamente en el 5%.",
+ "norma":"LO 3/1983, Estatuto de Autonomía de la Comunidad de Madrid","articulo":"Art. 10.6"},
+
+{"id":"B1T07-003","bloque":1,"tema":7,"test":7,"dificultad":"facil",
+ "pregunta":"¿Están los Diputados de la Asamblea de Madrid ligados por mandato imperativo según el Estatuto de Autonomía?",
+ "opciones":{
+   "A":"Sí, están vinculados al programa electoral del partido por el que fueron elegidos",
+   "B":"No, el Estatuto dispone expresamente que no podrán estar ligados por mandato imperativo alguno",
+   "C":"Solo están vinculados por mandato imperativo en las votaciones de confianza y censura",
+   "D":"Sí, pero solo en las materias que afecten directamente a sus electores"
+ },"correcta":"B",
+ "explicacion":"El artículo 10.3 del Estatuto establece que «los Diputados no estarán ligados por mandato imperativo alguno». Esta prohibición es coherente con el artículo 67.2 CE, que establece idéntica regla para los parlamentarios nacionales.",
+ "why":"El mandato imperativo es un concepto contrario a la representación libre que caracteriza el parlamentarismo moderno. Ningún diputado español, autonómico o nacional, puede estar jurídicamente vinculado por instrucciones de sus electores o de su partido en el ejercicio de su escaño.",
+ "norma":"LO 3/1983, Estatuto de Autonomía de la Comunidad de Madrid","articulo":"Art. 10.3"},
+
+{"id":"B1T07-004","bloque":1,"tema":7,"test":7,"dificultad":"facil",
+ "pregunta":"Según el Estatuto de Autonomía, ¿quién convoca las elecciones a la Asamblea de Madrid?",
+ "opciones":{
+   "A":"La Junta Electoral Central, de oficio, al cumplirse el plazo del mandato",
+   "B":"El Presidente de la Asamblea de Madrid, con el refrendo de la Mesa",
+   "C":"El Presidente de la Comunidad de Madrid",
+   "D":"El Gobierno de la Nación, mediante Real Decreto refrendado por el Ministro del Interior"
+ },"correcta":"C",
+ "explicacion":"El artículo 10.4 del Estatuto dispone que las elecciones «serán convocadas por el Presidente de la Comunidad». Las elecciones autonómicas son convocadas por el Presidente de la CA, no por el Gobierno de la Nación ni por el Presidente de la Asamblea.",
+ "why":"La Junta Electoral Central actúa en el proceso electoral pero no lo convoca. El Presidente de la Asamblea preside el órgano legislativo pero no tiene atribuida esta función. La convocatoria de elecciones generales sí corresponde al Rey a propuesta del Presidente del Gobierno, pero en las autonómicas madrileñas es el Presidente de la CM.",
+ "norma":"LO 3/1983, Estatuto de Autonomía de la Comunidad de Madrid","articulo":"Art. 10.4"},
+
+{"id":"B1T07-005","bloque":1,"tema":7,"test":7,"dificultad":"facil",
+ "pregunta":"¿Cuál de las siguientes materias es competencia EXCLUSIVA de la Comunidad de Madrid según el artículo 26 del Estatuto, diferente del urbanismo ya contemplado?",
+ "opciones":{"A":"Las bases y coordinación general de la sanidad","B":"La legislación laboral","C":"La promoción y ordenación del turismo en su ámbito territorial","D":"La legislación básica sobre medio ambiente"},"correcta":"C",
+ "explicacion":"El artículo 26 del Estatuto incluye entre las competencias exclusivas de la CM la promoción y ordenación del turismo en su ámbito territorial. Las bases y coordinación general de la sanidad (A) y la legislación laboral (B) son competencias del Estado (arts. 149.1.16ª y 149.1.7ª CE). La legislación básica sobre medio ambiente (D) también es competencia estatal (art. 149.1.23ª CE).",
+ "why":"El turismo está en la lista del art. 148.1 CE como materia asumible por las CCAA y el Estatuto madrileño la recoge como exclusiva. Las otras tres opciones son materias en las que el Estado tiene la legislación básica o la competencia exclusiva plena.",
+ "norma":"LO 3/1983, Estatuto de Autonomía de la Comunidad de Madrid","articulo":"Art. 26"},
+
+{"id":"B1T07-006","bloque":1,"tema":7,"test":7,"dificultad":"facil",
+ "pregunta":"De acuerdo con el artículo 26 del Estatuto de Autonomía, ¿qué tipo de competencia ostenta la Comunidad de Madrid sobre la asistencia social?",
+ "opciones":{
+   "A":"Competencia de ejecución, sometida en todo caso a la legislación básica del Estado",
+   "B":"Competencia compartida con el Estado, que legisla y la CM ejecuta",
+   "C":"Competencia exclusiva de la Comunidad de Madrid",
+   "D":"Competencia de desarrollo legislativo dentro del marco que fije el Estado"
+ },"correcta":"C",
+ "explicacion":"El artículo 26 del Estatuto de Autonomía incluye la asistencia social entre las competencias exclusivas de la Comunidad de Madrid. A diferencia de la Seguridad Social —cuya legislación básica y régimen económico corresponden al Estado (art. 149.1.17ª CE)—, la asistencia social es una materia del art. 148.1.20ª CE que puede ser asumida con carácter exclusivo por las CCAA.",
+ "why":"Las opciones A, B y D describen categorías competenciales (ejecución, compartida, desarrollo legislativo) que NO se aplican a la asistencia social en el marco del Estatuto madrileño. La asistencia social es una de las competencias que las CCAA pueden asumir plena y exclusivamente, sin necesidad de respetar legislación básica estatal en ese ámbito.",
+ "norma":"LO 3/1983, Estatuto de Autonomía de la Comunidad de Madrid","articulo":"Art. 26"},
+
+{"id":"B1T07-007","bloque":1,"tema":7,"test":7,"dificultad":"media",
+ "pregunta":"El artículo 19 del Estatuto de Autonomía regula la cuestión de confianza. ¿Quién la plantea, ante quién, y qué mayoría es necesaria para que se entienda otorgada?",
+ "opciones":{
+   "A":"La Asamblea la plantea contra el Consejo de Gobierno; se aprueba por mayoría absoluta",
+   "B":"El Presidente la plantea ante la Asamblea sobre su programa o política general; la confianza se entiende otorgada cuando vota a favor la mayoría simple",
+   "C":"El Presidente la plantea ante la Asamblea; requiere mayoría de dos tercios para ser otorgada",
+   "D":"El Consejo de Gobierno en pleno la plantea ante la Asamblea; basta mayoría simple de los Diputados presentes"
+ },"correcta":"B",
+ "explicacion":"El artículo 19 del Estatuto establece que el Presidente puede plantear la cuestión de confianza ante la Asamblea sobre su programa o sobre una declaración de política general, y que la confianza se entenderá otorgada cuando vote a favor la mayoría simple.",
+ "why":"Es el Presidente, no la Asamblea ni el Consejo de Gobierno en pleno, quien tiene iniciativa para plantear la cuestión de confianza. La mayoría exigida es simple (más votos a favor que en contra), no absoluta ni de dos tercios; esto contrasta con la moción de censura, que requiere mayoría absoluta.",
+ "norma":"LO 3/1983, Estatuto de Autonomía de la Comunidad de Madrid","articulo":"Art. 19"},
+
+{"id":"B1T07-008","bloque":1,"tema":7,"test":7,"dificultad":"media",
+ "pregunta":"Según el artículo 21 del Estatuto de Autonomía, ¿qué facultad tiene el Presidente de la Comunidad de Madrid respecto a la Asamblea?",
+ "opciones":{
+   "A":"Puede suspender las sesiones de la Asamblea por un plazo máximo de treinta días",
+   "B":"Puede acordar la disolución anticipada de la Asamblea, con las limitaciones que establezca el Estatuto",
+   "C":"Puede vetar los proyectos de ley aprobados por la Asamblea durante un plazo de quince días",
+   "D":"Puede convocar sesiones extraordinarias de la Asamblea en cualquier momento sin limitación"
+ },"correcta":"B",
+ "explicacion":"El artículo 21 del Estatuto reconoce al Presidente de la Comunidad de Madrid la facultad de acordar la disolución anticipada de la Asamblea, sujetándola a las limitaciones temporales y procedimentales que el propio Estatuto establece. Esta facultad es coherente con el artículo 152.1 CE, que la prevé para los presidentes de las CCAA.",
+ "why":"El Presidente no puede suspender las sesiones de la Asamblea (A): los órganos de la Asamblea tienen autonomía para organizar sus trabajos. El veto legislativo (C) no existe en el derecho autonómico español. La convocatoria de extraordinarias sin limitación (D) distorsiona la regulación real.",
+ "norma":"LO 3/1983, Estatuto de Autonomía de la Comunidad de Madrid","articulo":"Art. 21"},
+
+{"id":"B1T07-009","bloque":1,"tema":7,"test":7,"dificultad":"media",
+ "pregunta":"El Estatuto de Autonomía reconoce a los Diputados de la Asamblea la garantía de inviolabilidad. ¿Cuál es su alcance temporal?",
+ "opciones":{
+   "A":"Solo durante el ejercicio efectivo del mandato parlamentario, cesando al abandonar el cargo",
+   "B":"Exclusivamente durante las sesiones plenarias y de comisión de la Asamblea",
+   "C":"Incluso después de haber cesado en el mandato, por las opiniones manifestadas en el ejercicio de sus funciones",
+   "D":"Durante el mandato y los dos años siguientes al cese, como plazo de prescripción especial"
+ },"correcta":"C",
+ "explicacion":"El Estatuto de Autonomía establece que los Diputados gozarán de inviolabilidad «aun después de haber cesado en su mandato», por las opiniones manifestadas en el ejercicio de sus funciones. Esta protección tiene, por tanto, carácter vitalicio respecto de los actos amparados.",
+ "why":"La inviolabilidad no cesa cuando el diputado abandona el cargo (A): protege actos pasados indefinidamente. No se limita a las sesiones (B): abarca todas las manifestaciones realizadas en el ejercicio de las funciones parlamentarias. El plazo de dos años (D) es una invención sin apoyo en el Estatuto.",
+ "norma":"LO 3/1983, Estatuto de Autonomía de la Comunidad de Madrid","articulo":"Estatuto: garantías de los Diputados"},
+
+{"id":"B1T07-010","bloque":1,"tema":7,"test":7,"dificultad":"media",
+ "pregunta":"El Estatuto de Autonomía regula la inmunidad de los Diputados de la Asamblea durante su mandato. ¿Qué órgano jurisdiccional es competente para decidir sobre su inculpación, procesamiento y juicio?",
+ "opciones":{
+   "A":"La Sala de lo Penal del Tribunal Supremo",
+   "B":"El Tribunal Superior de Justicia de Madrid",
+   "C":"La Sala Especial del Tribunal Constitucional",
+   "D":"El Juzgado de Instrucción de Madrid capital"
+ },"correcta":"B",
+ "explicacion":"El Estatuto establece que, durante el mandato, los Diputados de la Asamblea no pueden ser detenidos ni retenidos por actos delictivos cometidos en el territorio de la Comunidad, salvo en caso de flagrante delito, y que corresponde al Tribunal Superior de Justicia de Madrid decidir sobre su inculpación, procesamiento y juicio.",
+ "why":"Los Diputados del Congreso y Senadores nacionales están aforados ante la Sala de lo Penal del Tribunal Supremo (A). Los diputados autonómicos madrileños lo están ante el TSJ de Madrid. El TC (C) no juzga causas penales ordinarias. El Juzgado de Instrucción (D) no tiene competencia sobre aforados.",
+ "norma":"LO 3/1983, Estatuto de Autonomía de la Comunidad de Madrid","articulo":"Estatuto: garantías de los Diputados"},
+
+{"id":"B1T07-011","bloque":1,"tema":7,"test":7,"dificultad":"media",
+ "pregunta":"La Asamblea de Madrid elige a su órgano rector. ¿Cuál es la composición de la Mesa de la Asamblea?",
+ "opciones":{
+   "A":"El Presidente de la Asamblea, elegido por la Asamblea, que actúa en solitario como único órgano rector",
+   "B":"El Presidente de la Asamblea, los Vicepresidentes y los Secretarios, elegidos por los propios Diputados",
+   "C":"El Presidente de la Asamblea y una Comisión de Gobierno formada por los portavoces de los grupos parlamentarios",
+   "D":"El Presidente de la Asamblea y los Presidentes de las comisiones parlamentarias permanentes"
+ },"correcta":"B",
+ "explicacion":"La Mesa de la Asamblea de Madrid, siguiendo el modelo de las Cámaras parlamentarias, está integrada por el Presidente de la Asamblea, los Vicepresidentes y los Secretarios, todos ellos elegidos por los propios Diputados al comienzo de cada legislatura.",
+ "why":"El Presidente actúa siempre con la Mesa, no en solitario (A). La Junta de Portavoces es un órgano de coordinación parlamentaria distinto de la Mesa (C). Los Presidentes de comisiones forman parte de los órganos de trabajo, no del órgano rector de la Cámara (D).",
+ "norma":"LO 3/1983, Estatuto de Autonomía de la Comunidad de Madrid","articulo":"Estatuto: organización de la Asamblea"},
+
+{"id":"B1T07-012","bloque":1,"tema":7,"test":7,"dificultad":"media",
+ "pregunta":"Según el Estatuto de Autonomía, los recursos de la Comunidad de Madrid incluyen varias categorías. ¿Cuál de las siguientes NO es un recurso de la Comunidad de Madrid?",
+ "opciones":{
+   "A":"Los impuestos propios, las tasas y las contribuciones especiales",
+   "B":"Los tributos cedidos total o parcialmente por el Estado y los recargos sobre impuestos estatales",
+   "C":"Los derechos de aduana sobre importaciones de la UE destinadas a empresas madrileñas",
+   "D":"Las transferencias del Fondo de Compensación Interterritorial y otras asignaciones de los PGE"
+ },"correcta":"C",
+ "explicacion":"Los derechos de aduana son un recurso propio de la Unión Europea (recurso propio tradicional de la UE), no de las Comunidades Autónomas. Los recursos de la CM incluyen, conforme al Estatuto: impuestos propios y tasas (A), tributos cedidos y recargos (B), transferencias del FCI y asignaciones de los PGE (D), rendimientos del patrimonio y el producto de las operaciones de crédito.",
+ "why":"Los derechos de aduana se transfieren directamente al presupuesto de la UE por pertenecer a la política comercial común, competencia exclusiva de la Unión (art. 3.1.e TFUE). Ninguna CA percibe recursos aduaneros directamente.",
+ "norma":"LO 3/1983, Estatuto de Autonomía de la Comunidad de Madrid","articulo":"Estatuto, Título IV (Hacienda)"},
+
+{"id":"B1T07-013","bloque":1,"tema":7,"test":7,"dificultad":"media",
+ "pregunta":"Entre los tributos cedidos por el Estado a la Comunidad de Madrid, ¿cuál de las siguientes figuras tributarias está incluida en esa cesión?",
+ "opciones":{
+   "A":"El Impuesto sobre Sociedades, cedido al 100% a la CM",
+   "B":"El Impuesto sobre Sucesiones y Donaciones",
+   "C":"Las cotizaciones a la Seguridad Social",
+   "D":"El Impuesto sobre el Valor Añadido, cedido al 100% a la CM"
+ },"correcta":"B",
+ "explicacion":"El Impuesto sobre Sucesiones y Donaciones es uno de los tributos cedidos por el Estado a las Comunidades Autónomas, incluyendo la CM. El Impuesto sobre Sociedades (A) no está cedido a las CCAA; es un impuesto estatal. Las cotizaciones a la SS (C) son ingresos del sistema de Seguridad Social, no de las CCAA. El IVA se cede solo parcialmente (no al 100%) y bajo el sistema de participación territorial.",
+ "why":"El error más frecuente es confundir los tributos cedidos (IS, cotizaciones SS) con los que efectivamente se ceden (sucesiones y donaciones, transmisiones patrimoniales y AJD, impuesto sobre el juego, etc.). El IVA se cede parcialmente, no al 100%.",
+ "norma":"LO 3/1983, Estatuto de Autonomía de la Comunidad de Madrid y LOFCA","articulo":"Estatuto: Título IV y LOFCA"},
+
+{"id":"B1T07-014","bloque":1,"tema":7,"test":7,"dificultad":"media",
+ "pregunta":"¿Cuáles son las características del presupuesto de la Comunidad de Madrid según el Estatuto de Autonomía?",
+ "opciones":{
+   "A":"Es plurianual, de carácter orientativo, elaborado por la Asamblea y aprobado por el Consejo de Gobierno",
+   "B":"Es único, anual y de carácter limitativo; lo elabora el Consejo de Gobierno y lo aprueba la Asamblea",
+   "C":"Es único, anual y de carácter estimativo; lo elabora el Presidente y lo aprueba la Asamblea por mayoría de tres quintos",
+   "D":"Es único, de duración plurianual (cuatrienal), elaborado por el Consejo de Gobierno y aprobado por la Asamblea"
+ },"correcta":"B",
+ "explicacion":"El presupuesto de la Comunidad de Madrid es único —no puede haber presupuestos parciales o sectoriales fuera de él—, anual —se aprueba para cada ejercicio económico— y de carácter limitativo —los créditos aprobados son el máximo que puede gastarse en cada concepto—. Lo elabora el Consejo de Gobierno y lo aprueba la Asamblea.",
+ "why":"La A invierte los órganos (quien elabora y quien aprueba) y lo convierte en orientativo. El carácter «estimativo» (C) no existe en el derecho presupuestario español; la limitación de créditos es la regla general. El presupuesto plurianual cuatrienal (D) no está previsto en el Estatuto.",
+ "norma":"LO 3/1983, Estatuto de Autonomía de la Comunidad de Madrid","articulo":"Estatuto: Título IV"},
+
+{"id":"B1T07-015","bloque":1,"tema":7,"test":7,"dificultad":"media",
+ "pregunta":"El artículo 27 del Estatuto lista materias de desarrollo legislativo y ejecución. ¿Cuál de las siguientes está incluida en ese artículo?",
+ "opciones":{
+   "A":"La ordenación del territorio y el urbanismo",
+   "B":"La enseñanza en sus niveles no universitarios, en los términos del artículo 149.1.30ª CE",
+   "C":"El turismo y la promoción de actividades de ocio",
+   "D":"El patrimonio histórico-artístico y cultural de la CM"
+ },"correcta":"B",
+ "explicacion":"El artículo 27 del Estatuto incluye la enseñanza como competencia de desarrollo legislativo y ejecución de la legislación básica del Estado, dentro del marco del artículo 149.1.30ª CE (que reserva al Estado las normas básicas del desarrollo del artículo 27 CE). El territorio/urbanismo (A), el turismo y ocio (C), y el patrimonio histórico-cultural (D) son competencias exclusivas de la CM listadas en el artículo 26.",
+ "why":"El error clásico es situar la enseñanza como competencia exclusiva. En realidad, el Estado tiene la competencia en las «normas básicas para el desarrollo del artículo 27 CE», y la CM puede desarrollar esas bases y ejecutarlas. Urbanismo, turismo y patrimonio sí son exclusivas (art. 26).",
+ "norma":"LO 3/1983, Estatuto de Autonomía de la Comunidad de Madrid","articulo":"Art. 27"},
+
+{"id":"B1T07-016","bloque":1,"tema":7,"test":7,"dificultad":"media",
+ "pregunta":"El Estatuto de Autonomía incluye el artículo 28, que regula un tercer nivel competencial. ¿Qué tipo de competencia otorga ese artículo a la Comunidad de Madrid?",
+ "opciones":{
+   "A":"Competencia exclusiva sobre legislación y ejecución en materia de relaciones laborales",
+   "B":"Competencia de ejecución de la legislación del Estado en materias como la legislación laboral",
+   "C":"Competencia de desarrollo legislativo y ejecución de la legislación básica en materia laboral",
+   "D":"Competencia compartida con el Estado sobre negociación colectiva y convenios de empresa"
+ },"correcta":"B",
+ "explicacion":"El artículo 28 del Estatuto contempla la competencia de ejecución, que es el nivel competencial más reducido: la CM puede aplicar y gestionar la legislación que dicta el Estado, pero no puede legislar sobre ella. La legislación laboral es el ejemplo más característico de este tipo de competencia.",
+ "why":"La competencia exclusiva sobre legislación laboral (A) corresponde al Estado (art. 149.1.7ª CE). La CM no puede legislar en materia laboral (C ni D): solo ejecuta la legislación estatal. La competencia compartida al 50% (D) no existe como categoría en el sistema constitucional español.",
+ "norma":"LO 3/1983, Estatuto de Autonomía de la Comunidad de Madrid","articulo":"Art. 28"},
+
+{"id":"B1T07-017","bloque":1,"tema":7,"test":7,"dificultad":"dificil",
+ "pregunta":"¿Cuáles son las diferencias esenciales entre la cuestión de confianza (art. 19 Estatuto) y la moción de censura (art. 20 Estatuto) en el sistema institucional de la Comunidad de Madrid?",
+ "opciones":{
+   "A":"Ambas las inicia el Presidente; la diferencia es solo la mayoría: simple en la confianza y absoluta en la censura",
+   "B":"La cuestión de confianza la plantea el Presidente y requiere mayoría simple para ser otorgada; la moción de censura la propone la Asamblea, requiere mayoría absoluta y debe incluir un candidato alternativo",
+   "C":"La cuestión de confianza la plantea la Asamblea y requiere mayoría de dos tercios; la moción de censura la propone el Presidente y requiere mayoría absoluta",
+   "D":"Ambas las propone la Asamblea; se diferencian en que la moción de censura exige la inclusión de un candidato alternativo y la confianza no"
+ },"correcta":"B",
+ "explicacion":"La cuestión de confianza (art. 19) la plantea el Presidente ante la Asamblea sobre su programa o política general; la confianza se entiende otorgada cuando vota a favor la mayoría simple. La moción de censura (art. 20) la propone la Asamblea, requiere la aprobación por mayoría absoluta y debe incluir un candidato alternativo a la Presidencia (moción constructiva).",
+ "why":"A atribuye erróneamente a la Asamblea la iniciativa de la cuestión de confianza. C invierte completamente los sujetos de ambas figuras. D atribuye las dos a la Asamblea, cuando la cuestión de confianza es siempre iniciativa del Presidente.",
+ "norma":"LO 3/1983, Estatuto de Autonomía de la Comunidad de Madrid","articulo":"Arts. 19 y 20"},
+
+{"id":"B1T07-018","bloque":1,"tema":7,"test":7,"dificultad":"dificil",
+ "pregunta":"El Tribunal Superior de Justicia de Madrid (TSJ) encabeza la organización judicial en el territorio de la Comunidad de Madrid. ¿Cuáles son sus funciones características dentro del sistema judicial?",
+ "opciones":{
+   "A":"Es el máximo intérprete de la Constitución en el territorio de la CM y conoce los recursos de amparo autonómicos",
+   "B":"Culmina la organización judicial en el ámbito autonómico; conoce los recursos de casación sobre derecho propio de la CM y los aforamientos de Diputados de la Asamblea",
+   "C":"Actúa como tribunal de segunda instancia exclusivamente en el orden penal, para todos los recursos frente a sentencias de las Audiencias Provinciales",
+   "D":"Es equivalente al Tribunal Supremo pero solo para la CM, con idéntica posición jerárquica que éste"
+ },"correcta":"B",
+ "explicacion":"El Tribunal Superior de Justicia de Madrid culmina la organización judicial en el territorio autonómico (art. 152.1 CE), conoce los recursos de casación en materias de derecho propio de la CM, actúa como tribunal de aforamiento de los Diputados de la Asamblea, y resuelve recursos en los cuatro órdenes jurisdiccionales (civil, penal, contencioso-administrativo, social).",
+ "why":"La interpretación de la Constitución corresponde al TC, no al TSJ (A). El TSJ no es de segunda instancia penal exclusivamente (C): tiene competencias en los cuatro órdenes. El TSJ no tiene la misma posición que el TS (D): el TS es el órgano jurisdiccional superior en todos los órdenes (art. 123.1 CE) por encima de los TSJ.",
+ "norma":"Constitución Española art. 152.1 y LO 3/1983 Estatuto de Autonomía de la Comunidad de Madrid","articulo":"Art. 152.1 CE"},
+
+{"id":"B1T07-019","bloque":1,"tema":7,"test":7,"dificultad":"dificil",
+ "pregunta":"El presupuesto de la Comunidad de Madrid tiene «carácter limitativo». ¿Qué significa exactamente ese calificativo?",
+ "opciones":{
+   "A":"Que el presupuesto no puede experimentar crecimiento real respecto al del año anterior salvo autorización de las Cortes Generales",
+   "B":"Que los créditos aprobados en el presupuesto son el límite máximo de gasto para cada concepto; no pueden superarse sin previa modificación presupuestaria",
+   "C":"Que el presupuesto solo puede destinarse a las competencias exclusivas de la CM, excluyendo las competencias delegadas",
+   "D":"Que la Asamblea solo puede aprobar el presupuesto propuesto por el Consejo de Gobierno sin posibilidad de introducir enmiendas de aumento de gasto"
+ },"correcta":"B",
+ "explicacion":"El carácter limitativo del presupuesto significa que los créditos aprobados por la Asamblea representan el techo máximo de gasto en cada concepto o programa. No pueden gastarse fondos por encima de lo consignado sin tramitar previamente una modificación presupuestaria (suplemento de crédito, crédito extraordinario, etc.).",
+ "why":"El carácter limitativo no afecta al crecimiento interanual (A): puede crecer tanto como la Asamblea apruebe. No restringe el destino del gasto a competencias exclusivas (C). No impide las enmiendas parlamentarias al presupuesto (D): la Asamblea puede enmendarlo, aunque con restricciones para las enmiendas de aumento de gasto.",
+ "norma":"LO 3/1983, Estatuto de Autonomía de la Comunidad de Madrid","articulo":"Estatuto: Título IV"},
+
+{"id":"B1T07-020","bloque":1,"tema":7,"test":7,"dificultad":"dificil",
+ "pregunta":"¿Cuál es la diferencia entre los «tributos cedidos» y los «impuestos propios» de la Comunidad de Madrid como recursos de su hacienda?",
+ "opciones":{
+   "A":"Los tributos cedidos son los que la CM crea y gestiona libremente; los impuestos propios son los que el Estado comparte con la CM al 50%",
+   "B":"Los tributos cedidos son tributos estatales cuya recaudación (total o parcial) el Estado transfiere a la CM sin que ésta pueda modificar sus elementos esenciales; los impuestos propios son establecidos directamente por la CM mediante ley autonómica",
+   "C":"Ambas categorías son esencialmente idénticas; la distinción es solo contable para identificar el origen de la recaudación",
+   "D":"Los impuestos propios son los que la CM gestiona pero no puede recaudar; los cedidos son los que recauda sin poder gestionar"
+ },"correcta":"B",
+ "explicacion":"Los tributos cedidos son impuestos de titularidad estatal (como el IRPF, IVA, Sucesiones y Donaciones, etc.) cuyo rendimiento total o parcial se atribuye a la CM; la CM puede asumir la gestión tributaria y modificar algunos elementos en el marco de la LOFCA, pero no puede alterar sus elementos esenciales. Los impuestos propios, en cambio, son creados por la CM mediante ley autonómica en ejercicio de su autonomía financiera.",
+ "why":"La A invierte la definición de «propios» y «cedidos». La C niega la diferencia real, que es fundamental desde el punto de vista de quién ostenta la titularidad y quién puede legislar sobre los elementos esenciales. La D inventa una distinción entre recaudación y gestión que no responde a la realidad del sistema de financiación autonómica.",
+ "norma":"LO 3/1983, Estatuto de Autonomía de la Comunidad de Madrid y LOFCA","articulo":"Estatuto: Título IV"}
+]
