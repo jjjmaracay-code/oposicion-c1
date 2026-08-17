@@ -1,0 +1,382 @@
+[
+  {
+    "id": "B5T45-001",
+    "bloque": 5,
+    "tema": 45,
+    "test": 45,
+    "dificultad": "facil",
+    "pregunta": "¿Cuál es la estructura principal de la interfaz de Microsoft Word y cómo se organiza la cinta de opciones?",
+    "opciones": {
+      "A": "La interfaz de Word solo dispone de menús desplegables clásicos (Archivo, Edición, Ver…) sin ninguna cinta de opciones; la cinta fue eliminada en Office 2016.",
+      "B": "La cinta de opciones de Word es una única barra horizontal fija sin pestañas ni grupos; todos los comandos aparecen a la vez en una sola fila de botones.",
+      "C": "La interfaz de Microsoft Word se organiza en: barra de título, barra de herramientas de acceso rápido (Guardar, Deshacer, Repetir), cinta de opciones con pestañas temáticas (Inicio, Insertar, Diseño, Disposición, Referencias, Correspondencia, Revisar, Vista…) —cada pestaña contiene grupos de comandos relacionados (p. ej., en Inicio: Portapapeles, Fuente, Párrafo, Estilos, Edición)—, área de documento, y barra de estado con número de página, recuento de palabras, idioma y controles de zoom.",
+      "D": "La cinta de opciones de Word no contiene pestañas; los comandos están organizados en un panel lateral izquierdo denominado «Explorador de comandos» que debe activarse desde el menú de Windows."
+    },
+    "correcta": "C",
+    "explicacion": "Desde Office 2007 Word usa la interfaz ribbon (cinta) en lugar de menús clásicos. Sus componentes principales son: (1) Barra de título: nombre del archivo y botones de minimizar/maximizar/cerrar. (2) Barra de herramientas de acceso rápido (QAT): por defecto incluye Guardar (Ctrl+S), Deshacer (Ctrl+Z) y Rehacer (Ctrl+Y); personalizable. (3) Cinta de opciones (ribbon): organizada en pestañas temáticas; las principales son Archivo (backstage: nuevo, abrir, guardar, imprimir, opciones), Inicio (fuente, párrafo, estilos, portapapeles), Insertar (tablas, ilustraciones, vínculos, encabezado, texto, símbolos), Diseño/Disposición (temas, configuración de página, columnas, saltos), Referencias (tabla de contenido, notas al pie, citas, índice), Correspondencia (combinar correspondencia), Revisar (ortografía, control de cambios, comentarios, comparar), Vista (vistas, panel de navegación, zoom, macros); además aparecen pestañas contextuales al seleccionar objetos. (4) Área de edición. (5) Barra de estado: número de página, número de palabras, idioma y deslizador de zoom.",
+    "why": "A Word usa desde 2007 la cinta de opciones (ribbon); no se eliminó en Office 2016. B la cinta está dividida en pestañas, cada una con grupos de comandos organizados temáticamente. D no existe ningún «Explorador de comandos» lateral; los comandos se organizan en la cinta con pestañas y grupos.",
+    "norma": "Microsoft Word 365/2021 — Interfaz de usuario",
+    "articulo": "Cinta de opciones (ribbon) de Microsoft Word"
+  },
+  {
+    "id": "B5T45-002",
+    "bloque": 5,
+    "tema": 45,
+    "test": 45,
+    "dificultad": "facil",
+    "pregunta": "¿Qué modos de vista ofrece Microsoft Word para visualizar el documento y para qué se usa cada uno?",
+    "opciones": {
+      "A": "Microsoft Word ofrece varias vistas desde la pestaña Vista (y los botones de la barra de estado): Diseño de impresión (muestra el documento tal como se imprimirá, con márgenes, encabezados, pies de página y paginación; es la vista predeterminada), Modo de lectura (pantalla completa sin herramientas de edición, para leer cómodamente), Diseño web (como se vería en un navegador, sin márgenes de página), Esquema (muestra y permite reorganizar la jerarquía de títulos) y Borrador (solo texto, sin gráficos ni márgenes; máxima velocidad de edición en textos largos).",
+      "B": "Microsoft Word solo tiene una vista: Diseño de impresión; no existen otras vistas alternativas para el documento.",
+      "C": "Las vistas de Word son únicamente Diseño de impresión y Modo de lectura; las demás opciones del menú Vista sirven solo para mostrar u ocultar herramientas como la regla o el panel de navegación.",
+      "D": "La vista Esquema de Word está disponible solo para documentos con más de 50 páginas; para documentos más cortos, la opción aparece desactivada en el menú Vista."
+    },
+    "correcta": "A",
+    "explicacion": "Microsoft Word ofrece cinco vistas principales del documento, accesibles desde la pestaña «Vista» > grupo «Vistas» (o los botones de la esquina inferior derecha de la barra de estado): (1) Diseño de impresión (Print Layout): vista predeterminada; muestra el documento con márgenes, encabezados, pies de página, imágenes en su posición exacta y paginación real. (2) Modo de lectura (Read Mode): pantalla completa sin barra de edición; el texto se reorganiza en columnas; se sale con Escape. (3) Diseño web (Web Layout): muestra el texto sin márgenes de página ni paginación; útil para crear páginas HTML con Word. (4) Esquema (Outline): estructura jerárquica del documento; permite ascender/descender niveles y reordenar secciones; disponible para cualquier documento sin límite de páginas. (5) Borrador (Draft): elimina elementos gráficos y encabezados; el texto fluye continuamente; la vista más rápida para editar texto extenso. Desde la pestaña Vista también se activan herramientas adicionales (regla, cuadrícula, panel de navegación) que son independientes de la vista.",
+    "why": "B Word tiene cinco vistas principales de documento más opciones adicionales de visualización. C las vistas Esquema, Diseño web y Borrador son vistas completas del documento, no simples opciones de herramientas. D la vista Esquema está disponible para cualquier documento sin limitación de páginas.",
+    "norma": "Microsoft Word 365/2021 — Vista > Vistas",
+    "articulo": "Vistas de documento en Microsoft Word"
+  },
+  {
+    "id": "B5T45-003",
+    "bloque": 5,
+    "tema": 45,
+    "test": 45,
+    "dificultad": "facil",
+    "pregunta": "¿Cómo se aplica el formato de carácter básico en Microsoft Word y cuáles son los atajos de teclado más importantes?",
+    "opciones": {
+      "A": "En Word, el formato de carácter solo puede aplicarse usando el menú Formato > Fuente; los atajos de teclado y los botones de la cinta no funcionan para dar formato al texto.",
+      "B": "Los atajos correctos son: Ctrl+B (negrita), Ctrl+I (cursiva), Ctrl+U (subrayado) —en todas las versiones de Word en español y en inglés—; la cinta no tiene botones de formato de carácter porque se considera una función avanzada.",
+      "C": "En Word la minibarra flotante solo aparece cuando se hace clic derecho; no aparece al seleccionar texto con el ratón.",
+      "D": "El formato de carácter básico se aplica seleccionando el texto y usando los botones del grupo Fuente (pestaña Inicio) o los atajos de teclado: Ctrl+N (negrita), Ctrl+K (cursiva), Ctrl+S (subrayado) en la versión española de Office; también aparece una minibarra flotante al seleccionar texto con el ratón; para opciones avanzadas (tachado, superíndice, subíndice, efectos, espaciado entre caracteres) se abre el cuadro de diálogo Fuente con Ctrl+Mayús+F o desde el iniciador del grupo Fuente."
+    },
+    "correcta": "D",
+    "explicacion": "En Microsoft Word el formato de carácter se aplica sobre texto seleccionado mediante: (1) Atajos de teclado (versión española de Office): Ctrl+N (Negrita), Ctrl+K (Cursiva), Ctrl+S (Subrayado); Ctrl+= (subíndice), Ctrl+Mayús+= (superíndice); Ctrl+Barra espaciadora (eliminar formato de carácter). Nota: en la versión inglesa los atajos son Ctrl+B, Ctrl+I, Ctrl+U. (2) Botones en el grupo Fuente (pestaña Inicio): N (negrita), K (cursiva), S (subrayado con flecha para tipo de subrayado), abc (tachado), selector de fuente y tamaño, aumentar/reducir tamaño (Ctrl+> y Ctrl+<), color de fuente, color de resaltado, borrar formato. (3) Minibarra flotante: aparece automáticamente al seleccionar texto con el ratón (no con clic derecho); contiene los formatos más comunes; desaparece al alejar el ratón. (4) Cuadro de diálogo Fuente (Ctrl+Mayús+F o iniciador del grupo): incluye todas las opciones de carácter: tachado, doble tachado, superíndice, subíndice, sombra, contorno, relieve, grabado, mayúsculas, versales, escala, espacio entre caracteres.",
+    "why": "A los atajos de teclado (Ctrl+N/K/S) y los botones de la cinta funcionan perfectamente; son los métodos más rápidos. B en la versión española de Office los atajos son Ctrl+N (negrita), Ctrl+K (cursiva) y Ctrl+S (subrayado), no Ctrl+B/I/U; además los botones de la cinta sí existen. C la minibarra flotante aparece automáticamente al seleccionar texto con el ratón (botón izquierdo), no solo con clic derecho.",
+    "norma": "Microsoft Word 365/2021 — Inicio > Fuente",
+    "articulo": "Formato de carácter y atajos de teclado en Word"
+  },
+  {
+    "id": "B5T45-004",
+    "bloque": 5,
+    "tema": 45,
+    "test": 45,
+    "dificultad": "facil",
+    "pregunta": "¿Qué opciones de formato de párrafo ofrece Word y cómo se aplican la alineación y el interlineado?",
+    "opciones": {
+      "A": "El formato de párrafo en Word solo afecta a la alineación del texto; no existen opciones de interlineado, sangrías ni espaciado entre párrafos.",
+      "B": "El formato de párrafo en Word (grupo Párrafo de la pestaña Inicio) controla: la alineación (izquierda Ctrl+Q, centrada Ctrl+T, derecha Ctrl+D, justificada Ctrl+J), el interlineado (sencillo 1,0; 1,5 líneas; doble 2,0; mínimo; exacto en puntos; múltiple), el espaciado antes y después del párrafo (en puntos), y las sangrías (de primera línea, francesa, izquierda y derecha); el cuadro de diálogo completo se abre con el iniciador del grupo Párrafo.",
+      "C": "Para cambiar el interlineado de un párrafo en Word es imprescindible usar el cuadro de diálogo Fuente; no se puede cambiar desde la pestaña Inicio.",
+      "D": "El interlineado predeterminado de Word 365 es siempre «sencillo» (1,0) para todos los documentos nuevos, sin ningún espaciado adicional entre párrafos."
+    },
+    "correcta": "B",
+    "explicacion": "El formato de párrafo en Microsoft Word engloba todos los atributos que afectan a la disposición del texto a nivel de párrafo: (1) Alineación: Izquierda (Ctrl+Q): texto alineado al margen izquierdo, derecho irregular. Centrada (Ctrl+T): texto centrado entre márgenes. Derecha (Ctrl+D): texto alineado al margen derecho. Justificada (Ctrl+J): texto ajustado a ambos márgenes; habitual en textos formales. (2) Interlineado: espacio vertical entre líneas del párrafo; opciones: sencillo (1,0), 1,5 líneas, doble (2,0), mínimo, exacto (valor fijo en puntos), múltiple (factor personalizado). El interlineado predeterminado en Word 365 es 1,08 con 8 pt de espaciado después del párrafo. (3) Espaciado antes/después del párrafo: añade espacio vertical entre párrafos sin pulsar Enter extra; habitual 6-12 pt. (4) Sangrías: izquierda, derecha, de primera línea, francesa. La regla horizontal también permite arrastrar los marcadores de sangría. El cuadro de diálogo Párrafo (iniciador del grupo) ofrece todas las opciones con valores exactos.",
+    "why": "A el formato de párrafo incluye interlineado, sangrías y espaciado antes/después, no solo alineación. C el interlineado se controla desde el grupo Párrafo (pestaña Inicio) y su cuadro de diálogo, no desde el cuadro Fuente que controla el formato de carácter. D el interlineado predeterminado de Word 365 es 1,08 con 8 pt de espaciado tras el párrafo, no 1,0 sencillo sin espaciado.",
+    "norma": "Microsoft Word 365/2021 — Inicio > Párrafo",
+    "articulo": "Formato de párrafo: alineación, interlineado y sangrías en Word"
+  },
+  {
+    "id": "B5T45-005",
+    "bloque": 5,
+    "tema": 45,
+    "test": 45,
+    "dificultad": "facil",
+    "pregunta": "¿Cómo se guarda un documento en Microsoft Word y qué formatos de archivo están disponibles?",
+    "opciones": {
+      "A": "Word solo puede guardar en formato .docx; no permite guardar en PDF ni en otros formatos sin instalar complementos externos.",
+      "B": "Para guardar en Word hay que ir siempre a Archivo > Guardar como; no existe el atajo Ctrl+S ni ningún método de guardado rápido.",
+      "C": "Ctrl+S guarda el documento en su formato y ubicación actuales (si ya fue guardado antes; si es nuevo, abre Guardar como); F12 abre directamente el cuadro Guardar como para elegir ubicación y formato: .docx (Office Open XML, predeterminado desde Office 2007), .doc (Word 97-2003), .pdf (Archivo > Exportar o Guardar como tipo PDF), .odt (OpenDocument Text), .txt (texto plano), .rtf (Rich Text Format), entre otros; la ubicación y el nombre también se gestionan desde Archivo > Guardar como.",
+      "D": "El formato .docx solo puede abrirse con Microsoft Word; no es compatible con LibreOffice, Google Docs ni ninguna otra aplicación."
+    },
+    "correcta": "C",
+    "explicacion": "Guardar documentos en Microsoft Word: (1) Ctrl+S (Guardar): si el documento tiene nombre y ubicación asignados, guarda los cambios en el mismo archivo; si es nuevo sin guardar, abre el panel «Guardar como». (2) F12 (Guardar como): abre directamente el cuadro de diálogo para elegir carpeta, nombre y formato. (3) Archivo > Guardar como: equivalente a F12; permite guardar en OneDrive (nube) o en ubicación local. Formatos de archivo principales: .docx — Office Open XML (OOXML, ISO/IEC 29500): estándar desde Office 2007, basado en XML comprimido en ZIP. .doc — Word binario 97-2003: mayor compatibilidad con sistemas antiguos. .pdf — PDF/XPS: desde Archivo > Exportar > Crear PDF/XPS o Guardar como tipo PDF; genera documento estático. .odt — OpenDocument Text: estándar abierto de LibreOffice. .rtf — Rich Text Format: compatible con casi cualquier procesador de texto. .txt — texto plano. .dotx/.dotm — plantillas de Word. Nota: .docx es un estándar abierto compatible con LibreOffice, Google Docs, Apple Pages, WPS Office, etc.",
+    "why": "A Word permite exportar a PDF desde Archivo > Exportar o desde Guardar como; también admite .odt, .rtf, .txt y otros formatos. B Ctrl+S es el atajo estándar de guardado rápido; F12 abre Guardar como. D el formato .docx (OOXML, ISO/IEC 29500) es un estándar abierto compatible con muchas aplicaciones además de Word.",
+    "norma": "Microsoft Word 365/2021 — Archivo > Guardar como",
+    "articulo": "Guardar documentos y formatos de archivo en Word"
+  },
+  {
+    "id": "B5T45-006",
+    "bloque": 5,
+    "tema": 45,
+    "test": 45,
+    "dificultad": "facil",
+    "pregunta": "¿Cómo se insertan y modifican los encabezados y pies de página en Microsoft Word?",
+    "opciones": {
+      "A": "Los encabezados y pies de página se insertan desde Insertar > Encabezado (o Pie de página) y aparecen en todas las páginas salvo configuración especial; en modo edición aparece la pestaña contextual Diseño con opciones para insertar número de página, fecha, imagen de logo, y activar «Primera página diferente» y «Páginas pares/impares diferentes»; se sale haciendo doble clic en el área de texto principal o pulsando Escape.",
+      "B": "Los encabezados y pies de página en Word solo pueden contener texto plano; no es posible insertar imágenes, el número de página automático ni la fecha en esas zonas.",
+      "C": "El encabezado de Word aparece en todas las páginas sin excepción; no es posible tener una primera página diferente ni encabezados distintos para páginas pares e impares.",
+      "D": "Para editar el encabezado de un documento Word hay que desproteger primero el documento e instalar la función desde Opciones de Word; de lo contrario el encabezado no es accesible."
+    },
+    "correcta": "A",
+    "explicacion": "Los encabezados y pies de página son zonas de texto que se repiten en la parte superior e inferior de cada página. En Word: (1) Insertar: pestaña Insertar > grupo Encabezado y pie de página > Encabezado (o Pie de página) > elegir diseño predefinido o «Editar encabezado»; al activar el modo de edición el texto principal queda atenuado y aparece la pestaña contextual «Diseño». (2) Opciones de la pestaña Diseño: Primera página diferente: encabezado/pie exclusivo para la primera página (p. ej., portadas sin encabezado). Páginas pares/impares diferentes: contenido distinto en páginas pares e impares (habitual en libros). Vincular al anterior: hereda o independiza el encabezado/pie de la sección anterior. (3) Contenidos posibles: texto, imágenes, logotipos, número de página automático (Insertar > Número de página), fecha y hora actualizables, nombre del archivo, ruta, autor, título. (4) Salir: doble clic en el área de texto principal, Escape, o botón «Cerrar encabezado y pie de página».",
+    "why": "B los encabezados y pies admiten texto, imágenes, número de página automático, fecha y prácticamente cualquier objeto insertable en Word. C Word permite configurar primera página diferente y encabezados/pies distintos para pares e impares desde la pestaña Diseño. D los encabezados son accesibles directamente con doble clic sobre ellos en la vista Diseño de impresión; no requieren desprotección ni instalación adicional.",
+    "norma": "Microsoft Word 365/2021 — Insertar > Encabezado y pie de página",
+    "articulo": "Encabezados y pies de página en Word"
+  },
+  {
+    "id": "B5T45-007",
+    "bloque": 5,
+    "tema": 45,
+    "test": 45,
+    "dificultad": "media",
+    "pregunta": "¿Qué son los estilos en Word y cómo se utilizan para estructurar y formatear documentos?",
+    "opciones": {
+      "A": "Los estilos en Word son únicamente esquemas de colores para cambiar el aspecto visual de la cinta de opciones; no tienen relación con el formato del texto del documento.",
+      "B": "Los estilos de Word solo pueden aplicarse a tablas e imágenes; para el texto hay que aplicar el formato carácter por carácter desde el cuadro de diálogo Fuente.",
+      "C": "Para usar estilos en Word es imprescindible instalar una extensión adicional desde el catálogo de Office Apps; la versión base de Word no incluye ningún sistema de estilos predefinido.",
+      "D": "Los estilos son conjuntos predefinidos de atributos de formato (fuente, tamaño, interlineado, sangría, color…) guardados con un nombre y aplicables de una sola vez; los estilos de párrafo (Normal, Título 1-9, Cita…) afectan al párrafo completo; los de carácter solo al texto seleccionado; aplicar estilos Título 1/2/3 permite generar automáticamente la tabla de contenidos, usar el panel de navegación y mantener coherencia visual; los estilos se modifican desde clic derecho > Modificar y el cambio se propaga a todos los párrafos que lo usan."
+    },
+    "correcta": "D",
+    "explicacion": "Los estilos (Styles) son una herramienta fundamental de Word que permite aplicar formatos complejos de forma coherente y eficiente: (1) Definición: un estilo es un conjunto de atributos de formato guardado con un nombre; al aplicar el estilo, se aplican simultáneamente todos sus atributos. (2) Tipos: Estilos de párrafo: afectan al párrafo completo incluyendo formato de fuente y de párrafo; ejemplos: Normal, Sin espaciado, Título 1-9, Cita destacada, Encabezado, Pie de página. Estilos de carácter: afectan solo al texto seleccionado sin cambiar el formato del párrafo; ejemplos: Énfasis, Referencia, Código. Estilos vinculados: actúan como de párrafo o de carácter según la selección. (3) Galería de estilos: pestaña Inicio > grupo Estilos; muestra los estilos rápidos más usados; clic en el iniciador del grupo para abrir el panel Estilos completo (Ctrl+Mayús+Alt+S). (4) Ventajas: coherencia visual en todo el documento, cambio global modificando el estilo (todos los párrafos con ese estilo se actualizan), generación automática de tabla de contenidos (basada en Título 1/2/3), panel de navegación para saltar entre secciones, accesibilidad con lectores de pantalla. (5) Modificar: clic derecho en el estilo de la galería > Modificar; los cambios se aplican automáticamente a todos los párrafos que usan ese estilo. (6) Normal.dotm: plantilla global que contiene los estilos predeterminados; Word incluye de serie una extensa galería de estilos sin necesidad de extensiones adicionales.",
+    "why": "A los estilos son conjuntos de formato de texto y párrafo aplicables al documento, no esquemas de color de la interfaz (eso son los Temas de Office). B los estilos se aplican principalmente al texto de los párrafos y también a tablas, listas y otros objetos; no requieren el cuadro Fuente para su uso. C Word incluye de serie una extensa galería de estilos predefinidos (Título 1-9, Normal, Cita, Énfasis…) sin ninguna extensión adicional.",
+    "norma": "Microsoft Word 365/2021 — Inicio > Estilos",
+    "articulo": "Estilos de párrafo y carácter en Microsoft Word"
+  },
+  {
+    "id": "B5T45-008",
+    "bloque": 5,
+    "tema": 45,
+    "test": 45,
+    "dificultad": "media",
+    "pregunta": "¿Cómo se crean, modifican y dan formato a las tablas en Microsoft Word?",
+    "opciones": {
+      "A": "Las tablas en Word solo se pueden insertar desde Insertar > Tabla > Insertar tabla indicando filas y columnas; no existen otras formas de crear tablas ni opciones para modificar su estructura.",
+      "B": "Las tablas se insertan desde Insertar > Tabla (cuadrícula rápida, Insertar tabla, Dibujar tabla o convertir texto en tabla); se modifican con las pestañas contextuales Diseño y Disposición (Herramientas de tabla): insertar/eliminar filas y columnas, combinar o dividir celdas, ajustar ancho y alto, alinear el contenido de las celdas vertical y horizontalmente, aplicar estilos de tabla predefinidos, ordenar el contenido y usar fórmulas básicas (Disposición > Fórmula).",
+      "C": "Para modificar el número de columnas de una tabla en Word hay que eliminarla y crear una nueva; no es posible insertar ni eliminar columnas en una tabla ya existente.",
+      "D": "Las tablas en Word no admiten estilos predefinidos ni formato visual; hay que aplicar colores y bordes manualmente celda a celda."
+    },
+    "correcta": "B",
+    "explicacion": "Las tablas son uno de los elementos más utilizados en Word para organizar información. Formas de crear una tabla: (1) Cuadrícula rápida: Insertar > Tabla > arrastrar el ratón para seleccionar columnas y filas (hasta 10×8 directamente). (2) Insertar tabla: Insertar > Tabla > Insertar tabla; cuadro de diálogo para especificar número exacto de filas/columnas y ajuste del ancho. (3) Dibujar tabla: Insertar > Tabla > Dibujar tabla; el cursor se convierte en lápiz; útil para estructuras irregulares. (4) Convertir texto en tabla: si el texto está separado por tabulaciones, comas o párrafos, se convierte directamente en tabla. Modificación (pestañas contextuales Diseño y Disposición): Disposición: insertar filas/columnas (arriba, abajo, izquierda, derecha), eliminar filas/columnas/tabla, combinar celdas, dividir celdas, ajustar ancho y alto con valores exactos, alinear contenido (9 combinaciones), dirección del texto, ordenar (Disposición > Ordenar), fórmulas (suma, promedio, etc.). Diseño: galería de estilos de tabla predefinidos (con colores, bordes y sombreados), modificar bordes y tramas, activar/desactivar filas de encabezado o filas con bandas.",
+    "why": "A además de «Insertar tabla», existen la cuadrícula rápida, «Dibujar tabla» y la conversión de texto en tabla. C se pueden insertar o eliminar columnas en tablas existentes desde la pestaña Disposición de Herramientas de tabla. D Word incluye una galería completa de estilos de tabla predefinidos accesible en la pestaña Diseño de Herramientas de tabla.",
+    "norma": "Microsoft Word 365/2021 — Insertar > Tabla",
+    "articulo": "Tablas en Microsoft Word: creación y formato"
+  },
+  {
+    "id": "B5T45-009",
+    "bloque": 5,
+    "tema": 45,
+    "test": 45,
+    "dificultad": "media",
+    "pregunta": "¿Cómo se crea una tabla de contenidos automática en Word y qué condiciones deben cumplirse?",
+    "opciones": {
+      "A": "La tabla de contenidos en Word debe crearse manualmente escribiendo el nombre de cada capítulo y el número de página a mano; Word no tiene ninguna función automática para generarla.",
+      "B": "La tabla de contenidos automática de Word solo funciona si el documento tiene más de 50 páginas; para documentos más cortos la función aparece desactivada.",
+      "C": "La tabla de contenidos automática (Referencias > Tabla de contenido) se genera a partir de los párrafos con estilos Título 1, Título 2, Título 3… aplicados; Word extrae los títulos con sus números de página y construye la tabla automáticamente; cuando el contenido cambia, se actualiza con F9 o clic derecho > Actualizar campo; permite elegir el número de niveles mostrados y el formato visual.",
+      "D": "La tabla de contenidos de Word solo recoge los párrafos con el estilo «Título 1»; los estilos Título 2 o Título 3 nunca aparecen en ella aunque estén aplicados en el documento."
+    },
+    "correcta": "C",
+    "explicacion": "La tabla de contenidos (TOC) es una referencia automática muy útil en Word: (1) Requisito: el documento debe tener párrafos formateados con estilos de título jerárquicos (Título 1 = capítulos, Título 2 = secciones, Título 3 = subsecciones, etc.); sin estilos de título no puede generarse automáticamente. (2) Insertar: colocar el cursor donde se quiere la tabla > Referencias > grupo Tabla de contenido > elegir Tabla automática 1 o 2, o «Insertar tabla de contenido» para personalizar niveles y formato. (3) Funcionamiento: Word busca todos los párrafos con estilos Título 1-9 (o niveles de esquema configurados), extrae el texto y el número de página de cada uno y genera la tabla con sangrías que reflejan la jerarquía; los números de página son campos. (4) Actualizar: cuando el contenido cambia (páginas nuevas, títulos modificados), la tabla debe actualizarse manualmente: F9 con el cursor dentro de la tabla, o clic derecho > Actualizar campo > «Actualizar toda la tabla» o «Solo los números de página». (5) Personalización: número de niveles (1 a 9), formato del tabulador (puntos, guiones, línea), alineación del número de página, hiperenlaces para PDF. (6) El panel de navegación (Vista > Panel de navegación) también usa los estilos de título para mostrar la estructura.",
+    "why": "A Word genera la tabla de contenidos automáticamente a partir de los estilos de título aplicados; no hay que escribirla a mano. B la tabla de contenidos automática funciona con cualquier documento que tenga estilos de título, sin límite mínimo de páginas. D la tabla de contenidos puede incluir Título 1, Título 2, Título 3 y más niveles (configurables de 1 a 9); por defecto recoge los tres primeros niveles.",
+    "norma": "Microsoft Word 365/2021 — Referencias > Tabla de contenido",
+    "articulo": "Tabla de contenidos automática en Word"
+  },
+  {
+    "id": "B5T45-010",
+    "bloque": 5,
+    "tema": 45,
+    "test": 45,
+    "dificultad": "media",
+    "pregunta": "¿Cómo funciona el control de cambios (Track Changes) en Microsoft Word y para qué se utiliza?",
+    "opciones": {
+      "A": "El control de cambios (Revisar > Control de cambios, Ctrl+Mayús+E) registra todas las modificaciones: texto insertado (subrayado en color), texto eliminado (tachado), cambios de formato (indicados en globos); cada cambio muestra el nombre del autor y la fecha; otro usuario puede aceptarlo (lo incorpora definitivamente) o rechazarlo (deshace el cambio); es fundamental en la revisión colaborativa de documentos.",
+      "B": "El control de cambios de Word solo registra los textos nuevos añadidos; no detecta los textos eliminados ni los cambios de formato.",
+      "C": "El control de cambios al desactivarse restaura automáticamente el documento al estado anterior, deshaciendo todos los cambios registrados.",
+      "D": "El control de cambios de Word solo puede usarse si el documento está en OneDrive o SharePoint; para documentos locales la función no está disponible."
+    },
+    "correcta": "A",
+    "explicacion": "El control de cambios (Track Changes) es la herramienta de revisión colaborativa más importante de Word: (1) Activar: Revisar > grupo Seguimiento > Control de cambios (o Ctrl+Mayús+E); el botón queda resaltado y aparece un indicador en la barra de estado. (2) Tipos de cambios registrados: texto insertado (subrayado en color diferente por cada autor), texto eliminado (tachado en color o en globo al margen), cambios de formato (indicados en globos al margen). (3) Mostrar marcas: menú «Mostrar para revisión»: Todas las marcas (cambios visibles), Sin marcas (el documento tal como quedaría si se aceptan todos), Original (antes de los cambios), Marcas simples (indicadores discretos). (4) Aceptar/Rechazar: botones del grupo Cambios: Aceptar (incorpora el cambio definitivamente), Rechazar (deshace el cambio); posibilidad de aceptar o rechazar todos a la vez. (5) Comparar documentos: Revisar > Comparar > Comparar; útil cuando se olvidó activar el control de cambios. (6) Proteger para exigir control de cambios: Revisar > Proteger > Restringir edición.",
+    "why": "B el control de cambios registra texto insertado, texto eliminado y cambios de formato; es un registro completo de todas las modificaciones. C desactivar el control de cambios solo deja de registrar nuevos cambios; los marcados siguen pendientes de aceptar o rechazar; no restaura el documento automáticamente. D el control de cambios funciona con documentos en cualquier ubicación (local, USB, OneDrive, SharePoint); no requiere almacenamiento en la nube.",
+    "norma": "Microsoft Word 365/2021 — Revisar > Control de cambios",
+    "articulo": "Control de cambios (Track Changes) en Word"
+  },
+  {
+    "id": "B5T45-011",
+    "bloque": 5,
+    "tema": 45,
+    "test": 45,
+    "dificultad": "media",
+    "pregunta": "¿Qué es la combinación de correspondencia (mail merge) en Word y cuáles son sus pasos principales?",
+    "opciones": {
+      "A": "La combinación de correspondencia solo sirve para imprimir sobres con el nombre del destinatario; no puede usarse para cartas, correos electrónicos ni etiquetas.",
+      "B": "La combinación de correspondencia requiere que el origen de datos sea siempre una base de datos Access; no es compatible con listas de Excel ni con contactos de Outlook.",
+      "C": "Al finalizar la combinación de correspondencia en Word, los documentos generados se guardan automáticamente en OneDrive sin posibilidad de imprimirlos o guardarlos en el disco local.",
+      "D": "La combinación de correspondencia (Correspondencia > Iniciar combinación de correspondencia) genera automáticamente múltiples documentos personalizados (cartas, sobres, etiquetas, correos electrónicos o directorios) a partir de un documento principal con campos de combinación y un origen de datos (tabla de Excel, contactos de Outlook, tabla de Access, lista de Word o fuente ODBC); los pasos son: elegir tipo de documento, conectar el origen de datos, insertar los campos de combinación, previsualizar los resultados y finalizar (imprimir, guardar en nuevo documento .docx o enviar por correo electrónico)."
+    },
+    "correcta": "D",
+    "explicacion": "La combinación de correspondencia (mail merge) automatiza la creación de documentos masivos personalizados: (1) Tipos de documentos: cartas (el más habitual), sobres, etiquetas de dirección, mensajes de correo electrónico (requiere Outlook como cliente predeterminado), directorios (listas en una sola página). (2) Orígenes de datos compatibles: hoja de cálculo Excel (la más usada; cada columna es un campo, cada fila un registro), lista de contactos de Outlook, base de datos Access, tabla en un documento Word, archivo de texto CSV, fuente ODBC. (3) Pasos del asistente (Correspondencia > Iniciar combinación > Paso a paso): Paso 1: tipo de documento. Paso 2: documento inicial. Paso 3: seleccionar origen de datos. Paso 4: insertar campos de combinación (aparecen como «Nombre», «Apellidos», «Dirección» entre comillas angulares). Paso 5: previsualizar resultados. Paso 6: finalizar y combinar: Imprimir (va a la impresora), Editar documentos individuales (genera un archivo .docx con todos los documentos), Enviar mensajes de correo. (4) Filtros y ordenación: Correspondencia > Editar lista de destinatarios permite filtrar registros y ordenar por campo.",
+    "why": "A la combinación de correspondencia abarca cartas, sobres, etiquetas, correos electrónicos y directorios, no solo sobres. B el origen de datos puede ser Excel, Outlook, Access, Word, CSV u ODBC; no se limita a Access. C los documentos combinados pueden imprimirse, guardarse localmente como nuevo .docx o enviarse por correo; no se guardan automáticamente en OneDrive.",
+    "norma": "Microsoft Word 365/2021 — Correspondencia > Combinar correspondencia",
+    "articulo": "Combinación de correspondencia (mail merge) en Word"
+  },
+  {
+    "id": "B5T45-012",
+    "bloque": 5,
+    "tema": 45,
+    "test": 45,
+    "dificultad": "media",
+    "pregunta": "¿Qué son las secciones en Word y para qué se utilizan los saltos de sección?",
+    "opciones": {
+      "A": "Las secciones en Word son divisiones del documento que permiten aplicar configuraciones de página diferentes (márgenes, orientación, tamaño de papel, columnas, encabezados/pies de página) en distintas partes; se crean con Disposición > Saltos > Saltos de sección: Página siguiente (la nueva sección empieza en página nueva), Continua (misma página), Página par e Impar; cada sección puede tener encabezados y pies independientes desactivando «Vincular al anterior».",
+      "B": "Las secciones en Word solo sirven para dividir el documento en capítulos con numeración automática; no pueden usarse para cambiar orientación, márgenes ni columnas.",
+      "C": "Los saltos de sección son idénticos a los saltos de página; no existe ninguna diferencia funcional entre ambos tipos de saltos.",
+      "D": "Para tener páginas de orientación diferente (vertical y horizontal) en el mismo documento Word es necesario crear archivos separados; no se pueden mezclar orientaciones en un único documento."
+    },
+    "correcta": "A",
+    "explicacion": "Las secciones permiten aplicar formatos de página diferentes dentro de un mismo documento: (1) Utilidad: orientación vertical para el texto y horizontal para una tabla grande; márgenes distintos por capítulo; número de columnas diferentes en partes del documento; encabezados/pies de página distintos por capítulo (p. ej., título del capítulo en el encabezado). (2) Tipos de saltos de sección (Disposición > Saltos > Saltos de sección): Página siguiente: la sección comienza en la parte superior de la siguiente página; el más usado. Continua: la sección comienza inmediatamente en la misma página; útil para cambiar el número de columnas en una parte de la página. Página par: la sección empieza en la siguiente página par. Página impar: la sección empieza en la siguiente página impar; útil para que los capítulos siempre empiecen en página derecha. (3) Configuración independiente por sección: márgenes, orientación, tamaño de papel, columnas, encabezado/pie de página (desvinculando «Vincular al anterior»), numeración de página (puede reiniciarse). (4) Ver y eliminar saltos: visibles con Ctrl+Mayús+8; se eliminan seleccionándolos y pulsando Supr.",
+    "why": "B las secciones permiten cambiar orientación, márgenes, columnas, tamaño de papel y encabezados/pies, no solo numerar capítulos. C los saltos de sección y los saltos de página son distintos: un salto de página solo fuerza el inicio de nueva página; un salto de sección cambia además la configuración de página. D mezclando secciones con diferente orientación es perfectamente posible combinar páginas verticales y horizontales en el mismo documento Word.",
+    "norma": "Microsoft Word 365/2021 — Disposición > Saltos > Saltos de sección",
+    "articulo": "Secciones y saltos de sección en Word"
+  },
+  {
+    "id": "B5T45-013",
+    "bloque": 5,
+    "tema": 45,
+    "test": 45,
+    "dificultad": "media",
+    "pregunta": "¿Cómo funciona la revisión ortográfica y gramatical en Word y qué opciones de autocorrección ofrece?",
+    "opciones": {
+      "A": "La revisión ortográfica de Word solo detecta errores ortográficos de palabras mal escritas; no revisa gramática, puntuación ni estilo.",
+      "B": "Para revisar la ortografía en Word hay que ir siempre a Revisar > Ortografía y gramática; no existe corrección automática mientras se escribe.",
+      "C": "Word revisa ortografía y gramática mientras se escribe: error ortográfico = subrayado rojo ondulado; error gramatical o de estilo = subrayado azul ondulado; clic derecho sobre la palabra muestra sugerencias de corrección; también se puede revisar todo el documento con F7; la Autocorrección (Archivo > Opciones > Revisión > Opciones de Autocorrección) sustituye errores tipográficos frecuentes mientras se escribe («qeu» → «que», mayúscula inicial tras punto, etc.); las palabras técnicas o nombres propios se agregan al diccionario personalizado con clic derecho > Agregar al diccionario.",
+      "D": "La revisión ortográfica de Word requiere conexión a Internet; sin conexión, Word no puede detectar ningún error ortográfico."
+    },
+    "correcta": "C",
+    "explicacion": "Word integra un sistema de revisión lingüística que actúa en tiempo real y bajo demanda: (1) Revisión en tiempo real: el motor analiza el texto mientras se escribe; subrayado rojo ondulado: error ortográfico (palabra no reconocida en el diccionario); subrayado azul ondulado: error gramatical, de estilo o de uso; clic derecho sobre la palabra: sugerencias de corrección, opciones para ignorar, agregar al diccionario o consultar la gramática. (2) Revisión bajo demanda: F7 o Revisar > Ortografía y gramática: panel lateral que recorre el documento señalando errores y ofreciendo sugerencias. (3) Editor (Microsoft 365): el panel de revisión en Word 365 se denomina «Editor» y añade sugerencias de estilo, claridad, concisión, formalidad y uso inclusivo. (4) Autocorrección: Archivo > Opciones > Revisión > Opciones de Autocorrección; lista de pares de sustitución automática; corrige dos mayúsculas seguidas, pone mayúscula tras punto, convierte fracciones, etc. (5) Diccionario personalizado: palabras agregadas (clic derecho > Agregar al diccionario) se guardan en un archivo .dic del usuario y no se marcan como errores. (6) Idioma: el diccionario usado depende del idioma asignado al texto (Revisar > Idioma > Establecer idioma de revisión); el diccionario principal es local y no requiere internet.",
+    "why": "A Word en Microsoft 365 revisa ortografía, gramática y también estilo, claridad y concisión a través del Editor. B además de la revisión bajo demanda (F7), existe la corrección en tiempo real con subrayados ondulados y la Autocorrección activa mientras se escribe. D el diccionario principal de Word es local; la revisión ortográfica básica no requiere conexión a internet.",
+    "norma": "Microsoft Word 365/2021 — Revisar > Ortografía y gramática",
+    "articulo": "Revisión ortográfica, gramatical y autocorrección en Word"
+  },
+  {
+    "id": "B5T45-014",
+    "bloque": 5,
+    "tema": 45,
+    "test": 45,
+    "dificultad": "media",
+    "pregunta": "¿Cómo se configura la página en Word (márgenes, tamaño, orientación y columnas)?",
+    "opciones": {
+      "A": "La configuración de página (pestaña Disposición, grupo Configurar página) permite establecer: los márgenes (Normal 2,54 cm; Estrecho 1,27 cm; Moderado; Ancho; Reflejado para encuadernación; o valores exactos en el cuadro de diálogo Configurar página), la orientación (Vertical/Horizontal), el tamaño del papel (A4 210×297 mm predeterminado en España, A5, Carta, Legal…) y el número de columnas periodísticas; desde el cuadro de diálogo se puede aplicar la configuración a «Esta sección», «De aquí en adelante» o «Todo el documento».",
+      "B": "Los márgenes en Word solo pueden modificarse con los teclados de flecha; no existen cuadros de texto para introducir medidas exactas en centímetros.",
+      "C": "El tamaño de papel predeterminado en Word para sistemas en España es Carta (Letter, 21,59×27,94 cm); para trabajar con A4 hay que descargarlo desde Microsoft.",
+      "D": "Para cambiar la orientación de página a horizontal hay que ir a Insertar > Orientación > Horizontal; la pestaña Disposición no tiene opciones de orientación."
+    },
+    "correcta": "A",
+    "explicacion": "La configuración de página controla las propiedades físicas del documento: (1) Márgenes (Disposición > Márgenes): Normal (2,54 cm en todos los lados), Estrecho (1,27 cm), Moderado (superior/inferior 2,54 cm; izquierdo/derecho 1,91 cm), Ancho (izquierdo/derecho 5,08 cm), Reflejado (márgenes interior/exterior para encuadernación bilateral). Para valores exactos: Disposición > Márgenes > Márgenes personalizados o doble clic en la regla gris > cuadro de diálogo Configurar página > pestaña Márgenes. El margen de encuadernación añade espacio al lado del lomo. (2) Orientación (Disposición > Orientación): Vertical (Portrait) y Horizontal (Landscape); para cambiar la orientación solo de algunas páginas se usan secciones. (3) Tamaño de papel (Disposición > Tamaño): A4 (210×297 mm) es el predeterminado en sistemas configurados en España; otros: A3, A5, Carta (Letter, estándar en EE. UU. y Canadá), Legal, Ejecutivo. (4) Columnas (Disposición > Columnas): Una, Dos, Tres, Izquierda, Derecha, o personalizar número y espacio entre columnas. (5) El cuadro de diálogo Configurar página permite aplicar la configuración a «Esta sección», «De aquí en adelante» o «Todo el documento».",
+    "why": "B los márgenes se pueden configurar con valores exactos en el cuadro de diálogo Configurar página, arrastrando los bordes de la regla o usando los márgenes predefinidos. C el tamaño predeterminado en sistemas configurados para España es A4 (no Carta); Carta es el estándar en EE. UU. y no requiere ninguna descarga. D la orientación se configura en Disposición > Configurar página > Orientación, no en la pestaña Insertar.",
+    "norma": "Microsoft Word 365/2021 — Disposición > Configurar página",
+    "articulo": "Configuración de página en Word: márgenes, orientación, tamaño y columnas"
+  },
+  {
+    "id": "B5T45-015",
+    "bloque": 5,
+    "tema": 45,
+    "test": 45,
+    "dificultad": "media",
+    "pregunta": "¿Cómo se protegen los documentos en Microsoft Word y qué tipos de restricciones pueden aplicarse?",
+    "opciones": {
+      "A": "La única forma de proteger un documento en Word es establecer una contraseña de apertura; no existen otras formas de restricción de edición.",
+      "B": "Word no permite proteger los documentos; cualquier usuario puede modificarlos sin restricciones independientemente de la configuración del archivo.",
+      "C": "Para cifrar un documento Word con contraseña hay que usar una herramienta externa como 7-Zip o VeraCrypt; Word no tiene ninguna función nativa de cifrado.",
+      "D": "Word ofrece varias opciones de protección desde Archivo > Información > Proteger documento: Marcar como final (aviso informativo, no impide edición), Cifrar con contraseña (cifrado AES; sin contraseña el documento no puede abrirse; si se olvida es irrecuperable), Restringir edición (Revisar > Restringir edición: solo comentarios, solo control de cambios, rellenar formularios o solo lectura; con excepciones por usuario), Restringir acceso con IRM (permisos por usuario vía Azure AD) y Agregar firma digital; la contraseña de escritura (Guardar como > Herramientas > Opciones generales) permite abrir en solo lectura sin contraseña pero la requiere para modificar."
+    },
+    "correcta": "D",
+    "explicacion": "Microsoft Word ofrece varias capas de protección para sus documentos: (1) Marcar como final (Archivo > Información > Proteger documento > Marcar como final): establece el documento como solo lectura con banner informativo; el usuario puede quitar esta marca y editar; es solo una señal de «versión definitiva», no una protección real. (2) Cifrar con contraseña (Archivo > Información > Proteger documento > Cifrar con contraseña): aplica cifrado AES al archivo; sin la contraseña correcta el documento no puede abrirse; si se olvida la contraseña, Microsoft no puede recuperar el archivo. (3) Restringir edición (Revisar > Proteger > Restringir edición): panel con tres secciones: Restricciones de formato, Restricciones de edición (Solo lectura, Comentarios, Control de cambios, Rellenar formularios), Excepciones (ciertos usuarios pueden editar partes específicas); se activa con «Sí, aplicar la protección» con contraseña opcional. (4) Restringir acceso con IRM: Archivo > Información > Proteger documento > Restringir acceso; requiere servidor Azure AD; permisos individuales por dirección de correo. (5) Firma digital: garantiza integridad; cualquier modificación invalida la firma. (6) Contraseña de escritura: Guardar como > Herramientas > Opciones generales; permite abrir en solo lectura sin contraseña, pero requiere contraseña para modificar.",
+    "why": "A además de la contraseña de apertura, Word ofrece restricciones de edición, IRM, marca como final, firma digital y contraseña de escritura. B Word tiene múltiples mecanismos de protección de documentos. C Word incluye cifrado AES nativo accesible desde Archivo > Información > Proteger documento > Cifrar con contraseña; no necesita herramientas externas.",
+    "norma": "Microsoft Word 365/2021 — Archivo > Información > Proteger documento",
+    "articulo": "Protección y cifrado de documentos en Word"
+  },
+  {
+    "id": "B5T45-016",
+    "bloque": 5,
+    "tema": 45,
+    "test": 45,
+    "dificultad": "media",
+    "pregunta": "¿Cómo se insertan notas al pie y notas al final en Word, y cuál es la diferencia entre ambas?",
+    "opciones": {
+      "A": "Las notas al pie en Word solo pueden numerarse con números arábigos (1, 2, 3…); no es posible usar numeración romana ni letras.",
+      "B": "Las notas al pie (Referencias > Insertar nota al pie) aparecen en la parte inferior de cada página donde se referencia la nota; las notas al final (Referencias > Insertar nota al final) se agrupan al final del documento o de la sección; ambas tienen un marcador de referencia en el texto (número o símbolo); la numeración es automática y se reordena si se añaden o eliminan notas; el cuadro de diálogo permite cambiar el formato del número (1, 2, 3… / i, ii, iii… / a, b, c… / símbolos) y reiniciar la numeración por página o sección.",
+      "C": "Las notas al pie y las notas al final son exactamente lo mismo en Word; no existe diferencia en su posición ni en su comportamiento.",
+      "D": "Las notas al pie en Word se colocan siempre al final del documento completo; si se quieren en la parte inferior de cada página hay que usar cuadros de texto manuales."
+    },
+    "correcta": "B",
+    "explicacion": "Las notas al pie (footnotes) y las notas al final (endnotes) son anotaciones de referencia o aclaratorias en Word: (1) Insertar nota al pie: situar el cursor donde se quiere el marcador > Referencias > grupo Notas al pie > Insertar nota al pie; el cursor salta a la parte inferior de la página actual para escribir el texto; en el cuerpo queda el marcador (número superíndice). (2) Insertar nota al final: Referencias > Insertar nota al final; el marcador queda en el texto, pero el contenido se coloca al final del documento o de la sección; ideal para bibliografías. (3) Diferencias clave: nota al pie → parte inferior de la misma página donde se referencia, separada por línea horizontal; nota al final → todas agrupadas al final del documento o sección. (4) Cuadro de diálogo Nota al pie y nota al final (iniciador del grupo): ubicación (parte inferior de la página o debajo del texto; final del documento o final de sección), formato de número (1, 2… / i, ii… / I, II… / a, b… / A, B… / símbolos), número inicial, reinicio por página o sección. (5) Navegación: Alt+Mayús+F5 para ir a la nota; Mayús+F5 para volver al texto. (6) Convertir: Referencias > Mostrar notas > Convertir: convierte notas al pie en notas al final y viceversa.",
+    "why": "A las notas al pie y al final pueden numerarse con números arábigos, romanos (i, ii, I, II), letras (a, b, A, B) o símbolos. C la diferencia es fundamental: notas al pie aparecen en la parte inferior de cada página; notas al final se agrupan al final del documento o sección. D las notas al pie se colocan automáticamente en la parte inferior de la página correspondiente; no requieren cuadros de texto manuales.",
+    "norma": "Microsoft Word 365/2021 — Referencias > Notas al pie",
+    "articulo": "Notas al pie y notas al final en Word"
+  },
+  {
+    "id": "B5T45-017",
+    "bloque": 5,
+    "tema": 45,
+    "test": 45,
+    "dificultad": "dificil",
+    "pregunta": "¿Qué es el formato .docx (Office Open XML) y en qué se diferencia técnicamente del antiguo formato .doc?",
+    "opciones": {
+      "A": "El .doc es el formato binario propietario de Word 97-2003; el .docx, introducido con Office 2007, es el estándar OOXML (ISO/IEC 29500): un archivo ZIP que contiene múltiples archivos XML (document.xml con el contenido, styles.xml con los estilos, settings.xml con la configuración, carpetas con imágenes y otros recursos); .docx ofrece menor tamaño de archivo, mejor recuperación ante corrupción, compatibilidad con otras suites ofimáticas y total transparencia al ser un estándar abierto; Word puede abrir .doc pero al guardar en ese formato puede perder características modernas no compatibles con Word 97-2003.",
+      "B": "El .docx es el formato antiguo de Word anterior a 2007; el .doc es el nuevo formato moderno introducido en Word 2016.",
+      "C": "Los archivos .docx no pueden abrirse con LibreOffice, Google Docs ni ninguna aplicación que no sea Microsoft Word.",
+      "D": "El .docx y el .doc son idénticos técnicamente; la única diferencia es la extensión del nombre, cambiada por razones de marketing en Office 2007."
+    },
+    "correcta": "A",
+    "explicacion": "El formato .docx es una evolución técnicamente significativa respecto al .doc: (1) Formato .doc (Word Binary File Format): formato binario propietario de Microsoft usado desde Word 97 hasta Word 2003; estructura interna compleja y opaca; tamaño mayor; difícil de interpretar sin las especificaciones de Microsoft; no basado en estándares abiertos. (2) Formato .docx (Office Open XML, OOXML): introducido en Office 2007; estandarizado como ECMA-376 (2006) e ISO/IEC 29500 (2008); estructura interna: el fichero .docx es un archivo ZIP que contiene: _rels/ (relaciones entre partes), word/document.xml (contenido del documento), word/styles.xml (estilos), word/settings.xml (configuración), word/theme/ (tema de color y fuentes), word/media/ (imágenes y otros recursos embebidos), [Content_Types].xml (describe las partes del paquete); se puede cambiar la extensión a .zip y abrir con cualquier descompresor para ver el XML. (3) Ventajas de .docx: menor tamaño (compresión ZIP integrada), mejor recuperación ante corrupción (componentes XML independientes), estándar abierto compatible con LibreOffice, Google Docs, Apple Pages, WPS Office, OnlyOffice, etc. (4) Modo de compatibilidad: cuando Word abre un .doc, entra en «Modo de compatibilidad» (visible en la barra de título); algunas características modernas están desactivadas; se convierte con Archivo > Información > Convertir.",
+    "why": "B .doc es el formato antiguo (Word 97-2003) y .docx el nuevo (Office 2007 en adelante); no al revés. C .docx es un estándar abierto ISO/IEC 29500 compatible con LibreOffice, Google Docs, Apple Pages, WPS Office y muchas otras aplicaciones. D .docx y .doc son formatos internamente muy diferentes: .doc es un binario propietario, .docx es un contenedor ZIP con archivos XML.",
+    "norma": "ISO/IEC 29500 — OOXML; Microsoft Word 365/2021",
+    "articulo": "Formato .docx (Office Open XML) vs .doc en Word"
+  },
+  {
+    "id": "B5T45-018",
+    "bloque": 5,
+    "tema": 45,
+    "test": 45,
+    "dificultad": "dificil",
+    "pregunta": "¿Qué son las plantillas en Word y cómo se crean y utilizan los archivos .dotx y .dotm?",
+    "opciones": {
+      "A": "Las plantillas de Word (.dotx sin macros; .dotm con macros habilitadas) son documentos modelo que contienen estilos, formatos, diseños de página, texto repetitivo y macros predefinidos; al crear un nuevo documento basado en una plantilla se genera una copia sin modificar el original; la plantilla predeterminada es Normal.dotm (define los estilos y formatos por defecto de todos los documentos nuevos); para crear una plantilla: diseñar el documento > Archivo > Guardar como > tipo «Plantilla de Word (.dotx)» o «Plantilla habilitada para macros (.dotm)»; para usar una plantilla: Archivo > Nuevo > Plantillas personales.",
+      "B": "Las plantillas .dotx de Word son de solo lectura y no pueden modificarse una vez creadas; para cambiarlas hay que crear una nueva desde cero.",
+      "C": "Los archivos .dotm no pueden contener macros; las macros solo se guardan en archivos .docm; .dotm es solo para plantillas con estilos personalizados.",
+      "D": "Normal.dotm es la base de datos de la corrección ortográfica de Word; si se elimina, Word pierde toda su capacidad de revisión ortográfica."
+    },
+    "correcta": "A",
+    "explicacion": "Las plantillas en Word son documentos modelo que almacenan configuraciones reutilizables: (1) Tipos de archivos de plantilla: .dotx (Word Template): plantilla sin macros; formato seguro, recomendado para plantillas de uso general. .dotm (Word Macro-Enabled Template): plantilla con macros VBA habilitadas; necesaria para formularios automatizados o flujos de trabajo que incluyan código. (2) Normal.dotm: es la plantilla global de Word; todos los documentos nuevos en blanco se basan en ella; contiene los estilos predeterminados (Normal, Título 1-9…), las macros almacenadas en el proyecto VBA global y las personalizaciones del usuario; ubicación: C:\\Users\\Nombre\\AppData\\Roaming\\Microsoft\\Templates\\Normal.dotm; si se corrompe, Word la regenera automáticamente al reiniciar (con los valores predeterminados de fábrica). (3) Crear una plantilla: diseñar el documento base (estilos, márgenes, encabezados, texto estático) > Archivo > Guardar como > elegir la carpeta de plantillas y el tipo .dotx o .dotm. (4) Usar una plantilla: Archivo > Nuevo > Plantillas personales (plantillas guardadas en la carpeta de plantillas del usuario) > doble clic para crear un documento nuevo; la plantilla original no se modifica. (5) Modificar una plantilla: abrir el archivo .dotx directamente (Archivo > Abrir), editar y guardar; los documentos existentes basados en esa plantilla no se actualizan automáticamente.",
+    "why": "B las plantillas .dotx pueden modificarse abriéndolas directamente con Archivo > Abrir y guardando los cambios; no son inmutables. C .dotm (Macro-Enabled Template) es exactamente la plantilla diseñada para contener macros VBA; .dotx no permite macros por seguridad. D Normal.dotm es la plantilla global de Word que define estilos y configuración predeterminada; los diccionarios ortográficos (.dic) son archivos independientes.",
+    "norma": "Microsoft Word 365/2021 — Archivo > Guardar como > Plantilla",
+    "articulo": "Plantillas en Word: .dotx, .dotm y Normal.dotm"
+  },
+  {
+    "id": "B5T45-019",
+    "bloque": 5,
+    "tema": 45,
+    "test": 45,
+    "dificultad": "dificil",
+    "pregunta": "¿Cómo se insertan imágenes en Word y qué tipos de ajuste de texto existen?",
+    "opciones": {
+      "A": "Las imágenes insertadas en Word siempre quedan en línea con el texto y no pueden moverse libremente por la página; para posicionarlas libremente hay que insertarlas en un cuadro de texto.",
+      "B": "En Word las imágenes solo pueden insertarse desde el portapapeles (Ctrl+V); no existe opción de insertar imágenes desde archivo, desde búsqueda en línea ni como capturas de pantalla.",
+      "C": "Las imágenes en Word solo pueden tener ajuste de texto «En línea con el texto»; los demás tipos de ajuste están disponibles solo para cuadros de texto, no para imágenes.",
+      "D": "Las imágenes se insertan desde Insertar > Imágenes (desde este dispositivo, imágenes de stock, imágenes en línea, capturas de pantalla); al insertar una imagen se activa la pestaña contextual Formato de imagen con herramientas de corrección, efectos artísticos, recorte, tamaño exacto y ajuste de texto; los tipos de ajuste determinan cómo fluye el texto: En línea con el texto (la imagen se trata como carácter), Cuadrado (texto rodea el borde del cuadro), Estrecho (texto sigue el contorno de la imagen), Transparente (entra en zonas transparentes), Arriba y abajo (texto solo arriba/abajo, no a los lados), Detrás del texto (imagen bajo el texto) y Delante del texto (imagen sobre el texto)."
+    },
+    "correcta": "D",
+    "explicacion": "La inserción y gestión de imágenes en Word: (1) Formas de insertar imágenes: Insertar > Imágenes > Este dispositivo: archivo de disco (JPEG, PNG, GIF, TIFF, BMP, SVG, etc.). Imágenes de archivo: galería de Microsoft 365. Imágenes en línea: búsqueda Bing con licencia Creative Commons. Captura de pantalla: captura de ventana abierta. También Ctrl+V desde portapapeles o arrastrar desde el Explorador. (2) Ajuste de texto (Formato de imagen > Ajustar texto): En línea con el texto: predeterminado; la imagen se comporta como carácter y se mueve con el flujo del texto; no puede reposicionarse libremente. Cuadrado: texto rodea el rectángulo de la imagen; la imagen puede moverse libremente. Estrecho: texto sigue el contorno real de la imagen. Transparente: igual que estrecho pero el texto entra en zonas transparentes. Arriba y abajo: texto no aparece a los lados, solo arriba y abajo. Detrás del texto: imagen bajo el texto sin desplazarlo; útil para marcas de agua o fondos. Delante del texto: imagen flota sobre el texto tapándolo. (3) Herramientas adicionales (pestaña Formato de imagen): Recortar (oculta partes), Estilos de imagen (marcos y efectos predefinidos), Correcciones y Color (brillo, contraste, saturación), Tamaño exacto, Alt text (texto alternativo para accesibilidad).",
+    "why": "A las imágenes con ajuste de texto distinto de «En línea» se pueden mover libremente por la página arrastrándolas. B las imágenes pueden insertarse desde archivo, portapapeles, búsqueda en línea, imágenes de stock y capturas de pantalla. C todos los tipos de ajuste de texto (Cuadrado, Estrecho, Transparente, etc.) están disponibles para imágenes, no solo para cuadros de texto.",
+    "norma": "Microsoft Word 365/2021 — Insertar > Imágenes",
+    "articulo": "Imágenes y ajuste de texto en Word"
+  },
+  {
+    "id": "B5T45-020",
+    "bloque": 5,
+    "tema": 45,
+    "test": 45,
+    "dificultad": "dificil",
+    "pregunta": "¿Cómo se graban y ejecutan macros en Word y qué consideraciones de seguridad deben tenerse en cuenta?",
+    "opciones": {
+      "A": "Las macros en Word son solo accesos directos a comandos del menú; no pueden contener código de programación ni automatizar secuencias complejas.",
+      "B": "Las macros de Word se graban desde Vista > Macros > Grabar macro (o Desarrollador > Grabar macro), asignándoles nombre, atajo de teclado o botón en la barra de acceso rápido, y una ubicación (Normal.dotm para todas las sesiones, o el documento actual); se ejecutan desde Vista > Macros > Ver macros o con el atajo asignado; el código VBA generado es editable con Alt+F11; la seguridad de macros (Archivo > Opciones > Centro de confianza > Configuración de macros) controla si se ejecutan macros de documentos externos: Deshabilitar todas sin notificación, Deshabilitar con notificación (recomendada), Deshabilitar excepto firmadas digitalmente y Habilitar todas (no recomendada); los documentos con macros deben guardarse como .docm o en plantillas .dotm.",
+      "C": "Las macros en Word se guardan siempre en el archivo .docx del documento; no existe ninguna forma de guardarlas en una plantilla global disponible para todos los documentos.",
+      "D": "Word no tiene ningún sistema de seguridad para macros; cualquier macro de cualquier documento se ejecuta automáticamente sin ninguna advertencia."
+    },
+    "correcta": "B",
+    "explicacion": "Las macros son programas VBA (Visual Basic for Applications) que automatizan tareas repetitivas en Word: (1) Grabar una macro: Vista > Macros > Grabar macro (o pestaña Desarrollador > Grabar macro si está activada); se asigna: nombre (sin espacios ni caracteres especiales), atajo de teclado (p. ej., Ctrl+Mayús+M) o botón en la QAT, ubicación (Normal.dotm: disponible en todos los documentos; documento actual: solo en ese archivo). A partir de ese momento Word registra todas las acciones hasta pulsar Detener grabación. (2) Editar en VBA: Vista > Macros > Ver macros > Modificar o Alt+F11; abre el editor de Visual Basic; permite ver y editar el código generado o escribir código más complejo. (3) Ejecutar: Vista > Macros > Ver macros > Ejecutar, o con el atajo de teclado asignado, o con el botón de la QAT. (4) Seguridad de macros (Archivo > Opciones > Centro de confianza > Configuración de macros): Deshabilitar todas sin notificación: máxima seguridad. Deshabilitar con notificación (nivel recomendado): Word avisa cuando hay macros y el usuario decide. Deshabilitar excepto las firmadas digitalmente. Habilitar todas: máximo riesgo de malware; no recomendado. (5) Formato de archivo: .docx no puede contener macros por diseño de seguridad; los documentos con macros deben guardarse como .docm (Word Macro-Enabled Document) o en plantillas .dotm.",
+    "why": "A las macros son programas completos en VBA que pueden automatizar cualquier tarea de Word, Office y el sistema operativo; no son simples atajos a comandos. C las macros pueden guardarse en Normal.dotm (disponible para todos los documentos) o en otras plantillas .dotm, además del documento actual (.docm). D Word tiene un sistema configurable de seguridad de macros en el Centro de confianza; el nivel recomendado es «Deshabilitar con notificación» para protegerse de macros maliciosas.",
+    "norma": "Microsoft Word 365/2021 — Vista > Macros; Centro de confianza > Macros",
+    "articulo": "Macros en Word: grabación, VBA y seguridad"
+  }
+]
