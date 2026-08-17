@@ -1,0 +1,382 @@
+[
+  {
+    "id": "B2T24-001",
+    "bloque": 2,
+    "tema": 24,
+    "test": 24,
+    "dificultad": "facil",
+    "pregunta": "Según el art. 14 de la Ley 39/2015, ¿qué obligación tienen las personas jurídicas respecto a la relación electrónica con la Administración?",
+    "opciones": {
+      "A": "Las personas jurídicas tienen la opción de elegir entre la vía electrónica y la presencial en cada trámite.",
+      "B": "Las personas jurídicas están obligadas a relacionarse con las Administraciones Públicas a través de medios electrónicos para la realización de cualquier trámite de un procedimiento administrativo.",
+      "C": "Las personas jurídicas solo están obligadas a usar medios electrónicos para solicitudes de subvenciones o contratos públicos.",
+      "D": "La obligación de uso de medios electrónicos se aplica únicamente a las grandes empresas con más de 50 trabajadores."
+    },
+    "correcta": "B",
+    "explicacion": "El art. 14.2 LPAC establece que, en todo caso, están obligados a relacionarse a través de medios electrónicos con las AAPP para la realización de cualquier trámite de un procedimiento administrativo: las personas jurídicas, las entidades sin personalidad jurídica, quienes ejerzan una actividad profesional que exija colegiación obligatoria, quienes representen a un interesado obligado a relacionarse electrónicamente, y los empleados de las AAPP en los trámites que realicen por razón de su condición. Las personas físicas, en cambio, tienen el DERECHO a elegir en todo momento si se comunican con la Administración por vía electrónica o presencial, salvo excepciones reglamentarias.",
+    "why": "A la opción de elegir entre vía electrónica y presencial corresponde a las personas FÍSICAS (art. 14.1 LPAC), no a las personas jurídicas. C la obligación de relacionarse electrónicamente es general para todas las personas jurídicas, sin limitarse a categorías de procedimientos. D el tamaño de la empresa no determina la obligación; el criterio es tener personalidad jurídica, no el número de trabajadores.",
+    "norma": "Ley 39/2015, del Procedimiento Administrativo Común de las Administraciones Públicas",
+    "articulo": "14"
+  },
+  {
+    "id": "B2T24-002",
+    "bloque": 2,
+    "tema": 24,
+    "test": 24,
+    "dificultad": "facil",
+    "pregunta": "¿Cuál es el horario de funcionamiento del Registro Electrónico de las Administraciones Públicas según el art. 16 de la Ley 39/2015?",
+    "opciones": {
+      "A": "De lunes a viernes de 9 a 14 horas, en los mismos horarios que las oficinas de asistencia en materia de registros.",
+      "B": "Las veinticuatro horas del día, los trescientos sesenta y cinco días del año.",
+      "C": "De lunes a viernes de 8 a 20 horas, con extensión hasta las 22 horas en víspera de plazos que vencen al día siguiente.",
+      "D": "Solo durante el horario de atención al público establecido en cada sede electrónica."
+    },
+    "correcta": "B",
+    "explicacion": "El art. 16.4 LPAC establece que los registros electrónicos de todas y cada una de las Administraciones, deberán ser plenamente interoperables, de modo que se garantice su compatibilidad informática e interconexión, y permitirán la remisión de solicitudes, escritos y comunicaciones todos los días del año durante las veinticuatro horas. Esta disponibilidad permanente es una ventaja fundamental del registro electrónico frente al registro presencial, que solo puede recibir documentos durante el horario de apertura de las oficinas. La fecha y hora oficial a efectos de cómputo es la del servidor de la Administración.",
+    "why": "A el horario de 9 a 14 horas es el de las oficinas de asistencia en materia de registros para atención presencial; el registro ELECTRÓNICO no tiene restricción horaria. C el horario extendido de 8 a 22 horas no está establecido en la LPAC para los registros electrónicos. D la disponibilidad del registro electrónico es uniforme, con independencia del horario de atención de la sede electrónica.",
+    "norma": "Ley 39/2015, del Procedimiento Administrativo Común de las Administraciones Públicas",
+    "articulo": "16.4"
+  },
+  {
+    "id": "B2T24-003",
+    "bloque": 2,
+    "tema": 24,
+    "test": 24,
+    "dificultad": "facil",
+    "pregunta": "¿A través de qué medio se practican obligatoriamente las notificaciones electrónicas a los sujetos obligados a relacionarse electrónicamente con la Administración?",
+    "opciones": {
+      "A": "Mediante correo electrónico ordinario a la dirección indicada por el interesado en la solicitud.",
+      "B": "A través de la Dirección Electrónica Habilitada única (DEHú) o sistema equivalente habilitado por la Administración.",
+      "C": "Mediante publicación en el Boletín Oficial del Estado en todos los casos.",
+      "D": "A través de SMS o mensaje de aplicación móvil, a elección del interesado."
+    },
+    "correcta": "B",
+    "explicacion": "El art. 43 LPAC establece que la práctica de las notificaciones a los sujetos obligados o que hayan elegido la vía electrónica se realizará a través de la Dirección Electrónica Habilitada única (DEHú) o mediante comparecencia en la sede electrónica de la Administración actuante o en el Punto de Acceso General electrónico. La DEHú es el sistema centralizado gestionado por la AGE que permite a ciudadanos y empresas recibir notificaciones electrónicas de todas las AAPP adheridas al sistema. El correo electrónico ordinario, por no ser un sistema seguro y verificable, no es el canal legalmente habilitado para notificaciones con plenos efectos jurídicos.",
+    "why": "A el correo electrónico ordinario no ofrece garantías de entrega, autenticidad ni fecha cierta; la LPAC exige sistemas que dejen constancia de la puesta a disposición y del acceso. C la publicación en el BOE es el medio para las notificaciones por publicación (art. 44 LPAC), que es un mecanismo subsidiario para cuando no se puede notificar por otros medios. D el SMS o la app móvil pueden usarse como avisos de que hay una notificación pendiente, pero no son el canal jurídicamente habilitado para la notificación en sí.",
+    "norma": "Ley 39/2015, del Procedimiento Administrativo Común de las Administraciones Públicas",
+    "articulo": "43"
+  },
+  {
+    "id": "B2T24-004",
+    "bloque": 2,
+    "tema": 24,
+    "test": 24,
+    "dificultad": "facil",
+    "pregunta": "Según el art. 43.2 de la Ley 39/2015, ¿cuándo se entiende rechazada una notificación electrónica puesta a disposición del interesado?",
+    "opciones": {
+      "A": "Cuando el interesado no accede a ella en el plazo de cinco días naturales desde su puesta a disposición.",
+      "B": "Cuando el interesado no accede a ella en el plazo de diez días naturales desde la fecha y hora de puesta a disposición.",
+      "C": "Cuando el interesado no accede a ella en el plazo de un mes desde la puesta a disposición.",
+      "D": "La notificación electrónica nunca puede entenderse rechazada; la Administración debe agotar otros medios antes de considerar consumada la notificación."
+    },
+    "correcta": "B",
+    "explicacion": "El art. 43.2 LPAC establece que, cuando la notificación electrónica sea obligatoria o haya sido expresamente elegida por el interesado, se entenderá rechazada cuando hayan transcurrido diez días naturales desde la fecha y hora de puesta a disposición de la notificación sin que se acceda a su contenido. En ese momento se entiende cumplida la obligación de notificación y el procedimiento continúa su curso, salvo que de oficio o a instancia del destinatario se compruebe la imposibilidad técnica o material del acceso. Este rechazo ficticio tiene efectos desde el vencimiento de esos diez días, no desde el día inicial de puesta a disposición.",
+    "why": "A el plazo de cinco días no corresponde al art. 43.2 LPAC; ese plazo existe en otras notificaciones (p. ej., las del Tablón Edictal en algunos supuestos), pero no para la notificación electrónica ordinaria. C el plazo de un mes tampoco está previsto; es demasiado amplio y comprometería la celeridad del procedimiento. D la LPAC sí prevé el rechazo tácito por transcurso del plazo como mecanismo para evitar la paralización del procedimiento por pasividad del interesado.",
+    "norma": "Ley 39/2015, del Procedimiento Administrativo Común de las Administraciones Públicas",
+    "articulo": "43.2"
+  },
+  {
+    "id": "B2T24-005",
+    "bloque": 2,
+    "tema": 24,
+    "test": 24,
+    "dificultad": "facil",
+    "pregunta": "¿Qué es la sede electrónica según el art. 38 de la Ley 40/2015?",
+    "opciones": {
+      "A": "El servidor físico donde se almacenan los expedientes electrónicos de la Administración.",
+      "B": "La dirección electrónica disponible para los ciudadanos a través de redes de telecomunicaciones cuya titularidad corresponde a una Administración Pública o entidad de Derecho público, que asume la responsabilidad de la integridad, veracidad y actualización de la información publicada.",
+      "C": "El portal de intranet de uso interno de la Administración para la gestión de sus procesos.",
+      "D": "Cualquier página web de la Administración a través de la cual se difunde información de carácter general."
+    },
+    "correcta": "B",
+    "explicacion": "El art. 38 LRJSP define la sede electrónica como la dirección electrónica disponible para los ciudadanos a través de redes de telecomunicaciones cuya titularidad, gestión y administración corresponde a una Administración Pública, organismo público o entidad de Derecho público en el ejercicio de sus competencias. La responsabilidad de la integridad, veracidad y actualización de la información y los servicios a los que pueda accederse a través de la sede recae en la entidad titular. Esta responsabilidad es lo que distingue jurídicamente la sede electrónica de un simple portal de internet de difusión.",
+    "why": "A el servidor físico es infraestructura técnica, no la sede electrónica como concepto jurídico; la sede es la dirección electrónica (URL), no el hardware que la soporta. C la intranet es una red interna de uso exclusivo de la Administración; la sede electrónica, por definición, es accesible para los ciudadanos a través de internet. D una página web de difusión general sin responsabilidad formal de la entidad es un portal de internet (art. 39 LRJSP), no una sede electrónica.",
+    "norma": "Ley 40/2015, de Régimen Jurídico del Sector Público",
+    "articulo": "38"
+  },
+  {
+    "id": "B2T24-006",
+    "bloque": 2,
+    "tema": 24,
+    "test": 24,
+    "dificultad": "facil",
+    "pregunta": "¿En qué consiste la actuación administrativa automatizada regulada en el art. 41 de la Ley 40/2015?",
+    "opciones": {
+      "A": "La tramitación íntegra de todos los procedimientos administrativos sin intervención humana en ninguna de sus fases.",
+      "B": "Todo acto o actuación realizada íntegramente a través de medios electrónicos por una Administración Pública en el marco de un procedimiento administrativo y en la que no haya intervenido de forma directa un empleado público.",
+      "C": "El uso de inteligencia artificial para dictar resoluciones vinculantes sin posibilidad de recurso.",
+      "D": "La gestión de nóminas y pagos del personal de las AAPP a través de sistemas informáticos integrados."
+    },
+    "correcta": "B",
+    "explicacion": "El art. 41 LRJSP define la actuación administrativa automatizada como todo acto o actuación realizada íntegramente a través de medios electrónicos por una Administración Pública en el marco de un procedimiento administrativo en la que no haya intervenido de forma directa un empleado público. Para que sea válida, el órgano u organismo competente debe haber determinado previamente el órgano o unidad responsable a efectos de impugnación, y la identificación de la Administración se realiza mediante sello electrónico basado en certificado reconocido, código seguro de verificación (CSV) u otros sistemas aprobados. El sistema automatizado no elimina la responsabilidad de la Administración.",
+    "why": "A la actuación automatizada puede coexistir con fases del procedimiento en las que sí interviene un empleado público; no implica que TODO el procedimiento sea automático. C la actuación automatizada es plenamente recurrible; el ciudadano conserva todos sus derechos de impugnación. D la gestión de nóminas es una aplicación informática interna, pero el art. 41 LRJSP se refiere a actos o actuaciones procedimentales con efectos jurídicos externos.",
+    "norma": "Ley 40/2015, de Régimen Jurídico del Sector Público",
+    "articulo": "41"
+  },
+  {
+    "id": "B2T24-007",
+    "bloque": 2,
+    "tema": 24,
+    "test": 24,
+    "dificultad": "media",
+    "pregunta": "¿Qué sistemas de identificación y firma pueden utilizar los ciudadanos para relacionarse electrónicamente con las Administraciones Públicas según los arts. 9 y 10 de la Ley 39/2015?",
+    "opciones": {
+      "A": "Exclusivamente el DNI electrónico; ningún otro sistema tiene validez legal.",
+      "B": "Los sistemas de firma electrónica cualificada y avanzada basados en certificados electrónicos reconocidos, los sistemas de clave concertada (Cl@ve), y otros sistemas que las AAPP consideren válidos con suficientes garantías de autenticación.",
+      "C": "Solo los sistemas de identificación mediante usuario y contraseña, sin necesidad de firma electrónica para ningún trámite.",
+      "D": "El reconocimiento facial biométrico, que es el único sistema seguro admitido por la UE."
+    },
+    "correcta": "B",
+    "explicacion": "Los arts. 9 y 10 LPAC establecen un catálogo abierto de sistemas de identificación y firma para los ciudadanos. Para la identificación: sistemas de firma electrónica cualificada o avanzada basados en certificado reconocido (incluido el DNI-e), sistemas de clave concertada (como Cl@ve PIN y Cl@ve Permanente), y cualquier otro sistema que las AAPP consideren válido en los términos y condiciones que determinen. Para la firma: se exige firma electrónica de mayor nivel (cualificada o avanzada con certificado) cuando el acto así lo requiera por su naturaleza. El DNI electrónico es uno de los sistemas posibles, pero no el único.",
+    "why": "A el DNI electrónico es un sistema válido, pero la LPAC admite otros (Cl@ve, certificados de otras entidades como FNMT, AEAT, etc.); la exclusividad del DNI-e no existe. C el usuario y contraseña puede ser suficiente para actos de trámite sencillos, pero no para todos; para actos que requieren firma se exige un sistema de mayor nivel de seguridad. D el reconocimiento facial biométrico no está regulado como sistema admitido por la LPAC; los sistemas de identificación electrónica se rigen por el Reglamento eIDAS y la normativa nacional de desarrollo.",
+    "norma": "Ley 39/2015, del Procedimiento Administrativo Común de las Administraciones Públicas",
+    "articulo": "9 y 10"
+  },
+  {
+    "id": "B2T24-008",
+    "bloque": 2,
+    "tema": 24,
+    "test": 24,
+    "dificultad": "media",
+    "pregunta": "¿Qué es el expediente electrónico y qué requisito especial establece el art. 70 de la Ley 39/2015 para garantizar su integridad?",
+    "opciones": {
+      "A": "Es una carpeta digital de libre formato; la Administración puede organizarlo como considere conveniente sin requisito especial de integridad.",
+      "B": "Es el conjunto ordenado de documentos y actuaciones en formato electrónico que sirven de antecedente y fundamento a la resolución; debe disponer de un índice electrónico firmado por la Administración que garantice su integridad y permita su recuperación.",
+      "C": "Es el equivalente electrónico del expediente en papel; solo requiere que los documentos estén escaneados en PDF y almacenados en un servidor.",
+      "D": "Es el resumen ejecutivo del procedimiento que la Administración publica en la sede electrónica al dictarse la resolución."
+    },
+    "correcta": "B",
+    "explicacion": "El art. 70 LPAC define el expediente administrativo como el conjunto ordenado de documentos y actuaciones que sirven de antecedente y fundamento a la resolución, así como las diligencias encaminadas a ejecutarla. La LPAC exige que los expedientes tengan formato electrónico. El requisito específico de integridad del art. 70.3 es el índice electrónico firmado por la Administración actuante: ese índice garantiza la integridad del expediente electrónico (cada documento queda vinculado con su huella criptográfica) y permite su recuperación íntegra en cualquier momento, siendo especialmente relevante en caso de recurso.",
+    "why": "A la libre organización sin requisitos de integridad no satisface las garantías del art. 70.3 LPAC; el índice firmado es obligatorio. C escaneados en PDF sin más no equivale a un expediente electrónico con garantías; falta el índice firmado y los metadatos que aseguren la autenticidad. D el expediente no es el resumen publicado; es el conjunto completo de actuaciones con efectos jurídicos, no un documento de divulgación.",
+    "norma": "Ley 39/2015, del Procedimiento Administrativo Común de las Administraciones Públicas",
+    "articulo": "70"
+  },
+  {
+    "id": "B2T24-009",
+    "bloque": 2,
+    "tema": 24,
+    "test": 24,
+    "dificultad": "media",
+    "pregunta": "¿Qué son las copias auténticas y quién puede expedirlas según el art. 27 de la Ley 39/2015?",
+    "opciones": {
+      "A": "Solo los notarios pueden expedir copias auténticas de documentos administrativos.",
+      "B": "Las Administraciones Públicas están obligadas a expedir copias auténticas de sus documentos públicos administrativos; también pueden expedirlas los funcionarios habilitados al efecto y los notarios. Las copias auténticas tienen la misma validez y eficacia que el documento original.",
+      "C": "Solo el órgano que dictó el acto original puede expedir copias auténticas del mismo.",
+      "D": "Las copias auténticas solo pueden expedirse de documentos en papel; los documentos electrónicos no admiten copia auténtica."
+    },
+    "correcta": "B",
+    "explicacion": "El art. 27 LPAC establece que las Administraciones Públicas están obligadas a expedir copias auténticas de cualquier documento público administrativo que obre en su poder. La copia auténtica de un documento administrativo tiene la misma validez y eficacia que el documento original. Pueden expedir copias auténticas: los órganos administrativos competentes, los funcionarios habilitados para compulsar documentos, y los notarios. El art. 27.2 LPAC prevé también las copias auténticas de documentos privados presentados a la Administración, y el 27.3 la conversión entre formatos (papel a electrónico y viceversa).",
+    "why": "A los notarios pueden expedir copias auténticas, pero no tienen el monopolio; las AAPP también están obligadas a hacerlo. C la expedición de copias auténticas no está reservada al órgano que dictó el acto; cualquier Administración que tenga el documento en su poder puede expedirla. D el art. 27 LPAC es aplicable tanto a documentos en papel como a documentos electrónicos; la conversión entre formatos (digitalización o impresión) también produce copias auténticas.",
+    "norma": "Ley 39/2015, del Procedimiento Administrativo Común de las Administraciones Públicas",
+    "articulo": "27"
+  },
+  {
+    "id": "B2T24-010",
+    "bloque": 2,
+    "tema": 24,
+    "test": 24,
+    "dificultad": "media",
+    "pregunta": "¿Qué es el Registro Electrónico de Apoderamientos (REA) previsto en el art. 6 de la Ley 39/2015?",
+    "opciones": {
+      "A": "El registro donde los funcionarios inscriben su habilitación para actuar en nombre de la Administración.",
+      "B": "El registro público donde los interesados pueden inscribir los poderes otorgados a terceros para actuar en su nombre ante las Administraciones Públicas, con plenos efectos jurídicos y sin necesidad de acreditar el poder en cada procedimiento.",
+      "C": "El registro de las entidades privadas autorizadas para actuar como representantes habituales ante la Administración.",
+      "D": "El registro notarial donde se depositan las copias de todos los poderes notariales utilizados en procedimientos administrativos."
+    },
+    "correcta": "B",
+    "explicacion": "El art. 6 LPAC prevé que cada Administración dispondrá de un registro electrónico de apoderamientos, en el que consten los poderes que cada interesado haya otorgado a un tercero para actuar en su nombre en los procedimientos administrativos. La inscripción en el REA es voluntaria pero confiere plenas garantías: el apoderado puede actuar sin necesidad de aportar el poder en cada procedimiento concreto, bastando con indicar la inscripción. El REA de la AGE es gestionado por el Ministerio de Hacienda. Para los poderes ante notario, la LPAC admite su inscripción directa en el REA por el notario.",
+    "why": "A el REA no está pensado para los funcionarios sino para los ciudadanos y sus representantes privados; la habilitación de funcionarios se gestiona por otros mecanismos. C aunque puedan inscribirse poderes a favor de gestores profesionales, el REA no es exclusivo de entidades autorizadas; cualquier persona puede ser designada apoderada. D el depósito de copias de poderes notariales es una función del Archivo de Protocolos Notariales; el REA es un registro administrativo electrónico, no notarial.",
+    "norma": "Ley 39/2015, del Procedimiento Administrativo Común de las Administraciones Públicas",
+    "articulo": "6"
+  },
+  {
+    "id": "B2T24-011",
+    "bloque": 2,
+    "tema": 24,
+    "test": 24,
+    "dificultad": "media",
+    "pregunta": "¿Qué es el Punto de Acceso General electrónico (PAGe) regulado en el art. 38.2 de la Ley 40/2015?",
+    "opciones": {
+      "A": "El servidor central donde se almacenan todos los expedientes electrónicos de la Administración General del Estado.",
+      "B": "El portal que actúa como puerta de entrada a los servicios electrónicos de la Administración General del Estado, permitiendo al ciudadano acceder a los trámites, consultar el estado de sus expedientes y recibir notificaciones.",
+      "C": "La aplicación móvil oficial de la AGE para la identificación biométrica de los ciudadanos.",
+      "D": "El sistema de acceso seguro para los funcionarios de la AGE a las bases de datos internas."
+    },
+    "correcta": "B",
+    "explicacion": "El art. 38.2 LRJSP establece la existencia de un Punto de Acceso General electrónico de la AGE que sirve como puerta de entrada para la relación electrónica de los ciudadanos con la Administración. A través del PAGe (actualmente accesible en administracion.gob.es) los ciudadanos pueden localizar cualquier trámite de la AGE, iniciar procedimientos, consultar el estado de sus expedientes, acceder a la carpeta ciudadana y recibir o gestionar notificaciones electrónicas. Su finalidad es simplificar el acceso a la multitud de servicios electrónicos de los diferentes organismos de la AGE mediante un punto unificado.",
+    "why": "A el almacenamiento de expedientes no es la función del PAGe; es el archivo electrónico único (art. 17 LPAC) el que garantiza la conservación de los documentos. C el PAGe es un portal web accesible para ciudadanos, no una aplicación de identificación biométrica. D el acceso de los funcionarios a bases de datos internas se realiza a través de redes y sistemas internos de la Administración, no a través del PAGe, que es un portal orientado al ciudadano.",
+    "norma": "Ley 40/2015, de Régimen Jurídico del Sector Público",
+    "articulo": "38.2"
+  },
+  {
+    "id": "B2T24-012",
+    "bloque": 2,
+    "tema": 24,
+    "test": 24,
+    "dificultad": "media",
+    "pregunta": "¿Qué principio de interoperabilidad impone el art. 155 de la Ley 40/2015 en relación con el intercambio de datos entre Administraciones?",
+    "opciones": {
+      "A": "Cada Administración puede conservar sus datos en sistemas incompatibles; la interoperabilidad solo es obligatoria en los intercambios con la UE.",
+      "B": "Las Administraciones Públicas se relacionarán entre sí y con sus órganos, organismos y entidades vinculadas o dependientes a través de medios electrónicos, asegurando la interoperabilidad y seguridad de los sistemas y soluciones adoptadas, así como la protección de los datos de carácter personal.",
+      "C": "La interoperabilidad permite a cualquier ciudadano acceder directamente a los sistemas de información de cualquier Administración.",
+      "D": "Los intercambios de datos entre AAPP son siempre voluntarios; ninguna Administración está obligada a compartir su información con otra."
+    },
+    "correcta": "B",
+    "explicacion": "El art. 155 LRJSP establece que las AAPP se relacionarán entre sí y con sus órganos, organismos y entidades vinculadas o dependientes electrónicamente, debiendo garantizar la interoperabilidad y la seguridad de sus sistemas. Esto permite que la Administración consulte y obtenga de otras AAPP los datos que el ciudadano ya ha aportado previamente (p. ej., certificados de empadronamiento, datos fiscales o del catastro), sin exigírselos de nuevo al interesado. La Plataforma de Intermediación (PID) del Ministerio de Hacienda es el instrumento técnico que materializa este principio, permitiendo que cualquier organismo consulte datos de otros en tiempo real.",
+    "why": "A la incompatibilidad de sistemas sería una vulneración del art. 155; la interoperabilidad es una obligación interna, no solo con la UE. C la interoperabilidad es entre AAPP para el intercambio controlado de datos; no implica que los ciudadanos puedan acceder directamente a los sistemas de información administrativos. D los intercambios de datos entre AAPP son obligatorios cuando están habilitados normativamente para evitar cargas innecesarias al ciudadano; la LPAC art. 28 reconoce el correlativo derecho del ciudadano a no aportar datos que ya obran en la Administración.",
+    "norma": "Ley 40/2015, de Régimen Jurídico del Sector Público",
+    "articulo": "155"
+  },
+  {
+    "id": "B2T24-013",
+    "bloque": 2,
+    "tema": 24,
+    "test": 24,
+    "dificultad": "media",
+    "pregunta": "¿Qué establece el art. 17 de la Ley 39/2015 sobre el archivo electrónico de documentos de las Administraciones Públicas?",
+    "opciones": {
+      "A": "Cada órgano puede conservar sus documentos en el formato y soporte que considere más conveniente, sin requisitos de uniformidad.",
+      "B": "Las Administraciones Públicas deben mantener un archivo electrónico único de los documentos electrónicos que correspondan a procedimientos finalizados, garantizando su autenticidad, integridad, confidencialidad, disponibilidad y trazabilidad.",
+      "C": "Solo deben archivarse electrónicamente los documentos de los procedimientos sancionadores; el resto puede mantenerse en papel.",
+      "D": "El archivo electrónico es gestionado exclusivamente por el Archivo General de la Administración, con sede en Alcalá de Henares."
+    },
+    "correcta": "B",
+    "explicacion": "El art. 17 LPAC establece que las AAPP deben mantener un archivo electrónico único de los documentos electrónicos que correspondan a procedimientos finalizados. Los documentos deben conservarse en un formato que permita garantizar la autenticidad, integridad y conservación del documento, así como su consulta con independencia del tiempo transcurrido desde su emisión. El art. 17.2 LPAC añade que las AAPP adoptarán las medidas organizativas y técnicas necesarias para garantizar la interoperabilidad en materia de recuperación y conservación de los documentos electrónicos a lo largo de su ciclo de vida.",
+    "why": "A la libre elección de formato sin requisitos de uniformidad es incompatible con la interoperabilidad y la conservación a largo plazo exigidas por el art. 17 LPAC. C el art. 17 no distingue entre tipos de procedimientos; el archivo electrónico único aplica a todos los documentos de todos los procedimientos finalizados. D cada Administración gestiona su propio archivo electrónico; el Archivo General de la Administración es una institución de archivo histórico administrativo, no el sistema de archivo electrónico activo regulado en el art. 17 LPAC.",
+    "norma": "Ley 39/2015, del Procedimiento Administrativo Común de las Administraciones Públicas",
+    "articulo": "17"
+  },
+  {
+    "id": "B2T24-014",
+    "bloque": 2,
+    "tema": 24,
+    "test": 24,
+    "dificultad": "media",
+    "pregunta": "¿Qué efecto produce la comparecencia espontánea del interesado o su representante en la sede de la Administración según el art. 42 de la Ley 39/2015?",
+    "opciones": {
+      "A": "Permite al interesado solicitar verbalmente que se le vuelva a notificar por correo postal en un plazo posterior.",
+      "B": "Si el interesado o su representante se persona en la sede de la Administración o consulta la sede electrónica, la notificación se practica en ese momento mediante acceso al contenido del acto; ello produce plenos efectos de notificación desde esa fecha.",
+      "C": "La comparecencia espontánea solo tiene efectos si el interesado firma un formulario específico de recepción de notificación.",
+      "D": "La comparecencia espontánea suspende el cómputo del plazo para recurrir mientras se tramita una nueva notificación formal."
+    },
+    "correcta": "B",
+    "explicacion": "El art. 42 LPAC regula la notificación por comparecencia espontánea: cuando el interesado o su representante acuda a las dependencias de la Administración o acceda electrónicamente a su sede e identifique una comunicación dirigida a él, la notificación se entenderá practicada en el momento en que se produzca la comparecencia y se le ponga de manifiesto el contenido del acto. Esta forma de notificación es independiente de si el interesado está obligado o no a relacionarse electrónicamente. El funcionario debe dejar constancia de la comparecencia y del acceso al contenido en el expediente.",
+    "why": "A no existe un derecho a pedir que se repita la notificación por correo postal si el interesado ya comparece; la comparecencia produce efectos inmediatos de notificación. C aunque deba quedar constancia documental, el requisito no es un formulario específico firmado; lo que cuenta es la comparecencia y la puesta de manifiesto del contenido del acto. D la comparecencia produce el efecto contrario: inicia el cómputo del plazo para recurrir desde ese momento, no lo suspende.",
+    "norma": "Ley 39/2015, del Procedimiento Administrativo Común de las Administraciones Públicas",
+    "articulo": "42"
+  },
+  {
+    "id": "B2T24-015",
+    "bloque": 2,
+    "tema": 24,
+    "test": 24,
+    "dificultad": "media",
+    "pregunta": "¿Qué sistemas de firma electrónica pueden usar los empleados públicos en el ejercicio de sus competencias según el art. 42 de la Ley 40/2015?",
+    "opciones": {
+      "A": "Únicamente la firma electrónica basada en el DNI electrónico; ningún otro sistema es válido.",
+      "B": "Los empleados públicos pueden usar sello electrónico de la Administración u organismo para la actuación automatizada, firma electrónica del titular del órgano para actos singulares que lo requieran, y sistemas de firma reconocida o cualificada para aquellos actos que así lo exijan.",
+      "C": "Solo el Ministro o Consejero competente tiene competencia para firmar electrónicamente los actos de la Administración.",
+      "D": "Todos los empleados públicos usan obligatoriamente el mismo certificado electrónico corporativo emitido por el Ministerio de Hacienda."
+    },
+    "correcta": "B",
+    "explicacion": "El art. 42 LRJSP establece los sistemas de firma electrónica utilizables por el personal al servicio de las AAPP para autenticar sus actuaciones: (1) sello electrónico de Administración, órgano, organismo o entidad de Derecho público, para actuaciones automatizadas (art. 41 LRJSP) o en determinados casos colectivos; (2) firma electrónica basada en certificado electrónico reconocido o cualificado, para los titulares del órgano administrativo en los actos singulares que requieren identificación personal del firmante; y (3) firma electrónica del personal al servicio de las AAPP basada en sistemas de identificación propios de cada Administración. El código seguro de verificación (CSV) vinculado a la Administración es otro mecanismo alternativo.",
+    "why": "A el DNI electrónico es uno de los sistemas posibles, pero no el único; el art. 42 LRJSP prevé múltiples sistemas, incluyendo los certificados corporativos de la FNMT o de otras Autoridades de Certificación. C la firma electrónica no es competencia exclusiva de Ministros o Consejeros; puede usarla cualquier empleado público en el ejercicio de sus competencias. D no existe un único certificado corporativo del Ministerio de Hacienda obligatorio para todos los empleados; cada Administración puede emitir los suyos o contratar con entidades de certificación.",
+    "norma": "Ley 40/2015, de Régimen Jurídico del Sector Público",
+    "articulo": "42"
+  },
+  {
+    "id": "B2T24-016",
+    "bloque": 2,
+    "tema": 24,
+    "test": 24,
+    "dificultad": "media",
+    "pregunta": "¿Qué derecho reconoce el art. 28 de la Ley 39/2015 a los interesados en relación con los documentos que obran en poder de la Administración?",
+    "opciones": {
+      "A": "Los interesados están obligados a aportar todos los documentos requeridos aunque ya los hayan presentado anteriormente.",
+      "B": "Los interesados tienen derecho a no aportar documentos que ya se encuentren en poder de la Administración actuante o hayan sido elaborados por cualquier otra Administración.",
+      "C": "El derecho a no aportar documentos solo opera si el interesado acredita que la Administración tiene acceso informático en tiempo real a esos datos.",
+      "D": "Este derecho solo se aplica a las personas jurídicas; las personas físicas deben aportar siempre la documentación requerida."
+    },
+    "correcta": "B",
+    "explicacion": "El art. 28.2 LPAC reconoce expresamente el derecho de los interesados a no aportar datos o documentos no exigidos por las normas aplicables al procedimiento en cuestión, que ya se encuentren en poder de la Administración actuante o que hayan sido elaborados por cualquier otra Administración. La Administración debe consultar o recabar esos datos y documentos a través de sus redes corporativas o plataformas de intermediación. Solo si el interesado se opone expresamente a esa consulta deberá aportarlos él mismo. Este derecho concreta el principio de interoperabilidad en beneficio del ciudadano y reduce las cargas administrativas.",
+    "why": "A la obligación de aportar documentos ya presentados es precisamente la situación que el art. 28 quiere evitar; la LPAC la elimina como regla general. C la condición de que la Administración tenga acceso informático en tiempo real no está en el art. 28 LPAC; el derecho opera cuando la Administración «tenga en su poder» el documento, independientemente de la forma en que acceda a él. D el art. 28 LPAC se aplica a cualquier interesado con independencia de si es persona física o jurídica.",
+    "norma": "Ley 39/2015, del Procedimiento Administrativo Común de las Administraciones Públicas",
+    "articulo": "28"
+  },
+  {
+    "id": "B2T24-017",
+    "bloque": 2,
+    "tema": 24,
+    "test": 24,
+    "dificultad": "dificil",
+    "pregunta": "¿Quiénes están obligados a recibir las notificaciones exclusivamente por medios electrónicos según el art. 41.1 de la Ley 39/2015?",
+    "opciones": {
+      "A": "Todos los ciudadanos que hayan solicitado una vez el alta en la Dirección Electrónica Habilitada, con independencia de su naturaleza.",
+      "B": "Las personas y entidades comprendidas en el art. 14.2 y 14.3 LPAC (personas jurídicas, entidades sin personalidad jurídica, profesionales con colegiación obligatoria, representantes de obligados y empleados públicos en sus trámites), así como quienes se hayan acogido voluntariamente a la notificación electrónica.",
+      "C": "Solo las personas jurídicas con más de 250 trabajadores y las AAPP en sus relaciones interadministrativas.",
+      "D": "Solo quienes hayan sido expresamente notificados de su obligación mediante resolución individual del Ministerio de Hacienda."
+    },
+    "correcta": "B",
+    "explicacion": "El art. 41.1 LPAC establece que las notificaciones se practicarán preferentemente por medios electrónicos, y en todo caso cuando el interesado resulte obligado a recibirlas por esta vía. Los obligados son los mismos sujetos del art. 14.2 y 14.3 LPAC: personas jurídicas, entidades sin personalidad jurídica que deban relacionarse electrónicamente, quienes ejerzan una actividad profesional con colegiación obligatoria, representantes de obligados, y empleados de las AAPP en trámites por razón de su condición. Además, cualquier persona física puede acogerse voluntariamente a la notificación electrónica (art. 41.1 in fine), en cuyo caso también estará obligada a recibirlas así.",
+    "why": "A el alta en la DEHú de una persona física la vincula voluntariamente, pero el art. 41.1 LPAC no convierte automáticamente en obligado a quien solicitó el alta en algún momento sin reiterar su elección. C el umbral de 250 trabajadores es el que existía para los planes de igualdad antes de 2019; no es el criterio del art. 41.1 LPAC para la obligación de notificación electrónica. D la obligación de notificación electrónica deriva directamente de la ley (art. 14.2 y 14.3 LPAC), sin necesidad de resolución individual del Ministerio de Hacienda.",
+    "norma": "Ley 39/2015, del Procedimiento Administrativo Común de las Administraciones Públicas",
+    "articulo": "41.1"
+  },
+  {
+    "id": "B2T24-018",
+    "bloque": 2,
+    "tema": 24,
+    "test": 24,
+    "dificultad": "dificil",
+    "pregunta": "¿Cuándo procede la notificación mediante publicación en el Tablón Edictal Único (TEU) del Boletín Oficial del Estado según el art. 44 de la Ley 39/2015?",
+    "opciones": {
+      "A": "Siempre que la Administración lo considere más económico que la notificación individual.",
+      "B": "Cuando los interesados son desconocidos, se ignora el lugar de la notificación o el medio por donde deba practicarse, o bien cuando, intentada la notificación al menos dos veces, no ha sido posible practicarla.",
+      "C": "La publicación en el TEU es el medio ordinario de notificación para todas las resoluciones sancionadoras.",
+      "D": "Solo se usa para procedimientos de expropiación forzosa y en los procesos selectivos de empleo público."
+    },
+    "correcta": "B",
+    "explicacion": "El art. 44 LPAC establece los supuestos en que la notificación se practica mediante publicación en el Tablón Edictal Único del BOE: (1) cuando los interesados en el procedimiento sean desconocidos; (2) cuando se ignore el lugar de la notificación o el medio por el que deba practicarse; o (3) cuando, intentada la notificación al menos dos veces por los medios ordinarios, no haya sido posible practicarla. La publicación en el TEU surtirá efecto como notificación a todos los efectos legales. Para las CCAA y las entidades locales, la publicación puede hacerse también en sus propios boletines oficiales.",
+    "why": "A la comodidad económica de la Administración no justifica la publicación edictal; la publicación es subsidiaria y procede solo cuando fallan o son imposibles los medios ordinarios de notificación. C la publicación edictal no es el medio ordinario para las resoluciones sancionadoras; se utilizan primero la notificación personal o electrónica, y solo si fracasan se acude al TEU. D aunque expropiaciones y procesos selectivos puedan generar publicaciones de carácter informativo, la notificación edictal del art. 44 aplica a cualquier procedimiento cuando concurren los supuestos legales.",
+    "norma": "Ley 39/2015, del Procedimiento Administrativo Común de las Administraciones Públicas",
+    "articulo": "44"
+  },
+  {
+    "id": "B2T24-019",
+    "bloque": 2,
+    "tema": 24,
+    "test": 24,
+    "dificultad": "dificil",
+    "pregunta": "¿Qué obligación impone el art. 12 de la Ley 39/2015 a las Administraciones respecto a las personas físicas que tengan dificultades para usar medios electrónicos?",
+    "opciones": {
+      "A": "Las personas con dificultades tecnológicas quedan excluidas de los procedimientos electrónicos y deben acudir siempre de forma presencial.",
+      "B": "Las Administraciones Públicas deben garantizar la asistencia en el uso de medios electrónicos a las personas físicas que lo soliciten, a través de funcionarios habilitados en las oficinas de asistencia en materia de registros, que pueden identificar y firmar electrónicamente en nombre del ciudadano con su consentimiento.",
+      "C": "La asistencia se presta únicamente por teléfono, a través del servicio de atención al ciudadano 060.",
+      "D": "La asistencia en medios electrónicos es potestativa para las AAPP y depende de los recursos disponibles en cada momento."
+    },
+    "correcta": "B",
+    "explicacion": "El art. 12 LPAC establece la obligación de las Administraciones de garantizar que los interesados puedan relacionarse con ellas a través de medios electrónicos, prestando asistencia en su uso a quienes lo requieran. Concretamente, los funcionarios habilitados en las oficinas de asistencia en materia de registros pueden, previo consentimiento expreso del interesado, identificarle electrónicamente y firmar en su nombre cuando el ciudadano no disponga de los medios tecnológicos, la capacidad o los conocimientos necesarios. Esto garantiza que nadie quede excluido de los procedimientos por razones de brecha digital, sin vulnerar el principio de voluntariedad en la elección del canal para las personas físicas.",
+    "why": "A la exclusión de los procedimientos electrónicos sería contraria al art. 12, que garantiza precisamente la asistencia para que todos puedan acceder a ellos; los procedimientos no se bifurcan en función de las capacidades del ciudadano. C la asistencia telefónica del 060 es un servicio de información, no el mecanismo de asistencia en medios electrónicos del art. 12, que requiere la identificación y firma electrónica del funcionario habilitado. D la asistencia del art. 12 es una obligación de las AAPP, no una prestación potestativa condicionada a recursos; su incumplimiento sería contrario a la ley.",
+    "norma": "Ley 39/2015, del Procedimiento Administrativo Común de las Administraciones Públicas",
+    "articulo": "12"
+  },
+  {
+    "id": "B2T24-020",
+    "bloque": 2,
+    "tema": 24,
+    "test": 24,
+    "dificultad": "dificil",
+    "pregunta": "¿Qué requisitos deben cumplir los documentos electrónicos para ser considerados válidos según el art. 26 de la Ley 39/2015?",
+    "opciones": {
+      "A": "Basta con que estén almacenados en el servidor de la Administración, sin necesidad de firma ni metadatos.",
+      "B": "Deben contener información archivada en soporte electrónico en formato identificable, disponer de datos de identificación que permitan su individualización, incorporar una referencia temporal de su emisión, incluir los metadatos mínimos exigidos e incorporar las firmas electrónicas que correspondan.",
+      "C": "Solo son válidos si han sido impresos en papel y sellados físicamente por el órgano emisor.",
+      "D": "Los documentos electrónicos no tienen valor jurídico autónomo; deben ir siempre acompañados del original en papel para ser válidos."
+    },
+    "correcta": "B",
+    "explicacion": "El art. 26.2 LPAC establece los requisitos que deben reunir los documentos electrónicos administrativos para ser considerados válidos: (a) contener información de cualquier naturaleza archivada en soporte electrónico según un formato determinado susceptible de identificación y tratamiento diferenciado; (b) disponer de los datos de identificación que permitan su individualización; (c) incorporar una referencia temporal del momento en que han sido emitidos; (d) incorporar los metadatos mínimos exigidos; y (e) incorporar las firmas electrónicas que correspondan conforme a la normativa aplicable. El cumplimiento de todos estos requisitos permite que el documento electrónico tenga la misma validez y eficacia que un documento en papel debidamente formalizado.",
+    "why": "A el mero almacenamiento en servidor sin firma ni metadatos no satisface los requisitos del art. 26.2 LPAC; la firma electrónica es indispensable para garantizar la autenticidad e integridad del documento. C la impresión en papel y el sello físico son características del documento en papel, no del documento electrónico; la LPAC concibe el documento electrónico como una categoría autónoma con sus propios requisitos. D la LPAC consagra el principio de equivalencia entre el documento electrónico y el documento en papel cuando aquel cumple los requisitos del art. 26; no es necesario el soporte papel para la validez.",
+    "norma": "Ley 39/2015, del Procedimiento Administrativo Común de las Administraciones Públicas",
+    "articulo": "26"
+  }
+]
