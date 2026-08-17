@@ -1,0 +1,382 @@
+[
+  {
+    "id": "B3T28-001",
+    "bloque": 3,
+    "tema": 28,
+    "test": 28,
+    "dificultad": "facil",
+    "pregunta": "¿Qué sistemas de selección establece el TREBEP para el acceso a la condición de funcionario de carrera?",
+    "opciones": {
+      "A": "Únicamente la oposición libre; cualquier otro sistema está prohibido para funcionarios de carrera.",
+      "B": "La oposición y el concurso-oposición como sistemas ordinarios; excepcionalmente, el concurso cuando la naturaleza de las funciones así lo aconseje y la norma de desarrollo así lo determine.",
+      "C": "El concurso de méritos como sistema ordinario y la oposición de forma excepcional.",
+      "D": "Oposición, concurso-oposición y concurso, con libre elección por parte del órgano convocante."
+    },
+    "correcta": "B",
+    "explicacion": "El art. 61.6 TREBEP establece que el sistema de selección de los funcionarios de carrera será el de oposición o el de concurso-oposición. Solo excepcionalmente, y cuando la naturaleza de las funciones lo justifique, podrá utilizarse el concurso, siempre que así lo determine la norma de desarrollo del TREBEP. La oposición es el sistema preferente porque garantiza mejor la evaluación objetiva de los méritos y la capacidad. En la oposición, los aspirantes superan una o varias pruebas que permiten acreditar sus conocimientos y aptitudes; en el concurso-oposición, se combina una fase de pruebas con otra de valoración de méritos, siendo la fase de pruebas siempre preeminente.",
+    "why": "A el concurso-oposición también está expresamente contemplado como sistema ordinario para funcionarios de carrera. C el concurso de méritos es el sistema excepcional, no el ordinario, para el acceso a la función pública de carrera. D los tres sistemas no están en pie de igualdad; el concurso puro es solo excepcional y condicionado a norma de desarrollo.",
+    "norma": "Real Decreto Legislativo 5/2015, Texto Refundido del Estatuto Básico del Empleado Público (TREBEP)",
+    "articulo": "61.6"
+  },
+  {
+    "id": "B3T28-002",
+    "bloque": 3,
+    "tema": 28,
+    "test": 28,
+    "dificultad": "facil",
+    "pregunta": "¿Qué plazo improrrogable establece el art. 70 del TREBEP para que las Administraciones Públicas convoquen los procesos selectivos comprometidos en la Oferta de Empleo Público?",
+    "opciones": {
+      "A": "Un año desde la publicación de la OEP en el boletín oficial correspondiente.",
+      "B": "Dos años desde la aprobación de la OEP por el órgano de gobierno.",
+      "C": "Tres años desde la publicación de la OEP.",
+      "D": "No hay plazo legalmente fijado; la Administración convoca cuando sus necesidades organizativas lo permiten."
+    },
+    "correcta": "C",
+    "explicacion": "El art. 70.1 TREBEP establece que las Administraciones Públicas aprobarán anualmente, a través del órgano de gobierno correspondiente, la Oferta de Empleo Público, que recogerá las necesidades de recursos humanos con asignación presupuestaria que deban proveerse mediante la incorporación de personal de nuevo ingreso. Además, el art. 70.1 in fine dispone que la ejecución de la OEP debe realizarse dentro del plazo improrrogable de tres años. Transcurrido ese plazo sin convocatoria, la oferta pierde su vigencia. Este plazo pretende evitar que las AAPP anuncien vacantes sin llegar a convocar los procesos selectivos correspondientes.",
+    "why": "A y B los plazos de uno y dos años son inferiores al que fija el TREBEP y no son correctos. D la ausencia de plazo haría ineficaz el instrumento de planificación; el art. 70 establece expresamente el plazo improrrogable de tres años para garantizar que las plazas ofertadas se provean.",
+    "norma": "Real Decreto Legislativo 5/2015, Texto Refundido del Estatuto Básico del Empleado Público (TREBEP)",
+    "articulo": "70.1"
+  },
+  {
+    "id": "B3T28-003",
+    "bloque": 3,
+    "tema": 28,
+    "test": 28,
+    "dificultad": "facil",
+    "pregunta": "¿Cuál es el sistema ordinario de provisión de puestos de trabajo para los funcionarios de carrera según el art. 78 del TREBEP?",
+    "opciones": {
+      "A": "La libre designación con convocatoria pública, que permite apreciar discrecionalmente la idoneidad del candidato.",
+      "B": "El concurso de méritos, que consiste en la comprobación y calificación objetiva de los méritos de los aspirantes.",
+      "C": "La adscripción provisional por antigüedad en el cuerpo o escala.",
+      "D": "La permuta entre funcionarios de la misma categoría, previo acuerdo entre los interesados."
+    },
+    "correcta": "B",
+    "explicacion": "El art. 78 TREBEP establece que la provisión de puestos de trabajo del personal funcionario de carrera se realizará mediante procedimientos basados en los principios de igualdad, mérito, capacidad y publicidad. Los dos sistemas previstos son el concurso y la libre designación. El concurso es el sistema ordinario: los puestos de trabajo se proveerán normalmente mediante concurso, que consiste en la comprobación y calificación objetiva de los méritos de los aspirantes y, en su caso, en pruebas de aptitud para el puesto. La libre designación es la excepción, aplicable solo a puestos de especial responsabilidad y confianza.",
+    "why": "A la libre designación es el sistema excepcional, no el ordinario; solo se aplica a determinados puestos de especial responsabilidad y confianza conforme al art. 80. C la adscripción provisional no es un sistema ordinario de provisión; es una medida temporal para situaciones específicas como el reingreso al servicio activo. D la permuta entre funcionarios no está regulada como sistema ordinario de provisión en el TREBEP.",
+    "norma": "Real Decreto Legislativo 5/2015, Texto Refundido del Estatuto Básico del Empleado Público (TREBEP)",
+    "articulo": "78 y 79"
+  },
+  {
+    "id": "B3T28-004",
+    "bloque": 3,
+    "tema": 28,
+    "test": 28,
+    "dificultad": "facil",
+    "pregunta": "¿Para qué tipo de puestos permite el art. 80 del TREBEP utilizar la libre designación como sistema de provisión?",
+    "opciones": {
+      "A": "Para todos los puestos de la Administración, con preferencia sobre el concurso cuando así lo decida el órgano competente.",
+      "B": "Solo para puestos de base, dado que su cobertura ágil es más necesaria operativamente.",
+      "C": "Para los puestos de especial responsabilidad y confianza, mediante convocatoria pública y apreciación discrecional de la idoneidad de los candidatos.",
+      "D": "Únicamente para el personal eventual; los funcionarios de carrera siempre acceden por concurso de méritos."
+    },
+    "correcta": "C",
+    "explicacion": "El art. 80 TREBEP regula la libre designación con convocatoria pública como sistema de provisión de carácter excepcional. Puede utilizarse para la cobertura de puestos de especial responsabilidad y confianza en los términos que se establezcan en las normas de desarrollo del TREBEP. El proceso consiste en que el órgano competente publica la convocatoria con los requisitos del puesto y aprecia discrecionalmente la idoneidad del candidato en relación con esos requisitos. El cese en los puestos de libre designación es también libre y discrecional, y el cesado tiene derecho a que se le asigne un puesto de trabajo conforme a su grupo y cuerpo mediante adscripción provisional.",
+    "why": "A la libre designación es la excepción; el concurso es el sistema ordinario conforme al art. 78. B los puestos de base se proveen normalmente por concurso de méritos; la libre designación se reserva para puestos directivos o de especial confianza. D la libre designación es un sistema de provisión para funcionarios, no para personal eventual; el personal eventual no se provee mediante libre designación sino que es de libre nombramiento directo sin convocatoria.",
+    "norma": "Real Decreto Legislativo 5/2015, Texto Refundido del Estatuto Básico del Empleado Público (TREBEP)",
+    "articulo": "80"
+  },
+  {
+    "id": "B3T28-005",
+    "bloque": 3,
+    "tema": 28,
+    "test": 28,
+    "dificultad": "facil",
+    "pregunta": "¿Quiénes no pueden formar parte de los órganos de selección en los procesos selectivos de acceso al empleo público según el art. 60 del TREBEP?",
+    "opciones": {
+      "A": "Los funcionarios de carrera con más de 25 años de antigüedad y los jubilados parciales.",
+      "B": "El personal de elección o de designación política, los funcionarios interinos y el personal eventual.",
+      "C": "Los empleados del mismo cuerpo o escala al que pertenecen las plazas convocadas.",
+      "D": "Los funcionarios que hayan sido sancionados disciplinariamente en los últimos cinco años."
+    },
+    "correcta": "B",
+    "explicacion": "El art. 60.2 TREBEP establece que el personal de elección o de designación política, los funcionarios interinos y el personal eventual no podrán formar parte de los órganos de selección. Esta prohibición responde a los principios de imparcialidad y profesionalidad que deben regir los procesos selectivos: el personal político podría introducir criterios de afinidad, el interino tiene un interés potencial en el resultado (podría aspirar a las plazas), y el eventual carece de estabilidad y garantías de independencia. Además, el art. 60.2 dispone que la pertenencia a los órganos de selección será siempre a título individual y no podrá ostentarse en representación o por cuenta de nadie.",
+    "why": "A la antigüedad de los funcionarios no es causa de exclusión de los órganos de selección; los jubilados pueden participar como expertos en determinados casos. C los funcionarios del mismo cuerpo o escala pueden ser miembros del tribunal, siempre que cumplan los requisitos de imparcialidad. D las sanciones disciplinarias no son causa expresa de incompatibilidad para integrar órganos de selección en el TREBEP.",
+    "norma": "Real Decreto Legislativo 5/2015, Texto Refundido del Estatuto Básico del Empleado Público (TREBEP)",
+    "articulo": "60.2"
+  },
+  {
+    "id": "B3T28-006",
+    "bloque": 3,
+    "tema": 28,
+    "test": 28,
+    "dificultad": "facil",
+    "pregunta": "¿Qué porcentaje mínimo de plazas de la Oferta de Empleo Público deben reservar las Administraciones Públicas para personas con discapacidad según el art. 59 del TREBEP?",
+    "opciones": {
+      "A": "El 3% de las plazas convocadas anualmente.",
+      "B": "El 5% de las plazas convocadas.",
+      "C": "El 7% de las plazas convocadas, de las cuales se reservará al menos un 2% para personas con discapacidad intelectual.",
+      "D": "El 10% de las plazas convocadas, sin distinción por tipo de discapacidad."
+    },
+    "correcta": "C",
+    "explicacion": "El art. 59 TREBEP (en su redacción vigente tras las sucesivas reformas) establece la obligación de reservar en la Oferta de Empleo Público un cupo no inferior al 7% de las vacantes para ser cubiertas entre personas con discapacidad, de las cuales al menos un 2% se reservará para personas con discapacidad intelectual. Esta reserva tiene carácter acumulativo: si en una convocatoria no se cubren las plazas reservadas, se pueden acumular para la convocatoria siguiente. El objetivo es fomentar la integración laboral de las personas con discapacidad en la función pública, garantizando la igualdad de oportunidades con adaptaciones en los procesos selectivos cuando sea necesario.",
+    "why": "A el 3% es insuficiente respecto al porcentaje que fija el TREBEP; la ley original del EBEP (Ley 7/2007) ya establecía una reserva del 5%, que fue elevada hasta el 7%. B el 5% fue el porcentaje original que fijó el EBEP 2007; el texto refundido vigente y sus reformas han elevado la reserva hasta el 7%. D el 10% excede lo que fija el TREBEP; además, la ley sí distingue dentro del cupo de discapacidad el subgrupo de discapacidad intelectual con reserva específica del 2%.",
+    "norma": "Real Decreto Legislativo 5/2015, Texto Refundido del Estatuto Básico del Empleado Público (TREBEP)",
+    "articulo": "59"
+  },
+  {
+    "id": "B3T28-007",
+    "bloque": 3,
+    "tema": 28,
+    "test": 28,
+    "dificultad": "media",
+    "pregunta": "¿En qué se diferencian la oposición y el concurso-oposición como sistemas de selección de personal funcionario de carrera?",
+    "opciones": {
+      "A": "En la oposición solo pueden participar funcionarios en activo; el concurso-oposición es el único sistema abierto a ciudadanos externos.",
+      "B": "La oposición consiste exclusivamente en la superación de pruebas objetivas para acreditar conocimientos y aptitudes; el concurso-oposición combina una fase de oposición (pruebas eliminatorias o no) con una fase de concurso (valoración de méritos), siendo la puntuación de las pruebas preeminente sobre la de los méritos.",
+      "C": "El concurso-oposición permite superar el proceso sin necesidad de aprobar las pruebas si se tienen suficientes méritos acumulados.",
+      "D": "No hay diferencias relevantes; ambos sistemas son equivalentes y la Administración puede elegir libremente entre ellos sin más condicionantes."
+    },
+    "correcta": "B",
+    "explicacion": "La oposición consiste en la realización de una o varias pruebas (escritas, orales, prácticas o de otra naturaleza) que permiten acreditar los conocimientos, aptitudes o habilidades necesarios para el desempeño de las funciones del cuerpo o escala. El concurso-oposición añade una fase de valoración de méritos (experiencia profesional, formación, idiomas, etc.) a la fase de pruebas. La clave es que, conforme al TREBEP, en el concurso-oposición la fase de concurso no puede ser determinante para superar el proceso selectivo: la puntuación obtenida en las pruebas tiene valor preeminente sobre la de los méritos, de modo que no es posible compensar el suspenso en las pruebas con méritos por muchos que se tengan.",
+    "why": "A tanto la oposición como el concurso-oposición son sistemas abiertos a todos los ciudadanos que reúnan los requisitos; el turno de acceso restringido o de promoción interna es una modalidad diferente. C si la fase de concurso pudiera compensar el suspenso en las pruebas, se vulneraría el principio de mérito y capacidad objetivamente valorados; el TREBEP lo prohíbe expresamente. D hay diferencias sustanciales entre ambos sistemas en la estructura del proceso y la ponderación de los distintos factores.",
+    "norma": "Real Decreto Legislativo 5/2015, Texto Refundido del Estatuto Básico del Empleado Público (TREBEP)",
+    "articulo": "61"
+  },
+  {
+    "id": "B3T28-008",
+    "bloque": 3,
+    "tema": 28,
+    "test": 28,
+    "dificultad": "media",
+    "pregunta": "¿En qué consiste el concurso de méritos como sistema de provisión de puestos de trabajo y qué exige el TREBEP sobre los criterios de valoración?",
+    "opciones": {
+      "A": "El concurso de méritos consiste en una entrevista personal con el responsable del órgano; los criterios son enteramente discrecionales.",
+      "B": "Consiste en la comprobación y calificación objetiva de los méritos de los aspirantes; los criterios deben estar predeterminados en la convocatoria, ser objetivos y respetar los principios de igualdad, mérito, capacidad y publicidad.",
+      "C": "El concurso de méritos solo puede utilizarse cuando la convocatoria supera los 50 aspirantes inscritos.",
+      "D": "En el concurso de méritos la Administración puede introducir libremente criterios subjetivos de idoneidad junto a los méritos objetivos."
+    },
+    "correcta": "B",
+    "explicacion": "El art. 79 TREBEP establece que el concurso como sistema de provisión consiste en la comprobación y calificación de los méritos de los aspirantes y, en su caso, en la realización de pruebas que permitan apreciar su adecuación al puesto de trabajo. Los méritos son los que se determinen en la convocatoria, que deben estar predeterminados antes del proceso y ajustarse a criterios objetivos. Los principios que rigen la provisión (art. 78) son igualdad, mérito, capacidad y publicidad. Los criterios de valoración más habituales incluyen la experiencia profesional en puestos similares, la formación específica, el conocimiento de idiomas y las aptitudes para el puesto. La convocatoria debe publicarse con antelación suficiente para garantizar la concurrencia.",
+    "why": "A la entrevista personal discrecional sin criterios predeterminados correspondería a la libre designación, no al concurso de méritos; la diferencia clave entre ambos sistemas es precisamente la objetividad de los criterios en el concurso. C no existe un umbral mínimo de aspirantes para aplicar el concurso de méritos. D los criterios subjetivos abiertos son propios de la libre designación; el concurso de méritos exige criterios predeterminados y objetivos.",
+    "norma": "Real Decreto Legislativo 5/2015, Texto Refundido del Estatuto Básico del Empleado Público (TREBEP)",
+    "articulo": "79"
+  },
+  {
+    "id": "B3T28-009",
+    "bloque": 3,
+    "tema": 28,
+    "test": 28,
+    "dificultad": "media",
+    "pregunta": "¿En qué consiste la comisión de servicios como mecanismo de provisión temporal de puestos de trabajo y cuál es su duración según el TREBEP?",
+    "opciones": {
+      "A": "Consiste en el traslado definitivo del funcionario a otro puesto; no tiene plazo máximo.",
+      "B": "Consiste en la prestación temporal de servicios en un puesto distinto al de destino definitivo, con reserva del puesto de origen; tiene una duración máxima de un año, prorrogable cuando se ha iniciado el proceso de provisión definitiva del puesto.",
+      "C": "Consiste en una comisión de trabajo de seis meses sin posibilidad de prórroga y sin reserva del puesto de origen.",
+      "D": "La comisión de servicios es un mecanismo exclusivo del personal laboral; los funcionarios de carrera no pueden estar en comisión de servicios."
+    },
+    "correcta": "B",
+    "explicacion": "El art. 81 TREBEP regula la comisión de servicios como mecanismo de provisión temporal para cubrir puestos en caso de urgente e inaplazable necesidad. Sus características esenciales son: (1) carácter provisional, sin alterar el destino definitivo del funcionario; (2) reserva del puesto de trabajo de origen, que queda garantizado durante toda la comisión; (3) duración máxima de un año, prorrogable si se ha iniciado o se inicia el proceso de provisión definitiva del puesto; y (4) el funcionario en comisión de servicios percibe sus retribuciones con cargo al puesto de origen. La comisión puede ser voluntaria (el funcionario la acepta) o forzosa (cuando concurren las circunstancias que la justifican).",
+    "why": "A el traslado definitivo a otro puesto es la provisión definitiva (concurso o libre designación), no la comisión de servicios; la provisionalidad y la reserva del puesto son rasgos definitorios de esta. C la duración de seis meses sin prórroga no es correcta; el TREBEP fija un año con posibilidad de prórroga. D la comisión de servicios es aplicable a los funcionarios de carrera; el personal laboral se rige por el ET y sus propias figuras de movilidad.",
+    "norma": "Real Decreto Legislativo 5/2015, Texto Refundido del Estatuto Básico del Empleado Público (TREBEP)",
+    "articulo": "81"
+  },
+  {
+    "id": "B3T28-010",
+    "bloque": 3,
+    "tema": 28,
+    "test": 28,
+    "dificultad": "media",
+    "pregunta": "¿En qué supuestos puede producirse la adscripción provisional de un funcionario a un puesto de trabajo según el art. 82 del TREBEP?",
+    "opciones": {
+      "A": "En cualquier momento, a discreción del superior jerárquico y sin necesidad de motivación.",
+      "B": "Solo cuando el funcionario haya sido sancionado con destitución del puesto.",
+      "C": "Entre otros supuestos: cuando el funcionario reingresa al servicio activo, cuando su puesto de trabajo ha sido suprimido, o como consecuencia de haber obtenido un destino provisional en un concurso sin llegar a adjudicarle destino definitivo.",
+      "D": "La adscripción provisional no existe en el TREBEP; es un mecanismo exclusivo de las normas autonómicas de función pública."
+    },
+    "correcta": "C",
+    "explicacion": "El art. 82 TREBEP regula la adscripción provisional como situación transitoria en la que un funcionario ocupa un puesto sin que este sea su destino definitivo. Los supuestos más habituales son: (1) reingreso al servicio activo desde una situación administrativa diferente (excedencia, servicios especiales, etc.) cuando no hay vacante en su puesto de origen; (2) supresión del puesto de trabajo que el funcionario ocupaba definitivamente; (3) obtención de un puesto en comisión de servicios durante la resolución de un concurso o cuando el puesto asignado en concurso queda condicionado. La adscripción provisional es siempre transitoria y el funcionario debe participar en los concursos para obtener un destino definitivo.",
+    "why": "A la adscripción provisional no es discrecional del superior jerárquico; responde a supuestos tasados vinculados a cambios en la situación del funcionario o del puesto. B la sanción disciplinaria de destitución del puesto da lugar a situaciones administrativas específicas, no necesariamente a una adscripción provisional en el sentido del art. 82. D la adscripción provisional sí está regulada expresamente en el TREBEP; es un mecanismo básico de gestión de personal a nivel estatal.",
+    "norma": "Real Decreto Legislativo 5/2015, Texto Refundido del Estatuto Básico del Empleado Público (TREBEP)",
+    "articulo": "82"
+  },
+  {
+    "id": "B3T28-011",
+    "bloque": 3,
+    "tema": 28,
+    "test": 28,
+    "dificultad": "media",
+    "pregunta": "¿Cómo regula el art. 84 del TREBEP la movilidad voluntaria de funcionarios entre distintas Administraciones Públicas?",
+    "opciones": {
+      "A": "Los funcionarios pueden trasladarse libremente entre AAPP sin necesidad de ningún acuerdo previo entre ellas.",
+      "B": "Las AAPP pueden establecer mecanismos de movilidad voluntaria mediante convenios de conferencia sectorial u otros instrumentos de colaboración; el funcionario trasladado queda en situación de servicio activo en la Administración de destino y el puesto que ocupe se provee conforme a las normas de la Administración receptora.",
+      "C": "La movilidad entre AAPP implica siempre la pérdida de la condición de funcionario en la Administración de origen y la adquisición de nueva condición en la de destino.",
+      "D": "La movilidad entre AAPP es exclusivamente forzosa; ningún funcionario puede solicitarla voluntariamente."
+    },
+    "correcta": "B",
+    "explicacion": "El art. 84 TREBEP regula la movilidad voluntaria entre Administraciones Públicas. Este mecanismo permite que los funcionarios de carrera se trasladen de su Administración de origen a otra distinta (AGE, CCAA, EELL) de forma voluntaria. Para que sea posible, las AAPP correspondientes deben haberlo previsto en convenios de conferencia sectorial u otros instrumentos de colaboración. El funcionario que se traslada queda en situación de servicio activo en la Administración de destino, que pasa a gestionar su puesto y retribuciones, mientras que la Administración de origen queda vinculada a los términos del convenio. La movilidad no implica pérdida de la condición de funcionario.",
+    "why": "A la movilidad no es libre; requiere un instrumento de colaboración entre las AAPP implicadas que la prevea y regule. C la movilidad voluntaria del art. 84 no implica pérdida de la condición de funcionario en la Administración de origen; es una situación de servicio activo en destino manteniendo el vínculo estatutario. D el art. 84 regula expresamente la movilidad voluntaria; existe además movilidad forzosa en otros supuestos (art. 83 redistribución), pero no agota la movilidad que contempla el TREBEP.",
+    "norma": "Real Decreto Legislativo 5/2015, Texto Refundido del Estatuto Básico del Empleado Público (TREBEP)",
+    "articulo": "84"
+  },
+  {
+    "id": "B3T28-012",
+    "bloque": 3,
+    "tema": 28,
+    "test": 28,
+    "dificultad": "media",
+    "pregunta": "¿Qué son los planes de empleo y para qué sirven según el art. 69 del TREBEP?",
+    "opciones": {
+      "A": "Son documentos presupuestarios que detallan exclusivamente el coste total de personal para el ejercicio fiscal siguiente.",
+      "B": "Son el instrumento principal de planificación de recursos humanos de las AAPP; pueden contener medidas de reorganización de efectivos, movilidad funcional, adaptación de plantillas, planes de formación, sistemas de evaluación y carrera, y medidas de conciliación, con la finalidad de adecuar los recursos humanos a las necesidades del servicio.",
+      "C": "Los planes de empleo son exclusivamente listas de vacantes pendientes de cobertura, sin contenido normativo propio.",
+      "D": "Solo la AGE puede elaborar planes de empleo; las CCAA y EELL no tienen esa competencia."
+    },
+    "correcta": "B",
+    "explicacion": "El art. 69 TREBEP regula la planificación de recursos humanos como un instrumento estratégico de las AAPP. Los planes de empleo son el instrumento básico de planificación y pueden incluir, entre otras medidas: análisis de puestos de trabajo, reorganización de efectivos, movilidad funcional o geográfica, planes de formación y perfeccionamiento, sistemas de carrera y promoción, medidas de conciliación de la vida laboral y familiar, y evaluación del desempeño. Su finalidad es adecuar los recursos humanos disponibles a las necesidades del servicio de forma eficiente y planificada. Las AAPP pueden aprobar planes de empleo para el conjunto de la organización o para colectivos específicos.",
+    "why": "A los planes de empleo tienen un contenido mucho más amplio que el presupuestario; son instrumentos de gestión estratégica de RRHH que van más allá del coste. C los planes de empleo tienen contenido normativo y vinculan la gestión de personal; no son simples listas de vacantes. D el art. 69 es legislación básica y se aplica a todas las AAPP; las CCAA y EELL también están habilitadas para elaborar sus propios planes de empleo.",
+    "norma": "Real Decreto Legislativo 5/2015, Texto Refundido del Estatuto Básico del Empleado Público (TREBEP)",
+    "articulo": "69"
+  },
+  {
+    "id": "B3T28-013",
+    "bloque": 3,
+    "tema": 28,
+    "test": 28,
+    "dificultad": "media",
+    "pregunta": "¿Qué consecuencia tiene para el aspirante aprobado el hecho de no superar satisfactoriamente el período de prácticas posterior al proceso selectivo?",
+    "opciones": {
+      "A": "El aspirante puede repetir el período de prácticas indefinidamente hasta que lo supere.",
+      "B": "Pierde el derecho a ser nombrado funcionario de carrera, sin que ello genere derecho a indemnización, salvo que exista normativa específica que reconozca algún derecho complementario.",
+      "C": "Se convierte automáticamente en funcionario interino hasta que pueda repetir el proceso selectivo.",
+      "D": "La Administración puede exceptuarle del período de prácticas si la nota del proceso selectivo fue suficientemente alta."
+    },
+    "correcta": "B",
+    "explicacion": "El art. 61.5 TREBEP establece que quienes superen el proceso selectivo seguirán un período de prácticas, salvo que se dispense de ello atendiendo a las características del proceso. El período de prácticas tiene carácter evaluable y su no superación implica la pérdida del derecho al nombramiento como funcionario de carrera, sin derecho a indemnización. Este período sirve para comprobar que el aspirante, además de haber demostrado conocimientos teóricos en el proceso selectivo, es capaz de aplicarlos correctamente en el desempeño real del puesto. La normativa de desarrollo puede concretar la duración, el contenido y los criterios de evaluación del período de prácticas.",
+    "why": "A la posibilidad de repetición indefinida vaciaría de contenido el período de prácticas como filtro de aptitud; la pérdida del derecho al nombramiento es la consecuencia expresamente prevista. C la conversión automática en interino no está prevista como consecuencia de no superar las prácticas; sería contraria a los principios de mérito y capacidad del acceso a la función pública. D la excepción del período de prácticas se decide en la convocatoria atendiendo a las características del proceso, no por la nota del aspirante concreto.",
+    "norma": "Real Decreto Legislativo 5/2015, Texto Refundido del Estatuto Básico del Empleado Público (TREBEP)",
+    "articulo": "61.5"
+  },
+  {
+    "id": "B3T28-014",
+    "bloque": 3,
+    "tema": 28,
+    "test": 28,
+    "dificultad": "media",
+    "pregunta": "¿Qué es la promoción interna en el empleo público y cuáles son sus rasgos esenciales según el TREBEP?",
+    "opciones": {
+      "A": "Es el acceso de ciudadanos del sector privado que llevan más de cinco años en empresas públicas.",
+      "B": "Permite a los funcionarios de carrera ascender de un grupo o subgrupo de clasificación a otro superior, o cambiar a otro cuerpo del mismo grupo, superando el correspondiente proceso selectivo, que habitualmente exige requisitos adaptados a su condición de empleados públicos con experiencia previa.",
+      "C": "La promoción interna elimina toda fase de prueba; basta acreditar el número de años de servicio mínimos para obtener la plaza automáticamente.",
+      "D": "La promoción interna solo es aplicable dentro del mismo cuerpo o escala; nunca implica cambio de grupo de clasificación."
+    },
+    "correcta": "B",
+    "explicacion": "La promoción interna en el empleo público permite a los funcionarios de carrera acceder a grupos o subgrupos de clasificación superiores (promoción interna vertical) o a cuerpos o escalas del mismo grupo con distintas funciones (promoción interna horizontal), siempre mediante la superación de los correspondientes procesos selectivos. A diferencia del turno libre, el turno de promoción interna puede contemplar requisitos adaptados (como exención de alguna materia, reducción del temario o valoración de la experiencia previa) porque los participantes ya son funcionarios con experiencia. El TREBEP (arts. 18 y 61.8) habilita a las AAPP a reservar plazas para la promoción interna dentro de las convocatorias.",
+    "why": "A la promoción interna es un mecanismo exclusivo para empleados públicos que ya están en activo; no aplica a quienes provienen del sector privado. C la promoción interna siempre requiere superar algún tipo de prueba o proceso selectivo; la mera antigüedad no puede otorgar la condición de funcionario de un grupo superior. D la promoción interna puede implicar cambio de grupo de clasificación (vertical) o de cuerpo sin cambio de grupo (horizontal); no se limita a un mismo cuerpo.",
+    "norma": "Real Decreto Legislativo 5/2015, Texto Refundido del Estatuto Básico del Empleado Público (TREBEP)",
+    "articulo": "18 y 61.8"
+  },
+  {
+    "id": "B3T28-015",
+    "bloque": 3,
+    "tema": 28,
+    "test": 28,
+    "dificultad": "media",
+    "pregunta": "¿En qué consiste la redistribución de efectivos del art. 83 del TREBEP y en qué se diferencia de la comisión de servicios?",
+    "opciones": {
+      "A": "La redistribución de efectivos y la comisión de servicios son conceptos sinónimos que el TREBEP regula de forma conjunta.",
+      "B": "La redistribución de efectivos es una medida de reorganización del personal ante alteraciones de la organización administrativa; se adopta por el órgano competente en materia de función pública para adecuar los efectivos disponibles a las necesidades del servicio, garantizando las retribuciones del afectado; se diferencia de la comisión de servicios en que responde a una reestructuración orgánica y no a una necesidad de cobertura temporal de puesto.",
+      "C": "La redistribución de efectivos solo puede afectar al personal laboral; los funcionarios de carrera tienen garantía de inamovilidad absoluta.",
+      "D": "La comisión de servicios es siempre forzosa; la redistribución de efectivos es siempre voluntaria."
+    },
+    "correcta": "B",
+    "explicacion": "El art. 83 TREBEP regula la redistribución de efectivos como medida de gestión de personal vinculada a la reorganización de la estructura administrativa. Cuando se producen alteraciones de la organización (supresión de unidades, fusiones, cambios competenciales), el órgano competente en materia de función pública puede redistribuir al personal afectado, respetando siempre sus retribuciones. Se diferencia de la comisión de servicios (art. 81) en que esta cubre necesidades provisionales de personal en un puesto concreto sin que medie reorganización estructural, mientras que la redistribución responde a cambios orgánicos de mayor alcance y puede tener efectos más permanentes sobre la organización.",
+    "why": "A aunque ambas son medidas de gestión temporal o transitoria del personal, responden a causas distintas y tienen regímenes jurídicos diferenciados. C la garantía de inamovilidad de los funcionarios de carrera no es absoluta; frente a reorganizaciones estructurales, pueden ser redistribuidos con garantía de sus retribuciones. D la comisión de servicios puede ser tanto voluntaria como forzosa; la redistribución de efectivos suele ser impuesta por la Administración ante la reorganización, pero con garantías retributivas para el afectado.",
+    "norma": "Real Decreto Legislativo 5/2015, Texto Refundido del Estatuto Básico del Empleado Público (TREBEP)",
+    "articulo": "83"
+  },
+  {
+    "id": "B3T28-016",
+    "bloque": 3,
+    "tema": 28,
+    "test": 28,
+    "dificultad": "media",
+    "pregunta": "¿Cuándo permite el TREBEP utilizar el concurso como único sistema de acceso a la condición de funcionario de carrera?",
+    "opciones": {
+      "A": "Siempre que el órgano convocante considere que los aspirantes tienen ya suficiente experiencia profesional.",
+      "B": "El concurso solo puede utilizarse de forma excepcional para el acceso a la función pública cuando la norma de desarrollo del TREBEP así lo determine expresamente, atendiendo a la especial naturaleza de las funciones del cuerpo o escala convocado.",
+      "C": "El concurso puro es el sistema habitual para los cuerpos técnicos del Subgrupo A1; la oposición solo se usa para los cuerpos auxiliares.",
+      "D": "No existe el concurso puro como sistema de acceso a la función pública; todo proceso selectivo debe incluir al menos una fase de prueba eliminatoria."
+    },
+    "correcta": "B",
+    "explicacion": "El art. 61.6 TREBEP establece que el sistema de selección para el acceso a la función pública de carrera será la oposición o el concurso-oposición. El concurso (sin fase de pruebas) solo puede utilizarse de forma excepcional, y su aplicación está condicionada a dos requisitos: (1) que la norma de desarrollo del TREBEP lo prevea expresamente para ese cuerpo o escala; y (2) que la naturaleza de las funciones lo justifique. Esta excepcionalidad responde a los principios constitucionales de mérito y capacidad (art. 103 CE), que exigen que el acceso a la función pública se base en una evaluación objetiva de los conocimientos y aptitudes del candidato.",
+    "why": "A la experiencia profesional del aspirante no es un criterio que habilite por sí solo para usar el concurso puro; es la naturaleza de las funciones del puesto y la previsión normativa lo que lo justifica. C los cuerpos técnicos superiores se seleccionan mayoritariamente por oposición o concurso-oposición; no existe una regla que reserve el concurso para ellos. D el concurso sí existe como sistema de acceso en el art. 61.6, aunque sea excepcional y condicionado.",
+    "norma": "Real Decreto Legislativo 5/2015, Texto Refundido del Estatuto Básico del Empleado Público (TREBEP)",
+    "articulo": "61.6"
+  },
+  {
+    "id": "B3T28-017",
+    "bloque": 3,
+    "tema": 28,
+    "test": 28,
+    "dificultad": "dificil",
+    "pregunta": "¿Cómo articulan el procedimiento de libre designación y el cese en dicho sistema los arts. 80 del TREBEP?",
+    "opciones": {
+      "A": "La libre designación no requiere publicidad ni convocatoria; el órgano competente nombra directamente al candidato que considere más idóneo sin formalidad alguna.",
+      "B": "La libre designación se articula mediante convocatoria pública con especificación de los requisitos del puesto; el órgano competente aprecia discrecionalmente la idoneidad de los candidatos en relación con esos requisitos; el cese en el puesto es libre y discrecional; el cesado tiene derecho a que se le confiera un puesto en adscripción provisional en la misma localidad y en un puesto de su grupo de clasificación.",
+      "C": "En la libre designación, el cese del titular solo puede producirse mediante expediente disciplinario o por resolución judicial firme.",
+      "D": "La libre designación requiere el informe previo favorable de los sindicatos más representativos y la ratificación del órgano de personal; sin esos trámites, el nombramiento es nulo."
+    },
+    "correcta": "B",
+    "explicacion": "El art. 80 TREBEP regula la libre designación con convocatoria pública con las siguientes características: (1) debe publicarse convocatoria pública con los requisitos exigidos para el desempeño del puesto; (2) pueden presentarse todos los funcionarios que reúnan esos requisitos; (3) el órgano competente aprecia discrecionalmente la idoneidad de los candidatos, pudiendo dejar desierta la convocatoria si ninguno es idóneo; (4) el cese en el puesto de libre designación es libre y discrecional, sin necesidad de motivar la decisión más allá de la pérdida de confianza; y (5) el funcionario cesado tiene derecho a que se le confiera un puesto de trabajo en adscripción provisional en la misma localidad y de su grupo de clasificación, hasta obtener un destino definitivo. Esta protección evita que el cese discrecional deje al funcionario sin puesto.",
+    "why": "A si bien la apreciación de idoneidad es discrecional, sí existe convocatoria pública con requisitos formalizados; el art. 80 lo exige expresamente para distinguir la libre designación del nombramiento directo del personal eventual. C el cese en puestos de libre designación es precisamente discrecional y no requiere expediente disciplinario; esa es su característica definitoria frente al concurso de méritos, donde el titular tiene mayor estabilidad. D no se exige informe sindical ni ratificación especial para la libre designación; el TREBEP solo exige convocatoria pública y publicación de los requisitos.",
+    "norma": "Real Decreto Legislativo 5/2015, Texto Refundido del Estatuto Básico del Empleado Público (TREBEP)",
+    "articulo": "80"
+  },
+  {
+    "id": "B3T28-018",
+    "bloque": 3,
+    "tema": 28,
+    "test": 28,
+    "dificultad": "dificil",
+    "pregunta": "¿Qué exige el art. 60 del TREBEP sobre la composición de género de los órganos de selección y cuál es la condición personal bajo la que se participa en ellos?",
+    "opciones": {
+      "A": "El TREBEP no regula la composición de género de los órganos de selección; cada Administración decide libremente.",
+      "B": "Los órganos de selección no podrán estar formados mayoritariamente por personas de un mismo sexo, salvo razones fundadas y objetivas debidamente motivadas; además, la pertenencia a estos órganos es siempre a título individual, sin poder ostentarse en representación o por cuenta de nadie.",
+      "C": "Debe haber exactamente el 50% de hombres y el 50% de mujeres en cada órgano de selección; cualquier desviación requiere autorización del Ministerio de Igualdad.",
+      "D": "La composición paritaria solo se exige en los órganos de selección del Subgrupo A1; para los demás grupos no hay obligación de paridad de género."
+    },
+    "correcta": "B",
+    "explicacion": "El art. 60 TREBEP establece dos reglas sobre los órganos de selección relevantes en este contexto: (1) paridad de género: los órganos de selección no podrán estar formados mayoritariamente por personas de un mismo sexo, lo que significa que ningún sexo puede superar el 60% de los miembros del órgano (se aplica la regla de presencia equilibrada del 40-60%); sin embargo, esto admite excepciones motivadas en razones fundadas y objetivas; y (2) condición personal de la pertenencia: la pertenencia a los órganos de selección será siempre a título individual, no pudiendo ostentarse en representación o por cuenta de nadie, lo que garantiza la independencia de cada miembro frente a cualquier presión corporativa o sindical.",
+    "why": "A el TREBEP sí regula expresamente la composición de género de los órganos de selección en el art. 60. C la paridad no exige exactamente el 50-50; el principio de presencia equilibrada entre el 40% y el 60% permite cierta flexibilidad; además, no se necesita autorización ministerial para cada caso. D la paridad de género se aplica con carácter general a todos los órganos de selección, sin distinción de grupo de clasificación.",
+    "norma": "Real Decreto Legislativo 5/2015, Texto Refundido del Estatuto Básico del Empleado Público (TREBEP)",
+    "articulo": "60"
+  },
+  {
+    "id": "B3T28-019",
+    "bloque": 3,
+    "tema": 28,
+    "test": 28,
+    "dificultad": "dificil",
+    "pregunta": "¿En qué supuestos puede producirse una comisión de servicios de carácter forzoso y qué garantías tiene el funcionario afectado?",
+    "opciones": {
+      "A": "La comisión de servicios nunca puede ser forzosa; solo cabe si el funcionario la acepta voluntariamente.",
+      "B": "La comisión de servicios forzosa puede producirse cuando exista necesidad urgente e inaplazable que no pueda cubrirse de otro modo; el funcionario afectado tiene derecho a las indemnizaciones establecidas reglamentariamente y a la reserva de su puesto de origen.",
+      "C": "La comisión de servicios forzosa se impone automáticamente a los funcionarios con menor antigüedad en el cuerpo; no genera ningún derecho a indemnización.",
+      "D": "La comisión de servicios forzosa solo es posible en situaciones de estado de alarma o emergencia nacional declarada por el Gobierno."
+    },
+    "correcta": "B",
+    "explicacion": "El art. 81 TREBEP reconoce la posibilidad de comisión de servicios de carácter forzoso, que puede imponerse al funcionario sin necesidad de su consentimiento cuando concurran razones de urgente e inaplazable necesidad que no puedan atenderse de otro modo. En tal caso, el TREBEP establece garantías para el afectado: (1) derecho a las indemnizaciones por razón del servicio que correspondan reglamentariamente (como las indemnizaciones por desplazamiento o residencia temporal fuera de la localidad de destino); (2) reserva del puesto de trabajo de origen durante la comisión; y (3) mantenimiento de sus retribuciones. La comisión forzosa es la excepción dentro de lo que ya es una figura excepcional; la voluntaria es la forma ordinaria de comisión de servicios.",
+    "why": "A el TREBEP admite expresamente la comisión forzosa en el art. 81.3; sería inviable para las AAPP cubrir urgencias inaplazables si solo pudieran actuar con el consentimiento del funcionario. C la asignación por orden de menor antigüedad no está prevista en el TREBEP como criterio para designar al funcionario en comisión forzosa; la elección debe basarse en criterios objetivos de idoneidad. D la comisión de servicios forzosa no se limita a situaciones de estado de alarma; puede producirse ante cualquier necesidad urgente e inaplazable que lo justifique.",
+    "norma": "Real Decreto Legislativo 5/2015, Texto Refundido del Estatuto Básico del Empleado Público (TREBEP)",
+    "articulo": "81"
+  },
+  {
+    "id": "B3T28-020",
+    "bloque": 3,
+    "tema": 28,
+    "test": 28,
+    "dificultad": "dificil",
+    "pregunta": "¿Qué ocurre con las plazas incluidas en la Oferta de Empleo Público si la Administración no convoca los correspondientes procesos selectivos dentro del plazo de tres años que establece el art. 70 del TREBEP?",
+    "opciones": {
+      "A": "Las plazas no convocadas en plazo pasan automáticamente a ser cubiertas por funcionarios interinos que ya estén desempeñando las funciones.",
+      "B": "Las plazas pierden su vigencia en la OEP; la Administración no puede incluir esas plazas en una OEP posterior sin justificarlo, y los funcionarios interinos que las cubran adquieren derechos consolidados en los términos previstos por la legislación antitemporalidad.",
+      "C": "La Administración puede prorrogar la OEP indefinidamente sin consecuencia alguna, ya que el plazo de tres años es orientativo y no vinculante.",
+      "D": "Las plazas no convocadas en plazo se eliminan definitivamente de la RPT y no pueden volver a ofertarse."
+    },
+    "correcta": "B",
+    "explicacion": "El art. 70.1 TREBEP establece el plazo improrrogable de tres años para ejecutar la OEP mediante los correspondientes procesos selectivos. Si la Administración no convoca en plazo, las plazas pierden su vigencia en esa OEP. Aunque el TREBEP no prevé expresamente todas las consecuencias, la jurisprudencia y la legislación de reducción de la temporalidad (Ley 20/2021) han establecido que el incumplimiento del plazo no consolida derechos de los interinos a la plaza, pero sí puede generar derechos indemnizatorios o de estabilización conforme a la normativa antitemporalidad. La Administración puede volver a incluir esas plazas en convocatorias posteriores si persisten las necesidades, pero no puede mantener indefinidamente la situación de interinidad como mecanismo ordinario de provisión.",
+    "why": "A el incumplimiento del plazo de la OEP no convierte automáticamente a los interinos en funcionarios de carrera; el acceso requiere superar el proceso selectivo. C el plazo de tres años es improrrogable según el propio art. 70 TREBEP; no es orientativo. D la eliminación definitiva de la RPT no está prevista como consecuencia automática del incumplimiento de la OEP; las necesidades del servicio pueden persistir y justificar una nueva oferta.",
+    "norma": "Real Decreto Legislativo 5/2015, Texto Refundido del Estatuto Básico del Empleado Público (TREBEP)",
+    "articulo": "70"
+  }
+]
