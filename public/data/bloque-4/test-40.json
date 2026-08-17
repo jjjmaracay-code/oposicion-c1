@@ -1,0 +1,382 @@
+[
+  {
+    "id": "B4T40-001",
+    "bloque": 4,
+    "tema": 40,
+    "test": 40,
+    "dificultad": "facil",
+    "pregunta": "¿Cuáles son las retribuciones básicas de los funcionarios de carrera según el TREBEP?",
+    "opciones": {
+      "A": "Las retribuciones básicas comprenden exclusivamente el sueldo y el complemento de destino; los trienios son retribuciones complementarias.",
+      "B": "Las retribuciones básicas incluyen el sueldo, los trienios y el complemento específico asignado al puesto de trabajo.",
+      "C": "Las retribuciones básicas de los funcionarios de carrera son tres: el sueldo (mensualidad correspondiente al grupo o subgrupo de clasificación profesional), los trienios (cantidad fija por cada tres años de servicios efectivos prestados) y las pagas extraordinarias (dos al año, de cuantía mínima equivalente a una mensualidad de retribuciones básicas —sueldo más trienios— cada una).",
+      "D": "Las únicas retribuciones básicas son las pagas extraordinarias de junio y diciembre; el sueldo y los trienios se consideran retribuciones complementarias."
+    },
+    "correcta": "C",
+    "explicacion": "El art. 22 TREBEP (RDL 5/2015) clasifica las retribuciones básicas de los funcionarios de carrera en tres conceptos: (1) Sueldo: la mensualidad correspondiente al grupo o subgrupo de clasificación profesional (A1, A2, B, C1, C2, AP); es el mismo importe para todos los funcionarios del mismo grupo con independencia del puesto que ocupen; lo fija la Ley de Presupuestos Generales del Estado. (2) Trienios: cantidad adicional por cada tres años completos de servicios efectivos; el importe varía según el grupo en que se devengó el trienio (mayor para A1 que para AP). (3) Pagas extraordinarias: dos al año (habitualmente en junio y diciembre); la cuantía mínima de cada paga equivale a una mensualidad de retribuciones básicas (sueldo + trienios); el artículo 22.2 TREBEP lo establece como mínimo, pudiendo las leyes de presupuestos fijar una cuantía mayor. Las retribuciones complementarias (complemento de destino, específico, productividad y gratificaciones) constituyen una categoría distinta.",
+    "why": "A el complemento de destino es una retribución complementaria, no básica; los trienios sí son básicos. B el complemento específico es retribución complementaria, no básica. D el sueldo y los trienios son retribuciones básicas por definición legal (art. 22 TREBEP); las pagas extraordinarias se calculan en función de ellos.",
+    "norma": "Real Decreto Legislativo 5/2015 (TREBEP)",
+    "articulo": "22 TREBEP"
+  },
+  {
+    "id": "B4T40-002",
+    "bloque": 4,
+    "tema": 40,
+    "test": 40,
+    "dificultad": "facil",
+    "pregunta": "¿Cómo se determina el sueldo de los funcionarios de carrera y quién fija su importe?",
+    "opciones": {
+      "A": "El sueldo de los funcionarios es la retribución básica mensual fijada en función del grupo o subgrupo de clasificación profesional (A1, A2, B, C1, C2 y AP); su importe se establece y actualiza anualmente mediante la Ley de Presupuestos Generales del Estado; todos los funcionarios del mismo grupo/subgrupo perciben el mismo sueldo con independencia del puesto que desempeñen o de la Administración a la que pertenezcan.",
+      "B": "El sueldo se fija libremente por cada Administración Pública según sus disponibilidades presupuestarias, sin ningún marco estatal común.",
+      "C": "El sueldo de los funcionarios es proporcional a su antigüedad; a mayor tiempo en la Administración, mayor sueldo base.",
+      "D": "El sueldo de los funcionarios no puede ser inferior al salario mínimo interprofesional (SMI) ni superior al triple del mismo."
+    },
+    "correcta": "A",
+    "explicacion": "El sueldo de los funcionarios de carrera tiene dos características esenciales que lo definen: (1) Depende del grupo o subgrupo: el TREBEP (art. 76) establece los grupos de clasificación (A1, A2, B, C1, C2 y AP), y el sueldo corresponde al grupo/subgrupo del cuerpo o escala a que pertenece el funcionario, no al puesto que ocupa. El sueldo es igual para todos los funcionarios del mismo grupo, independientemente del nivel o la singularidad de su puesto (esas diferencias las recogen las retribuciones complementarias). (2) Lo fija el Estado mediante ley: los importes del sueldo para cada grupo se establecen en los Presupuestos Generales del Estado (PGE) y se actualizan anualmente; las CCAA no pueden fijar importes distintos para los sueldos de sus funcionarios porque son retribuciones básicas sujetas a reserva de ley estatal. Esta uniformidad garantiza que la base retributiva de los funcionarios sea equiparable en todas las AAPP.",
+    "why": "B las retribuciones básicas (sueldo) se fijan en los PGE; no son de libre determinación por cada Administración. C el sueldo no es proporcional a la antigüedad; la antigüedad se retribuye mediante los trienios. D no existe una relación legal entre el sueldo de los funcionarios y el SMI; son sistemas retributivos distintos.",
+    "norma": "TREBEP art. 22; Ley de Presupuestos Generales del Estado",
+    "articulo": "22 TREBEP"
+  },
+  {
+    "id": "B4T40-003",
+    "bloque": 4,
+    "tema": 40,
+    "test": 40,
+    "dificultad": "facil",
+    "pregunta": "¿Cómo se devengan los trienios y qué ocurre cuando el funcionario cambia de grupo de clasificación?",
+    "opciones": {
+      "A": "Los trienios se devengan anualmente por cada año de servicio activo; si el funcionario cambia de grupo, pierde todos los trienios acumulados en el grupo anterior.",
+      "B": "Los trienios se devengan mensualmente; por cada doce meses de servicio el funcionario obtiene un trienio adicional.",
+      "C": "Los trienios solo se devengan durante los primeros quince años de servicio; a partir de ese momento no se acumulan nuevos trienios.",
+      "D": "Los trienios son retribuciones básicas que se devengan por cada tres años completos de servicios efectivos; el importe por trienio varía según el grupo o subgrupo en que estaba clasificado el funcionario cuando se perfeccionó cada trienio; si el funcionario cambia de grupo (por promoción interna u otro motivo), los trienios perfeccionados en el grupo anterior conservan el valor económico del grupo en que fueron devengados, sin que se recalculen con el nuevo importe superior."
+    },
+    "correcta": "D",
+    "explicacion": "Los trienios regulados en el art. 22.1 TREBEP presentan las siguientes características: (1) Periodicidad: se devengan por cada tres años completos de servicios efectivos prestados en cualquier Administración Pública (con las particularidades del cómputo de servicios previos reconocidos). (2) Importe diferenciado por grupo: el valor económico de cada trienio es mayor en los grupos superiores; un trienio del grupo A1 vale más que uno del grupo C2. (3) Conservación del valor al cambiar de grupo: si un funcionario del grupo C1 ascendió por promoción interna al grupo A2, los trienios que había acumulado en el grupo C1 mantienen el valor económico de ese grupo (C1), aunque los nuevos trienios que devengue desde ese momento tendrán el valor del grupo A2. Este sistema evita la pérdida retributiva por el cambio de grupo y reconoce el trabajo realizado en el grupo anterior. (4) Aplicación a todas las AAPP: los servicios prestados en cualquier Administración Pública cuentan para el cómputo de trienios.",
+    "why": "A los trienios perfeccionados en el grupo anterior no se pierden al cambiar de grupo; conservan su valor económico del grupo en que se devengaron. B los trienios son por cada tres años, no anuales; se devengan al cumplir cada período trienal. C los trienios no tienen límite temporal; se continúan devengando durante toda la vida activa del funcionario.",
+    "norma": "TREBEP art. 22.1",
+    "articulo": "22.1 TREBEP"
+  },
+  {
+    "id": "B4T40-004",
+    "bloque": 4,
+    "tema": 40,
+    "test": 40,
+    "dificultad": "facil",
+    "pregunta": "¿Cuántas pagas extraordinarias perciben los funcionarios al año y qué cuantía mínima tienen?",
+    "opciones": {
+      "A": "Los funcionarios perciben cuatro pagas extraordinarias al año (una por trimestre) y cada una equivale al 100% de todas las retribuciones básicas y complementarias del mes.",
+      "B": "Los funcionarios perciben dos pagas extraordinarias al año, normalmente en los meses de junio y diciembre; la cuantía mínima de cada paga extraordinaria equivale a una mensualidad de retribuciones básicas (sueldo más trienios) según el art. 22.2 TREBEP; las Leyes de Presupuestos pueden incrementar esa cuantía mínima.",
+      "C": "Los funcionarios perciben tres pagas extraordinarias al año y cada una equivale al 25% del salario bruto anual total.",
+      "D": "Las pagas extraordinarias no son retribuciones básicas; se pagan a discreción de cada Administración según sus disponibilidades presupuestarias de cada ejercicio."
+    },
+    "correcta": "B",
+    "explicacion": "Las pagas extraordinarias están reguladas en el art. 22.2 TREBEP: «Los funcionarios de carrera tendrán derecho a dos pagas extraordinarias al año, cada una por una cuantía mínima equivalente a una mensualidad de retribuciones básicas y de la totalidad de las retribuciones complementarias, salvo las que tengan carácter variable.» Características: (1) Número: dos al año; se abonan habitualmente en los meses de junio y diciembre. (2) Cuantía mínima: sueldo + trienios correspondientes al mes de abono; las leyes de presupuestos pueden fijar una cuantía superior a ese mínimo. (3) Componentes: incluyen las retribuciones básicas (sueldo + trienios) y las retribuciones complementarias de carácter fijo (complemento de destino, complemento específico fijo); no incluyen las retribuciones variables (productividad, gratificaciones por servicios extraordinarios). (4) Base legal: son una garantía básica estatal; todas las AAPP deben abonarlas a su personal funcionario.",
+    "why": "A el número correcto es dos pagas extraordinarias, no cuatro. C tres pagas extraordinarias no se ajustan al TREBEP; son dos. D las pagas extraordinarias son una garantía legal del TREBEP; no son discrecionales.",
+    "norma": "TREBEP art. 22.2",
+    "articulo": "22.2 TREBEP"
+  },
+  {
+    "id": "B4T40-005",
+    "bloque": 4,
+    "tema": 40,
+    "test": 40,
+    "dificultad": "facil",
+    "pregunta": "¿Qué son las retribuciones complementarias y qué factores las justifican según el art. 24 TREBEP?",
+    "opciones": {
+      "A": "Las retribuciones complementarias son fijadas exclusivamente por el Estado mediante ley básica y son idénticas para todos los funcionarios de la misma escala en cualquier Administración.",
+      "B": "Las retribuciones complementarias son sinónimas de los trienios y las pagas extraordinarias; no existe una categoría retributiva separada con esa denominación.",
+      "C": "Las retribuciones complementarias retribuyen factores distintos al grupo de clasificación: el art. 24 TREBEP establece que deben responder a la progresión alcanzada en la carrera profesional, a las condiciones particulares del puesto de trabajo (dificultad, responsabilidad, incompatibilidad, peligrosidad), al rendimiento y resultados obtenidos, y a los servicios extraordinarios; las leyes de cada Administración concretan los tipos y cuantías respetando ese marco básico.",
+      "D": "Las retribuciones complementarias son las mismas en toda España; ninguna Administración puede crear tipos distintos de las que el Estado ha previsto."
+    },
+    "correcta": "C",
+    "explicacion": "El art. 24 TREBEP establece el marco básico de las retribuciones complementarias, señalando que deben responder a los siguientes factores: (a) La progresión alcanzada por el funcionario dentro del sistema de carrera administrativa (ej. el complemento de carrera en la carrera horizontal o el grado personal en la carrera vertical). (b) La especial dificultad técnica, responsabilidad, dedicación, incompatibilidad exigible para el desempeño de determinados puestos (complemento específico). (c) El grado de interés, iniciativa, esfuerzo y rendimiento del funcionario y los resultados obtenidos (complemento de productividad). (d) Los servicios extraordinarios prestados fuera de la jornada normal de trabajo (gratificaciones). El TREBEP establece estos factores como bases, y las leyes de cada Administración (Estado, CCAA, entes locales) los concretan fijando los tipos específicos de complemento y sus cuantías para los puestos de trabajo de su sector público. Para la CM de Madrid, los complementos y sus importes se establecen en la RPT (Relación de Puestos de Trabajo) y en su Ley de Presupuestos.",
+    "why": "A las retribuciones complementarias no son idénticas en todas las AAPP; cada Administración las concreta para sus puestos dentro del marco básico del art. 24 TREBEP. B los trienios y las pagas extraordinarias son retribuciones básicas (art. 22), no complementarias (art. 24). D las Administraciones pueden crear tipos propios de retribuciones complementarias siempre que respondan a alguno de los factores del art. 24 TREBEP.",
+    "norma": "TREBEP art. 24",
+    "articulo": "24 TREBEP"
+  },
+  {
+    "id": "B4T40-006",
+    "bloque": 4,
+    "tema": 40,
+    "test": 40,
+    "dificultad": "facil",
+    "pregunta": "¿Qué es el complemento de destino y cómo se determina su importe?",
+    "opciones": {
+      "A": "El complemento de destino es la retribución complementaria que retribuye el nivel del puesto de trabajo desempeñado; los puestos se clasifican en niveles del 1 al 30 —siendo 30 el de mayor responsabilidad—; el nivel de cada puesto se fija en la Relación de Puestos de Trabajo (RPT); el importe económico de cada nivel se fija en la Ley de Presupuestos; todos los puestos de un mismo nivel tienen el mismo complemento de destino.",
+      "B": "El complemento de destino retribuye el número de años de servicio del funcionario; a mayor antigüedad, mayor nivel de destino.",
+      "C": "El complemento de destino es una retribución básica que perciben todos los funcionarios del mismo grupo en idéntica cuantía con independencia del puesto que ocupen.",
+      "D": "El complemento de destino solo lo perciben los funcionarios que ocupan puestos de jefatura (nivel 28, 29 o 30); el personal de niveles inferiores no tiene derecho a este complemento."
+    },
+    "correcta": "A",
+    "explicacion": "El complemento de destino está vinculado al puesto de trabajo y no a la persona del funcionario: (1) Niveles del 1 al 30: cada puesto de trabajo tiene asignado un nivel de complemento de destino, desde el 1 (el más básico) hasta el 30 (el de mayor responsabilidad: subdirectores generales, directores de área, etc.); los grupos de clasificación tienen unos rangos de niveles mínimo y máximo (p. ej., los puestos del Grupo A1 tienen niveles entre 20 y 30; los del C2, entre 9 y 18). (2) RPT: la Relación de Puestos de Trabajo (RPT) de cada Administración fija el nivel de cada puesto. (3) Importe por nivel: la Ley de Presupuestos Generales del Estado fija anualmente el importe económico de cada nivel (p. ej., el nivel 30 tiene un complemento mensual mayor que el nivel 15); las CCAA pueden añadir una cuantía autonómica adicional dentro de los límites del TREBEP. (4) Vinculación al puesto: cuando el funcionario cambia de puesto, el complemento de destino puede cambiar; el grado personal es la garantía de un mínimo de nivel.",
+    "why": "B el complemento de destino se basa en el nivel del puesto, no en la antigüedad; la antigüedad se retribuye con los trienios. C el complemento de destino es retribución complementaria (no básica) y varía según el nivel del puesto. D el complemento de destino lo perciben todos los funcionarios en activo, no solo los de nivel 28-30.",
+    "norma": "TREBEP art. 24; Ley 30/1984",
+    "articulo": "24 TREBEP"
+  },
+  {
+    "id": "B4T40-007",
+    "bloque": 4,
+    "tema": 40,
+    "test": 40,
+    "dificultad": "media",
+    "pregunta": "¿Qué es el complemento específico y cuáles son sus características esenciales?",
+    "opciones": {
+      "A": "El complemento específico lo perciben todos los funcionarios en la misma cuantía con independencia del puesto que ocupen.",
+      "B": "El complemento específico retribuye los años de experiencia en el puesto; su importe es proporcional a la antigüedad en ese destino concreto.",
+      "C": "El complemento específico puede establecerse simultáneamente con otros complementos que retribuyan las mismas circunstancias del puesto, para acumular importes en los puestos más exigentes.",
+      "D": "El complemento específico retribuye las condiciones particulares de algunos puestos de trabajo cuando concurren circunstancias de especial dificultad técnica, dedicación, responsabilidad, incompatibilidad, peligrosidad o penosidad; su característica esencial es que solo puede asignarse un complemento específico por puesto de trabajo; es un complemento de puesto (no personal), fijo en su cuantía, que se determina en la RPT para cada puesto y que percibe quien ocupe el puesto con independencia de quién sea."
+    },
+    "correcta": "D",
+    "explicacion": "El complemento específico, regulado en el art. 24.b TREBEP y desarrollado en las legislaciones de la CM, tiene las siguientes características esenciales: (1) Factores que lo justifican: concurrencia en el puesto de trabajo de circunstancias de especial dificultad técnica, dedicación, responsabilidad, incompatibilidad con otras actividades, peligrosidad o penosidad. (2) Unicidad: la norma establece que «en ningún caso podrá asignarse más de un complemento específico a cada puesto de trabajo, aunque al valorarlo puedan tomarse en consideración varias de las condiciones mencionadas»; esto evita la multiplicación artificial de complementos para eludir el límite. (3) Naturaleza de puesto: el importe es el mismo para todos los que ocupen ese puesto; no es personal sino del puesto. (4) Fijación en la RPT: su cuantía se establece en la Relación de Puestos de Trabajo, que es aprobada por el órgano competente de la CM. (5) Impacto en las pagas extraordinarias: el complemento específico de carácter fijo se incluye en el cálculo de las pagas extraordinarias.",
+    "why": "A el complemento específico varía entre puestos; puestos con mayor dificultad, responsabilidad o penosidad tienen un complemento específico mayor. B el complemento específico no retribuye la antigüedad sino las condiciones objetivas del puesto; la antigüedad se retribuye con los trienios. C la regla es la contraria: solo puede haber un complemento específico por puesto; no pueden sumarse complementos por las mismas circunstancias.",
+    "norma": "TREBEP art. 24.b",
+    "articulo": "24.b TREBEP"
+  },
+  {
+    "id": "B4T40-008",
+    "bloque": 4,
+    "tema": 40,
+    "test": 40,
+    "dificultad": "media",
+    "pregunta": "¿Qué retribuye el complemento de productividad y qué lo diferencia del complemento específico?",
+    "opciones": {
+      "A": "El complemento de productividad es de percepción obligatoria para todos los funcionarios en activo y tiene carácter fijo y periódico.",
+      "B": "El complemento de productividad retribuye el grado de interés, iniciativa, esfuerzo y rendimiento del funcionario y los resultados obtenidos en el desempeño del trabajo; a diferencia del complemento específico (que es fijo por puesto), el complemento de productividad no tiene carácter fijo ni periódico, no se consolida ni genera derechos individuales para ejercicios posteriores, y su asignación debe responder a criterios objetivos y previamente determinados; la cuantía global disponible para productividad se fija en los presupuestos de cada Administración.",
+      "C": "El complemento de productividad y el complemento específico son idénticos; son dos denominaciones alternativas del mismo tipo de retribución complementaria.",
+      "D": "El complemento de productividad se otorga exclusivamente a los funcionarios de los grupos A1 y A2 que supervisen a más de tres subordinados."
+    },
+    "correcta": "B",
+    "explicacion": "El complemento de productividad (art. 24.c TREBEP) y el complemento específico (art. 24.b TREBEP) responden a factores distintos y tienen naturaleza jurídica diferente: (1) Complemento específico: retribuye las condiciones objetivas del puesto (dificultad, responsabilidad, peligrosidad); es fijo en su cuantía y permanente para quien ocupa el puesto; no depende del rendimiento de la persona. (2) Complemento de productividad: retribuye el rendimiento personal, el esfuerzo, la iniciativa y el logro de resultados; es variable, no consolidable y no periódico; un funcionario puede recibirlo un ejercicio y no el siguiente según su desempeño. (3) Criterios objetivos: la normativa exige que las reglas de asignación del complemento de productividad sean objetivas, conocidas de antemano y transparentes; la discrecionalidad arbitraria en su asignación puede ser impugnada. (4) Límite presupuestario: la masa global de productividad para cada órgano o unidad se fija en el presupuesto anual, lo que limita su cuantía total.",
+    "why": "A el complemento de productividad no es de percepción obligatoria ni tiene carácter fijo; depende del rendimiento y del crédito presupuestario disponible. C el específico y el de productividad tienen naturaleza diferente: el primero es de puesto y fijo; el segundo es personal y variable. D el complemento de productividad puede otorgarse a cualquier funcionario de cualquier grupo, no solo a A1 y A2 con subordinados.",
+    "norma": "TREBEP art. 24.c",
+    "articulo": "24.c TREBEP"
+  },
+  {
+    "id": "B4T40-009",
+    "bloque": 4,
+    "tema": 40,
+    "test": 40,
+    "dificultad": "media",
+    "pregunta": "¿Qué son las gratificaciones por servicios extraordinarios y qué límites tienen?",
+    "opciones": {
+      "A": "Las gratificaciones son retribuciones básicas de percepción mensual automática para todos los funcionarios que desempeñen funciones de supervisión.",
+      "B": "Las gratificaciones son el equivalente funcionarial de las horas extraordinarias del personal laboral y se pagan automáticamente a todos los funcionarios que superen la jornada ordinaria.",
+      "C": "Las gratificaciones por servicios extraordinarios retribuyen los servicios prestados fuera de la jornada normal de trabajo en circunstancias excepcionales; tienen carácter no periódico y no fijo; no pueden utilizarse para retribuir una ampliación estructural de la jornada que debería cubrirse mediante la dotación de nuevas plazas; su abono requiere crédito presupuestario específico y autorización del órgano competente.",
+      "D": "Las gratificaciones son los complementos que perciben los funcionarios en prácticas durante el período de formación previo a su nombramiento definitivo como funcionarios de carrera."
+    },
+    "correcta": "C",
+    "explicacion": "Las gratificaciones por servicios extraordinarios, reguladas en el art. 24.d TREBEP, son la última categoría de retribuciones complementarias. Sus características son: (1) Hecho que las motiva: servicios prestados fuera de la jornada normal de trabajo (fuera del horario habitual), en circunstancias excepcionales que no pudieron preverse ni planificarse de antemano. (2) Carácter no periódico y no fijo: no pueden convertirse en un mecanismo permanente de retribución; si la carga de trabajo requiere jornada adicional de forma permanente, debe resolverse con más personal, no con gratificaciones. (3) No consolidación: no generan derechos individuales futuros; que se haya cobrado una gratificación en un ejercicio no da derecho a recibirla en el siguiente. (4) Control presupuestario: la partida de gratificaciones está sometida a fiscalización previa de la Intervención; su cuantía total se limita en los presupuestos. (5) Incompatibilidad estructural: la jurisprudencia y la doctrina administrativa rechazan el uso sistemático de gratificaciones para cubrir necesidades permanentes de personal.",
+    "why": "A las gratificaciones no son periódicas ni automáticas; se abonan solo cuando se prestan efectivamente servicios fuera de la jornada normal en circunstancias excepcionales. B a diferencia del personal laboral, los funcionarios no tienen «horas extraordinarias» en sentido estricto; las gratificaciones son el mecanismo equivalente pero con requisitos propios. D las retribuciones de los funcionarios en prácticas se regulan de forma específica; no son gratificaciones por servicios extraordinarios.",
+    "norma": "TREBEP art. 24.d",
+    "articulo": "24.d TREBEP"
+  },
+  {
+    "id": "B4T40-010",
+    "bloque": 4,
+    "tema": 40,
+    "test": 40,
+    "dificultad": "media",
+    "pregunta": "¿Cuáles son los grupos y subgrupos de clasificación del personal funcionario de carrera según el art. 76 TREBEP?",
+    "opciones": {
+      "A": "El art. 76 TREBEP establece los grupos: A (con subgrupos A1 y A2), B, C (con subgrupos C1 y C2) y las Agrupaciones Profesionales (AP); la pertenencia a cada grupo depende del nivel de titulación académica exigido para el acceso: título universitario superior para A1 (Grado con al menos 240 créditos), título universitario para A2 (Grado de 180 créditos), bachillerato o técnico para C1, graduado en ESO o equivalente para C2; las Agrupaciones Profesionales (AP) no exigen ninguna titulación académica.",
+      "B": "El TREBEP clasifica a los funcionarios únicamente en tres grupos: A (técnicos superiores), B (técnicos medios) y C (personal de apoyo); no existen subgrupos.",
+      "C": "Los grupos del TREBEP son A, B, C, D y E, equivalentes a las categorías laborales del convenio sectorial correspondiente.",
+      "D": "El TREBEP no establece grupos de clasificación; deja su determinación íntegramente a la potestad de cada CCAA."
+    },
+    "correcta": "A",
+    "explicacion": "El art. 76 TREBEP establece los grupos de clasificación del personal funcionario de carrera en función de la titulación académica exigida para el acceso: (1) Grupo A, Subgrupo A1: título universitario de Grado (mínimo 240 créditos ECTS) o equivalente; es el grupo superior; los cuerpos técnicos superiores de la CM pertenecen a este subgrupo. (2) Grupo A, Subgrupo A2: título universitario de Grado (mínimo 180 créditos ECTS) o equivalente; cuerpos de gestión, cuerpos técnicos medios. (3) Grupo B: título universitario de Grado en ramas técnicas específicas (180 créditos); no está desarrollado en todas las Administraciones. (4) Grupo C, Subgrupo C1: bachillerato o técnico de formación profesional; cuerpos administrativos. (5) Grupo C, Subgrupo C2: graduado en educación secundaria obligatoria (ESO) o equivalente; cuerpos auxiliares. (6) Agrupaciones Profesionales (AP): sin titulación académica requerida; antiguo Grupo E. La pertenencia al grupo determina el sueldo base, el importe del trienio y el rango de niveles del complemento de destino.",
+    "why": "B el TREBEP establece cinco agrupaciones (A1, A2, B, C1, C2 y AP), no tres grupos sin subgrupos. C los grupos D y E ya no existen en el TREBEP; el antiguo Grupo E se denomina ahora Agrupaciones Profesionales (AP). D el art. 76 TREBEP establece los grupos con carácter básico vinculante para todas las AAPP.",
+    "norma": "TREBEP art. 76",
+    "articulo": "76 TREBEP"
+  },
+  {
+    "id": "B4T40-011",
+    "bloque": 4,
+    "tema": 40,
+    "test": 40,
+    "dificultad": "media",
+    "pregunta": "¿Qué es el grado personal del funcionario y qué efectos retributivos produce?",
+    "opciones": {
+      "A": "El grado personal es equivalente al grupo de clasificación; quien pertenece al grupo A1 tiene automáticamente el grado personal máximo (nivel 30).",
+      "B": "El grado personal se pierde definitivamente cuando el funcionario solicita voluntariamente un traslado a otro cuerpo o escala de nivel inferior.",
+      "C": "El grado personal no tiene ningún efecto retributivo; es solo un elemento administrativo de carrera sin consecuencias económicas.",
+      "D": "El grado personal es el nivel de complemento de destino que el funcionario ha consolidado a lo largo de su carrera mediante el desempeño de puestos con un nivel determinado durante el tiempo exigido; constituye el nivel mínimo de complemento de destino que puede percibir: no puede ser adscrito con carácter forzoso a un puesto cuyo nivel sea inferior a su grado personal sin su consentimiento, salvo en situaciones excepcionales tasadas; si ocupa voluntariamente un puesto de nivel inferior, recibe el complemento de destino del grado personal, no el del puesto."
+    },
+    "correcta": "D",
+    "explicacion": "El grado personal es la posición alcanzada por cada funcionario dentro de la escala de niveles del complemento de destino (del 1 al 30) y tiene un doble efecto: (1) Efecto retributivo: el grado personal es el nivel mínimo de complemento de destino garantizado; si el funcionario ocupa un puesto con nivel superior a su grado, percibe el complemento del puesto; si ocupa un puesto con nivel inferior a su grado (voluntariamente), tiene derecho a percibir el complemento de destino correspondiente a su grado personal. (2) Efecto en la adscripción a puestos: la Administración no puede adscribir forzosamente a un funcionario a un puesto cuyo nivel sea inferior a su grado personal; hacerlo requeriría el consentimiento del funcionario o estar en uno de los supuestos legalmente previstos. (3) Consolidación: el grado personal se consolida por el desempeño de puestos de trabajo con el nivel correspondiente durante los plazos establecidos por la normativa autonómica o estatal (generalmente 2 años continuados o 3 discontinuos en 5 años). El grado máximo no puede superar el máximo del cuerpo/escala a que pertenece el funcionario.",
+    "why": "A el grado personal no es automático por el grupo; se consolida progresivamente mediante el desempeño de puestos durante los plazos establecidos. B el grado personal consolidado no se pierde por traslado a cuerpo distinto; es una adquisición personal que acompaña al funcionario. C el grado personal tiene efectos retributivos muy concretos: garantiza un nivel mínimo de complemento de destino.",
+    "norma": "TREBEP art. 17; Ley 30/1984 art. 21",
+    "articulo": "21 Ley 30/1984; 17 TREBEP"
+  },
+  {
+    "id": "B4T40-012",
+    "bloque": 4,
+    "tema": 40,
+    "test": 40,
+    "dificultad": "media",
+    "pregunta": "¿Qué es la masa salarial del personal público y qué límites impone el TREBEP a su incremento?",
+    "opciones": {
+      "A": "La masa salarial es el importe total que percibe cada funcionario individualmente; no tiene relación con ningún límite general fijado por los PGE.",
+      "B": "El art. 21.1 TREBEP establece que las AAPP no pueden acordar incrementos retributivos que globalmente supongan un incremento de la masa salarial superior al que se establezca en la correspondiente Ley de Presupuestos Generales del Estado; esta limitación vincula también a la Comunidad de Madrid y a todos los entes de su sector público; la Ley de Presupuestos de la CM puede fijar condiciones adicionales pero no puede superar el techo estatal.",
+      "C": "La CM de Madrid puede incrementar la masa salarial de sus funcionarios con total autonomía, sin quedar vinculada por el porcentaje fijado en los PGE.",
+      "D": "La masa salarial solo incluye el sueldo y los trienios; los complementos y las gratificaciones no se computan a efectos del límite de incremento."
+    },
+    "correcta": "B",
+    "explicacion": "La masa salarial es el importe global destinado a retribuir al conjunto del personal al servicio de una Administración en un ejercicio. Su regulación en el TREBEP tiene las siguientes implicaciones: (1) Art. 21.1 TREBEP: «Las Administraciones Públicas no podrán acordar incrementos retributivos que globalmente supongan un incremento de la masa salarial superior al que se establezca en la correspondiente Ley de Presupuestos Generales del Estado.» (2) Aplicación a todas las AAPP: esta norma tiene carácter básico y vincula al Estado, las CCAA (incluida la CM de Madrid), las Corporaciones Locales y todos los entes de sus respectivos sectores públicos; ninguna Administración puede acordar subidas salariales superiores al porcentaje fijado en los PGE. (3) Ámbito: el límite se aplica a la masa salarial global, no individualmente funcionario a funcionario; incluye retribuciones básicas y complementarias (fijas y variables). (4) Anualidad: el PGE de cada año fija el porcentaje máximo de incremento; en años de restricción fiscal, el porcentaje puede ser cero o incluso negativo (lo que ocurrió durante la crisis de 2010-2013).",
+    "why": "A la masa salarial es un concepto colectivo (el total de las retribuciones de toda la plantilla), no individual. C la CM está expresamente vinculada por el art. 21.1 TREBEP; no tiene autonomía ilimitada en materia de incremento salarial. D la masa salarial incluye todos los conceptos retributivos, no solo el sueldo y los trienios.",
+    "norma": "TREBEP art. 21.1",
+    "articulo": "21.1 TREBEP"
+  },
+  {
+    "id": "B4T40-013",
+    "bloque": 4,
+    "tema": 40,
+    "test": 40,
+    "dificultad": "media",
+    "pregunta": "¿Cómo se determinan las retribuciones del personal laboral al servicio de la Comunidad de Madrid y en qué se diferencian de las del personal funcionario?",
+    "opciones": {
+      "A": "El personal laboral tiene exactamente las mismas retribuciones que el personal funcionario, incluidas las básicas y las complementarias; no existe ninguna diferencia.",
+      "B": "Las retribuciones del personal laboral al servicio de la CM se rigen por el convenio colectivo aplicable (estatal o autonómico) y por el contrato individual, dentro del límite de incremento de la masa salarial fijado en la Ley de Presupuestos; la negociación colectiva es el instrumento central de regulación retributiva laboral, a diferencia del personal funcionario, cuyas retribuciones básicas se fijan por ley (PGE) y las complementarias mediante la RPT.",
+      "C": "Las retribuciones del personal laboral de la CM las fija exclusivamente el Estado mediante ley; los convenios colectivos no pueden modificar esa regulación.",
+      "D": "El personal laboral de la CM no tiene complemento de destino ni complemento específico; solo percibe el salario base pactado en convenio sin ningún complemento adicional."
+    },
+    "correcta": "B",
+    "explicacion": "Las diferencias en la regulación retributiva entre personal funcionario y personal laboral son significativas: (1) Personal funcionario: sus retribuciones básicas (sueldo y trienios) se fijan en los PGE —norma con rango de ley— y son iguales para todos los de su grupo en cualquier Administración; las complementarias se fijan en la RPT aprobada por el órgano competente de cada Administración; la negociación colectiva (con las organizaciones sindicales) en las Mesas de Negociación influye en las condiciones, pero la determinación final es unilateral de la Administración (tras el proceso negociador). (2) Personal laboral: sus retribuciones se determinan mediante convenio colectivo (art. 37 CE; ET); el convenio es vinculante y puede mejorar las condiciones del TREBEP; el contrato individual puede mejorar el convenio pero no empeorarlo (principio de condición más beneficiosa); el límite externo es el incremento máximo de la masa salarial fijado en los PGE (art. 21 TREBEP), que también vincula al personal laboral del sector público. Los convenios colectivos en el sector público deben respetar ese límite de la masa salarial.",
+    "why": "A existen diferencias significativas entre los regímenes retributivos del personal funcionario y el laboral, fundamentalmente en cuanto al instrumento regulador (ley para funcionarios; convenio para laborales). C las retribuciones del personal laboral se fijan en convenio colectivo, no por ley del Estado; los convenios son el instrumento central. D el personal laboral puede tener complementos similares a los del personal funcionario si así lo establece el convenio colectivo.",
+    "norma": "TREBEP arts. 21 y 27-28; ET",
+    "articulo": "21 y 27 TREBEP"
+  },
+  {
+    "id": "B4T40-014",
+    "bloque": 4,
+    "tema": 40,
+    "test": 40,
+    "dificultad": "media",
+    "pregunta": "¿Qué situaciones administrativas especiales afectan a las retribuciones de los funcionarios de la Comunidad de Madrid?",
+    "opciones": {
+      "A": "Los funcionarios en todas las situaciones administrativas perciben íntegramente todas sus retribuciones básicas y complementarias.",
+      "B": "Los funcionarios en excedencia voluntaria por interés particular perciben únicamente el sueldo base sin complementos.",
+      "C": "Los funcionarios en situación de servicios especiales perciben simultáneamente las retribuciones de su puesto de origen y las del puesto donde prestan los servicios especiales.",
+      "D": "Las retribuciones varían según la situación administrativa: en servicios especiales, el funcionario percibe las retribuciones del puesto donde presta los servicios (no las de origen), aunque los trienios siguen computándose a efectos del cuerpo de origen; en excedencia voluntaria por interés particular, no se tiene derecho a retribución alguna; en suspensión firme de funciones, se pierde el derecho a retribuciones durante el período de suspensión; en excedencia por cuidado de familiar, el tiempo es computable a efectos de trienios y carrera pero no se perciben retribuciones activas."
+    },
+    "correcta": "D",
+    "explicacion": "Las distintas situaciones administrativas tienen consecuencias retributivas específicas reguladas en el TREBEP (arts. 85-92) y en la legislación de la CM: (1) Servicios especiales (art. 87 TREBEP): el funcionario percibe las retribuciones del puesto o cargo que ocupa en la nueva Administración/organismo; a efectos del cuerpo de origen computan los trienios, pero no percibe las retribuciones de ese cuerpo (solo las del destino). (2) Excedencia voluntaria por interés particular (art. 89.2 TREBEP): no se tiene derecho a retribuciones; tampoco se computa tiempo a efectos de trienios, carrera o derechos pasivos durante la excedencia. (3) Suspensión firme de funciones (art. 90 TREBEP): se pierde el derecho a retribuciones y al ejercicio de las funciones durante el período de suspensión fijado en la resolución disciplinaria. (4) Excedencia por cuidado de familiar (art. 89.4 TREBEP): el período es computable a efectos de trienios, carrera y derechos pasivos; pero no se perciben retribuciones activas (salvo el primer período que puede tener reserva de puesto).",
+    "why": "A los derechos retributivos varían sustancialmente según la situación administrativa; no todas las situaciones dan derecho a retribuciones plenas. B en la excedencia voluntaria por interés particular no se percibe ninguna retribución, ni siquiera el sueldo base. C en servicios especiales, el funcionario solo percibe las retribuciones del destino especial, no las de origen; cobrar ambas sería una duplicidad no permitida.",
+    "norma": "TREBEP arts. 85-92",
+    "articulo": "87-90 TREBEP"
+  },
+  {
+    "id": "B4T40-015",
+    "bloque": 4,
+    "tema": 40,
+    "test": 40,
+    "dificultad": "media",
+    "pregunta": "¿Qué son las indemnizaciones por razón del servicio y en qué se diferencian de las retribuciones?",
+    "opciones": {
+      "A": "Las indemnizaciones por razón del servicio forman parte de las retribuciones básicas y se computan para el cálculo de los trienios y las pagas extraordinarias.",
+      "B": "Las indemnizaciones por razón del servicio son compensaciones económicas a las que tienen derecho los funcionarios cuando realizan actividades fuera de su residencia oficial o incurren en gastos por razón del servicio; no tienen la consideración de retribuciones: no cotizan a la Seguridad Social, no computan para trienios ni pagas extraordinarias, y están exentas de IRPF dentro de los límites reglamentarios; sus modalidades principales son las dietas (alojamiento y manutención), los gastos de locomoción y las indemnizaciones por traslado de residencia.",
+      "C": "Las indemnizaciones por razón del servicio son retribuciones complementarias que solo perciben los funcionarios con nivel de destino superior a 24.",
+      "D": "Las indemnizaciones por razón del servicio las paga directamente el Ministerio de Hacienda a todos los funcionarios públicos de España, con independencia de su Administración de adscripción."
+    },
+    "correcta": "B",
+    "explicacion": "Las indemnizaciones por razón del servicio son compensaciones económicas distintas de las retribuciones, reguladas para la AGE en el RD 462/2002 y en las normativas equivalentes de la CM. Sus características son: (1) Naturaleza compensatoria: no retribuyen el trabajo ni la antigüedad ni las condiciones del puesto; compensan gastos efectivamente realizados por el funcionario en el desempeño de sus funciones (desplazamientos, alojamiento, manutención). (2) No son retribuciones: no se incluyen en el concepto de retribuciones del TREBEP; no computan para trienios, pagas extraordinarias ni cotizaciones sociales. (3) Exención fiscal: están exentas del IRPF dentro de los límites reglamentarios (art. 9 LIRPF y RD 439/2007). (4) Modalidades: (a) Dietas: compensación por manutención y alojamiento durante desplazamientos oficiales; tienen importe máximo diario fijado reglamentariamente. (b) Gastos de locomoción: compensación por el uso de transporte o vehículo propio en desplazamientos oficiales. (c) Indemnizaciones por traslado forzoso: compensación por cambio de residencia por traslado administrativo.",
+    "why": "A las indemnizaciones por razón del servicio no forman parte de las retribuciones; no computan para trienios ni pagas extraordinarias. C no son retribuciones complementarias; son compensaciones de gastos y no dependen del nivel de destino. D las indemnizaciones por razón del servicio las abona cada Administración (la CM en el caso de sus funcionarios), no el Ministerio de Hacienda centralizado.",
+    "norma": "RD 462/2002; TREBEP; art. 9 LIRPF",
+    "articulo": "RD 462/2002; 9 LIRPF"
+  },
+  {
+    "id": "B4T40-016",
+    "bloque": 4,
+    "tema": 40,
+    "test": 40,
+    "dificultad": "media",
+    "pregunta": "¿Cómo afecta el incremento retributivo anual fijado en los Presupuestos Generales del Estado a las retribuciones del personal de la Comunidad de Madrid?",
+    "opciones": {
+      "A": "El incremento retributivo fijado en los PGE solo afecta al personal de la Administración General del Estado; la CM fija sus propios incrementos con total autonomía.",
+      "B": "El art. 21.1 TREBEP tiene carácter básico y vincula a todas las AAPP; la Ley de Presupuestos Generales del Estado fija el porcentaje máximo de incremento de la masa salarial del conjunto del sector público —incluida la CM de Madrid—; la Ley de Presupuestos de la CM debe respetar ese techo y puede establecer condiciones adicionales (distribución del incremento entre conceptos, mejoras de colectivos concretos) siempre sin superarlo; superar ese límite constituiría una infracción del TREBEP.",
+      "C": "El incremento retributivo anual lo negocia exclusivamente la CM con los sindicatos en la Mesa de Negociación autonómica; los PGE no intervienen.",
+      "D": "Los PGE solo fijan el incremento del sueldo y los trienios; los complementos autonómicos pueden incrementarse sin límite por la Ley de Presupuestos de la CM."
+    },
+    "correcta": "B",
+    "explicacion": "La limitación del art. 21.1 TREBEP opera en cascada para todo el sector público: (1) Los PGE fijan el techo: cada año, la Ley de Presupuestos Generales del Estado establece el porcentaje máximo de incremento de la masa salarial del personal al servicio de las AAPP (p. ej., «el incremento de las retribuciones del personal al servicio del sector público no podrá ser superior al X%»). Este techo aplica a todo el sector público: Estado, CCAA, entidades locales, organismos y empresas públicas. (2) La CM respeta y aplica: la Ley de Presupuestos Generales de la CM, al fijar los importes de los complementos del personal de la CM, debe asegurarse de que el incremento global de la masa salarial no supera el porcentaje estatal. (3) Negociación colectiva dentro del límite: la Mesa General de Negociación de la CM y las mesas sectoriales pueden acordar la distribución del incremento entre los distintos conceptos retributivos (mayor incremento en complemento específico, por ejemplo, y menor en productividad) pero sin superar el techo total. (4) Consecuencias del incumplimiento: los acuerdos que superen el límite son nulos de pleno derecho (art. 21.2 TREBEP).",
+    "why": "A el art. 21 TREBEP tiene carácter básico y se aplica a todas las AAPP, incluidas las CCAA. C la negociación colectiva en la CM determina la distribución del incremento, pero no puede superar el techo de los PGE. D el límite de la masa salarial aplica a la totalidad de las retribuciones, incluidos los complementos autonómicos.",
+    "norma": "TREBEP art. 21.1-21.2",
+    "articulo": "21 TREBEP"
+  },
+  {
+    "id": "B4T40-017",
+    "bloque": 4,
+    "tema": 40,
+    "test": 40,
+    "dificultad": "dificil",
+    "pregunta": "¿Qué prohíbe la Ley 53/1984 de Incompatibilidades del Personal al Servicio de las AAPP y qué efectos tiene sobre las retribuciones?",
+    "opciones": {
+      "A": "La Ley 53/1984 solo prohíbe a los funcionarios ejercer la abogacía; el resto de actividades privadas son compatibles con el desempeño de la función pública sin restricciones.",
+      "B": "El régimen de incompatibilidades no tiene ningún efecto sobre las retribuciones; solo afecta a la jornada y al horario.",
+      "C": "La Ley 53/1984, de 26 de diciembre, de Incompatibilidades del Personal al Servicio de las Administraciones Públicas, prohíbe con carácter general el desempeño simultáneo de dos puestos de trabajo en el sector público; cuando se permite la compatibilidad de dos puestos públicos (actividades docentes, sanitarias en determinados supuestos), el funcionario percibe las retribuciones de ambos, aunque el conjunto no puede superar los límites fijados; las actividades privadas exigen reconocimiento de compatibilidad; la dedicación exclusiva exige renuncia a cualquier actividad retribuida adicional; el incumplimiento puede generar la renuncia obligatoria a las retribuciones del segundo puesto y responsabilidad disciplinaria.",
+      "D": "La Ley 53/1984 obliga a todos los funcionarios a ceder al Estado el 50% de las retribuciones del segundo puesto cuando se les declara compatible."
+    },
+    "correcta": "C",
+    "explicacion": "La Ley 53/1984 de Incompatibilidades tiene como objetivo preservar la dedicación y la imparcialidad del personal al servicio de las AAPP. Su contenido principal es: (1) Prohibición general (art. 1): ningún empleado público puede desempeñar más de un puesto de trabajo en el sector público, salvo excepciones expresamente previstas. (2) Compatibilidad de actividades públicas: en supuestos específicos (art. 3), se admite la compatibilidad de dos puestos públicos (actividades docentes en centros universitarios, docencia en todos los niveles, asistencia sanitaria en el SNS). En estos casos se perciben las retribuciones de ambos puestos, pero el complemento específico del segundo puede quedar limitado. (3) Actividades privadas (arts. 14-16): requieren declaración de compatibilidad; el reconocimiento de compatibilidad no implica modificación del horario ni de las condiciones del puesto principal. (4) Dedicación exclusiva: algunos puestos llevan aparejada la dedicación exclusiva; en estos casos, el funcionario percibe un complemento específico por incompatibilidad pero no puede ejercer ninguna otra actividad retribuida, pública o privada. (5) Consecuencias del incumplimiento: responsabilidad disciplinaria y, en su caso, obligación de renunciar a las retribuciones del segundo puesto o actividad.",
+    "why": "A la Ley 53/1984 tiene un campo de aplicación muy amplio: prohíbe en general el doble empleo público y regula todas las actividades privadas, no solo la abogacía. B el régimen de incompatibilidades tiene consecuencias directas sobre las retribuciones (qué se puede cobrar, cuánto, en qué condiciones). D no existe ninguna regla que obligue a ceder el 50% de las retribuciones del segundo puesto al Estado.",
+    "norma": "Ley 53/1984, de 26 de diciembre, de Incompatibilidades del Personal al Servicio de las AAPP",
+    "articulo": "1-16 Ley 53/1984"
+  },
+  {
+    "id": "B4T40-018",
+    "bloque": 4,
+    "tema": 40,
+    "test": 40,
+    "dificultad": "dificil",
+    "pregunta": "¿Qué autonomía tiene la Comunidad de Madrid para regular las retribuciones complementarias de sus funcionarios y cuáles son sus límites según el TREBEP?",
+    "opciones": {
+      "A": "La CM de Madrid tiene autonomía para regular las retribuciones complementarias de sus funcionarios dentro del marco básico del art. 24 TREBEP: puede crear tipos específicos de complementos (adicionales a los regulados en la normativa estatal), fijar las cuantías concretas de cada complemento en la RPT y establecer sus criterios de asignación, siempre que respete los factores justificadores del art. 24 TREBEP, el límite de incremento de la masa salarial del art. 21 TREBEP y los principios de igualdad, mérito y capacidad del art. 23 TREBEP.",
+      "B": "La CM no tiene ninguna autonomía en materia de retribuciones complementarias; las cuantías de todos los complementos las fija el Estado mediante decreto y la CM solo puede aplicarlas.",
+      "C": "La CM tiene autonomía plena e ilimitada para regular las retribuciones complementarias; puede fijar cualquier importe sin sujeción a ninguna norma básica estatal.",
+      "D": "La CM solo puede regular las retribuciones complementarias de sus funcionarios de los grupos C1 y C2; los de los grupos A1 y A2 están sometidos íntegramente a la normativa estatal."
+    },
+    "correcta": "A",
+    "explicacion": "El TREBEP establece un modelo de regulación compartida entre el Estado y las CCAA en materia de retribuciones complementarias: (1) El art. 24 TREBEP fija el marco básico: establece los factores que pueden justificar las retribuciones complementarias (progresión en la carrera, dificultad/responsabilidad del puesto, rendimiento, servicios extraordinarios); esto es Derecho básico vinculante para todas las AAPP. (2) Autonomía de la CM: dentro de ese marco, la CM puede: (a) establecer qué tipos concretos de complementos usa para retribuir cada factor (ej. crear un «complemento de carrera horizontal» vinculado a la evaluación del desempeño); (b) fijar las cuantías específicas para cada complemento y nivel mediante la RPT; (c) establecer los criterios objetivos de asignación del complemento de productividad. (3) Límites: (a) los complementos deben responder a alguno de los factores del art. 24 TREBEP (no pueden crearse complementos sin justificación); (b) el incremento global de la masa salarial no puede superar el techo de los PGE (art. 21 TREBEP); (c) los complementos deben respetarlos principios de igualdad y no discriminación (art. 14 CE). Este modelo permite la diversidad entre Administraciones mientras se garantiza un marco básico común.",
+    "why": "B la CM sí tiene autonomía para fijar las cuantías de los complementos en la RPT; el Estado no las fija directamente para las CCAA (solo fija los importes de las retribuciones básicas). C la autonomía de la CM en complementos está limitada por el art. 24 TREBEP (factores), el art. 21 TREBEP (masa salarial) y los principios constitucionales. D la autonomía de la CM en materia de complementos aplica a todos los grupos de clasificación de sus funcionarios, sin distinción por grupo.",
+    "norma": "TREBEP arts. 21 y 24",
+    "articulo": "21 y 24 TREBEP"
+  },
+  {
+    "id": "B4T40-019",
+    "bloque": 4,
+    "tema": 40,
+    "test": 40,
+    "dificultad": "dificil",
+    "pregunta": "¿Cuál es el régimen retributivo del personal directivo público según el art. 13 TREBEP?",
+    "opciones": {
+      "A": "El personal directivo público es un cargo político; sus retribuciones las fija el Gobierno de la CM libremente sin necesidad de ninguna habilitación del TREBEP.",
+      "B": "El art. 13 TREBEP regula el personal directivo como una categoría especial de empleado público cuyas retribuciones se determinan por la normativa de cada Administración aplicable a este personal, con sujeción a los principios de responsabilidad por resultados y de rendición de cuentas; sus condiciones retributivas pueden incluir componentes variables vinculados a la consecución de objetivos; en el ámbito de la CM, los directivos de los entes del sector público tienen regímenes retributivos específicos que pueden diferir de los del personal funcionario ordinario.",
+      "C": "El personal directivo tiene exactamente las mismas retribuciones que los funcionarios de carrera de su mismo grupo (A1); el art. 13 TREBEP no introduce ninguna especialidad retributiva.",
+      "D": "El art. 13 TREBEP prohíbe que el personal directivo reciba retribuciones variables vinculadas a objetivos; solo pueden percibir retribuciones fijas."
+    },
+    "correcta": "B",
+    "explicacion": "El art. 13 TREBEP establece la figura del personal directivo como una categoría específica, cuyo régimen retributivo tiene singularidades: (1) Aplicación del principio de rendimiento: las retribuciones del personal directivo deben tener en cuenta los principios de responsabilidad por resultados y de rendición de cuentas de su gestión (art. 13.3 TREBEP). (2) Componente variable: es coherente con esos principios que las retribuciones incluyan un elemento variable vinculado a la consecución de objetivos de gestión previamente establecidos; a diferencia del complemento de productividad ordinario, esta variabilidad puede ser más significativa. (3) Regulación por cada Administración: el propio TREBEP (art. 13.1) remite a la normativa específica de cada Administración para determinar las condiciones del personal directivo; esto otorga mayor flexibilidad que en el régimen funcionarial común. (4) En la CM: los directivos de las empresas y entes del sector público autonómico (gerentes de hospitales, directores de empresas públicas) pueden tener contratos de alta dirección con retribuciones distintas a las del personal funcionario; los directivos que sean funcionarios de carrera (subdirectores generales, directores generales) tienen retribuciones fijadas en la RPT de la CM.",
+    "why": "A el personal directivo no es necesariamente cargo político; el art. 13 TREBEP regula el directivo profesional, que puede ser funcionario o laboral de alta dirección; sus retribuciones tienen base legal. C el art. 13 TREBEP sí introduce especialidades retributivas para el personal directivo (retribución variable por resultados, entre otras). D el TREBEP no prohíbe las retribuciones variables para el personal directivo; al contrario, el art. 13.3 vincula sus retribuciones a resultados.",
+    "norma": "TREBEP art. 13",
+    "articulo": "13 TREBEP"
+  },
+  {
+    "id": "B4T40-020",
+    "bloque": 4,
+    "tema": 40,
+    "test": 40,
+    "dificultad": "dificil",
+    "pregunta": "¿Qué es la carrera horizontal en el TREBEP y cómo puede afectar a las retribuciones complementarias de los funcionarios de la CM?",
+    "opciones": {
+      "A": "La carrera horizontal no existe en el TREBEP; es un concepto propio de la gestión empresarial privada sin aplicación en el sector público.",
+      "B": "La carrera horizontal, regulada en el art. 17 TREBEP, permite al funcionario progresar en reconocimiento y retribuciones sin necesidad de cambiar de puesto de trabajo; la progresión se basa en criterios objetivos (tiempo en el cuerpo, valoración del desempeño, formación, actividades de I+D+i, etc.) y se articula mediante grados, categorías o escalones; cada Administración implementa su propio sistema; la CM puede crear un complemento de carrera horizontal vinculado al grado alcanzado, de forma que el funcionario que progresa en la carrera horizontal percibe un mayor complemento aunque permanezca en el mismo puesto.",
+      "C": "La carrera horizontal sustituye completamente a la carrera vertical (ascenso de puesto); una vez implantada, los funcionarios no pueden acceder a puestos de mayor nivel.",
+      "D": "La carrera horizontal obliga a los funcionarios a rotar de puesto cada dos años; si no rotan, no pueden percibir ningún complemento adicional."
+    },
+    "correcta": "B",
+    "explicacion": "El art. 17 TREBEP establece la carrera horizontal como una de las modalidades de carrera administrativa, con las siguientes características: (1) Definición: «Las Administraciones Públicas podrán establecer sistemas de carrera horizontal, sin necesidad de cambiar de puesto de trabajo, definidos por estadios o grados de ascenso que podrán denominarse tramos, escalones, etc.» (2) Criterios de progresión: el artículo exige que la progresión sea evaluada mediante criterios objetivos previamente establecidos: tiempo de permanencia en cada grado, valoración del desempeño, formación recibida, actividades de investigación o mejora, etc. (3) Efecto retributivo: la progresión en la carrera horizontal puede conllevar un complemento de carrera (uno de los factores del art. 24 TREBEP); el funcionario que ha alcanzado un grado superior de la carrera horizontal percibe un complemento mayor, aunque ocupe el mismo puesto de trabajo. (4) Implementación en la CM: la CM puede desarrollar su propio sistema de carrera horizontal para sus cuerpos y escalas, aprobando la correspondiente normativa; el complemento de carrera resultante debe financiarse dentro del límite de la masa salarial. La carrera horizontal y la vertical son complementarias, no alternativas.",
+    "why": "A la carrera horizontal está expresamente regulada en el art. 17 TREBEP; es un elemento central de la reforma de la función pública que introdujo el estatuto. C la carrera horizontal no sustituye a la vertical; el TREBEP las contempla como modalidades complementarias y cada Administración puede optar por una, por ambas o por ninguna. D la carrera horizontal no implica rotación obligatoria de puestos; precisamente su rasgo definitorio es la progresión sin cambio de puesto.",
+    "norma": "TREBEP art. 17",
+    "articulo": "17 TREBEP"
+  }
+]
