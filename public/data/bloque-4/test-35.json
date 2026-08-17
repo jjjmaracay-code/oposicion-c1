@@ -1,0 +1,382 @@
+[
+  {
+    "id": "B4T35-001",
+    "bloque": 4,
+    "tema": 35,
+    "test": 35,
+    "dificultad": "facil",
+    "pregunta": "¿Cuáles son los principios que rigen el sistema tributario según el art. 31.1 de la Constitución Española?",
+    "opciones": {
+      "A": "Solo establece los principios de igualdad formal y legalidad tributaria; no menciona la capacidad económica ni la progresividad.",
+      "B": "Establece los principios de generalidad, uniformidad y neutralidad fiscal, exigiendo que todos paguen la misma cuota tributaria independientemente de su renta.",
+      "C": "Todos contribuirán al sostenimiento de los gastos públicos de acuerdo con su capacidad económica mediante un sistema tributario justo inspirado en los principios de igualdad y progresividad que en ningún caso tendrá alcance confiscatorio.",
+      "D": "Prohíbe cualquier tipo de exención o beneficio fiscal; todos los ciudadanos deben pagar el 100% de los tributos sin excepción."
+    },
+    "correcta": "C",
+    "explicacion": "El art. 31.1 CE establece el fundamento constitucional del sistema tributario: «Todos contribuirán al sostenimiento de los gastos públicos de acuerdo con su capacidad económica mediante un sistema tributario justo inspirado en los principios de igualdad y progresividad que, en ningún caso, tendrá alcance confiscatorio.» Los principios que se derivan son: (1) Generalidad: todos los ciudadanos contribuyen al gasto público sin privilegios personales. (2) Capacidad económica: el tributo debe guardar relación con la riqueza real del contribuyente. (3) Igualdad: trato igual a situaciones iguales (igualdad tributaria, no igualdad aritmética). (4) Progresividad: quien más capacidad económica tiene, mayor es el tipo efectivo que soporta. (5) No confiscatoriedad: el sistema no puede resultar equivalente a una expropiación de la riqueza del contribuyente. Estos principios vinculan al legislador tributario y son controlables por el Tribunal Constitucional.",
+    "why": "A la capacidad económica y la progresividad son principios expresamente mencionados en el art. 31.1 CE; no se limita a igualdad y legalidad. B la uniformidad y neutralidad no son principios constitucionales expresos del art. 31.1 CE; la CE exige progresividad, no un tipo fijo uniforme. D la CE permite exenciones y beneficios fiscales, que son instrumentos de política económica y social; prohíbe es el alcance confiscatorio, no toda modulación tributaria.",
+    "norma": "Constitución Española",
+    "articulo": "31.1 CE"
+  },
+  {
+    "id": "B4T35-002",
+    "bloque": 4,
+    "tema": 35,
+    "test": 35,
+    "dificultad": "facil",
+    "pregunta": "¿Cuáles son los tres tipos de tributos que reconoce el art. 2 de la Ley General Tributaria y cómo se distinguen entre sí?",
+    "opciones": {
+      "A": "Los tributos se clasifican en tres tipos: impuestos (obligación de pago sin contraprestación directa de la Administración), tasas (exigidas por la utilización privativa del dominio público o por servicios de solicitud obligatoria) y contribuciones especiales (exigidas por el beneficio que reportan al obligado obras o servicios públicos).",
+      "B": "Los tributos se clasifican en directos e indirectos; no existe clasificación legal por naturaleza.",
+      "C": "Solo existen impuestos; las tasas son precios públicos y no tienen naturaleza tributaria.",
+      "D": "Los tributos se dividen en estatales, autonómicos y municipales según el ente que los establece; no existe una clasificación por su naturaleza jurídica."
+    },
+    "correcta": "A",
+    "explicacion": "El art. 2 LGT (Ley 58/2003) define y clasifica los tributos en tres tipos: (1) Impuesto: tributo exigido sin contraprestación directa, cuyo hecho imponible está constituido por negocios, actos o hechos que ponen de manifiesto la capacidad económica del contribuyente (p.ej., IRPF, IS, IVA). (2) Tasa: tributo exigido por la utilización privativa o el aprovechamiento especial del dominio público, o por la prestación de servicios o la realización de actividades en régimen de Derecho Público que se refieran, afecten o beneficien de modo particular al obligado tributario cuando los servicios sean de solicitud obligatoria o de recepción necesaria (p.ej., tasa de expedición del DNI, tasa de basuras). (3) Contribución especial: tributo exigido por la obtención de un beneficio o aumento de valor de bienes del obligado tributario como consecuencia de la realización de obras públicas o del establecimiento o ampliación de servicios públicos (p.ej., contribución especial por construcción de una nueva acera).",
+    "why": "B la clasificación en directos e indirectos es una clasificación económica útil para análisis fiscal, pero no es la clasificación jurídica de la LGT que distingue impuesto/tasa/contribución especial. C las tasas sí tienen naturaleza tributaria plena según la LGT; los precios públicos son una categoría distinta (contraprestación voluntaria) que se diferencia de las tasas en que el servicio puede prestarse también por el sector privado. D la distribución territorial (Estado/CCAA/municipios) es un criterio de reparto competencial, no una clasificación por naturaleza.",
+    "norma": "Ley 58/2003, de 17 de diciembre, General Tributaria",
+    "articulo": "2 LGT"
+  },
+  {
+    "id": "B4T35-003",
+    "bloque": 4,
+    "tema": 35,
+    "test": 35,
+    "dificultad": "facil",
+    "pregunta": "¿Cuáles son los elementos esenciales del tributo que deben determinarse necesariamente por ley?",
+    "opciones": {
+      "A": "Los elementos del tributo son únicamente el sujeto pasivo y la cuota; los demás aspectos son puramente administrativos.",
+      "B": "El tipo de gravamen y la cuota íntegra son el único elemento cuantitativo relevante; la base imponible no existe como figura independiente.",
+      "C": "El hecho imponible y el sujeto pasivo son los únicos elementos obligatorios del tributo; el tipo puede fijarse libremente por la Administración.",
+      "D": "Los elementos esenciales del tributo son: el hecho imponible (presupuesto cuya realización genera la obligación tributaria), el sujeto pasivo (obligado principal al pago), la base imponible (magnitud que cuantifica el hecho imponible) y el tipo de gravamen (alícuota que se aplica a la base para obtener la cuota)."
+    },
+    "correcta": "D",
+    "explicacion": "El art. 8 LGT recoge el principio de reserva de ley en materia tributaria: los elementos esenciales del tributo deben regularse necesariamente por ley (no por reglamento). Estos elementos son: (1) Hecho imponible (art. 20 LGT): el presupuesto de hecho fijado por la ley cuya realización origina la obligación tributaria principal (p.ej., en el IRPF: obtener renta). (2) Sujeto pasivo (art. 36 LGT): el obligado tributario que debe satisfacer la cuota. (3) Base imponible (art. 50 LGT): la magnitud dineraria o no dineraria que cuantifica el hecho imponible (p.ej., en el IRPF: la renta neta). (4) Tipo de gravamen (art. 55 LGT): el porcentaje que, aplicado a la base, determina la cuota tributaria (p.ej., en el IS: 25%). A estos se añaden la base liquidable, las exenciones, las reducciones y las deducciones como elementos que modulan la obligación. El principio de reserva de ley garantiza la seguridad jurídica del contribuyente.",
+    "why": "A los elementos del tributo son mucho más amplios que sujeto pasivo y cuota; el hecho imponible y la base imponible son igualmente esenciales. B la base imponible es un elemento autónomo e imprescindible: sin base no puede calcularse ninguna cuota. C si el tipo de gravamen pudiera fijarlo la Administración, se vulneraría el principio de reserva de ley; todos los elementos esenciales están sujetos a dicha reserva.",
+    "norma": "Ley 58/2003, de 17 de diciembre, General Tributaria",
+    "articulo": "8, 20, 36, 50, 55 LGT"
+  },
+  {
+    "id": "B4T35-004",
+    "bloque": 4,
+    "tema": 35,
+    "test": 35,
+    "dificultad": "facil",
+    "pregunta": "¿Cuáles son los tres tipos impositivos del IVA en España y a qué bienes o servicios se aplica cada uno?",
+    "opciones": {
+      "A": "El IVA tiene un tipo único del 21% que se aplica a todos los bienes y servicios sin excepción.",
+      "B": "El IVA tiene tres tipos: el general del 21% (aplicable a la mayoría de bienes y servicios), el reducido del 10% (alimentación no básica, transporte de viajeros, hostelería, espectáculos, entre otros) y el superreducido del 4% (alimentos básicos de primera necesidad, libros, periódicos, medicamentos y viviendas de protección oficial).",
+      "C": "Los tipos del IVA son: el 25% general, el 12% reducido y el 6% superreducido.",
+      "D": "El IVA solo tiene dos tipos: el general del 21% y el reducido del 4%; el tipo del 10% fue eliminado."
+    },
+    "correcta": "B",
+    "explicacion": "La Ley 37/1992, del Impuesto sobre el Valor Añadido, establece tres tipos impositivos: (1) Tipo general: 21%, aplicable a todos los bienes y servicios que no estén sujetos a los tipos especiales. (2) Tipo reducido: 10%, aplicable a determinadas entregas de bienes y prestaciones de servicios: alimentos (excepto los del 4%), agua, transporte de viajeros y sus equipajes, hostelería y restauración, espectáculos culturales, reparación de viviendas, productos farmacéuticos no sujetos al 4%, etc. (3) Tipo superreducido: 4%, aplicable a: alimentos básicos de primera necesidad (pan, leche, huevos, frutas, verduras, cereales), libros, periódicos y revistas que no sean esencialmente publicidad, medicamentos para uso humano y veterinario, sillas de ruedas para minusválidos, y viviendas de protección oficial de régimen especial o de promoción pública. También hay operaciones exentas (sin derecho a deducir) y exentas con derecho a deducción.",
+    "why": "A el tipo único del 21% no existe; el IVA tiene tres tipos diferenciados para favorecer el acceso a bienes esenciales. C los tipos del 25%, 12% y 6% no corresponden al IVA español vigente; los tipos son 21%, 10% y 4%. D el tipo del 10% sigue vigente y es el más utilizado para bienes y servicios de consumo habitual (transporte, hostelería, etc.).",
+    "norma": "Ley 37/1992, de 28 de diciembre, del Impuesto sobre el Valor Añadido",
+    "articulo": "90-91 LIVA"
+  },
+  {
+    "id": "B4T35-005",
+    "bloque": 4,
+    "tema": 35,
+    "test": 35,
+    "dificultad": "facil",
+    "pregunta": "¿Quiénes son los contribuyentes del Impuesto sobre la Renta de las Personas Físicas (IRPF) y cuándo se considera que una persona tiene residencia habitual en España?",
+    "opciones": {
+      "A": "El IRPF grava la renta obtenida por las personas físicas residentes en territorio español; son residentes quienes permanezcan más de 183 días del año natural en territorio español o tengan en España el núcleo principal de sus actividades o intereses económicos.",
+      "B": "El IRPF grava a todas las personas físicas que obtengan rentas en España, con independencia de su residencia fiscal.",
+      "C": "El IRPF solo grava a los funcionarios públicos y trabajadores por cuenta ajena; los trabajadores autónomos tributan exclusivamente por el Impuesto sobre Sociedades.",
+      "D": "El IRPF es un impuesto que grava a las personas jurídicas; las personas físicas solo tributan mediante tasas y contribuciones especiales."
+    },
+    "correcta": "A",
+    "explicacion": "La Ley 35/2006, del IRPF, establece en sus arts. 1-10 el ámbito subjetivo del impuesto. Son contribuyentes del IRPF las personas físicas con residencia habitual en territorio español. Se entiende que el contribuyente tiene su residencia habitual en España cuando concurra cualquiera de estas circunstancias: (1) Permanencia: que permanezca más de 183 días durante el año natural en territorio español (se computan ausencias esporádicas salvo acreditación de residencia fiscal en otro país). (2) Intereses económicos: que radique en España el núcleo principal o la base de sus actividades o intereses económicos, de forma directa o indirecta. Se presume que el cónyuge no separado y los hijos menores dependientes residen también en España. Los no residentes con rentas en España tributan por el Impuesto sobre la Renta de No Residentes (IRNR), que es un impuesto distinto.",
+    "why": "B el criterio no es obtener renta en España sino tener residencia habitual en España; los no residentes con rentas en España tributan por el IRNR. C el IRPF también grava a los trabajadores autónomos; los autónomos no son sujetos del IS (que es para personas jurídicas). D el IRPF es un impuesto sobre la renta de las personas físicas, no jurídicas; las personas jurídicas tributan por el IS.",
+    "norma": "Ley 35/2006, de 28 de noviembre, del Impuesto sobre la Renta de las Personas Físicas",
+    "articulo": "1-10 LIRPF"
+  },
+  {
+    "id": "B4T35-006",
+    "bloque": 4,
+    "tema": 35,
+    "test": 35,
+    "dificultad": "facil",
+    "pregunta": "¿Qué es la Agencia Estatal de Administración Tributaria (AEAT) y cuáles son sus principales funciones?",
+    "opciones": {
+      "A": "La AEAT es una dirección general del Ministerio de Hacienda y carece de autonomía funcional; todas sus decisiones requieren autorización ministerial expresa.",
+      "B": "La AEAT solo gestiona el Impuesto sobre la Renta de las Personas Físicas; los demás tributos estatales son gestionados directamente por el Ministerio de Hacienda.",
+      "C": "La Agencia Estatal de Administración Tributaria es una entidad de derecho público con personalidad jurídica propia adscrita al Ministerio de Hacienda; gestiona y recauda los principales tributos del Estado (IRPF, IS, IVA, impuestos especiales), dirige la lucha contra el fraude fiscal y colabora con las Administraciones tributarias de las CCAA.",
+      "D": "La AEAT es un organismo de la Unión Europea que gestiona la recaudación de tributos en todos los Estados miembros de forma uniforme."
+    },
+    "correcta": "C",
+    "explicacion": "La Agencia Estatal de Administración Tributaria fue creada por el art. 103 de la Ley 31/1990 (Presupuestos Generales del Estado para 1991) y posteriormente regulada en el art. 103 de la Ley 58/2003 (LGT). Es una entidad de derecho público dotada de personalidad jurídica propia y plena capacidad pública y privada, adscrita al Ministerio de Hacienda. Sus funciones son: (1) Gestión, inspección y recaudación de los tributos estatales y de los recursos de la Seguridad Social cuya gestión se le encomiende. (2) Gestión aduanera y prevención y represión del contrabando. (3) Colaboración con la gestión tributaria de las CCAA. (4) Desarrollo de la lucha contra el fraude fiscal. La AEAT tiene autonomía de gestión y puede establecer su propia organización interna. Dispone de recursos propios y puede retener parte de la recaudación obtenida como financiación.",
+    "why": "A la AEAT tiene personalidad jurídica propia y autonomía de gestión; no es una mera dirección general. B la AEAT gestiona múltiples tributos (IRPF, IS, IVA, impuestos especiales), no solo el IRPF. D la AEAT es un organismo de la Administración del Estado español, no de la UE; cada Estado gestiona sus propios tributos.",
+    "norma": "Ley 58/2003, General Tributaria; Ley 31/1990",
+    "articulo": "103 LGT"
+  },
+  {
+    "id": "B4T35-007",
+    "bloque": 4,
+    "tema": 35,
+    "test": 35,
+    "dificultad": "media",
+    "pregunta": "¿Cuál es la diferencia fundamental entre el impuesto, la tasa y la contribución especial como tipos de tributos?",
+    "opciones": {
+      "A": "Las tasas y los impuestos son sinónimos en el Derecho español; la contribución especial es la única figura tributaria diferenciada.",
+      "B": "El impuesto se exige sin contraprestación específica por parte de la Administración (nace de la capacidad económica del contribuyente); la tasa se exige por la utilización privativa del dominio público o por servicios de solicitud obligatoria prestados por la Administración en régimen de Derecho Público; la contribución especial se exige por el beneficio especial que obtiene el obligado de la realización de obras públicas o del establecimiento de servicios públicos.",
+      "C": "La distinción entre impuesto, tasa y contribución especial es meramente formal; los tres tipos tienen la misma naturaleza económica y jurídica.",
+      "D": "Los impuestos solo los puede establecer el Estado; las CCAA solo pueden crear tasas; los municipios solo pueden establecer contribuciones especiales."
+    },
+    "correcta": "B",
+    "explicacion": "El art. 2 LGT define cada figura tributaria por su hecho imponible característico: (1) Impuesto: la obligación no tiene relación directa con ninguna actividad administrativa; nace por la realización de hechos que manifiestan capacidad económica (obtener renta, vender bienes, etc.). No hay contraprestación directa del Estado al contribuyente por pagar el impuesto. (2) Tasa: la obligación sí tiene relación directa con una actividad de la Administración que afecta o beneficia particularmente al obligado, sea por el uso del dominio público (tasas de carretera, de espacio radioeléctrico) o por servicios cuya solicitud o recepción es obligatoria (expedición de documentos oficiales, tramitación de autorizaciones). (3) Contribución especial: la obligación surge por el beneficio especial (aumento de valor de bienes, ahorro de gastos) que deriva de obras o servicios públicos; el sujeto paga porque se beneficia más que el resto de la colectividad. Esta clasificación determina la estructura de cada figura y las reglas aplicables.",
+    "why": "A tasas e impuestos son figuras claramente distintas: el impuesto no exige actividad administrativa concreta; la tasa sí la requiere. C las diferencias entre impuesto, tasa y contribución especial son jurídicamente relevantes y determinan el régimen jurídico aplicable. D los tres tipos de tributos pueden ser estatales, autonómicos o locales según la competencia; la distinción es por naturaleza, no por el ente que los establece.",
+    "norma": "Ley 58/2003, de 17 de diciembre, General Tributaria",
+    "articulo": "2 LGT"
+  },
+  {
+    "id": "B4T35-008",
+    "bloque": 4,
+    "tema": 35,
+    "test": 35,
+    "dificultad": "media",
+    "pregunta": "¿Cuál es la diferencia entre el hecho imponible, los supuestos de no sujeción y las exenciones tributarias?",
+    "opciones": {
+      "A": "No sujeción y exención son términos equivalentes; en ambos casos no se paga el tributo y no existe diferencia jurídica entre ellos.",
+      "B": "La exención es siempre total; no pueden existir exenciones parciales en el ordenamiento tributario español.",
+      "C": "El hecho imponible solo puede ser de naturaleza económica; no pueden constituir hechos imponibles las situaciones jurídicas o las relaciones de hecho.",
+      "D": "El hecho imponible es el presupuesto fijado por la ley cuya realización origina la obligación tributaria principal; la no sujeción implica que la actividad no encaja en la definición legal del hecho imponible y, por tanto, no nace la obligación; la exención significa que, a pesar de realizarse el hecho imponible, la ley dispensa expresamente del pago del tributo."
+    },
+    "correcta": "D",
+    "explicacion": "Estos tres conceptos son fundamentales en la técnica tributaria y tienen consecuencias jurídicas distintas: (1) Hecho imponible (art. 20 LGT): el presupuesto de hecho que, cuando se realiza, genera la obligación tributaria principal. Debe estar establecido por ley (reserva de ley absoluta). (2) No sujeción (arts. 20.2 LGT): la actividad o situación NO entra dentro de la definición legal del hecho imponible. La ley puede aclararlo expresamente (supuesto de no sujeción expreso) o resultar de la propia definición del hecho imponible. No nace ninguna obligación tributaria; el tributo es directamente inaplicable. (3) Exención (art. 22 LGT): la actividad SÍ encaja en el hecho imponible (teóricamente se devenga el tributo), pero la ley dispensa del pago de la obligación tributaria principal. La diferencia es práctica a efectos de plazos y obligaciones formales (una operación exenta puede generar obligaciones de declaración; una no sujeta, no).",
+    "why": "A la diferencia jurídica entre no sujeción y exención es sustancial: en la no sujeción nunca nace la obligación; en la exención nace pero la ley la extingue. B la LGT permite exenciones tanto totales como parciales; las bonificaciones son un ejemplo de exención parcial. C el hecho imponible puede consistir en negocios, actos o hechos de cualquier naturaleza, incluidas situaciones jurídicas y de hecho.",
+    "norma": "Ley 58/2003, de 17 de diciembre, General Tributaria",
+    "articulo": "20-22 LGT"
+  },
+  {
+    "id": "B4T35-009",
+    "bloque": 4,
+    "tema": 35,
+    "test": 35,
+    "dificultad": "media",
+    "pregunta": "¿Qué elementos integran la deuda tributaria según el art. 58 de la Ley General Tributaria?",
+    "opciones": {
+      "A": "La deuda tributaria está integrada por la cuota tributaria, los intereses de demora y los recargos (del período ejecutivo o por declaración extemporánea); las sanciones tributarias, aunque pueden exigirse junto con la deuda, no forman parte de ella sino que constituyen obligaciones tributarias accesorias autónomas.",
+      "B": "La deuda tributaria solo comprende la cuota tributaria; los intereses y recargos son obligaciones de naturaleza no tributaria ajenas a la deuda.",
+      "C": "La deuda tributaria incluye todas las sanciones administrativas impuestas por la Administración, que tienen la misma naturaleza que la cuota tributaria principal.",
+      "D": "La deuda tributaria se determina siempre mediante autoliquidación del contribuyente; la Administración no puede modificarla una vez presentada."
+    },
+    "correcta": "A",
+    "explicacion": "El art. 58 LGT establece de forma taxativa los componentes de la deuda tributaria: (1) La cuota tributaria o cantidad a ingresar que resulte de la obligación tributaria principal o de las obligaciones de realizar pagos a cuenta. (2) El interés de demora (art. 26 LGT): se exige automáticamente cuando no se ingresa en plazo o se obtiene una devolución improcedente; no tiene carácter sancionador. (3) Los recargos por declaración extemporánea (art. 27 LGT): del 1%, 2%, 3%... hasta el 15% según el retraso, si no media requerimiento previo de la Administración. (4) Los recargos del período ejecutivo (art. 28 LGT): ejecutivo 5%, de apremio reducido 10% o de apremio ordinario 20%. Importante: las sanciones tributarias, aunque se exijan y gestionen por la Administración tributaria junto con la deuda, tienen una naturaleza jurídica diferente y no son deuda tributaria propiamente dicha.",
+    "why": "B los intereses de demora y los recargos sí integran la deuda tributaria expresamente según el art. 58 LGT; no son obligaciones ajenas. C las sanciones tributarias tienen naturaleza punitiva y no forman parte de la deuda tributaria; se exigen en procedimiento separado salvo acumulación procedimental. D la Administración sí puede modificar las autoliquidaciones presentadas mediante procedimientos de comprobación e inspección.",
+    "norma": "Ley 58/2003, de 17 de diciembre, General Tributaria",
+    "articulo": "58 LGT"
+  },
+  {
+    "id": "B4T35-010",
+    "bloque": 4,
+    "tema": 35,
+    "test": 35,
+    "dificultad": "media",
+    "pregunta": "¿Cuál es la estructura básica del IRPF en cuanto a sus bases imponibles y cómo se gravan las distintas categorías de renta?",
+    "opciones": {
+      "A": "El IRPF es un impuesto proporcional con un tipo fijo del 19% aplicable a todas las rentas; no existe distinción entre base general y base del ahorro.",
+      "B": "El IRPF solo grava los rendimientos del trabajo; las ganancias patrimoniales y las rentas del capital tributan exclusivamente por el Impuesto sobre Sociedades.",
+      "C": "El IRPF distingue entre la base imponible general (rendimientos del trabajo, actividades económicas, capital inmobiliario y ciertas imputaciones de renta, sujeta a una escala progresiva estatal y autonómica) y la base imponible del ahorro (rendimientos del capital mobiliario e intereses, dividendos, y ganancias patrimoniales, sujeta a una tarifa progresiva más reducida); el resultado final es la cuota diferencial, que puede arrojar cantidad a ingresar o a devolver.",
+      "D": "En el IRPF, todas las rentas tributan uniformemente en la base general con independencia de su origen; no existe la distinción entre base general y base del ahorro."
+    },
+    "correcta": "C",
+    "explicacion": "La Ley 35/2006 (LIRPF) articula el IRPF en torno a dos grandes bases imponibles: (1) Base imponible general: integra rendimientos del trabajo (sueldos, pensiones), rendimientos del capital inmobiliario (arrendamientos de inmuebles), rendimientos de actividades económicas (autónomos, profesionales), ciertas imputaciones de rentas (rentas imputadas de inmuebles urbanos no arrendados) y las ganancias y pérdidas patrimoniales derivadas de transmisiones de corto plazo o no relacionadas con transmisiones. Se le aplica la escala progresiva (estatal + autonómica), con tipos que oscilan entre el 19% y el 47% (o más según la CCAA). (2) Base imponible del ahorro: integra principalmente los rendimientos del capital mobiliario (intereses bancarios, dividendos) y las ganancias y pérdidas patrimoniales derivadas de transmisiones de activos, con independencia del plazo. Se aplica una escala propia con tipos del 19%, 21%, 23%, 27% y 28% según tramos. Esta estructura busca incentivar el ahorro a largo plazo.",
+    "why": "A el IRPF es un impuesto progresivo, no proporcional; los tipos varían significativamente con el nivel de renta. B el IRPF grava todos los tipos de renta del contribuyente (trabajo, capital, actividades, ganancias, etc.); el IS grava personas jurídicas, no las rentas de las físicas. D la distinción entre base general y base del ahorro es esencial en el IRPF; determina el tipo aplicable y afecta a la planificación fiscal legítima del contribuyente.",
+    "norma": "Ley 35/2006, de 28 de noviembre, del IRPF",
+    "articulo": "6, 44-50 LIRPF"
+  },
+  {
+    "id": "B4T35-011",
+    "bloque": 4,
+    "tema": 35,
+    "test": 35,
+    "dificultad": "media",
+    "pregunta": "¿A quiénes grava el Impuesto sobre Sociedades y cuál es su tipo general de gravamen?",
+    "opciones": {
+      "A": "El IS solo grava a las sociedades anónimas; el resto de entidades (SL, cooperativas, fundaciones) quedan sujetas al IRPF.",
+      "B": "El IS grava la renta de las personas jurídicas (sociedades mercantiles, cooperativas, fondaciones, fondos de inversión, etc.) y de otras entidades sin personalidad jurídica cuando lo prevea la ley; el tipo general de gravamen es el 25%, aunque existen tipos reducidos para ciertos supuestos (15% para nuevas empresas en sus primeros períodos con resultado positivo, 10% para entidades sin fines lucrativos acogidas a la Ley 49/2002, entre otros).",
+      "C": "El IS es un impuesto local gestionado por los ayuntamientos; la recaudación va íntegramente a los presupuestos municipales.",
+      "D": "El tipo general del IS es del 35%; el tipo del 25% solo se aplica a las pequeñas y medianas empresas."
+    },
+    "correcta": "B",
+    "explicacion": "La Ley 27/2014, del Impuesto sobre Sociedades, establece en su art. 7 quiénes son contribuyentes: las personas jurídicas (excepto las sociedades civiles sin objeto mercantil), los fondos de inversión, las uniones temporales de empresas (UTE), los fondos de capital riesgo, los fondos de pensiones, los fondos de regulación del mercado hipotecario, los fondos de titulización y los fondos de activos bancarios. El tipo general de gravamen es el 25% sobre la base imponible (arts. 29 y ss. LIS). Existen tipos especiales: 15% para las denominadas «empresas de nueva creación» durante los dos primeros períodos impositivos en que la base imponible sea positiva; 10% para entidades sin fines lucrativos acogidas a la Ley 49/2002; 1% para sociedades de inversión de capital variable (SICAV); y 0% para fondos de pensiones. El IS es un tributo directo estatal gestionado por la AEAT.",
+    "why": "A el IS grava a todas las personas jurídicas (SA, SL, cooperativas, fundaciones, etc.), no solo a las SA; las SL son contribuyentes del IS con carácter general. C el IS es un tributo estatal gestionado por la AEAT, no un tributo local. D el tipo general del IS es el 25% desde 2016; el 35% era el tipo anterior a las sucesivas reformas.",
+    "norma": "Ley 27/2014, de 27 de noviembre, del Impuesto sobre Sociedades",
+    "articulo": "7 y 29 LIS"
+  },
+  {
+    "id": "B4T35-012",
+    "bloque": 4,
+    "tema": 35,
+    "test": 35,
+    "dificultad": "media",
+    "pregunta": "¿Cuál es la naturaleza jurídica del IVA y qué operaciones grava?",
+    "opciones": {
+      "A": "El IVA solo grava las operaciones entre empresas (B2B); las ventas al consumidor final están exentas del impuesto.",
+      "B": "El IVA es un impuesto directo que grava la capacidad económica del vendedor de bienes; el comprador no tiene ninguna relación jurídica con el impuesto.",
+      "C": "El IVA solo grava las importaciones de bienes de países terceros; las operaciones interiores entre empresas quedan fuera de su ámbito.",
+      "D": "El IVA es un impuesto indirecto que grava el consumo; recae sobre las entregas de bienes y prestaciones de servicios realizadas por empresarios o profesionales en el ejercicio de su actividad empresarial o profesional, las adquisiciones intracomunitarias de bienes y las importaciones; el empresario actúa como recaudador del impuesto, siendo el consumidor final quien soporta efectivamente la carga tributaria."
+    },
+    "correcta": "D",
+    "explicacion": "El IVA (Ley 37/1992) es un impuesto indirecto, multifásico y neutral que grava el consumo final. Sus características esenciales son: (1) Impuesto sobre el consumo: quien soporta definitivamente el impuesto es el consumidor final que no puede repercutirlo. (2) Multifásico: se aplica en cada fase del proceso de producción y distribución, pero el mecanismo de deducción de las cuotas soportadas lo convierte en un impuesto que técnicamente solo grava el valor añadido en cada etapa. (3) Neutralidad: no distorsiona las decisiones de producción porque los empresarios recuperan el IVA soportado mediante deducciones. Las operaciones gravadas (art. 1 LIVA) son: entregas de bienes y prestaciones de servicios efectuadas por empresarios o profesionales a título oneroso con carácter habitual; adquisiciones intracomunitarias de bienes (dentro de la UE); e importaciones de bienes (procedentes de fuera de la UE). Existen operaciones exentas (servicios médicos, educación, seguros, etc.) y operaciones no sujetas.",
+    "why": "A el IVA grava tanto las operaciones entre empresas como las que llegan al consumidor final; la diferencia es que el empresario puede deducir el IVA soportado mientras que el consumidor final no. B el IVA es un impuesto indirecto, no directo; el vendedor no soporta el impuesto sino que lo repercute al comprador. C el IVA grava tanto las operaciones interiores como las adquisiciones intracomunitarias e importaciones; las operaciones interiores son la parte más importante de su base.",
+    "norma": "Ley 37/1992, de 28 de diciembre, del Impuesto sobre el Valor Añadido",
+    "articulo": "1-4 LIVA"
+  },
+  {
+    "id": "B4T35-013",
+    "bloque": 4,
+    "tema": 35,
+    "test": 35,
+    "dificultad": "media",
+    "pregunta": "¿Cómo se organiza el sistema tributario español entre los distintos niveles de la Administración (Estado, CCAA y entidades locales)?",
+    "opciones": {
+      "A": "El sistema tributario español se organiza en tres niveles: el Estado gestiona los principales tributos (IRPF, IS, IVA, impuestos especiales) a través de la AEAT, con cesión parcial a las CCAA; las Comunidades Autónomas gestionan tributos cedidos (Sucesiones y Donaciones, ITPAJD, etc.) y pueden crear tributos propios; los municipios recaudan sus tributos propios (IBI, IAE, IVTM, IIVTNU, ICIO), gestionados por los propios ayuntamientos o entes supramunicipales.",
+      "B": "Solo el Estado puede establecer y gestionar tributos en España; las CCAA y las entidades locales carecen de toda potestad tributaria.",
+      "C": "Las CCAA tienen competencia exclusiva sobre todos los tributos que se devenguen en su territorio, incluidos el IVA y el IS; el Estado solo fija los límites máximos.",
+      "D": "Los municipios son los únicos entes con potestad para fijar los tipos impositivos de todos los tributos; el Estado y las CCAA solo tienen competencia normativa sobre la base imponible."
+    },
+    "correcta": "A",
+    "explicacion": "El sistema tributario español es descentralizado, con potestades tributarias en tres niveles: (1) Estado: establece y gestiona mediante la AEAT los grandes impuestos (IRPF, IS, IVA, impuestos especiales sobre alcohol, tabaco, hidrocarburos, electricidad). Parte de la recaudación del IRPF, IVA e impuestos especiales se cede a las CCAA de régimen común. (2) Comunidades Autónomas: gestionan tributos cedidos por el Estado (Impuesto sobre Sucesiones y Donaciones, Impuesto sobre Transmisiones Patrimoniales y Actos Jurídicos Documentados, Impuesto sobre el Patrimonio, ciertas tasas) y pueden crear tributos propios que no supongan doble imposición con los estatales o locales. Las CCAA de régimen foral (País Vasco, Navarra) tienen mayor autonomía tributaria mediante el Concierto o Convenio Económico. (3) Entidades locales: Ley de Haciendas Locales (RDL 2/2004); tributos propios de los municipios: IBI, IAE, IVTM (impuesto sobre vehículos), IIVTNU (plusvalía municipal), ICIO (construcciones e instalaciones).",
+    "why": "B las CCAA y los entes locales sí tienen potestad tributaria reconocida en el art. 133 CE y desarrollada en la LOFCA y la Ley de Haciendas Locales. C las CCAA no tienen competencia sobre el IVA ni el IS, que son tributos estatales armonizados (el IVA es un tributo de la UE adaptado internamente). D los municipios no fijan los tipos de todos los tributos; su potestad se limita a los tributos locales dentro de los márgenes establecidos por la Ley de Haciendas Locales.",
+    "norma": "Constitución Española art. 133; LOFCA (LO 8/1980); RDL 2/2004 (Haciendas Locales)",
+    "articulo": "133 CE; 6 LOFCA; 59-65 TRLHL"
+  },
+  {
+    "id": "B4T35-014",
+    "bloque": 4,
+    "tema": 35,
+    "test": 35,
+    "dificultad": "media",
+    "pregunta": "¿Qué diferencia al contribuyente del sustituto del contribuyente como obligados tributarios?",
+    "opciones": {
+      "A": "El sujeto pasivo siempre coincide con quien realiza el hecho imponible; no puede haber sujeto pasivo distinto del que genera la renta.",
+      "B": "El sustituto del contribuyente es quien actúa voluntariamente en nombre del obligado tributario; siempre requiere poder notarial.",
+      "C": "El contribuyente es quien realiza el hecho imponible y es el sujeto pasivo principal; el sustituto es quien, por imposición directa de la ley, queda obligado a cumplir la obligación tributaria en lugar del contribuyente, desplazando a este de la relación con la Administración, con derecho posterior a repercutir el tributo sobre el contribuyente desplazado.",
+      "D": "El concepto de sustituto del contribuyente fue suprimido por la LGT de 2003; en la actualidad solo existe la figura del contribuyente."
+    },
+    "correcta": "C",
+    "explicacion": "El art. 36 LGT distingue entre distintos tipos de obligados tributarios: (1) Contribuyente (art. 36.2 LGT): el sujeto pasivo que realiza el hecho imponible. Es el sujeto principal de la relación tributaria; soporta la carga económica del tributo. (2) Sustituto del contribuyente (art. 36.3 LGT): el sujeto pasivo que, por imposición de la ley y en lugar del contribuyente, está obligado a cumplir la obligación tributaria principal y las demás obligaciones formales que de esta se deriven. El sustituto desplaza al contribuyente de la relación tributaria con la Administración. Tiene derecho a repercutir la cuota tributaria satisfecha sobre el contribuyente desplazado. Un ejemplo histórico era el contratista de obras que sustituía a los subcontratistas en el pago de ciertos tributos. Esta figura debe distinguirse del retenedor (obligado a practicar retenciones e ingresos a cuenta del IRPF), que no es sustituto sino un obligado tributario independiente.",
+    "why": "A el sujeto pasivo puede no coincidir con quien realiza el hecho imponible cuando opera la figura del sustituto del contribuyente. B el sustituto del contribuyente no actúa voluntariamente sino por imposición de la ley; no requiere poder notarial sino que deriva de la norma tributaria directamente. D el sustituto del contribuyente sigue vigente en la LGT de 2003 (art. 36.3); no fue suprimido.",
+    "norma": "Ley 58/2003, de 17 de diciembre, General Tributaria",
+    "articulo": "36 LGT"
+  },
+  {
+    "id": "B4T35-015",
+    "bloque": 4,
+    "tema": 35,
+    "test": 35,
+    "dificultad": "media",
+    "pregunta": "¿Qué son las exenciones tributarias y bajo qué principio formal deben establecerse?",
+    "opciones": {
+      "A": "Las exenciones tributarias pueden establecerse por reglamento; basta con que las apruebe el Gobierno mediante real decreto.",
+      "B": "Las exenciones tributarias son situaciones en las que, a pesar de realizarse el hecho imponible, la ley dispensa del pago del tributo; deben establecerse siempre mediante norma con rango de ley (reserva de ley, art. 8 LGT) y pueden ser subjetivas (en función del sujeto), objetivas (en función del objeto), totales o parciales.",
+      "C": "Las exenciones son idénticas a los supuestos de no sujeción; en ambos casos no se realiza el hecho imponible y no nace la obligación tributaria.",
+      "D": "Las exenciones son permanentes e irrevocables; una vez reconocida una exención, el legislador no puede suprimirla sin violar el principio de seguridad jurídica."
+    },
+    "correcta": "B",
+    "explicacion": "Las exenciones tributarias están reguladas en el art. 22 LGT: «Son supuestos de exención aquellos en que, a pesar de realizarse el hecho imponible, la ley exime del cumplimiento de la obligación tributaria principal.» Sus características son: (1) Reserva de ley: el art. 8.d) LGT exige que el establecimiento, modificación, supresión y prórroga de las exenciones se realice por ley (solo el legislador puede eximir de tributos, no el Reglamento). (2) Tipos de exenciones: subjetivas (por razón del sujeto: el Estado y los organismos públicos están exentos del IBI), objetivas (por razón del objeto: medicamentos al tipo 4% de IVA), totales (no pago alguno) o parciales (pago solo de una parte). (3) Las exenciones son revocables por el legislador (principio de irretroactividad salvo excepciones). (4) Diferencia con no sujeción: en la exención el hecho imponible se realiza; en la no sujeción no existe hecho imponible.",
+    "why": "A la reserva de ley en materia tributaria impide que las exenciones se establezcan por reglamento; la LGT es explícita al respecto. C en la exención sí se realiza el hecho imponible (a diferencia de la no sujeción); la exención es una dispensa legal posterior a la realización del presupuesto de hecho. D el legislador puede suprimir o modificar exenciones; no son irrevocables, aunque deben respetar el principio de irretroactividad de disposiciones restrictivas de derechos (art. 9.3 CE).",
+    "norma": "Ley 58/2003, de 17 de diciembre, General Tributaria",
+    "articulo": "8 y 22 LGT"
+  },
+  {
+    "id": "B4T35-016",
+    "bloque": 4,
+    "tema": 35,
+    "test": 35,
+    "dificultad": "media",
+    "pregunta": "¿Cuándo se inicia el período voluntario de pago y en qué consiste el período ejecutivo de recaudación?",
+    "opciones": {
+      "A": "La recaudación tributaria se realiza siempre mediante embargo de bienes; el contribuyente no tiene ningún plazo voluntario de ingreso.",
+      "B": "El período voluntario de pago es de 2 años para todos los tributos; transcurrido ese plazo, se inicia el período ejecutivo automáticamente.",
+      "C": "El período ejecutivo solo puede iniciarse mediante resolución judicial; la Administración tributaria no puede ejecutar la recaudación forzosa por sí misma.",
+      "D": "El período voluntario es el plazo en que el contribuyente puede satisfacer la deuda tributaria sin recargo, dentro de los plazos establecidos para cada tributo; el período ejecutivo se inicia automáticamente el día siguiente al vencimiento del período voluntario sin pago, habilitando a la Administración para recaudar por la vía de apremio con recargos del 5% (ejecutivo), 10% (apremio reducido) o 20% (apremio ordinario) según el momento del pago."
+    },
+    "correcta": "D",
+    "explicacion": "Los arts. 160-161 LGT regulan los períodos de recaudación: (1) Período voluntario: el contribuyente ingresa la deuda dentro de los plazos fijados por cada tributo (p.ej., en el IRPF: de abril a junio; en las liquidaciones giradas por la Administración: 1 mes desde la notificación). El pago en período voluntario no genera recargo alguno. (2) Período ejecutivo: se inicia el día siguiente al vencimiento del período voluntario sin que se haya producido el ingreso (art. 161 LGT). La Administración emite una providencia de apremio (título ejecutivo que habilita el embargo). Recargos del período ejecutivo (art. 28 LGT): recargo ejecutivo 5% si se paga tras iniciarse el período ejecutivo pero antes de la notificación de la providencia de apremio; recargo de apremio reducido 10% si se paga en el plazo abierto con la notificación del apremio; recargo de apremio ordinario 20% si no se paga en ese plazo, más intereses de demora. Los recargos son compatibles e incompatibles entre sí según el momento del pago.",
+    "why": "A el embargo es el último recurso dentro del período ejecutivo; antes se notifica la providencia de apremio y se da un plazo de pago. B el período voluntario no tiene una duración fija de 2 años; depende del tributo concreto. C la Administración tributaria tiene autotutela ejecutiva; puede embargar bienes sin necesidad de resolución judicial.",
+    "norma": "Ley 58/2003, de 17 de diciembre, General Tributaria",
+    "articulo": "160-161 y 28 LGT"
+  },
+  {
+    "id": "B4T35-017",
+    "bloque": 4,
+    "tema": 35,
+    "test": 35,
+    "dificultad": "dificil",
+    "pregunta": "¿Cuál es la clasificación presupuestaria de los ingresos públicos en el sistema español?",
+    "opciones": {
+      "A": "Los ingresos públicos se clasifican presupuestariamente en: ingresos de operaciones corrientes (impuestos directos —cap. 1—, indirectos —cap. 2—, tasas y otros ingresos —cap. 3—, transferencias corrientes —cap. 4— e ingresos patrimoniales —cap. 5—); ingresos de operaciones de capital (enajenación de inversiones reales —cap. 6— y transferencias de capital —cap. 7—); e ingresos de operaciones financieras (activos financieros —cap. 8— y pasivos financieros —cap. 9—).",
+      "B": "Los ingresos públicos solo se clasifican en tributarios y no tributarios; no existe clasificación económica presupuestaria adicional.",
+      "C": "Los ingresos públicos se clasifican siempre según su origen geográfico (nacionales, europeos e internacionales); la clasificación económica no se aplica en España.",
+      "D": "Los impuestos directos e indirectos son la única categoría de ingresos públicos presupuestarios; las tasas y contribuciones especiales no aparecen en el presupuesto."
+    },
+    "correcta": "A",
+    "explicacion": "La clasificación económica de los ingresos del Estado sigue la estructura de capítulos del presupuesto, de acuerdo con la Orden EHA/3565/2008 (que aprueba la estructura de los presupuestos de las entidades locales) y las instrucciones del Ministerio de Hacienda para los Presupuestos Generales del Estado. Los ingresos se dividen en tres grandes grupos: (1) Operaciones corrientes: cap. 1 (impuestos directos: IRPF, IS, IP), cap. 2 (impuestos indirectos: IVA, IE, ITPAJD), cap. 3 (tasas, precios públicos y otros ingresos), cap. 4 (transferencias corrientes de otras AAPP y de la UE) y cap. 5 (ingresos patrimoniales: dividendos, intereses, alquileres). (2) Operaciones de capital: cap. 6 (enajenación de inversiones reales: venta de inmuebles, terrenos) y cap. 7 (transferencias de capital: fondos estructurales UE, etc.). (3) Operaciones financieras: cap. 8 (activos financieros: cobro de préstamos concedidos, devolución de depósitos) y cap. 9 (pasivos financieros: emisión de deuda pública, préstamos recibidos).",
+    "why": "B existe una clasificación presupuestaria detallada por capítulos (1-9) ampliamente utilizada en la gestión presupuestaria española. C la clasificación geográfica del origen no es la clasificación económica presupuestaria estándar española. D las tasas aparecen en el cap. 3 del presupuesto de ingresos; son una parte relevante de los ingresos públicos.",
+    "norma": "Ley 47/2003, General Presupuestaria; Orden EHA/3565/2008",
+    "articulo": "27-28 LGP"
+  },
+  {
+    "id": "B4T35-018",
+    "bloque": 4,
+    "tema": 35,
+    "test": 35,
+    "dificultad": "dificil",
+    "pregunta": "¿Qué categorías de renta forman la base imponible general y la base imponible del ahorro en el IRPF?",
+    "opciones": {
+      "A": "La base imponible del IRPF solo está formada por los rendimientos del trabajo y las pensiones; las demás rentas tributan por otros impuestos.",
+      "B": "La base imponible del IRPF incluye únicamente rendimientos del trabajo y del capital mobiliario; las actividades económicas tienen un tratamiento fiscal completamente separado.",
+      "C": "La base imponible general del IRPF incluye rendimientos del trabajo, rendimientos del capital inmobiliario, rendimientos de actividades económicas, imputaciones de rentas (rentas imputadas de inmuebles, transparencia fiscal internacional) y ganancias y pérdidas patrimoniales que no deriven de transmisiones; la base del ahorro incluye rendimientos del capital mobiliario (intereses, dividendos) y las ganancias y pérdidas patrimoniales derivadas de transmisiones de elementos patrimoniales.",
+      "D": "En el IRPF, todas las rentas tributan en la base general; no existe la distinción entre base general y base del ahorro."
+    },
+    "correcta": "C",
+    "explicacion": "La LIRPF distribuye las distintas fuentes de renta entre las dos bases imponibles: (1) Base imponible general (art. 45 LIRPF): rendimientos del trabajo (salarios, pensiones, prestaciones de desempleo); rendimientos del capital inmobiliario (arrendamiento de inmuebles); rendimientos de actividades económicas (autónomos, empresarios individuales); determinados rendimientos del capital mobiliario (cuando no forman parte de la base del ahorro); imputaciones de rentas (rentas inmobiliarias imputadas de inmuebles no arrendados distintos de la vivienda habitual, rentas en régimen de transparencia fiscal internacional, DAFO, etc.); y ganancias y pérdidas patrimoniales que no procedan de transmisiones de elementos patrimoniales (p.ej., premios, subvenciones). (2) Base imponible del ahorro (art. 46 LIRPF): rendimientos del capital mobiliario (intereses de cuentas bancarias y de depósitos, dividendos, rendimientos de seguros de vida y de planes de pensiones en rescate, etc.) y ganancias y pérdidas patrimoniales derivadas de transmisiones (ventas de inmuebles, acciones, fondos de inversión, etc.).",
+    "why": "A el IRPF grava todas las rentas del contribuyente, no solo trabajo y pensiones; las actividades económicas, los arrendamientos y las ganancias patrimoniales son igualmente objeto del IRPF. B las actividades económicas sí forman parte de la base imponible general del IRPF; no tienen tratamiento separado. D la distinción entre base general y base del ahorro es fundamental en el IRPF desde 2007; determina el tipo impositivo aplicable.",
+    "norma": "Ley 35/2006, del IRPF",
+    "articulo": "45-46 LIRPF"
+  },
+  {
+    "id": "B4T35-019",
+    "bloque": 4,
+    "tema": 35,
+    "test": 35,
+    "dificultad": "dificil",
+    "pregunta": "¿Cuál es la cadena de cálculo de la deuda tributaria: base imponible, base liquidable, cuota íntegra, cuota líquida y cuota diferencial?",
+    "opciones": {
+      "A": "La base liquidable y la base imponible son conceptos idénticos que la LGT usa indistintamente.",
+      "B": "La cadena de cálculo opera del siguiente modo: (1) base imponible: magnitud que cuantifica el hecho imponible; (2) base liquidable: base imponible menos las reducciones previstas en la ley; (3) cuota íntegra: resultado de aplicar el tipo de gravamen a la base liquidable; (4) cuota líquida: cuota íntegra menos las deducciones y bonificaciones aplicables; (5) cuota diferencial: cuota líquida menos las retenciones, pagos a cuenta y pagos fraccionados ya satisfechos; puede ser positiva (a ingresar) o negativa (a devolver).",
+      "C": "La base liquidable es siempre mayor que la base imponible, ya que incorpora los ingresos del período anterior no declarados.",
+      "D": "La cuota diferencial es siempre positiva; si resulta negativa, el contribuyente pierde el derecho a su devolución."
+    },
+    "correcta": "B",
+    "explicacion": "El proceso de liquidación tributaria sigue una cadena articulada en los arts. 50-59 LGT: (1) Base imponible (art. 50): magnitud dineraria o no dineraria que cuantifica el hecho imponible (p.ej., en IRPF: suma de rendimientos y ganancias). (2) Base liquidable (art. 54): resultado de aplicar a la base imponible las reducciones establecidas por la ley (p.ej., en IRPF: aportaciones a planes de pensiones, mínimo personal y familiar). (3) Cuota íntegra (art. 56): resultado de aplicar el tipo de gravamen o escala a la base liquidable. (4) Cuota líquida (art. 57): cuota íntegra minorada con las deducciones o bonificaciones aplicables (p.ej., en IRPF: deducción por inversión en vivienda habitual, por maternidad, por familia numerosa, etc.); nunca puede ser negativa. (5) Cuota diferencial (art. 59): cuota líquida menos los pagos anticipados ya realizados (retenciones practicadas por el empleador, pagos fraccionados, ingresos a cuenta); si es positiva: a ingresar; si es negativa: a devolver.",
+    "why": "A la base liquidable y la base imponible son conceptos distintos: la base liquidable es la base imponible después de aplicar las reducciones; puede coincidir si no hay reducciones. C la base liquidable es siempre igual o menor que la base imponible (las reducciones la minoran, nunca la amplían). D la cuota diferencial puede perfectamente ser negativa cuando las retenciones y pagos anticipados superan la cuota líquida; en ese caso la AEAT devuelve el exceso.",
+    "norma": "Ley 58/2003, de 17 de diciembre, General Tributaria",
+    "articulo": "50-59 LGT"
+  },
+  {
+    "id": "B4T35-020",
+    "bloque": 4,
+    "tema": 35,
+    "test": 35,
+    "dificultad": "dificil",
+    "pregunta": "¿En qué consiste el principio constitucional de no confiscatoriedad del sistema tributario y cómo lo ha interpretado el Tribunal Constitucional?",
+    "opciones": {
+      "A": "El principio de no confiscatoriedad prohíbe absolutamente cualquier tributo cuyo tipo marginal supere el 33%; el TC ha anulado todos los tributos que superan ese porcentaje.",
+      "B": "La no confiscatoriedad es un principio meramente declarativo sin eficacia jurídica real; el TC nunca lo ha aplicado para anular un tributo.",
+      "C": "La no confiscatoriedad se refiere exclusivamente al Impuesto sobre el Patrimonio; el IRPF y el IS quedan fuera de su ámbito de aplicación.",
+      "D": "El principio de no confiscatoriedad del art. 31.1 CE establece que el sistema tributario en su conjunto no puede privar a los contribuyentes de sus rentas y bienes de forma equivalente a una expropiación, vaciando el derecho de propiedad del art. 33 CE; el Tribunal Constitucional lo interpreta en relación con el sistema tributario en su globalidad, sin que sea suficiente para declarar inconstitucional un tributo aislado por tener un tipo elevado, sino solo cuando el efecto combinado suponga equivalencia a una confiscación patrimonial."
+    },
+    "correcta": "D",
+    "explicacion": "El art. 31.1 CE prohíbe que el sistema tributario «tenga alcance confiscatorio». El Tribunal Constitucional ha interpretado este principio en diversas sentencias (STC 150/1990, 14/1998, entre otras) de la siguiente manera: (1) Se refiere al sistema tributario en su conjunto, no a cada tributo aisladamente: un tipo marginal del IRPF del 47% no es por sí solo confiscatorio. (2) Existe confiscatoriedad cuando la carga tributaria total vacía el derecho de propiedad, es decir, cuando impide al contribuyente disponer de cualquier parte de su renta o riqueza (efecto económico equivalente a una expropiación sin indemnización). (3) El TC declaró inconstitucional el Impuesto Municipal sobre el Incremento del Valor de los Terrenos de Naturaleza Urbana (plusvalía municipal) cuando grababa incrementos de valor que no existían realmente, vulnerando la capacidad económica y produciendo un efecto confiscatorio en esas situaciones (SSTC 59/2017 y 182/2021). (4) El principio opera en conexión con la capacidad económica (art. 31.1 CE) y la propiedad privada (art. 33 CE).",
+    "why": "A no existe ningún límite porcentual absoluto del 33% en el ordenamiento; el TC no ha establecido ese umbral. B el principio sí tiene eficacia jurídica; ha sido invocado para anular aspectos del IIVTNU (plusvalía municipal). C la no confiscatoriedad no se limita al IP; es un principio general que afecta a todo el sistema tributario.",
+    "norma": "Constitución Española; Ley 58/2003, LGT",
+    "articulo": "31.1 CE; 33 CE; SSTC 59/2017 y 182/2021"
+  }
+]
