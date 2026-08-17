@@ -1,0 +1,382 @@
+[
+  {
+    "id": "B5T44-001",
+    "bloque": 5,
+    "tema": 44,
+    "test": 44,
+    "dificultad": "facil",
+    "pregunta": "¿Cómo se abre el Explorador de archivos de Windows y cuáles son sus partes principales?",
+    "opciones": {
+      "A": "El Explorador de archivos solo puede abrirse desde el menú Inicio buscando su nombre; no existen atajos de teclado ni iconos directos para acceder a él.",
+      "B": "El Explorador de archivos no es una aplicación del sistema operativo; debe descargarse e instalarse desde Internet para gestionar los archivos del ordenador.",
+      "C": "El Explorador de archivos (File Explorer) se abre con el atajo Win+E, desde el icono de la carpeta en la barra de tareas o desde el menú Inicio; sus partes principales son: la barra de herramientas o cinta (ribbon) con acciones frecuentes (nueva carpeta, copiar, pegar, eliminar, etc.), el panel de navegación izquierdo (Acceso rápido, Este equipo, Red, OneDrive y árbol de carpetas), la barra de direcciones (muestra la ruta actual y permite navegar), la caja de búsqueda (filtrado en tiempo real) y el panel de contenido central (muestra archivos y carpetas de la ubicación actual).",
+      "D": "El Explorador de archivos de Windows es el mismo programa que el navegador web Microsoft Edge; ambos usan la misma interfaz para navegar por carpetas locales e Internet."
+    },
+    "correcta": "C",
+    "explicacion": "El Explorador de archivos (File Explorer, anteriormente llamado Explorador de Windows en versiones previas a Windows 8) es el gestor de archivos integrado en Windows. Formas de abrirlo: (1) Win+E (atajo más rápido). (2) Clic en el icono de carpeta en la barra de tareas. (3) Clic derecho en el botón Inicio > Explorador de archivos. (4) Búsqueda en el menú Inicio: «Explorador de archivos». Sus partes principales: (a) Panel de navegación (izquierda): árbol jerárquico con Acceso rápido (carpetas fijadas y recientes), OneDrive, Este equipo (unidades locales, dispositivos), Red; facilita la navegación sin necesidad de usar la barra de direcciones. (b) Barra de direcciones: muestra la ruta de la carpeta actual como migas de pan (breadcrumbs) clicables; permite escribir una ruta directamente o navegar hacia atrás/adelante. (c) Caja de búsqueda: busca archivos en la carpeta actual y subcarpetas en tiempo real. (d) Cinta de herramientas (Windows 10) / barra de comandos (Windows 11): acciones contextuales según la selección (copiar, pegar, nueva carpeta, propiedades, etc.). (e) Panel de contenido central: muestra los archivos y carpetas de la ubicación actual en la vista seleccionada. (f) Barra de estado (inferior): muestra el número de elementos y el tamaño de los seleccionados.",
+    "why": "A se puede abrir con Win+E, el icono de la barra de tareas, clic derecho en Inicio y la búsqueda; existen múltiples métodos. B el Explorador de archivos es una aplicación integrada en Windows (Explorer.exe), no requiere descarga. D el Explorador de archivos y Microsoft Edge son programas distintos; Edge es un navegador web y el Explorador es el gestor de archivos del sistema.",
+    "norma": "Windows 10/11 — Explorador de archivos",
+    "articulo": "Explorador de archivos (File Explorer)"
+  },
+  {
+    "id": "B5T44-002",
+    "bloque": 5,
+    "tema": 44,
+    "test": 44,
+    "dificultad": "facil",
+    "pregunta": "¿Qué modos de vista ofrece el Explorador de archivos para mostrar el contenido de una carpeta?",
+    "opciones": {
+      "A": "El Explorador de archivos solo puede mostrar los archivos en una lista de nombres de texto; no ofrece otras opciones de visualización.",
+      "B": "El Explorador de archivos solo tiene dos vistas: iconos grandes y lista; no es posible ver miniaturas ni detalles de los archivos.",
+      "C": "El Explorador de archivos no permite cambiar la vista; siempre muestra los archivos de la misma forma predeterminada por el sistema.",
+      "D": "El Explorador de archivos ofrece múltiples vistas seleccionables desde el menú Ver o la cinta: Iconos muy grandes, Iconos grandes, Iconos medianos, Iconos pequeños (muestran miniaturas del contenido cuando es posible), Lista (nombres sin miniaturas, ideal para muchos archivos), Detalles (tabla con nombre, fecha de modificación, tipo y tamaño; permite ordenar por cualquier columna), Mosaicos y Contenido (más información por elemento); la vista por defecto varía según el tipo de carpeta (Imágenes usa iconos grandes, Documentos usa detalles)."
+    },
+    "correcta": "D",
+    "explicacion": "El Explorador de archivos permite adaptar la visualización del contenido según las necesidades del usuario. Las vistas disponibles son: (1) Iconos muy grandes (Extra large icons): miniaturas o iconos de gran tamaño; ideal para carpetas de imágenes o vídeos. (2) Iconos grandes (Large icons): tamaño intermedio grande con miniatura. (3) Iconos medianos (Medium icons): tamaño estándar. (4) Iconos pequeños (Small icons): iconos pequeños sin miniaturas. (5) Lista (List): solo nombres, en columnas; útil para carpetas con muchos archivos. (6) Detalles (Details): tabla con columnas de Nombre, Fecha de modificación, Tipo, Tamaño; permite hacer clic en el encabezado de cada columna para ordenar ascendente o descendente; la más útil para gestión de archivos en entornos de trabajo. (7) Mosaicos (Tiles): iconos medianos con nombre y tipo de archivo. (8) Contenido (Content): muestra el nombre con información adicional como autor, fecha y tamaño. Para cambiar la vista: menú «Ver» en la cinta (Windows 10) o el botón de vista en la barra de comandos (Windows 11), o clic derecho en el área vacía de la carpeta > Ver.",
+    "why": "A el Explorador ofrece múltiples vistas, incluyendo miniaturas, iconos de distintos tamaños, lista y detalles. B hay muchas más vistas que las dos mencionadas. C el Explorador permite cambiar la vista fácilmente desde el menú Ver o con clic derecho.",
+    "norma": "Windows 10/11 — Explorador de archivos — Vistas",
+    "articulo": "Vistas del Explorador de archivos"
+  },
+  {
+    "id": "B5T44-003",
+    "bloque": 5,
+    "tema": 44,
+    "test": 44,
+    "dificultad": "facil",
+    "pregunta": "¿Cómo funciona la barra de direcciones del Explorador de archivos?",
+    "opciones": {
+      "A": "La barra de direcciones del Explorador solo muestra la ruta actual en formato de texto (p. ej., C:\\Usuarios\\Usuario\\Documentos) y permite escribir una nueva ruta directamente; al pulsar Enter navega a esa ubicación; si se escribe una URL web (http://...), abre el navegador Edge automáticamente; los botones Atrás y Adelante permiten navegar por el historial de ubicaciones visitadas; cada segmento de la ruta es un botón clicable (breadcrumb) que permite saltar directamente a ese nivel de la jerarquía de carpetas.",
+      "B": "La barra de direcciones del Explorador solo sirve para mostrar la ruta; no es posible escribir en ella ni navegar haciendo clic en sus elementos.",
+      "C": "La barra de direcciones del Explorador solo acepta rutas de red (\\\\servidor\\carpeta); no puede mostrar ni navegar por rutas de disco local.",
+      "D": "La barra de direcciones del Explorador de archivos no existe en Windows 11; fue eliminada en esa versión para simplificar la interfaz."
+    },
+    "correcta": "A",
+    "explicacion": "La barra de direcciones del Explorador de archivos es uno de sus elementos más versátiles: (1) Navegación por breadcrumbs: muestra la ruta actual como una serie de segmentos separados (p. ej., «Este equipo > Disco local (C:) > Usuarios > Nombre > Documentos»); cada segmento es un botón clicable que lleva a esa carpeta; la flecha «▶» entre segmentos muestra un menú desplegable con las subcarpetas de ese nivel. (2) Edición directa: hacer clic en un área vacía de la barra o pulsar Alt+D o F4 la convierte en un campo de texto donde se puede escribir una ruta directamente (p. ej., C:\\Windows\\System32) y pulsar Enter para navegar. (3) Acceso especial: se pueden escribir nombres de ubicaciones especiales (p. ej., «%AppData%», «%UserProfile%», «shell:startup») para ir directamente a carpetas del sistema. (4) URLs web: si se escribe una URL de internet, el Explorador la abre en el navegador predeterminado (no muestra el contenido web dentro del Explorador). (5) Historial: los botones «←» (Atrás) y «→» (Adelante) de la barra de navegación recorren el historial de carpetas visitadas en la sesión actual; el botón «↑» sube al nivel padre de la carpeta actual.",
+    "why": "B la barra de direcciones sí permite edición directa de la ruta (haciendo clic en ella o con Alt+D); los breadcrumbs son clicables. C la barra de direcciones acepta rutas locales (C:\\...), rutas UNC de red (\\\\servidor\\recurso) e incluso nombres de ubicaciones especiales. D la barra de direcciones sigue presente en Windows 11; es un elemento fundamental del Explorador.",
+    "norma": "Windows 10/11 — Explorador de archivos — Barra de direcciones",
+    "articulo": "Barra de direcciones del Explorador de archivos"
+  },
+  {
+    "id": "B5T44-004",
+    "bloque": 5,
+    "tema": 44,
+    "test": 44,
+    "dificultad": "facil",
+    "pregunta": "¿Cómo se realizan las operaciones básicas de copiar, cortar, pegar y mover archivos en el Explorador de Windows?",
+    "opciones": {
+      "A": "En Windows, copiar (Ctrl+C) coloca una copia del archivo en el portapapeles sin eliminar el original; cortar (Ctrl+X) marca el archivo para moverlo (el original desaparece cuando se pega); pegar (Ctrl+V) deposita el contenido del portapapeles en la carpeta actual; también se pueden arrastrar archivos entre carpetas (arrastar = mover si es la misma unidad, copiar si es distinta unidad; mantener Ctrl mientras se arrastra siempre copia; Mayús siempre mueve); el clic derecho ofrece las mismas opciones en el menú contextual.",
+      "B": "En el Explorador de Windows solo es posible copiar archivos usando el menú derecho; los atajos de teclado Ctrl+C y Ctrl+V no funcionan en el Explorador de archivos.",
+      "C": "En el Explorador de Windows, arrastrar un archivo de una carpeta a otra siempre lo copia sin eliminar el original; no existe ningún modo de mover un archivo mediante el ratón.",
+      "D": "En el Explorador de Windows, copiar y mover son la misma operación; la diferencia solo está en si el archivo se pega en la misma carpeta o en una diferente."
+    },
+    "correcta": "A",
+    "explicacion": "Las operaciones de gestión de archivos en el Explorador se realizan de varias formas: (1) Teclado (atajos): Ctrl+C (copiar al portapapeles, el original permanece), Ctrl+X (cortar: el archivo queda «pendiente de mover», el original desaparece cuando se ejecuta el pegado), Ctrl+V (pegar el contenido del portapapeles en la carpeta actual). (2) Cinta de herramientas / barra de comandos: botones Copiar, Cortar, Pegar. (3) Menú contextual (clic derecho): opciones Copiar, Cortar, Pegar, además de Copiar a, Mover a (en algunas versiones). (4) Arrastrar y soltar (drag and drop): (a) Dentro de la misma unidad (p. ej., de C:\\Docs a C:\\Backup): arrastar mueve el archivo; para copiar hay que mantener pulsada la tecla Ctrl mientras se arrastra (el cursor muestra un «+»). (b) Entre unidades distintas (p. ej., de C: a D:): arrastar copia el archivo; para mover hay que mantener Mayús mientras se arrastra. (c) Hacia un acceso directo o carpeta comprimida puede variar. (5) Selección múltiple: Ctrl+clic (selección individual no contigua), Mayús+clic (selección de rango contiguo), Ctrl+A (seleccionar todo).",
+    "why": "B los atajos Ctrl+C, Ctrl+X y Ctrl+V funcionan perfectamente en el Explorador de archivos. C al arrastrar dentro de la misma unidad, el comportamiento predeterminado es mover (no copiar); entre unidades distintas es copiar. D copiar y mover son operaciones distintas: copiar mantiene el original; mover lo elimina de la ubicación de origen.",
+    "norma": "Windows 10/11 — Explorador de archivos — Operaciones con archivos",
+    "articulo": "Copiar, cortar, pegar y mover en el Explorador"
+  },
+  {
+    "id": "B5T44-005",
+    "bloque": 5,
+    "tema": 44,
+    "test": 44,
+    "dificultad": "facil",
+    "pregunta": "¿Qué es el panel de Acceso rápido del Explorador de archivos y cómo se usa?",
+    "opciones": {
+      "A": "El Acceso rápido es el menú de inicio del ordenador; muestra las aplicaciones instaladas más recientemente.",
+      "B": "El Acceso rápido es una zona del panel de navegación izquierdo del Explorador que muestra: las carpetas que el usuario ha fijado (anclado) manualmente para acceder a ellas rápidamente y las carpetas y archivos usados recientemente (acceso frecuente); el usuario puede fijar cualquier carpeta en el Acceso rápido arrastrándola al panel o con clic derecho > Anclar al acceso rápido; también puede quitar elementos fijados; facilita el acceso a las ubicaciones de trabajo habitual sin navegar por toda la jerarquía de carpetas.",
+      "C": "El Acceso rápido no existe en Windows 11; fue sustituido completamente por la sección Inicio del Explorador.",
+      "D": "El Acceso rápido es la barra de herramientas de acceso rápido que aparece en la cinta del Explorador, con botones de operaciones frecuentes como Nueva carpeta y Eliminar."
+    },
+    "correcta": "B",
+    "explicacion": "El Acceso rápido (Quick Access) es la sección superior del panel de navegación izquierdo del Explorador de archivos, introducida en Windows 10. Tiene dos tipos de elementos: (1) Carpetas ancladas (pinned): carpetas que el usuario ha fijado manualmente; permanecen en el Acceso rápido hasta que el usuario las desancla; por defecto incluyen Escritorio, Descargas, Documentos e Imágenes; para anclar: arrastrar una carpeta al panel de navegación hasta que aparezca «Anclar a Acceso rápido», o clic derecho sobre la carpeta > «Anclar a Acceso rápido». (2) Carpetas y archivos recientes/frecuentes: el Explorador añade automáticamente las carpetas visitadas con más frecuencia y los archivos abiertos recientemente; se pueden eliminar individualmente o desactivar esta función desde Opciones del Explorador. Configuración: se puede desactivar que muestre archivos y carpetas recientes desde Vista > Opciones > en la pestaña General, desmarcar las opciones de «Archivos usados recientemente» y «Carpetas usadas con frecuencia». En Windows 11, el Acceso rápido continúa presente aunque la pantalla de inicio del Explorador se denomina «Inicio» (Home).",
+    "why": "A el Acceso rápido es una sección del panel de navegación del Explorador, no el menú de inicio del sistema. C el Acceso rápido sigue presente en Windows 11 (aunque la pantalla de inicio del Explorador se ha rediseñado). D la barra de herramientas de acceso rápido de la cinta (Quick Access Toolbar) es otro elemento distinto; el «Acceso rápido» que aparece en el panel de navegación es la ubicación de carpetas frecuentes y ancladas.",
+    "norma": "Windows 10/11 — Explorador de archivos — Acceso rápido",
+    "articulo": "Acceso rápido en el Explorador de archivos"
+  },
+  {
+    "id": "B5T44-006",
+    "bloque": 5,
+    "tema": 44,
+    "test": 44,
+    "dificultad": "facil",
+    "pregunta": "¿Cómo se renombran archivos y carpetas en el Explorador de Windows?",
+    "opciones": {
+      "A": "Para renombrar un archivo o carpeta en el Explorador existen varios métodos: seleccionar y pulsar F2 (activa el modo de edición del nombre directamente), hacer clic derecho > Cambiar nombre, o hacer dos clics lentos (no doble clic) sobre el nombre para editarlo; una vez en modo edición, se escribe el nuevo nombre y se confirma con Enter o se cancela con Escape; al renombrar, la extensión del archivo (p. ej., .docx, .xlsx) debe conservarse si no se desea cambiar el tipo de archivo asociado.",
+      "B": "Los archivos y carpetas de Windows no pueden renombrarse desde el Explorador; es necesario abrir la línea de comandos y usar el comando «ren» para cambiar el nombre.",
+      "C": "Para renombrar un archivo en Windows hay que abrirlo con el programa asociado y guardarlo con un nombre diferente desde el menú Archivo > Guardar como.",
+      "D": "En el Explorador de Windows, renombrar un archivo elimina automáticamente el archivo original y crea uno nuevo con el nuevo nombre en una carpeta diferente."
+    },
+    "correcta": "A",
+    "explicacion": "Renombrar (cambiar el nombre) de archivos y carpetas en el Explorador de archivos: (1) Método de teclado (F2): seleccionar el archivo o carpeta y pulsar F2; el nombre se resalta en modo edición permitiendo escribir el nuevo nombre; Enter confirma, Escape cancela. (2) Menú contextual: clic derecho sobre el elemento > Cambiar nombre (o «Rename» en Windows 11 en inglés). (3) Dos clics lentos: hacer clic en el elemento para seleccionarlo, esperar un momento y volver a hacer clic sobre el nombre (sin llegar a hacer doble clic, que abriría el archivo); el nombre entra en modo edición. (4) Consideraciones sobre extensiones: la extensión de archivo (.docx, .xlsx, .pdf, etc.) forma parte del nombre completo del archivo; si el Explorador está configurado para ocultar las extensiones conocidas (la configuración predeterminada), al renombrar solo se ve el nombre sin extensión y el riesgo de borrar la extensión es menor; si las extensiones están visibles, hay que tener cuidado de no eliminarlas accidentalmente al renombrar, pues Windows puede perder la asociación con el programa y mostrar un aviso de advertencia. (5) Renombrado masivo: seleccionar varios archivos y pulsar F2 renombra todos con el mismo nombre base añadiendo un número entre paréntesis (1), (2), (3)...",
+    "why": "B se puede renombrar directamente desde el Explorador con F2 o el menú contextual; la línea de comandos (ren) es un método alternativo más avanzado. C guardar con otro nombre crea una copia del documento, no renombra el archivo original; el método del programa no equivale a renombrar. D renombrar un archivo en el Explorador solo cambia el nombre del archivo en su ubicación actual; no lo mueve ni crea copias.",
+    "norma": "Windows 10/11 — Explorador de archivos — Renombrar",
+    "articulo": "Renombrar archivos y carpetas en el Explorador"
+  },
+  {
+    "id": "B5T44-007",
+    "bloque": 5,
+    "tema": 44,
+    "test": 44,
+    "dificultad": "media",
+    "pregunta": "¿Cómo funciona la búsqueda integrada del Explorador de archivos y cuáles son sus opciones avanzadas?",
+    "opciones": {
+      "A": "La búsqueda del Explorador solo busca por nombre de archivo exacto y distingue mayúsculas de minúsculas; no admite caracteres comodín ni búsquedas por contenido.",
+      "B": "La búsqueda del Explorador busca en toda la unidad C: independientemente de la carpeta en la que se encuentre el usuario al iniciar la búsqueda.",
+      "C": "El Explorador solo muestra los resultados de búsqueda de Windows Search (el índice); si un archivo no está indexado, el Explorador no puede encontrarlo aunque exista en el disco.",
+      "D": "La búsqueda del Explorador filtra los archivos de la carpeta actual y sus subcarpetas a medida que el usuario escribe; admite comodines (* para cualquier cadena, ? para un carácter); permite filtrar por fecha de modificación, tipo de archivo y tamaño desde la pestaña Búsqueda de la cinta; también admite operadores avanzados como tipo:documento, fecha:esta semana, tamaño:>1MB para refinar los resultados; Windows Search (servicio de indexación) acelera la búsqueda en las ubicaciones indexadas."
+    },
+    "correcta": "D",
+    "explicacion": "La búsqueda del Explorador de archivos tiene las siguientes características: (1) Ámbito: por defecto busca en la carpeta actual y todas sus subcarpetas; para buscar en todo el equipo, el usuario debe navegar a «Este equipo» antes de buscar. (2) Comportamiento en tiempo real: los resultados se actualizan a medida que el usuario escribe en la caja de búsqueda. (3) Comodines: el asterisco (*) representa cualquier cadena de caracteres (ej. *.pdf busca todos los PDF); la interrogación (?) representa un solo carácter. (4) Filtros visuales: una vez iniciada la búsqueda, aparece la pestaña «Búsqueda» en la cinta con filtros de: Fecha de modificación (hoy, esta semana, este mes, este año), Tipo de archivo (documento, imagen, música, vídeo, carpeta), Tamaño. (5) Operadores avanzados: se pueden escribir directamente en la caja de búsqueda para refinar: tipo:documento, tipo:imagen, fecha:ayer, tamaño:>1MB, nombre:informe, contenido:presupuesto (busca dentro del texto de archivos indexados). (6) Windows Search: el servicio de indexación crea un índice de las ubicaciones configuradas (Documentos, Imágenes, etc.) para acelerar las búsquedas; sin indexación, la búsqueda es más lenta (rastreo completo del disco). (7) En carpetas no indexadas: el Explorador puede buscar igualmente pero tarda más, ya que debe examinar cada archivo individualmente.",
+    "why": "A la búsqueda admite comodines (*,?) y no distingue mayúsculas; además puede buscar por contenido en archivos indexados. B la búsqueda comienza desde la carpeta actual (no siempre C:); para buscar en todo el equipo hay que estar en «Este equipo». C Windows Search acelera la búsqueda mediante indexación, pero si un archivo no está indexado, el Explorador puede encontrarlo igualmente haciendo una búsqueda más lenta (rastreo directo).",
+    "norma": "Windows 10/11 — Explorador de archivos — Búsqueda",
+    "articulo": "Búsqueda en el Explorador de archivos"
+  },
+  {
+    "id": "B5T44-008",
+    "bloque": 5,
+    "tema": 44,
+    "test": 44,
+    "dificultad": "media",
+    "pregunta": "¿Qué información muestra el cuadro de Propiedades de un archivo o carpeta y cómo se accede a él?",
+    "opciones": {
+      "A": "El cuadro de Propiedades de un archivo o carpeta (clic derecho > Propiedades, o Alt+Enter) muestra: en la pestaña General, el nombre, el tipo y programa que lo abre, la ubicación, el tamaño, la fecha de creación, de modificación y de último acceso, y los atributos (Solo lectura, Oculto, Archivo); en la pestaña Seguridad, los permisos de acceso (ACL) para cada usuario y grupo; en la pestaña Detalles, metadatos del fichero (autor, título, palabras clave, etc.); en la pestaña Versiones anteriores, versiones guardadas por el Historial de archivos o Restaurar sistema.",
+      "B": "El cuadro de Propiedades de un archivo solo muestra el nombre y el tamaño; no proporciona información sobre fechas, permisos ni metadatos.",
+      "C": "El cuadro de Propiedades de un archivo no existe en el Explorador de Windows; para ver las propiedades hay que abrir el archivo con su programa asociado.",
+      "D": "El cuadro de Propiedades de un archivo solo puede consultarlo el administrador del sistema; los usuarios estándar no tienen acceso a la información de propiedades de los archivos."
+    },
+    "correcta": "A",
+    "explicacion": "El cuadro de Propiedades es una ventana informativa y de configuración accesible de varias formas: (1) Clic derecho sobre el archivo o carpeta > Propiedades. (2) Seleccionar el elemento y pulsar Alt+Enter. (3) Cinta del Explorador > pestaña Inicio > botón Propiedades. Las pestañas que muestra (varían según el tipo de archivo): (1) General: nombre completo con extensión; tipo de archivo (ej. «Documento de Microsoft Word .docx»); programa que lo abre (con botón Cambiar para asociar otro programa); ubicación (ruta completa); tamaño en disco (y tamaño real); fechas: creación, modificación y último acceso; atributos: Solo lectura (Read-only: protege el archivo de modificaciones accidentales), Oculto (Hidden: no se muestra en el Explorador a menos que se active «Mostrar archivos ocultos»), Archivo (Archive: flag que indica si el archivo ha sido modificado desde la última copia de seguridad, usado por algunos programas de backup). (2) Seguridad: lista de control de acceso (ACL) con los permisos de cada usuario o grupo (Leer, Escribir, Ejecutar, Control total, etc.); botón Editar para modificar permisos (requiere privilegios de administrador). (3) Detalles: metadatos del fichero: autor, título, fecha, cámara (para fotos), dimensiones, palabras clave, etc. (4) Versiones anteriores: versiones guardadas por el Historial de archivos o los puntos de restauración. (5) En carpetas: muestra el tamaño total del contenido, el número de archivos y subcarpetas.",
+    "why": "B el cuadro de Propiedades ofrece mucha más información: fechas, atributos, permisos, metadatos y versiones anteriores. C el cuadro de Propiedades existe en el Explorador y es accesible con clic derecho > Propiedades o Alt+Enter. D los usuarios estándar pueden ver las propiedades de sus propios archivos; la modificación de permisos (pestaña Seguridad) puede requerir privilegios de administrador.",
+    "norma": "Windows 10/11 — Explorador de archivos — Propiedades",
+    "articulo": "Propiedades de archivos y carpetas en Windows"
+  },
+  {
+    "id": "B5T44-009",
+    "bloque": 5,
+    "tema": 44,
+    "test": 44,
+    "dificultad": "media",
+    "pregunta": "¿Qué son las Bibliotecas del Explorador de archivos y para qué sirven?",
+    "opciones": {
+      "A": "Las Bibliotecas son ubicaciones virtuales que agrupan el contenido de varias carpetas físicas (que pueden estar en distintas unidades o ubicaciones de red) y las muestran como una sola colección unificada sin mover ni copiar los archivos; Windows incluye por defecto las bibliotecas Documentos, Imágenes, Música y Vídeos; el usuario puede crear bibliotecas personalizadas y añadir o quitar carpetas de cada una; son especialmente útiles para reunir archivos relacionados que están físicamente dispersos en distintas ubicaciones del disco.",
+      "B": "Las Bibliotecas son carpetas del sistema creadas por Windows que contienen los archivos del sistema operativo; no pueden modificarse ni personalizarse por el usuario.",
+      "C": "Las Bibliotecas en Windows son un tipo de archivo comprimido que contiene varios documentos en un único fichero, similar a un archivo ZIP o RAR.",
+      "D": "Las Bibliotecas son una función exclusiva de Windows 7 que fue eliminada en Windows 10 y no está disponible en versiones actuales del sistema operativo."
+    },
+    "correcta": "A",
+    "explicacion": "Las Bibliotecas (Libraries) son carpetas virtuales introducidas en Windows 7 y disponibles (aunque ocultas por defecto) en Windows 10 y 11. Sus características son: (1) Virtualidad: no son carpetas físicas sino vistas unificadas de múltiples carpetas; el contenido mostrado en una biblioteca proviene de las distintas carpetas que la integran. (2) Bibliotecas predeterminadas: Documentos (combina la carpeta Documentos del usuario), Imágenes (combina la carpeta Imágenes del usuario), Música y Vídeos. (3) Personalización: el usuario puede crear nuevas bibliotecas y añadir o quitar carpetas físicas de cada biblioteca; esto permite, por ejemplo, crear una biblioteca «Proyecto X» que agrupe carpetas de distintas unidades relacionadas con ese proyecto. (4) Funcionalidad: se pueden ordenar y filtrar por las propiedades de los archivos (fecha, tipo, autor) en la vista de biblioteca; las acciones sobre los archivos (copiar, mover, eliminar) actúan sobre los archivos reales en sus ubicaciones físicas. (5) Cómo activarlas en Windows 10/11: en el Explorador, clic en «Ver» > «Panel de navegación» > «Mostrar bibliotecas»; también están disponibles buscando «Bibliotecas» en el menú Inicio.",
+    "why": "B las Bibliotecas no contienen archivos del sistema operativo; son colecciones virtuales de carpetas del usuario. C las Bibliotecas no son archivos comprimidos; son vistas virtuales de múltiples carpetas físicas. D las Bibliotecas existen en Windows 10 y 11, aunque están ocultas en el panel de navegación por defecto; pueden activarse fácilmente.",
+    "norma": "Windows 10/11 — Explorador de archivos — Bibliotecas",
+    "articulo": "Bibliotecas del Explorador de archivos"
+  },
+  {
+    "id": "B5T44-010",
+    "bloque": 5,
+    "tema": 44,
+    "test": 44,
+    "dificultad": "media",
+    "pregunta": "¿Cómo se pueden ordenar y filtrar los archivos en el Explorador de Windows?",
+    "opciones": {
+      "A": "En la vista Detalles del Explorador, se puede ordenar por cualquier columna haciendo clic en el encabezado (un clic = orden ascendente; segundo clic = descendente; tercer clic = orden original); también se puede filtrar usando las flechas desplegables de los encabezados de columna para seleccionar valores específicos (p. ej., mostrar solo archivos de tipo .docx o modificados en una fecha concreta); en otras vistas se puede ordenar y agrupar mediante clic derecho en el área vacía de la carpeta > Ordenar por / Agrupar por.",
+      "B": "El Explorador de archivos no permite ordenar ni filtrar los archivos; siempre los muestra en el orden en que fueron creados.",
+      "C": "Solo es posible ordenar los archivos alfabéticamente por nombre; no existen otras opciones de ordenación ni filtrado en el Explorador.",
+      "D": "Para ordenar archivos en Windows hay que usar exclusivamente la línea de comandos con el comando «dir /o»; el Explorador no tiene funciones de ordenación."
+    },
+    "correcta": "A",
+    "explicacion": "El Explorador de archivos ofrece varias formas de organizar la visualización de los archivos: (1) Ordenar en vista Detalles: cada encabezado de columna (Nombre, Fecha de modificación, Tipo, Tamaño, etc.) es clicable; el primer clic ordena ascendentemente (A-Z, más antiguo primero, menor tamaño primero); el segundo clic ordena descendentemente; aparece un icono «▲» o «▼» indicando la columna de ordenación activa y su dirección. (2) Filtrar en vista Detalles: al pasar el ratón sobre un encabezado, aparece una flecha de menú desplegable «▼»; pulsándola se despliegan las opciones de filtrado (p. ej., en «Tipo» permite marcar/desmarcar los tipos de archivo que se muestran; en «Fecha de modificación» permite seleccionar rangos de fechas). El filtrado puede combinarse entre varias columnas. (3) Ordenar en otras vistas: clic derecho en área vacía > Ordenar por > (Nombre, Fecha de modificación, Tipo, Tamaño, Ascendente/Descendente). (4) Agrupar por: clic derecho > Agrupar por > seleccionar el criterio (p. ej., agrupar por Tipo muestra los archivos organizados en grupos según su extensión; agrupar por Fecha muestra grupos «Hoy», «Esta semana», «La semana pasada», etc.).",
+    "why": "B el Explorador ofrece amplias funciones de ordenación y filtrado. C se puede ordenar por nombre, fecha, tipo, tamaño y otros atributos. D el Explorador tiene funciones completas de ordenación sin necesidad de usar la línea de comandos.",
+    "norma": "Windows 10/11 — Explorador de archivos — Ordenar y filtrar",
+    "articulo": "Ordenar y filtrar archivos en el Explorador"
+  },
+  {
+    "id": "B5T44-011",
+    "bloque": 5,
+    "tema": 44,
+    "test": 44,
+    "dificultad": "media",
+    "pregunta": "¿Cómo se comprimen y descomprimen archivos con las herramientas integradas de Windows?",
+    "opciones": {
+      "A": "Windows solo puede abrir archivos comprimidos ZIP; no puede crear nuevos archivos comprimidos ni trabajar con otros formatos (RAR, 7z).",
+      "B": "Windows no incluye ninguna herramienta de compresión; es necesario instalar WinRAR, 7-Zip u otro programa de terceros para comprimir o descomprimir cualquier tipo de archivo.",
+      "C": "Para comprimir archivos, el Explorador no usa el formato ZIP; solo puede usar el formato nativo de Windows (.cab).",
+      "D": "Windows incluye soporte nativo para el formato ZIP en el Explorador de archivos: para comprimir, se seleccionan los archivos o carpetas, clic derecho > Enviar a > Carpeta comprimida (zip), o en Windows 11 clic derecho > Comprimir en archivo ZIP; para descomprimir, doble clic en el ZIP para abrirlo como carpeta virtual y extraer los archivos, o clic derecho > Extraer todo; para formatos RAR o 7z se requiere software adicional (WinRAR, 7-Zip)."
+    },
+    "correcta": "D",
+    "explicacion": "Windows integra soporte nativo para archivos ZIP (PKZIP), el formato de compresión más extendido: (1) Comprimir: seleccionar uno o varios archivos o carpetas en el Explorador > clic derecho > «Enviar a» > «Carpeta comprimida (zip)» (Windows 10) o «Comprimir en archivo ZIP» (Windows 11); se crea un fichero .zip con el mismo nombre en la misma carpeta. También se puede crear una carpeta vacía comprimida y arrastrar archivos a su interior. (2) Descomprimir: (a) Doble clic sobre el archivo ZIP: el Explorador lo trata como una carpeta virtual y muestra su contenido; se pueden extraer archivos individuales arrastrándolos fuera. (b) Clic derecho sobre el ZIP > «Extraer todo»: descomprime todos los archivos a una carpeta destino elegida por el usuario. (3) Ventajas de la compresión: reduce el tamaño de los archivos para ahorrar espacio o para enviarlos por correo electrónico; agrupa varios archivos en uno solo. (4) Formatos no soportados nativamente: RAR (formato propietario de WinRAR), 7z (7-Zip), TAR, GZ (Linux); para estos formatos se necesita software adicional como 7-Zip (gratuito y de código abierto) o WinRAR (de pago). Windows 11 añadió soporte nativo adicional para RAR, 7z, TAR y otros formatos en actualizaciones recientes.",
+    "why": "A Windows puede crear archivos ZIP además de abrirlos; para RAR y 7z se necesita software adicional (aunque Windows 11 añadió soporte para más formatos). B Windows sí incluye soporte nativo para ZIP sin instalar software adicional. C Windows usa ZIP como formato nativo de compresión en el Explorador, no .cab (que es un formato de instalación de software).",
+    "norma": "Windows 10/11 — Explorador de archivos — Compresión ZIP",
+    "articulo": "Compresión y descompresión ZIP en el Explorador"
+  },
+  {
+    "id": "B5T44-012",
+    "bloque": 5,
+    "tema": 44,
+    "test": 44,
+    "dificultad": "media",
+    "pregunta": "¿Qué son los archivos ocultos y del sistema en Windows y cómo se muestran u ocultan en el Explorador?",
+    "opciones": {
+      "A": "Los archivos ocultos en Windows son archivos que han sido eliminados a la papelera de reciclaje y aún no se han borrado definitivamente.",
+      "B": "Todos los archivos de Windows son visibles en el Explorador; no existe la categoría de archivos ocultos en el sistema de archivos NTFS.",
+      "C": "Los archivos ocultos y del sistema son archivos con atributos especiales (H=Hidden, S=System) que Windows oculta en el Explorador de forma predeterminada para evitar modificaciones accidentales; para mostrarlos, en Windows 10 se activa la opción «Elementos ocultos» en la pestaña Vista de la cinta, o en Opciones de carpeta > Ver > «Mostrar archivos, carpetas y unidades ocultos»; los archivos del sistema (S) se ocultan con una opción adicional; los archivos ocultos aparecen con el icono semi-transparente cuando se muestran.",
+      "D": "Los archivos ocultos en Windows solo pueden verse mediante la línea de comandos con el atributo «dir /a:h»; el Explorador de archivos no tiene ninguna opción para mostrarlos visualmente."
+    },
+    "correcta": "C",
+    "explicacion": "Windows usa dos atributos del sistema de archivos NTFS/FAT para clasificar archivos especiales: (1) Atributo H (Hidden, oculto): archivos que el sistema oculta en la vista normal del Explorador para evitar que el usuario los elimine o modifique accidentalmente; por ejemplo, archivos de configuración de carpeta (desktop.ini), algunos archivos de instalación, ficheros temporales del sistema, archivos de programa en AppData. (2) Atributo S (System, del sistema): archivos fundamentales del sistema operativo (p. ej., pagefile.sys, hiberfil.sys, ntldr, bootmgr); se ocultan con una protección adicional porque su eliminación puede impedir el arranque del sistema. Cómo mostrarlos: (a) Windows 10 — Cinta del Explorador > pestaña «Vista» > casilla «Elementos ocultos» (activa/desactiva con un clic). (b) Windows 10/11 — Opciones del Explorador (Ver > Opciones) > pestaña «Ver» > seleccionar «Mostrar archivos, carpetas y unidades ocultos» y desmarcar «Ocultar archivos protegidos del sistema operativo». Identificación visual: los archivos ocultos mostrados aparecen con el icono semi-transparente (atenuado) para distinguirlos de los archivos normales. El atributo oculto puede verse y modificarse en las Propiedades del archivo (pestaña General > sección Atributos).",
+    "why": "A los archivos ocultos tienen el atributo «H» en el sistema de archivos y existen en las ubicaciones habituales; no están en la papelera. B el atributo Hidden (H) existe en NTFS y FAT; muchos archivos del sistema y de configuración tienen ese atributo. D el Explorador sí puede mostrar los archivos ocultos activando la opción «Elementos ocultos» en la pestaña Vista; la línea de comandos es un método alternativo.",
+    "norma": "Windows 10/11 — Explorador de archivos — Archivos ocultos",
+    "articulo": "Archivos ocultos y del sistema en Windows"
+  },
+  {
+    "id": "B5T44-013",
+    "bloque": 5,
+    "tema": 44,
+    "test": 44,
+    "dificultad": "media",
+    "pregunta": "¿Cómo funciona el panel de vista previa del Explorador de archivos?",
+    "opciones": {
+      "A": "El panel de vista previa del Explorador permite ver el contenido de determinados tipos de archivo (documentos Word/PDF, imágenes, vídeos) directamente en el panel derecho del Explorador sin necesidad de abrir el programa asociado; se activa desde la pestaña Ver > Vista previa (o el botón de la barra de herramientas en Windows 11); la vista previa depende de los controladores de vista previa instalados para cada tipo de archivo; algunos formatos (como .docx) pueden requerir que Office esté instalado.",
+      "B": "El panel de vista previa del Explorador solo funciona con archivos de imagen JPEG y PNG; no puede mostrar contenido de documentos de texto, PDF ni vídeos.",
+      "C": "El panel de vista previa del Explorador abre una copia del archivo en el programa asociado; es idéntico a hacer doble clic sobre el archivo.",
+      "D": "El panel de vista previa del Explorador no existe en Windows 10 ni en Windows 11; fue eliminado en Windows 8 y no fue recuperado."
+    },
+    "correcta": "A",
+    "explicacion": "El panel de vista previa (Preview Pane) es una función del Explorador de archivos que permite ver el contenido de un archivo seleccionado sin necesidad de abrirlo con su aplicación: (1) Activación: (a) Windows 10: pestaña «Vista» en la cinta > botón «Panel de vista previa». (b) Windows 11: botón de diseño de vista > «Panel de vista previa»; también con Alt+P. (2) Funcionamiento: al seleccionar un archivo, el panel derecho muestra una vista previa de su contenido; el archivo no se abre en la aplicación completa sino en un visualizador integrado del Explorador. (3) Formatos soportados por defecto: imágenes (JPEG, PNG, BMP, GIF, TIFF, HEIC), archivos de texto plano (.txt, .ini, .xml), PDF (si hay un lector PDF instalado), vídeo y audio (formatos compatibles con Windows Media Player). (4) Formatos con soporte adicional: los archivos de Office (.docx, .xlsx, .pptx) muestran vista previa si Microsoft Office está instalado (usa los controladores de vista previa de Office); de lo contrario, puede requerirse una extensión adicional. (5) Panel de detalles: además del panel de vista previa, existe el «Panel de detalles» (Alt+Shift+P) que muestra los metadatos del archivo seleccionado (autor, fecha, tamaño, dimensiones, etc.) sin mostrar el contenido visual.",
+    "why": "B el panel de vista previa soporta muchos tipos de archivo además de imágenes: documentos Office, PDF, texto, vídeos, audio. C el panel de vista previa no abre el programa asociado; muestra el contenido dentro del Explorador, lo cual es más rápido. D el panel de vista previa existe en Windows 10 y 11; es una función clásica del Explorador presente desde versiones anteriores.",
+    "norma": "Windows 10/11 — Explorador de archivos — Panel de vista previa",
+    "articulo": "Panel de vista previa del Explorador"
+  },
+  {
+    "id": "B5T44-014",
+    "bloque": 5,
+    "tema": 44,
+    "test": 44,
+    "dificultad": "media",
+    "pregunta": "¿Cómo se gestionan las unidades de red y las conexiones UNC en el Explorador de archivos?",
+    "opciones": {
+      "A": "Para acceder a recursos compartidos de red, el Explorador de archivos permite: navegar a través del panel «Red» del panel de navegación (que muestra los equipos y recursos de la red local); acceder directamente escribiendo una ruta UNC (\\\\servidor\\recurso) en la barra de direcciones; asignar una unidad de red (Herramientas > Conectar unidad de red, o clic derecho en «Este equipo» > Conectar a unidad de red) que asigna una letra de unidad (Z:, Y:, etc.) al recurso compartido y permite acceder a él como si fuera un disco local, con reconexión automática al arrancar.",
+      "B": "El Explorador de archivos no puede conectarse a recursos de red; es necesario usar el Explorador de Internet Explorer para acceder a carpetas compartidas.",
+      "C": "Para acceder a carpetas de red en Windows hay que usar exclusivamente el comando «net use» de la línea de comandos; el Explorador no tiene interfaz para conectar unidades de red.",
+      "D": "Las rutas UNC (\\\\servidor\\recurso) no son compatibles con el Explorador de archivos de Windows 10 o 11; solo funcionaban en versiones anteriores como Windows XP."
+    },
+    "correcta": "A",
+    "explicacion": "El Explorador de archivos ofrece varias formas de acceder a recursos compartidos en red: (1) Panel «Red» del panel de navegación: muestra automáticamente los equipos de la red local que tienen recursos compartidos activos (impresoras, carpetas); requiere que la detección de redes esté activa. (2) Ruta UNC (Universal Naming Convention): escribir en la barra de direcciones la ruta \\\\nombreservidor\\recurso (p. ej., \\\\SERVIDOR01\\Compartido) navega directamente al recurso compartido; se puede usar la dirección IP: \\\\192.168.1.10\\Compartido. (3) Asignar unidad de red (Map Network Drive): clic derecho en «Este equipo» > «Conectar unidad de red»; se asigna una letra de unidad (Z:, Y:, X:, etc.) a un recurso compartido UNC; la unidad aparece en «Este equipo» como si fuera un disco local; se puede configurar la reconexión automática al iniciar sesión y la autenticación con credenciales diferentes. (4) Ubicaciones de red: se puede agregar un acceso directo a un recurso web o FTP mediante «Agregar una ubicación de red» en «Este equipo». Las rutas UNC siguen siendo el estándar en entornos corporativos; son compatibles con todas las versiones actuales de Windows.",
+    "why": "B el Explorador de archivos puede acceder a recursos de red (carpetas compartidas, servidores); Internet Explorer no era el gestor de archivos de red. C aunque «net use» es una alternativa por línea de comandos, el Explorador tiene interfaz gráfica completa para conectar unidades de red. D las rutas UNC son compatibles y ampliamente usadas en Windows 10 y 11.",
+    "norma": "Windows 10/11 — Explorador de archivos — Unidades de red",
+    "articulo": "Unidades de red y rutas UNC en el Explorador"
+  },
+  {
+    "id": "B5T44-015",
+    "bloque": 5,
+    "tema": 44,
+    "test": 44,
+    "dificultad": "media",
+    "pregunta": "¿Qué son las extensiones de archivo y cómo se gestionan en el Explorador de Windows?",
+    "opciones": {
+      "A": "Las extensiones de archivo (p. ej., .docx, .xlsx, .pdf, .jpg) son la parte del nombre de fichero que identifica el tipo de archivo y determina con qué programa se abre; por defecto Windows oculta las extensiones conocidas en el Explorador; para mostrarlas: Vista > casilla «Extensiones de nombre de archivo» (Windows 10/11); la asociación entre extensión y programa puede cambiarse desde Configuración > Aplicaciones > Aplicaciones predeterminadas o haciendo clic derecho en el archivo > Abrir con > Elegir otra aplicación.",
+      "B": "Las extensiones de archivo en Windows son solo decorativas; el sistema operativo identifica el tipo de archivo por su contenido interno, no por la extensión.",
+      "C": "Las extensiones de archivo son fijas e inmutables; el sistema operativo no permite que el usuario las vea ni las cambie.",
+      "D": "Mostrar las extensiones de archivo en el Explorador solo es posible para cuentas de administrador; los usuarios estándar siempre ven los archivos sin extensión."
+    },
+    "correcta": "A",
+    "explicacion": "Las extensiones de archivo son un elemento fundamental del sistema de archivos de Windows: (1) Definición: es la parte del nombre del archivo que sigue al último punto (p. ej., «Informe.docx» → extensión «docx»); habitualmente tienen 2-4 caracteres. (2) Función: Windows usa las extensiones para determinar qué programa debe abrir el archivo (asociación de tipos de archivo); también determina el icono mostrado en el Explorador. (3) Extensiones comunes: .docx/.doc (Word), .xlsx/.xls (Excel), .pptx/.ppt (PowerPoint), .pdf (Adobe Acrobat/lector PDF), .jpg/.jpeg/.png/.gif (imágenes), .mp3/.mp4/.avi (multimedia), .zip/.rar/.7z (archivos comprimidos), .exe (ejecutable), .txt (texto plano), .csv (datos separados por comas). (4) Configuración de visibilidad: por defecto Windows oculta las extensiones de tipos de archivo registrados; para mostrarlas: (a) Windows 10: cinta del Explorador > pestaña «Vista» > marcar «Extensiones de nombre de archivo». (b) Windows 11: menú «Ver» > «Mostrar» > «Extensiones de nombre de archivo». (c) Opciones de carpeta > pestaña «Ver» > desmarcar «Ocultar las extensiones de archivo para tipos de archivo conocidos». (5) Cambiar la aplicación predeterminada: clic derecho > Abrir con > Elegir otra aplicación (marcar «Usar siempre esta aplicación» para hacerlo permanente); o desde Configuración > Aplicaciones > Aplicaciones predeterminadas.",
+    "why": "B aunque Windows puede identificar el tipo de archivo por su contenido, las extensiones son el mecanismo principal de asociación de tipos; cambiar la extensión cambia la asociación. C las extensiones pueden verse activando la opción en el Explorador y cambiarse (aunque cambiando la extensión se modifica la asociación del programa). D la visibilidad de las extensiones es una configuración del Explorador accesible para todos los usuarios.",
+    "norma": "Windows 10/11 — Explorador de archivos — Extensiones de archivo",
+    "articulo": "Extensiones de archivo en Windows"
+  },
+  {
+    "id": "B5T44-016",
+    "bloque": 5,
+    "tema": 44,
+    "test": 44,
+    "dificultad": "media",
+    "pregunta": "¿Qué es OneDrive y cómo se integra con el Explorador de archivos de Windows?",
+    "opciones": {
+      "A": "OneDrive es el servicio de almacenamiento en la nube de Microsoft integrado en Windows 10 y 11; aparece como una carpeta en el Explorador de archivos y en el panel de navegación; los archivos guardados en las carpetas sincronizadas de OneDrive se sincronizan automáticamente con la nube y con otros dispositivos del mismo usuario; permite configurar cuáles carpetas locales se sincronizan y usa el sistema de archivos a petición (Files On-Demand) que muestra todos los archivos en el Explorador aunque solo descarga los que se abren.",
+      "B": "OneDrive es un disco duro externo virtual que se conecta físicamente al ordenador por USB; los archivos de OneDrive no están en la nube sino en ese dispositivo externo.",
+      "C": "OneDrive es una aplicación de videoconferencia; no tiene ninguna relación con el almacenamiento de archivos ni con el Explorador de Windows.",
+      "D": "OneDrive solo está disponible con una suscripción de pago a Microsoft 365; sin suscripción no es posible usar ninguna función de OneDrive en Windows."
+    },
+    "correcta": "A",
+    "explicacion": "OneDrive es el servicio de almacenamiento en la nube de Microsoft, integrado en Windows 10 y 11 de forma nativa. Características de la integración con el Explorador: (1) Carpeta de OneDrive: aparece como una carpeta local en el Explorador (habitualmente en C:\\Users\\Nombre\\OneDrive) y en el panel de navegación izquierdo; los archivos guardados allí se sincronizan automáticamente con la nube de Microsoft. (2) Files On-Demand (archivos a petición): no todos los archivos de OneDrive se descargan al disco local; los archivos en la nube (no descargados) se muestran en el Explorador con un icono de nube «☁» y solo se descargan cuando el usuario los abre; los archivos disponibles sin conexión tienen icono verde «✓»; los que solo están en la nube tienen el icono azul de nube. (3) Sincronización: el icono de OneDrive en la bandeja del sistema indica el estado (sincronizando, en pausa, error); los archivos del escritorio, documentos e imágenes pueden sincronizarse automáticamente con OneDrive. (4) Almacenamiento gratuito: 5 GB gratuitos con una cuenta Microsoft; capacidad adicional con Microsoft 365 (1 TB o más). (5) Compartición: desde el Explorador, clic derecho sobre un archivo de OneDrive > «Compartir» para generar un enlace de compartición o invitar a personas específicas.",
+    "why": "B OneDrive es un servicio en la nube de internet, no un dispositivo físico USB; los archivos se almacenan en los servidores de Microsoft. C OneDrive es un servicio de almacenamiento en la nube; Microsoft Teams y Skype son las aplicaciones de videoconferencia. D OneDrive ofrece 5 GB gratuitos con una cuenta Microsoft; la suscripción a Microsoft 365 amplía la capacidad pero no es obligatoria para usar OneDrive básico.",
+    "norma": "Windows 10/11 — OneDrive — Integración con el Explorador",
+    "articulo": "OneDrive en el Explorador de archivos"
+  },
+  {
+    "id": "B5T44-017",
+    "bloque": 5,
+    "tema": 44,
+    "test": 44,
+    "dificultad": "dificil",
+    "pregunta": "¿Cómo funciona el sistema de permisos de archivos y carpetas en Windows con NTFS?",
+    "opciones": {
+      "A": "NTFS permite establecer permisos de seguridad a nivel de archivo y carpeta para controlar el acceso de usuarios y grupos; los permisos básicos son: Control total (todos los derechos), Modificar (leer, escribir, ejecutar, eliminar), Leer y ejecutar, Listar contenido de carpeta, Leer (solo lectura) y Escribir; se configuran en la pestaña Seguridad de las Propiedades del archivo; los permisos se heredan de la carpeta padre por defecto y pueden personalizarse o bloquearse; cuando hay conflicto entre permisos de herencia y explícitos, los explícitos tienen prioridad; el permiso Denegar explícito siempre prevalece sobre el Permitir.",
+      "B": "Los permisos de NTFS solo se aplican a la carpeta raíz de la unidad; los archivos y subcarpetas dentro de esa carpeta son accesibles por todos los usuarios sin restricciones.",
+      "C": "Los permisos de archivos en Windows son iguales para todos los usuarios; no es posible dar distintos permisos a distintos usuarios sobre el mismo archivo.",
+      "D": "Los permisos de NTFS solo controlan si el archivo puede verse en el Explorador; una vez que el archivo es visible, cualquier usuario puede leerlo, modificarlo o eliminarlo."
+    },
+    "correcta": "A",
+    "explicacion": "El sistema de permisos de NTFS (Access Control Lists, ACL) permite un control de acceso muy granular sobre archivos y carpetas. Su funcionamiento es: (1) Permisos estándar (básicos) de NTFS: (a) Control total: todos los derechos sobre el objeto (incluye cambiar permisos y tomar posesión). (b) Modificar: leer, escribir, ejecutar y eliminar el archivo/carpeta; no incluye cambiar permisos. (c) Leer y ejecutar: ver el contenido y ejecutar programas. (d) Listar contenido de carpeta: ver el contenido de la carpeta (solo carpetas). (e) Leer: ver el contenido pero no modificarlo. (f) Escribir: crear nuevos archivos/subcarpetas y modificar los existentes; no incluye eliminar. (2) Herencia: por defecto, los permisos de una carpeta se heredan a todos sus archivos y subcarpetas; se puede romper la herencia en cualquier punto para establecer permisos independientes. (3) Precedencia: los permisos explícitos (establecidos directamente en ese objeto) tienen prioridad sobre los heredados; el permiso «Denegar» siempre prevalece sobre el «Permitir» (incluso si otro grupo al que pertenece el usuario tiene «Permitir»). (4) Permisos efectivos: un usuario puede pertenecer a varios grupos; los permisos efectivos son la suma de los permisos de todos los grupos (menos los Denegar que siempre se aplican). (5) Configuración: clic derecho > Propiedades > pestaña «Seguridad» > botón «Editar» (requiere privilegios de administrador o ser propietario del archivo).",
+    "why": "B los permisos NTFS se pueden aplicar a cualquier archivo o carpeta en cualquier nivel de la jerarquía, no solo a la carpeta raíz. C NTFS permite permisos distintos para distintos usuarios y grupos sobre el mismo archivo o carpeta. D los permisos NTFS controlan no solo la visibilidad sino la posibilidad de leer, escribir, ejecutar, eliminar y cambiar permisos sobre cada objeto.",
+    "norma": "Windows — NTFS — Permisos de seguridad (ACL)",
+    "articulo": "Permisos NTFS — ACL en el Explorador"
+  },
+  {
+    "id": "B5T44-018",
+    "bloque": 5,
+    "tema": 44,
+    "test": 44,
+    "dificultad": "dificil",
+    "pregunta": "¿Qué son los accesos directos en Windows y cómo se diferencian del archivo original?",
+    "opciones": {
+      "A": "Un acceso directo (shortcut) es un pequeño archivo (.lnk) que contiene un puntero a la ubicación real del archivo, carpeta o programa de destino; se identifica por la pequeña flecha en la esquina inferior izquierda del icono; eliminar un acceso directo no afecta al archivo original; moverlo tampoco mueve el original; si el archivo original se mueve o elimina, el acceso directo queda «roto» (apunta a una ubicación inexistente); se crea con clic derecho > Crear acceso directo, o arrastrando con Ctrl+Mayús.",
+      "B": "Un acceso directo en Windows es una copia completa del archivo original; si se elimina el acceso directo, el archivo original también se elimina.",
+      "C": "Un acceso directo y un enlace simbólico son exactamente lo mismo en Windows; no existe ninguna diferencia técnica entre ellos.",
+      "D": "Los accesos directos solo pueden crearse para programas ejecutables (.exe); no es posible crear accesos directos para documentos, carpetas o páginas web."
+    },
+    "correcta": "A",
+    "explicacion": "Los accesos directos (shortcuts) son archivos especiales del tipo .lnk (Link) que apuntan a la ubicación real de un recurso. Características: (1) Naturaleza: son archivos de muy pequeño tamaño (generalmente 1-2 KB) que contienen la ruta completa del destino; no contienen el archivo en sí. (2) Identificación visual: el icono del acceso directo muestra una pequeña flecha superpuesta en la esquina inferior izquierda. (3) Comportamiento: hacer doble clic en un acceso directo abre el archivo, carpeta o programa de destino. (4) Independencia del original: eliminar el acceso directo no afecta al original; eliminar o mover el original deja el acceso directo «roto» (Windows muestra un mensaje de error al intentar usarlo o intenta buscar el destino). (5) Formas de crear accesos directos: (a) Clic derecho sobre un archivo/carpeta > «Crear acceso directo» (crea el acceso en la misma carpeta). (b) Arrastrar un archivo manteniendo Ctrl+Mayús. (c) Clic derecho > «Enviar a» > «Escritorio (crear acceso directo)». (d) Arrastrar un ejecutable desde el Explorador al escritorio (si se hace sobre la barra de tareas, se ancla al taskbar en lugar de crear un acceso directo). (6) Diferencia con enlace simbólico: los accesos directos (.lnk) son archivos de Windows Explorer que solo funcionan a nivel del shell gráfico; los enlaces simbólicos (symlinks, creados con mklink en CMD) son tratados transparentemente por el sistema operativo a nivel de sistema de archivos.",
+    "why": "B un acceso directo no es una copia del archivo; solo apunta al original; eliminar el acceso directo deja el original intacto. C los accesos directos (.lnk) y los enlaces simbólicos son mecanismos distintos: los primeros son exclusivos del shell de Windows; los segundos funcionan a nivel de sistema de archivos. D se pueden crear accesos directos para cualquier tipo de recurso: documentos, carpetas, programas, URLs, impresoras, dispositivos, etc.",
+    "norma": "Windows — Explorador de archivos — Accesos directos",
+    "articulo": "Accesos directos (.lnk) en Windows"
+  },
+  {
+    "id": "B5T44-019",
+    "bloque": 5,
+    "tema": 44,
+    "test": 44,
+    "dificultad": "dificil",
+    "pregunta": "¿Cómo se recuperan versiones anteriores de archivos en Windows y qué herramientas lo hacen posible?",
+    "opciones": {
+      "A": "Windows no permite recuperar versiones anteriores de archivos; una vez sobreescrito un archivo, no existe ningún mecanismo para recuperar su contenido anterior.",
+      "B": "La recuperación de versiones anteriores de archivos en Windows se basa en tres mecanismos: (1) Historial de archivos: si está activado, guarda versiones de los archivos de las carpetas del usuario; para recuperar, clic derecho en el archivo > Propiedades > pestaña Versiones anteriores > seleccionar la versión y Restaurar; (2) Instantáneas de volumen (VSS): los puntos de restauración del sistema pueden incluir copias de ficheros; clic derecho > Propiedades > Versiones anteriores; (3) OneDrive: si el archivo está en OneDrive, el portal web de OneDrive guarda el historial de versiones y permite restaurar versiones anteriores hasta 30 días (o más con Microsoft 365).",
+      "C": "Solo es posible recuperar versiones anteriores de archivos de Microsoft Office (Word, Excel); para otros tipos de archivo no existe ningún mecanismo de versiones en Windows.",
+      "D": "La única forma de recuperar una versión anterior de un archivo en Windows es usar un programa de recuperación de disco de terceros (como Recuva o TestDisk); Windows no incluye ninguna función nativa de recuperación de versiones."
+    },
+    "correcta": "B",
+    "explicacion": "Windows ofrece varios mecanismos para recuperar versiones anteriores de archivos: (1) Historial de archivos (File History): si está activado y configurado con un disco externo o unidad de red, guarda versiones frecuentes de los archivos de las bibliotecas del usuario; acceso: clic derecho > Propiedades > pestaña «Versiones anteriores» > seleccionar fecha/hora > botón «Restaurar» (restaura al lugar original) o «Restaurar en» (elige el destino); también accesible desde el Explorador en la carpeta que contiene el archivo > botón «Inicio» > «Historial». (2) Servicio de instantáneas de volumen (VSS / Shadow Copies): los puntos de restauración del sistema crean instantáneas del volumen que incluyen versiones de los ficheros; clic derecho sobre el archivo > Propiedades > pestaña «Versiones anteriores» muestra las copias disponibles de los puntos de restauración; esta función puede no estar disponible si la protección del sistema está desactivada. (3) OneDrive: mantiene un historial de versiones de los archivos almacenados en OneDrive; accesible desde el Explorador (clic derecho sobre el archivo en la carpeta de OneDrive > «Historial de versiones») o desde el portal web de OneDrive (onedrive.live.com); con cuenta gratuita, conserva versiones durante 30 días; con Microsoft 365, hasta 180 días. (4) Microsoft Office: Word, Excel y PowerPoint mantienen su propio historial de versiones para archivos guardados en OneDrive o SharePoint.",
+    "why": "A Windows sí dispone de múltiples mecanismos nativos para recuperar versiones anteriores de archivos. C el sistema de versiones funciona para cualquier tipo de archivo, no solo documentos de Office. D aunque los programas de terceros (Recuva, TestDisk) pueden recuperar archivos borrados a nivel de disco, Windows tiene funciones nativas de versiones anteriores (Historial de archivos, VSS, OneDrive).",
+    "norma": "Windows 10/11 — Historial de archivos; VSS; OneDrive",
+    "articulo": "Versiones anteriores de archivos en Windows"
+  },
+  {
+    "id": "B5T44-020",
+    "bloque": 5,
+    "tema": 44,
+    "test": 44,
+    "dificultad": "dificil",
+    "pregunta": "¿Cómo se gestiona la indexación de archivos en Windows Search y cómo afecta al rendimiento de las búsquedas?",
+    "opciones": {
+      "A": "Windows Search no utiliza ningún índice; cada búsqueda escanea todo el contenido de todos los discos en tiempo real.",
+      "B": "El índice de Windows Search cubre todos los archivos de todas las unidades del equipo, incluidos los dispositivos USB y las tarjetas SD conectados en ese momento.",
+      "C": "La indexación de Windows Search solo puede realizarse por el administrador del sistema; los usuarios estándar no pueden buscar archivos que no hayan sido indexados por el administrador.",
+      "D": "Windows Search mantiene un índice en segundo plano (servicio Búsqueda de Windows/Windows Search) que registra el nombre, los metadatos y el contenido de los archivos de las ubicaciones indexadas (por defecto: carpetas del usuario, Documentos, Imágenes, Correo de Outlook, etc.); esto permite búsquedas casi instantáneas; las ubicaciones indexadas se configuran desde el Panel de control > Opciones de indexación; los archivos en ubicaciones no indexadas se buscan de forma más lenta (rastreo directo del disco); el índice se actualiza automáticamente cuando se modifican, crean o eliminan archivos en las ubicaciones indexadas."
+    },
+    "correcta": "D",
+    "explicacion": "Windows Search es el motor de búsqueda integrado en Windows que alimenta la búsqueda del Explorador de archivos y la búsqueda del menú Inicio. Funciona así: (1) Indexación: el servicio «Búsqueda de Windows» (Windows Search, ejecutable SearchIndexer.exe) construye y mantiene un índice de los archivos de las ubicaciones configuradas; el índice incluye: nombres de archivo, metadatos (fecha, autor, tamaño, etc.) y, para ciertos tipos de archivo, el contenido textual (documentos, correos). (2) Ubicaciones indexadas predeterminadas: carpetas del perfil de usuario (Documentos, Imágenes, Música, Vídeos, Escritorio, Descargas), los correos de Outlook, las conversaciones de Internet Explorer/Edge. No se indexa por defecto: la carpeta del sistema operativo (C:\\Windows), las carpetas de programas (C:\\Program Files). (3) Configuración: Panel de control > Opciones de indexación; permite añadir o quitar ubicaciones, ver el estado del índice, pausar la indexación y reconstruir el índice completo si está corrupto. (4) Impacto en el rendimiento: el proceso de indexación consume CPU y disco durante la construcción inicial o después de cambios masivos; Windows lo realiza en momentos de baja actividad (cuando el equipo está inactivo) para minimizar el impacto. (5) Búsqueda sin índice: en ubicaciones no indexadas, el Explorador puede buscar pero tarda más (scan completo del disco); aparece una barra de progreso durante la búsqueda.",
+    "why": "A Windows Search usa un índice para acelerar las búsquedas; la búsqueda en tiempo real solo se usa en carpetas no indexadas. B el índice no cubre por defecto todos los discos y dispositivos; solo las ubicaciones expresamente configuradas (habitualmente las carpetas del usuario). C la indexación la gestiona el sistema operativo; cualquier usuario puede buscar en las ubicaciones indexadas sin necesidad de privilegios especiales.",
+    "norma": "Windows 10/11 — Windows Search — Indexación",
+    "articulo": "Indexación y Windows Search"
+  }
+]
