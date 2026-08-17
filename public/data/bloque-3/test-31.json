@@ -1,0 +1,382 @@
+[
+  {
+    "id": "B3T31-001",
+    "bloque": 3,
+    "tema": 31,
+    "test": 31,
+    "dificultad": "facil",
+    "pregunta": "¿Qué normativa regula principalmente la relación de empleo del personal laboral al servicio de las Administraciones Públicas?",
+    "opciones": {
+      "A": "Exclusivamente el TREBEP, que desplaza al Estatuto de los Trabajadores en el sector público.",
+      "B": "El Estatuto de los Trabajadores y la normativa laboral aplicable, así como el convenio colectivo correspondiente; el TREBEP se aplica de forma complementaria en los aspectos que expresamente lo prevea.",
+      "C": "Solo el convenio colectivo específico de cada Administración, sin aplicación del Estatuto de los Trabajadores.",
+      "D": "El Derecho Administrativo, igual que para los funcionarios de carrera, con las particularidades que establezca cada Administración."
+    },
+    "correcta": "B",
+    "explicacion": "El art. 7 TREBEP establece que el personal laboral al servicio de las Administraciones Públicas se rige por la legislación laboral y por las demás normas convencionalmente aplicables, incluyendo el Estatuto de los Trabajadores (ET, RDL 2/2015) y los convenios colectivos que les resulten de aplicación. El TREBEP también les es de aplicación en los preceptos que así lo prevean expresamente (por ejemplo, arts. 14, 15, 32, 33, 36, entre otros). Esta dualidad normativa refleja la naturaleza híbrida del personal laboral de las AAPP: mantiene su régimen de Derecho laboral privado pero está sujeto a ciertas reglas de Derecho público derivadas de su pertenencia al sector público.",
+    "why": "A el TREBEP no desplaza al ET; el ET es la norma principal para el personal laboral, y el TREBEP actúa de forma complementaria. C el convenio colectivo es fuente normativa pero no puede existir aisladamente sin el marco del ET. D el personal laboral se rige por el Derecho laboral, no por el Derecho Administrativo; la diferencia de régimen jurídico es precisamente lo que distingue al personal laboral del funcionario.",
+    "norma": "Real Decreto Legislativo 5/2015, TREBEP, art. 7; Real Decreto Legislativo 2/2015, Estatuto de los Trabajadores",
+    "articulo": "7 TREBEP"
+  },
+  {
+    "id": "B3T31-002",
+    "bloque": 3,
+    "tema": 31,
+    "test": 31,
+    "dificultad": "facil",
+    "pregunta": "¿Cuál es la jornada máxima de trabajo efectivo que establece el art. 34 del Estatuto de los Trabajadores?",
+    "opciones": {
+      "A": "35 horas semanales de promedio en cómputo anual.",
+      "B": "37 horas y media semanales de promedio en cómputo anual.",
+      "C": "40 horas semanales de trabajo efectivo de promedio en cómputo anual.",
+      "D": "45 horas semanales en cómputo mensual, sin límite anual específico."
+    },
+    "correcta": "C",
+    "explicacion": "El art. 34.1 ET establece que la duración de la jornada de trabajo será la pactada en los convenios colectivos o contratos de trabajo, pero en ningún caso podrá exceder de cuarenta horas semanales de trabajo efectivo de promedio en cómputo anual. Esto significa que el límite de 40 horas es una jornada máxima y que puede distribuirse de manera irregular a lo largo del año siempre que el promedio no supere ese límite. El ET también establece un límite diario de 9 horas ordinarias de trabajo efectivo, y un descanso mínimo entre jornadas de 12 horas. En la Administración General del Estado, el personal laboral tiene una jornada de 37,5 horas por acuerdo o convenio colectivo, inferior al máximo legal.",
+    "why": "A las 35 horas semanales es el resultado de acuerdos de negociación colectiva en algunos sectores o CCAA (como el personal del Servicio de Salud de algunas CCAA), pero no es el límite legal del ET. B las 37,5 horas es la jornada pactada para muchos empleados públicos (incluyendo personal laboral de la AGE), pero no el máximo legal del ET. D el ET establece el cómputo anual, no mensual; el límite semanal es de 40 horas.",
+    "norma": "Real Decreto Legislativo 2/2015, Estatuto de los Trabajadores",
+    "articulo": "34 ET"
+  },
+  {
+    "id": "B3T31-003",
+    "bloque": 3,
+    "tema": 31,
+    "test": 31,
+    "dificultad": "facil",
+    "pregunta": "¿Cuántos días de vacaciones anuales retribuidas reconoce como mínimo el art. 38 del Estatuto de los Trabajadores?",
+    "opciones": {
+      "A": "Veinte días naturales al año.",
+      "B": "Veintidós días hábiles al año.",
+      "C": "Treinta días naturales al año.",
+      "D": "Cuatro semanas naturales al año, que pueden sustituirse por compensación económica."
+    },
+    "correcta": "C",
+    "explicacion": "El art. 38.1 ET establece que el período de vacaciones anuales retribuidas, no sustituible por compensación económica, será el pactado en convenio colectivo o contrato individual, pero en ningún caso inferior a treinta días naturales. A diferencia del régimen funcionarial (22 días hábiles del TREBEP), el ET usa días naturales como referencia mínima. En la práctica, ambos sistemas son equivalentes: 22 días hábiles resultan en un período similar a los 30 días naturales. Las vacaciones no pueden sustituirse por compensación económica salvo en caso de extinción del contrato. Si el trabajador no puede disfrutarlas antes de fin de año por IT o maternidad/paternidad, conserva el derecho durante 18 meses según la jurisprudencia europea.",
+    "why": "A veinte días naturales sería inferior al mínimo legal; el ET exige al menos treinta. B veintidós días hábiles es el mínimo del TREBEP para los funcionarios de carrera (art. 50), no el del ET para el personal laboral. D las vacaciones no pueden sustituirse por compensación económica, lo que el ET establece expresamente; además, el plazo que fija el ET es de treinta días naturales, no cuatro semanas.",
+    "norma": "Real Decreto Legislativo 2/2015, Estatuto de los Trabajadores",
+    "articulo": "38 ET"
+  },
+  {
+    "id": "B3T31-004",
+    "bloque": 3,
+    "tema": 31,
+    "test": 31,
+    "dificultad": "facil",
+    "pregunta": "¿Cuántas horas extraordinarias como máximo al año permite el art. 35 del ET y cuál es su carácter general respecto a la voluntariedad?",
+    "opciones": {
+      "A": "Sin límite anual; su realización es siempre obligatoria cuando el empleador lo requiera.",
+      "B": "Máximo 80 horas al año; son voluntarias salvo pacto en contrario en convenio colectivo o contrato individual, excepto en supuestos de fuerza mayor.",
+      "C": "Máximo 40 horas al año; son siempre retribuidas con doble salario y nunca pueden compensarse con descanso.",
+      "D": "Máximo 120 horas al año; su realización es obligatoria y se compensan exclusivamente con descanso adicional."
+    },
+    "correcta": "B",
+    "explicacion": "El art. 35 ET establece que el número de horas extraordinarias no podrá ser superior a ochenta al año. Las horas extraordinarias son en principio voluntarias para el trabajador, salvo que su realización se hubiera pactado en convenio colectivo o contrato individual, o que se trate de situaciones de fuerza mayor (reparaciones urgentes de siniestros o daños extraordinarios). Las horas extraordinarias deben retribuirse con el valor fijado en convenio (que no puede ser inferior al de la hora ordinaria) o compensarse con descanso equivalente dentro de los cuatro meses siguientes. En el sector público, la realización de horas extraordinarias debe justificarse por necesidades del servicio y está sujeta a controles presupuestarios adicionales.",
+    "why": "A el límite de 80 horas es una norma de orden público laboral que no puede sobrepasarse; su carácter es voluntario con excepciones tasadas. C las 40 horas y la retribución doble no son lo que establece el ET; el máximo es 80 y la retribución mínima es igual a la hora ordinaria. D el límite de 120 horas es incorrecto; el ET fija el máximo en 80, y su realización no es obligatoria con carácter general.",
+    "norma": "Real Decreto Legislativo 2/2015, Estatuto de los Trabajadores",
+    "articulo": "35 ET"
+  },
+  {
+    "id": "B3T31-005",
+    "bloque": 3,
+    "tema": 31,
+    "test": 31,
+    "dificultad": "facil",
+    "pregunta": "¿Ante qué orden jurisdiccional deben plantearse los conflictos individuales y colectivos del personal laboral al servicio de las Administraciones Públicas?",
+    "opciones": {
+      "A": "Ante la jurisdicción contencioso-administrativa, igual que los funcionarios.",
+      "B": "Ante la jurisdicción civil ordinaria.",
+      "C": "Ante la jurisdicción social (juzgados de lo social y Sala de lo Social del Tribunal Superior de Justicia).",
+      "D": "Ante la jurisdicción penal en los casos que impliquen abuso de autoridad."
+    },
+    "correcta": "C",
+    "explicacion": "El personal laboral al servicio de las AAPP está sujeto a la jurisdicción social para la resolución de los conflictos derivados de su relación de empleo, al igual que cualquier otro trabajador por cuenta ajena. Los juzgados de lo social son competentes para conocer de las reclamaciones individuales (despidos, salarios, modificación de condiciones, etc.) y la Sala de lo Social de los Tribunales Superiores de Justicia para los conflictos colectivos y recursos de suplicación. Esta es una diferencia fundamental respecto a los funcionarios de carrera, cuyos conflictos se ventilan ante la jurisdicción contencioso-administrativa. La dualidad jurisdiccional puede generar problemas prácticos cuando en una misma unidad conviven funcionarios y personal laboral.",
+    "why": "A la jurisdicción contencioso-administrativa es la competente para los conflictos de los funcionarios, no del personal laboral; esta es precisamente una de las diferencias más importantes entre ambos regímenes. B la jurisdicción civil solo es competente para materias civiles ordinarias; la laboral tiene su propia jurisdicción especializada. D la jurisdicción penal interviene cuando hay hechos constitutivos de delito, con independencia del régimen de empleo del trabajador afectado.",
+    "norma": "Ley 36/2011, reguladora de la jurisdicción social",
+    "articulo": "1 y 2 LRJS"
+  },
+  {
+    "id": "B3T31-006",
+    "bloque": 3,
+    "tema": 31,
+    "test": 31,
+    "dificultad": "facil",
+    "pregunta": "¿Cuál es la duración máxima del período de prueba para los trabajadores técnicos titulados en contratos de trabajo de duración indefinida, según el art. 14 del ET?",
+    "opciones": {
+      "A": "Un mes.",
+      "B": "Tres meses.",
+      "C": "Seis meses.",
+      "D": "Un año."
+    },
+    "correcta": "C",
+    "explicacion": "El art. 14.1 ET establece los límites máximos del período de prueba según la cualificación del trabajador. Para los trabajadores técnicos titulados (ingenieros, licenciados, diplomados, etc.), el período de prueba no podrá exceder de seis meses. Para el resto de trabajadores, el período de prueba no podrá exceder de dos meses (o tres meses en empresas de menos de 25 trabajadores). El período de prueba es un mecanismo que permite a ambas partes (empresa y trabajador) comprobar si la relación laboral es mutuamente satisfactoria antes de que el contrato adquiera plena estabilidad. Si el trabajador ya ha desempeñado las mismas funciones en la misma empresa, no puede establecerse un nuevo período de prueba.",
+    "why": "A un mes es insuficiente respecto al máximo de seis meses que el ET permite para los técnicos titulados. B tres meses es el límite para el resto de trabajadores en empresas de menos de 25 empleados; no para técnicos titulados. D un año excede el máximo del art. 14 ET; el límite para técnicos titulados es de seis meses.",
+    "norma": "Real Decreto Legislativo 2/2015, Estatuto de los Trabajadores",
+    "articulo": "14 ET"
+  },
+  {
+    "id": "B3T31-007",
+    "bloque": 3,
+    "tema": 31,
+    "test": 31,
+    "dificultad": "media",
+    "pregunta": "¿Qué es el personal laboral indefinido no fijo (LTINE) en las Administraciones Públicas y cuál es su origen?",
+    "opciones": {
+      "A": "Es el personal laboral fijo que tiene jornada a tiempo parcial de forma indefinida.",
+      "B": "Es una categoría creada por la jurisprudencia del Tribunal Supremo para los trabajadores cuya relación temporal en las AAPP se ha declarado fraudulenta o contraria al ordenamiento: no puede ser declarado fijo (pues no superó un proceso selectivo con garantías), pero tampoco puede ser cesado libremente; permanece en su puesto hasta que este se cubra mediante proceso selectivo reglado.",
+      "C": "Es el personal laboral que, tras superar un proceso selectivo parcial, está a la espera de completar el período de prácticas.",
+      "D": "Es una modalidad contractual expresamente prevista en el ET para las AAPP, equivalente al funcionario interino pero en régimen laboral."
+    },
+    "correcta": "B",
+    "explicacion": "El personal laboral indefinido no fijo (LTINE) es una figura creada por la jurisprudencia del Tribunal Supremo (en especial desde la STS de 7 de octubre de 1996 y consolidada con numerosas sentencias posteriores) para resolver el problema de la temporalidad fraudulenta en las AAPP. Cuando un trabajador temporal de una AAPP lleva vinculado mucho tiempo mediante contratos sucesivos o en fraude de ley, los tribunales no pueden declararle «fijo» porque eso vulneraría los principios constitucionales de igualdad, mérito y capacidad del acceso al empleo público. Por ello, se declara «indefinido no fijo»: tiene estabilidad hasta que el puesto se cubra mediante proceso selectivo reglado, momento en que su contrato se extingue con una indemnización. La Ley 20/2021 abordó la reducción de esta temporalidad mediante procesos de estabilización.",
+    "why": "A el personal laboral a tiempo parcial indefinido tiene su propia categoría contractual; el LTINE es una categoría derivada de la conversión de temporales fraudulentos. C el LTINE no es un aspirante en prácticas; es alguien cuya relación temporal ha sido judicialmente convertida en indefinida pero no fija. D el LTINE no está expresamente regulado en el ET; es una creación jurisprudencial que el TREBEP y la Ley 20/2021 han reconocido indirectamente.",
+    "norma": "Jurisprudencia del Tribunal Supremo; Ley 20/2021, de 28 de diciembre, de medidas urgentes para la reducción de la temporalidad en el empleo público",
+    "articulo": "11 TREBEP; jurisprudencia TS"
+  },
+  {
+    "id": "B3T31-008",
+    "bloque": 3,
+    "tema": 31,
+    "test": 31,
+    "dificultad": "media",
+    "pregunta": "¿Cuáles son las causas de despido disciplinario que recoge el art. 54 del ET y qué efecto tiene sobre la indemnización del trabajador?",
+    "opciones": {
+      "A": "Las causas de despido disciplinario son las mismas que las del despido objetivo; la diferencia está en que el disciplinario genera indemnización de 20 días por año.",
+      "B": "Son incumplimientos contractuales graves y culpables del trabajador; entre ellas: faltas repetidas de asistencia o puntualidad injustificadas, indisciplina, ofensas al empresario o compañeros, transgresión de la buena fe contractual, disminución voluntaria del rendimiento, embriaguez o toxicomanía con repercusión laboral y acoso. El despido disciplinario no genera derecho a indemnización.",
+      "C": "El despido disciplinario solo puede aplicarse si existe sentencia penal firme previa que condene al trabajador.",
+      "D": "Las causas están tasadas en el convenio colectivo de cada sector; el ET solo establece el marco general sin concretar las causas."
+    },
+    "correcta": "B",
+    "explicacion": "El art. 54 ET enumera las causas del despido disciplinario: (a) faltas repetidas e injustificadas de asistencia o puntualidad; (b) indisciplina o desobediencia en el trabajo; (c) ofensas verbales o físicas al empresario, compañeros de trabajo o familiares que convivan con ellos; (d) transgresión de la buena fe contractual y el abuso de confianza; (e) disminución continuada y voluntaria del rendimiento; (f) embriaguez habitual o toxicomanía si repercuten negativamente en el trabajo; y (g) acoso por razón de origen racial, religión, discapacidad, edad, orientación sexual o acoso sexual al empresario, compañeros o terceros. El despido disciplinario no genera derecho a indemnización alguna (a diferencia del objetivo), dado que el incumplimiento es imputable al trabajador.",
+    "why": "A las causas del despido disciplinario y las del objetivo son completamente distintas; el disciplinario no genera indemnización. C el despido disciplinario no requiere sentencia penal previa; la empresa puede adoptar la medida de forma unilateral por incumplimiento contractual. D el ET sí concreta las causas del despido disciplinario en el art. 54; los convenios colectivos pueden añadir procedimientos pero no sustituyen las causas legales.",
+    "norma": "Real Decreto Legislativo 2/2015, Estatuto de los Trabajadores",
+    "articulo": "54 ET"
+  },
+  {
+    "id": "B3T31-009",
+    "bloque": 3,
+    "tema": 31,
+    "test": 31,
+    "dificultad": "media",
+    "pregunta": "¿Cuáles son las causas del despido objetivo individual del art. 52 del ET y cuál es la indemnización y el preaviso que le corresponden?",
+    "opciones": {
+      "A": "Las causas son la quiebra económica de la empresa y el abandono voluntario del trabajador; la indemnización es de 45 días por año.",
+      "B": "Son causas como la ineptitud sobrevenida, la falta de adaptación a modificaciones técnicas razonables, causas económicas, técnicas, organizativas o productivas que no alcancen los umbrales del ERE, o absentismo justificado que alcance los porcentajes legales; la indemnización es de 20 días de salario por año (máximo 12 mensualidades) y el preaviso mínimo es de 15 días.",
+      "C": "Las causas son las mismas que el despido disciplinario; la única diferencia es que el objetivo requiere expediente contradictorio previo.",
+      "D": "La indemnización del despido objetivo es de 33 días por año con un máximo de 24 mensualidades, igual que la del despido improcedente."
+    },
+    "correcta": "B",
+    "explicacion": "El art. 52 ET regula el despido objetivo por causas ajenas al trabajador. Sus causas son: (a) ineptitud del trabajador conocida o sobrevenida con posterioridad a la colocación efectiva; (b) falta de adaptación del trabajador a las modificaciones técnicas operadas en su puesto de trabajo, siempre que dichos cambios sean razonables; (c) causas económicas, técnicas, organizativas o productivas cuando no alcancen los umbrales mínimos del despido colectivo (art. 51 ET); y (d) faltas de asistencia al trabajo, aunque sean justificadas, que alcancen el 20% de las jornadas hábiles en dos meses consecutivos, o el 25% en cuatro meses discontinuos dentro de un período de doce meses. La indemnización es de 20 días de salario por año de servicio, prorrateados por meses, con un máximo de 12 mensualidades. El preaviso mínimo es de 15 días.",
+    "why": "A las causas de despido objetivo no incluyen la quiebra empresarial como causa principal (esa sería causa del ERE); y la indemnización de 45 días/año correspondía al régimen anterior a la reforma de 2012. C las causas del despido disciplinario y las del objetivo son radicalmente distintas: el disciplinario sanciona un incumplimiento del trabajador; el objetivo responde a causas ajenas a su voluntad. D los 33 días/año con máximo de 24 mensualidades corresponde al despido improcedente (art. 56 ET), no al objetivo.",
+    "norma": "Real Decreto Legislativo 2/2015, Estatuto de los Trabajadores",
+    "articulo": "52 ET"
+  },
+  {
+    "id": "B3T31-010",
+    "bloque": 3,
+    "tema": 31,
+    "test": 31,
+    "dificultad": "media",
+    "pregunta": "¿Cuál es la indemnización que corresponde al trabajador en caso de despido declarado improcedente según el art. 56 del ET y quién elige entre readmisión e indemnización?",
+    "opciones": {
+      "A": "La indemnización es de 20 días por año con máximo de 12 mensualidades; elige el trabajador.",
+      "B": "La indemnización es de 33 días de salario por año de servicio, prorrateados por meses, con un máximo de 24 mensualidades; elige el empresario entre readmisión o indemnización, salvo que el trabajador sea representante de los trabajadores, en cuyo caso elige el trabajador.",
+      "C": "La indemnización es de 45 días por año con máximo de 42 mensualidades; elige el juez.",
+      "D": "El despido improcedente siempre obliga a la readmisión del trabajador; no hay opción de indemnización."
+    },
+    "correcta": "B",
+    "explicacion": "Tras la reforma laboral de 2012 (Ley 3/2012), el art. 56 ET establece que en caso de despido improcedente, el empresario, en el plazo de cinco días desde la notificación de la sentencia, puede optar entre la readmisión del trabajador (con el abono de los salarios de tramitación) o el pago de una indemnización de treinta y tres días de salario por año de servicio, prorrateándose por meses los períodos inferiores a un año, con un máximo de veinticuatro mensualidades. La excepción es el caso de los representantes de los trabajadores (delegados de personal, miembros del comité de empresa), en cuyo caso es el propio trabajador quien elige entre readmisión e indemnización.",
+    "why": "A los 20 días/año con máximo de 12 mensualidades es la indemnización del despido objetivo procedente (art. 52 ET), no del improcedente. C los 45 días/año con máximo de 42 mensualidades era el régimen anterior a la reforma de 2012 para los contratos indefinidos celebrados antes de esa fecha; el régimen actual es de 33 días/año. D el despido improcedente no obliga siempre a la readmisión; el empresario puede optar por indemnizar.",
+    "norma": "Real Decreto Legislativo 2/2015, Estatuto de los Trabajadores",
+    "articulo": "56 ET"
+  },
+  {
+    "id": "B3T31-011",
+    "bloque": 3,
+    "tema": 31,
+    "test": 31,
+    "dificultad": "media",
+    "pregunta": "¿En qué supuestos otorga el art. 41 del ET al trabajador el derecho a rescindir su contrato con indemnización ante una modificación sustancial de las condiciones de trabajo?",
+    "opciones": {
+      "A": "En ningún caso; el trabajador está obligado a aceptar cualquier modificación que la empresa decida.",
+      "B": "Cuando la modificación sustancial afecte a jornada, horario, régimen de trabajo a turnos, sistema de remuneración, sistema de trabajo y rendimiento o funciones, y el trabajador resulte perjudicado; puede extinguir el contrato con una indemnización de 20 días de salario por año de servicio, con un máximo de 9 mensualidades.",
+      "C": "Solo cuando la modificación implique reducción de salario; en los demás casos no hay derecho a indemnización.",
+      "D": "El trabajador tiene derecho a rescindir el contrato con indemnización de 45 días por año si la modificación afecta a su jornada ordinaria."
+    },
+    "correcta": "B",
+    "explicacion": "El art. 41 ET regula la modificación sustancial de las condiciones de trabajo. Cuando el empresario decide modificar unilateralmente condiciones como la jornada de trabajo, el horario, el régimen de trabajo a turnos, el sistema de remuneración y cuantía salarial, el sistema de trabajo y rendimiento, o las funciones, debe seguir un procedimiento específico (comunicación con 15 días de preaviso o período de consultas si afecta a un número determinado de trabajadores). Si la modificación afecta a jornada, horario o régimen de turnos y el trabajador resulta perjudicado, tiene derecho a rescindir el contrato con una indemnización de veinte días de salario por año de servicio, con un máximo de nueve mensualidades. En las AAPP, estas modificaciones deben respetar los derechos del convenio colectivo aplicable.",
+    "why": "A el trabajador no tiene obligación de aceptar cualquier modificación que perjudique sus condiciones; el art. 41 ET le otorga el derecho a rescindir con indemnización. C el derecho a rescindir con indemnización no se limita a las reducciones salariales; también alcanza a modificaciones de jornada, horario y régimen de turnos. D los 45 días/año no corresponden a la rescisión del art. 41 ET; la indemnización en este supuesto es de 20 días/año con máximo de 9 mensualidades.",
+    "norma": "Real Decreto Legislativo 2/2015, Estatuto de los Trabajadores",
+    "articulo": "41 ET"
+  },
+  {
+    "id": "B3T31-012",
+    "bloque": 3,
+    "tema": 31,
+    "test": 31,
+    "dificultad": "media",
+    "pregunta": "¿Cuándo se constituye un comité de empresa y cuándo se eligen delegados de personal según los arts. 62-63 del ET?",
+    "opciones": {
+      "A": "El comité de empresa se constituye siempre, independientemente del número de trabajadores; los delegados de personal solo existen en microempresas.",
+      "B": "Los delegados de personal representan a los trabajadores en empresas o centros de trabajo con menos de 50 trabajadores (entre 6 y 49); el comité de empresa se constituye en los centros de trabajo con 50 o más trabajadores.",
+      "C": "El comité de empresa se constituye en centros con más de 100 trabajadores; entre 10 y 99, se eligen delegados de personal.",
+      "D": "No hay diferencia funcional; ambos órganos tienen las mismas funciones y se eligen con los mismos criterios."
+    },
+    "correcta": "B",
+    "explicacion": "Los arts. 62 y 63 ET establecen los dos órganos de representación colectiva de los trabajadores: (1) Delegados de personal: representan a los trabajadores en los centros de trabajo o empresas que tengan entre 6 y 49 trabajadores. Pueden elegirse 1 delegado en centros de 6 a 10 trabajadores (si la mayoría lo decide), 1 delegado en centros de 11 a 30 trabajadores, y 3 delegados en centros de 31 a 49 trabajadores. (2) Comité de empresa: en los centros de trabajo con 50 o más trabajadores se elige un comité de empresa; su número de miembros oscila según la plantilla (5 para 50-100 trabajadores, hasta un máximo de 75 miembros para las grandes empresas). Esta distinción entre umbrales es relevante en las unidades administrativas grandes o pequeñas con personal laboral.",
+    "why": "A no siempre se constituye comité de empresa; el umbral mínimo es de 50 trabajadores en el centro de trabajo. C el umbral de 50 es el que separa los delegados de personal del comité de empresa; los centros de 10-49 tienen delegados de personal. D aunque ambos órganos tienen funciones similares, no son idénticos; el comité es un órgano colegiado con más representantes y funciones más amplias, mientras que los delegados son representantes individuales.",
+    "norma": "Real Decreto Legislativo 2/2015, Estatuto de los Trabajadores",
+    "articulo": "62 y 63 ET"
+  },
+  {
+    "id": "B3T31-013",
+    "bloque": 3,
+    "tema": 31,
+    "test": 31,
+    "dificultad": "media",
+    "pregunta": "¿Cómo regula el art. 32 del TREBEP la negociación colectiva del personal laboral en las Administraciones Públicas?",
+    "opciones": {
+      "A": "El personal laboral de las AAPP no tiene derecho a la negociación colectiva; sus condiciones las fija unilateralmente la Administración.",
+      "B": "La negociación colectiva del personal laboral en las AAPP se rige por el Estatuto de los Trabajadores y por las normas específicas de carácter presupuestario que le sean de aplicación; sus resultados se plasman en convenios colectivos que deben respetar los límites de gasto público aprobados por las Leyes de Presupuestos.",
+      "C": "El personal laboral negocia en las mismas Mesas de Negociación que los funcionarios, sin distinción alguna.",
+      "D": "La negociación colectiva del personal laboral solo puede referirse a materias retributivas; las condiciones de trabajo no son negociables."
+    },
+    "correcta": "B",
+    "explicacion": "El art. 32 TREBEP establece que la negociación colectiva, representación y participación del personal laboral al servicio de las Administraciones Públicas se regirá por la legislación laboral, con las particularidades específicas derivadas de su condición de empleador público. Los convenios colectivos del sector público están sometidos a las restricciones presupuestarias fijadas en las Leyes de Presupuestos, que pueden limitar las mejoras retributivas aunque se hubieran pactado. El TREBEP permite la negociación conjunta de funcionarios y personal laboral en las Mesas Generales de Negociación cuando lo decidan de mutuo acuerdo las partes, pero la negociación del personal laboral tiene su propio marco en el ET y produce convenios colectivos, no acuerdos de funcionarios.",
+    "why": "A el personal laboral sí tiene derecho constitucional a la negociación colectiva (art. 37 CE), reconocido también en el TREBEP y el ET. C en principio la negociación de funcionarios y personal laboral sigue canales distintos (mesas de negociación para funcionarios, convenios colectivos para laborales), aunque puede haber negociación conjunta por acuerdo. D el convenio colectivo del sector público puede abarcar todas las condiciones de trabajo, no solo las retributivas.",
+    "norma": "Real Decreto Legislativo 5/2015, Texto Refundido del Estatuto Básico del Empleado Público (TREBEP)",
+    "articulo": "32 TREBEP"
+  },
+  {
+    "id": "B3T31-014",
+    "bloque": 3,
+    "tema": 31,
+    "test": 31,
+    "dificultad": "media",
+    "pregunta": "¿Cuáles son los contratos de duración determinada que permite el art. 15 del ET tras la reforma de la Ley 32/2021?",
+    "opciones": {
+      "A": "El contrato por obra o servicio determinado, el eventual por circunstancias de la producción y el de interinidad; estos tres contratos tienen vigencia indefinida.",
+      "B": "El contrato por circunstancias de la producción (para atender necesidades temporales del mercado o acumulación de tareas, con duración máxima de 6 meses, ampliable a 12 por convenio sectorial) y el contrato de sustitución (para cubrir la reserva del puesto de un trabajador con derecho a él, o durante procesos de selección).",
+      "C": "Solo el contrato de interinidad; todos los demás contratos temporales han sido eliminados por la reforma de 2021.",
+      "D": "La Ley 32/2021 no modificó los contratos temporales del ET; siguen vigentes las mismas modalidades que existían antes de 2021."
+    },
+    "correcta": "B",
+    "explicacion": "La Ley 32/2021, de 28 de diciembre, de reforma laboral, modificó profundamente el art. 15 ET eliminando el contrato por obra o servicio determinado (que era la modalidad temporal más utilizada y fuente principal de precarización) y reduciendo a dos las modalidades de contratos de duración determinada: (1) El contrato por circunstancias de la producción: para atender el incremento ocasional e imprevisible de la actividad, o situaciones ocasionales previsibles que no superen 90 días al año; su duración máxima es de 6 meses, ampliable hasta 12 por convenio colectivo sectorial. (2) El contrato de sustitución: para sustituir a un trabajador con derecho a reserva del puesto, o para cubrir el puesto durante un proceso de selección o promoción. En el sector público, la reforma ha tenido importante impacto en la gestión del personal temporal.",
+    "why": "A el contrato por obra o servicio determinado fue eliminado por la Ley 32/2021; las demás modalidades mencionadas tampoco son exactas. C no solo queda el contrato de interinidad; la reforma mantuvo dos modalidades: circunstancias de la producción y sustitución. D la Ley 32/2021 sí modificó sustancialmente el art. 15 ET, siendo una de las reformas laborales más relevantes de los últimos años.",
+    "norma": "Real Decreto Legislativo 2/2015, ET, art. 15, en la redacción dada por Ley 32/2021",
+    "articulo": "15 ET"
+  },
+  {
+    "id": "B3T31-015",
+    "bloque": 3,
+    "tema": 31,
+    "test": 31,
+    "dificultad": "media",
+    "pregunta": "¿Qué es el contrato fijo-discontinuo regulado en el art. 16 del ET y qué relevancia tiene en el sector público?",
+    "opciones": {
+      "A": "Es un contrato de duración determinada que se usa cuando la actividad es estacional; se extingue automáticamente al finalizar cada temporada.",
+      "B": "Es un contrato indefinido que se celebra para trabajos de naturaleza estacional o vinculados a actividades productivas de temporada, o para trabajos que no tengan la consideración de trabajos fijos pero se repitan con cierta periodicidad; el trabajador tiene derecho a ser llamado en cada período de actividad y a ser indemnizado si no se le llama.",
+      "C": "Es un contrato de trabajo a tiempo parcial de carácter indefinido, exclusivo del sector privado.",
+      "D": "El contrato fijo-discontinuo fue eliminado por la Ley 32/2021 junto con el contrato por obra o servicio."
+    },
+    "correcta": "B",
+    "explicacion": "El art. 16 ET regula el contrato de trabajo fijo-discontinuo, que es un contrato de naturaleza indefinida (no temporal) para trabajos de carácter estacional o que se repiten periódicamente en fecha cierta o incierta. Tras la reforma de la Ley 32/2021, el fijo-discontinuo ha ganado importancia porque sustituyó al contrato de obra y servicio en muchos sectores y también se usa en el sector público para cubrir necesidades periódicas (servicios de verano, campañas estacionales, etc.). El trabajador fijo-discontinuo tiene un vínculo permanente con la empresa, no percibe retribución durante los períodos de inactividad pero cotiza a la Seguridad Social, y tiene derecho a ser llamado cuando se reinicie la actividad; si no se le llama, puede reclamar por despido.",
+    "why": "A el contrato fijo-discontinuo no se extingue al finalizar cada temporada; es indefinido y el trabajador mantiene el vínculo con la empresa entre períodos de actividad. C el contrato a tiempo parcial es una modalidad distinta; el fijo-discontinuo implica alternancia entre períodos de actividad e inactividad. D el fijo-discontinuo no fue eliminado por la Ley 32/2021; al contrario, fue potenciado y ampliado por dicha reforma.",
+    "norma": "Real Decreto Legislativo 2/2015, ET, art. 16, en la redacción dada por Ley 32/2021",
+    "articulo": "16 ET"
+  },
+  {
+    "id": "B3T31-016",
+    "bloque": 3,
+    "tema": 31,
+    "test": 31,
+    "dificultad": "media",
+    "pregunta": "¿Cuál es el descanso semanal mínimo que reconoce el art. 37 del ET a los trabajadores?",
+    "opciones": {
+      "A": "Un día completo ininterrumpido a la semana.",
+      "B": "Un día y medio ininterrumpido por semana, acumulable por períodos de hasta catorce días.",
+      "C": "Dos días completos al final de cada semana natural.",
+      "D": "El descanso semanal lo fija libremente el convenio colectivo sin ningún mínimo legal."
+    },
+    "correcta": "B",
+    "explicacion": "El art. 37.1 ET establece que los trabajadores tendrán derecho a un descanso mínimo semanal, acumulable por períodos de hasta catorce días, de día y medio ininterrumpido. Como regla general, este descanso comprende la tarde del sábado o la mañana del sábado y el día completo del domingo. Aunque pueda acumularse durante períodos de hasta dos semanas (lo que permite trabajar doce días consecutivos y descansar tres seguidos, por ejemplo), el cómputo semanal siempre debe alcanzar ese mínimo de día y medio. En el sector público, los convenios colectivos suelen mejorar este mínimo estableciendo dos días completos de descanso semanal para la mayor parte del personal.",
+    "why": "A un día completo es inferior al mínimo legal de día y medio que exige el ET. C dos días completos es una mejora habitual en convenios colectivos, pero no el mínimo que establece el ET; el mínimo legal es de día y medio. D el descanso semanal mínimo es una norma de orden público que no puede ser rebajada por convenio colectivo; solo puede mejorarse.",
+    "norma": "Real Decreto Legislativo 2/2015, Estatuto de los Trabajadores",
+    "articulo": "37 ET"
+  },
+  {
+    "id": "B3T31-017",
+    "bloque": 3,
+    "tema": 31,
+    "test": 31,
+    "dificultad": "dificil",
+    "pregunta": "¿Cuáles son las principales diferencias entre el personal laboral indefinido no fijo (LTINE) y el personal laboral fijo de las Administraciones Públicas en cuanto al acceso y la extinción de la relación?",
+    "opciones": {
+      "A": "El LTINE y el personal laboral fijo tienen exactamente el mismo régimen; la única diferencia es la denominación.",
+      "B": "El personal laboral fijo ha superado un proceso selectivo reglado con plenas garantías de igualdad, mérito y capacidad; el LTINE es declarado por los tribunales en ausencia de ese proceso. En cuanto a la extinción, el LTINE puede extinguirse cuando el puesto es cubierto por alguien que supera el proceso selectivo correspondiente, con una indemnización; el personal laboral fijo tiene mayor estabilidad y solo puede extinguirse por las causas generales del ET.",
+      "C": "El LTINE tiene más derechos que el personal fijo porque lleva más tiempo en la Administración.",
+      "D": "La diferencia principal es la jornada: el LTINE siempre trabaja a tiempo parcial y el personal fijo a jornada completa."
+    },
+    "correcta": "B",
+    "explicacion": "La distinción entre personal laboral fijo y LTINE es fundamental. El personal laboral fijo ha accedido a su puesto superando un proceso selectivo con plenas garantías constitucionales (igualdad, mérito, capacidad, publicidad); tiene todos los derechos del ET y su contrato solo puede extinguirse por las causas legalmente previstas. El LTINE, en cambio, es declarado por sentencia judicial ante la existencia de una relación temporal fraudulenta, sin haber superado un proceso selectivo reglado; esto le impide ser declarado fijo (pues vulneraría los principios constitucionales de acceso al empleo público). Su relación se extingue cuando el puesto es cubierto mediante el proceso selectivo correspondiente, generándose en ese momento una indemnización (que la jurisprudencia y la Ley 20/2021 han delimitado). La Ley 20/2021 creó procesos de estabilización para que los LTINE pudiesen acceder a plazas fijas.",
+    "why": "A las diferencias entre LTINE y personal fijo son sustanciales, tanto en el origen de la relación como en la forma de extinción. C el LTINE no tiene más derechos por su antigüedad; tiene una posición más precaria porque puede extinguirse su relación al cubrirse el puesto mediante proceso selectivo. D la jornada no es el criterio diferenciador entre LTINE y personal fijo; ambos pueden trabajar a jornada completa o parcial.",
+    "norma": "Jurisprudencia del Tribunal Supremo; Ley 20/2021; art. 11 TREBEP",
+    "articulo": "11 TREBEP; Ley 20/2021"
+  },
+  {
+    "id": "B3T31-018",
+    "bloque": 3,
+    "tema": 31,
+    "test": 31,
+    "dificultad": "dificil",
+    "pregunta": "¿Cuáles son los umbrales numéricos que determina el art. 51 del ET para que un despido colectivo sea considerado ERE, y qué causas lo justifican?",
+    "opciones": {
+      "A": "Cualquier despido de más de 5 trabajadores es un ERE; las causas son exclusivamente económicas.",
+      "B": "Los umbrales son: afectación de al menos 10 trabajadores en empresas de menos de 100; el 10% de la plantilla en empresas de 100 a 299 trabajadores; y 30 o más trabajadores en empresas de 300 o más. Las causas que lo justifican son económicas, técnicas, organizativas o productivas.",
+      "C": "El ERE se produce cuando se despide a toda la plantilla de la empresa, sea cual sea su tamaño. Las causas son solo económicas.",
+      "D": "El umbral es siempre el 20% de la plantilla, sin distinción por el tamaño de la empresa; se aplica igual a las AAPP."
+    },
+    "correcta": "B",
+    "explicacion": "El art. 51 ET establece que se entiende por despido colectivo el que afecte en un período de noventa días a: (a) diez trabajadores en empresas de menos de cien; (b) el diez por ciento del número de trabajadores en empresas de entre cien y trescientos; (c) treinta trabajadores en empresas de trescientos o más. Las causas que pueden justificar el despido colectivo son económicas (cuando existe una situación económica negativa), técnicas, organizativas o productivas (cuando se producen cambios en los sistemas de producción, organización del trabajo o demanda del producto). En las AAPP, el despido colectivo tiene particularidades: la insuficiencia presupuestaria sobrevenida y persistente puede considerarse causa económica, y las modificaciones en la organización de las unidades se invocan como causa organizativa o productiva. El procedimiento requiere un período de consultas de treinta días (quince en empresas de menos de cincuenta trabajadores).",
+    "why": "A los umbrales varían según el tamaño de la empresa; el límite fijo de 5 trabajadores no es correcto. C el ERE no se limita a la extinción de toda la plantilla ni solo a causas económicas. D el 20% uniforme de plantilla no es el criterio del art. 51 ET; los umbrales dependen del tamaño de la empresa.",
+    "norma": "Real Decreto Legislativo 2/2015, Estatuto de los Trabajadores",
+    "articulo": "51 ET"
+  },
+  {
+    "id": "B3T31-019",
+    "bloque": 3,
+    "tema": 31,
+    "test": 31,
+    "dificultad": "dificil",
+    "pregunta": "¿Cuáles son las principales causas de suspensión del contrato de trabajo del art. 45 del ET relevantes en el ámbito del empleo público laboral?",
+    "opciones": {
+      "A": "La suspensión del contrato en las AAPP no está permitida; el personal laboral no puede interrumpir su prestación de servicios.",
+      "B": "Entre las causas de suspensión se encuentran: incapacidad temporal; nacimiento, adopción, guarda o acogimiento (permiso parental); riesgo durante el embarazo o la lactancia; ejercicio del derecho a huelga; privación de libertad del trabajador mientras no exista sentencia condenatoria firme; fuerza mayor temporal; causas económicas, técnicas, organizativas o productivas (ERTE); y excedencia.",
+      "C": "Las causas de suspensión del contrato en las AAPP son exclusivamente la incapacidad temporal y la maternidad.",
+      "D": "En las AAPP, la suspensión del contrato solo puede producirse por decisión judicial; la empresa pública no puede acordar la suspensión unilateralmente."
+    },
+    "correcta": "B",
+    "explicacion": "El art. 45 ET enumera las causas de suspensión del contrato de trabajo, que son aquellas que interrumpen temporalmente la obligación de trabajar y percibir salario sin extinguir el vínculo laboral. En el ámbito del empleo público laboral, las causas más relevantes son: (1) incapacidad temporal (IT) por enfermedad o accidente; (2) permisos por nacimiento, adopción o acogimiento (16 semanas para cada progenitor); (3) riesgo durante el embarazo o la lactancia natural; (4) ejercicio del derecho de huelga; (5) privación de libertad mientras no haya sentencia condenatoria; (6) fuerza mayor temporal; (7) suspensión por causas económicas, técnicas, organizativas o productivas (ERTE), aplicable también a ciertas entidades del sector público; y (8) la excedencia, en sus diversas modalidades. Durante la suspensión el trabajador no percibe salario (salvo las prestaciones de la Seguridad Social correspondientes).",
+    "why": "A el art. 45 ET sí permite la suspensión del contrato; es una figura básica del régimen laboral que también aplica al personal laboral de las AAPP. C las causas de suspensión son mucho más amplias que solo IT y maternidad; el art. 45 ET recoge un catálogo extenso. D la suspensión por iniciativa del empresario (como el ERTE) sí es posible en las AAPP cuando concurren las causas legales; no requiere decisión judicial.",
+    "norma": "Real Decreto Legislativo 2/2015, Estatuto de los Trabajadores",
+    "articulo": "45 ET"
+  },
+  {
+    "id": "B3T31-020",
+    "bloque": 3,
+    "tema": 31,
+    "test": 31,
+    "dificultad": "dificil",
+    "pregunta": "¿Cómo se articulan los dos canales de negociación colectiva que coexisten en una misma Administración Pública cuando tiene tanto personal funcionario como personal laboral?",
+    "opciones": {
+      "A": "Solo existe un canal; funcionarios y personal laboral negocian conjuntamente en la misma Mesa de Negociación.",
+      "B": "Coexisten dos canales diferenciados: la Mesa de Negociación para los funcionarios (donde se adoptan acuerdos y pactos, regulados por el TREBEP) y la negociación colectiva laboral del ET (que produce convenios colectivos con fuerza normativa); pueden coexistir o negociar conjuntamente materias comunes, pero mantienen su naturaleza jurídica distinta.",
+      "C": "El personal laboral no tiene derecho a negociación colectiva en las AAPP; solo los funcionarios pueden negociar sus condiciones.",
+      "D": "Los convenios colectivos del personal laboral de las AAPP sustituyen a los acuerdos de las Mesas de Negociación de funcionarios cuando haya contradicción entre ambos."
+    },
+    "correcta": "B",
+    "explicacion": "El sistema de relaciones colectivas en las AAPP es dual. Por un lado, los funcionarios de carrera negocian sus condiciones a través de las Mesas de Negociación previstas en el TREBEP (arts. 33-38), cuyos resultados son pactos o acuerdos de naturaleza administrativa, no convenios colectivos laborales. Por otro lado, el personal laboral negocia mediante los mecanismos del ET (convenios colectivos), cuyo resultado es un convenio colectivo con fuerza normativa erga omnes dentro de su ámbito. Ambos canales son independientes, aunque el art. 36.3 TREBEP prevé que las Mesas Generales de Negociación pueden negociar materias que afecten conjuntamente a funcionarios y personal laboral. En todo caso, los convenios colectivos del sector público están sujetos a los límites presupuestarios de las Leyes de Presupuestos.",
+    "why": "A aunque puede haber negociación conjunta en la Mesa General, los dos canales mantienen su naturaleza y efectos jurídicos distintos. C el personal laboral sí tiene derecho constitucional a la negociación colectiva (art. 37 CE), reconocido expresamente en el art. 32 TREBEP. D los convenios colectivos y los acuerdos de funcionarios son normas de distinta naturaleza que regulan colectivos diferentes; uno no sustituye al otro.",
+    "norma": "Real Decreto Legislativo 5/2015, TREBEP, arts. 32 y 36; Real Decreto Legislativo 2/2015, ET",
+    "articulo": "32 y 36 TREBEP; 82-87 ET"
+  }
+]
