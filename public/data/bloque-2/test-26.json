@@ -1,0 +1,382 @@
+[
+  {
+    "id": "B2T26-001",
+    "bloque": 2,
+    "tema": 26,
+    "test": 26,
+    "dificultad": "facil",
+    "pregunta": "¿Cómo define el art. 4 del Reglamento (UE) 2016/679 (RGPD) el concepto de dato personal?",
+    "opciones": {
+      "A": "Solo los datos identificativos de una persona, como el nombre, DNI o número de teléfono.",
+      "B": "Toda información sobre una persona física identificada o identificable; se considerará identificable a toda persona cuya identidad pueda determinarse directa o indirectamente.",
+      "C": "Únicamente los datos sensibles como la salud, ideología o religión de una persona.",
+      "D": "Solo los datos almacenados en soporte digital; los datos en papel no tienen la consideración de datos personales."
+    },
+    "correcta": "B",
+    "explicacion": "El art. 4.1 RGPD define dato personal como toda información sobre una persona física identificada o identificable. Se considerará identificable toda persona cuya identidad pueda determinarse, directa o indirectamente, en particular mediante un identificador como un nombre, un número de identificación, datos de localización, un identificador en línea o uno o varios elementos propios de la identidad física, fisiológica, genética, psíquica, económica, cultural o social de dicha persona. La definición es amplia: incluye el nombre, el NIF, la dirección, la IP, una fotografía o incluso la voz, siempre que permitan identificar a la persona.",
+    "why": "A el concepto de dato personal no se limita a los datos identificativos directos; incluye cualquier dato que permita identificar a la persona, aunque sea de forma indirecta o combinada con otros datos. C los datos sensibles (categorías especiales del art. 9 RGPD) son un subconjunto de los datos personales, con mayor protección, pero el concepto de dato personal es mucho más amplio. D el RGPD es neutral respecto al soporte; los datos en papel, en dispositivos electrónicos o en cualquier otro formato pueden ser datos personales.",
+    "norma": "Reglamento (UE) 2016/679 (RGPD)",
+    "articulo": "4.1"
+  },
+  {
+    "id": "B2T26-002",
+    "bloque": 2,
+    "tema": 26,
+    "test": 26,
+    "dificultad": "facil",
+    "pregunta": "¿Cuáles son los derechos que el RGPD reconoce a los interesados respecto al tratamiento de sus datos personales?",
+    "opciones": {
+      "A": "Únicamente el derecho de acceso y el derecho a la supresión de los datos.",
+      "B": "Derecho de acceso, rectificación, supresión (derecho al olvido), limitación del tratamiento, portabilidad, oposición, y a no ser objeto de decisiones automatizadas individuales.",
+      "C": "Solo el derecho a ser informado cuando los datos son recogidos por primera vez; después no hay derechos ejercitables.",
+      "D": "El derecho a exigir que la Administración destruya todos sus datos en cualquier momento y sin excepción."
+    },
+    "correcta": "B",
+    "explicacion": "Los arts. 15 a 22 RGPD reconocen un catálogo de derechos al interesado: (1) acceso (art. 15): saber si sus datos son tratados y obtener copia; (2) rectificación (art. 16): corregir datos inexactos o incompletos; (3) supresión/derecho al olvido (art. 17): obtener la eliminación de los datos cuando ya no sean necesarios o se hayan obtenido ilícitamente; (4) limitación del tratamiento (art. 18): restringir el uso de los datos en determinadas circunstancias; (5) portabilidad (art. 20): recibir los datos en formato estructurado y legible por máquina para transmitirlos a otro responsable; (6) oposición (art. 21): oponerse al tratamiento por razones relacionadas con su situación particular; (7) derecho a no ser objeto de decisiones basadas únicamente en el tratamiento automatizado (art. 22).",
+    "why": "A limitar los derechos al acceso y supresión es incompleto; el RGPD reconoce un catálogo más amplio de siete derechos diferenciados. C el derecho a ser informado es el derecho a la transparencia (arts. 13 y 14), que es previo al tratamiento, pero el RGPD reconoce además los derechos ejercitables en cualquier momento durante el tratamiento. D el derecho de supresión tiene límites y excepciones (p. ej., cuando el tratamiento es necesario para cumplir una obligación legal o el ejercicio de una misión en interés público); no es un derecho absoluto.",
+    "norma": "Reglamento (UE) 2016/679 (RGPD)",
+    "articulo": "15 a 22"
+  },
+  {
+    "id": "B2T26-003",
+    "bloque": 2,
+    "tema": 26,
+    "test": 26,
+    "dificultad": "facil",
+    "pregunta": "¿Cuál es la naturaleza jurídica de la Agencia Española de Protección de Datos (AEPD) y cuáles son sus funciones principales?",
+    "opciones": {
+      "A": "Es una unidad administrativa del Ministerio del Interior, dependiente jerárquicamente del Ministro.",
+      "B": "Es una autoridad administrativa independiente, con plena capacidad jurídica y de obrar, que actúa como autoridad de control en materia de protección de datos en España, supervisando el cumplimiento del RGPD y la LOPDGDD, investigando reclamaciones, imponiendo sanciones y asesorando.",
+      "C": "Es un tribunal especializado con funciones jurisdiccionales en materia de protección de datos.",
+      "D": "Es un organismo privado creado por las principales empresas tecnológicas para autorregular el tratamiento de datos personales."
+    },
+    "correcta": "B",
+    "explicacion": "La AEPD es la autoridad de control en materia de protección de datos en España, conforme al art. 57 RGPD y a la Ley Orgánica 3/2018 (LOPDGDD). Actúa con plena independencia funcional: no está sujeta a instrucciones de ningún otro organismo en el ejercicio de sus funciones. Sus competencias incluyen supervisar el cumplimiento del RGPD y la LOPDGDD, investigar y resolver reclamaciones de los ciudadanos, imponer sanciones administrativas, emitir directrices y recomendaciones, acreditar a los organismos de certificación, y cooperar con las autoridades de control de otros Estados miembros de la UE. Las CCAA con competencias propias (Cataluña, País Vasco) tienen autoridades autonómicas propias.",
+    "why": "A la AEPD no depende del Ministerio del Interior; su independencia funcional es un requisito del art. 52 RGPD. C la AEPD es una autoridad administrativa, no un tribunal; sus resoluciones son actos administrativos susceptibles de recurso contencioso-administrativo. D la AEPD es un organismo público, no privado; su creación y régimen se regulan en la LOPDGDD.",
+    "norma": "Ley Orgánica 3/2018, de Protección de Datos Personales y garantía de los derechos digitales (LOPDGDD)",
+    "articulo": "44 y ss."
+  },
+  {
+    "id": "B2T26-004",
+    "bloque": 2,
+    "tema": 26,
+    "test": 26,
+    "dificultad": "facil",
+    "pregunta": "¿Cuáles son los principios relativos al tratamiento de datos personales establecidos en el art. 5 del RGPD?",
+    "opciones": {
+      "A": "Solo el principio de consentimiento y el principio de confidencialidad.",
+      "B": "Licitud, lealtad y transparencia; limitación de la finalidad; minimización de datos; exactitud; limitación del plazo de conservación; integridad y confidencialidad; y responsabilidad proactiva del responsable.",
+      "C": "Libertad, igualdad y fraternidad en el tratamiento de datos, adaptados al entorno digital.",
+      "D": "Exclusivamente el principio de proporcionalidad y el principio de seguridad."
+    },
+    "correcta": "B",
+    "explicacion": "El art. 5 RGPD enumera los principios que rigen todo tratamiento de datos personales: (1) licitud, lealtad y transparencia: tratamiento conforme a derecho y de manera transparente para el interesado; (2) limitación de la finalidad: recogidos para fines determinados, explícitos y legítimos, sin tratamientos incompatibles posteriores; (3) minimización de datos: adecuados, pertinentes y limitados a lo necesario; (4) exactitud: actualizados y corregidos cuando sean inexactos; (5) limitación del plazo de conservación: no más tiempo del necesario para los fines; (6) integridad y confidencialidad: medidas técnicas y organizativas de seguridad adecuadas; (7) responsabilidad proactiva (accountability): el responsable debe poder demostrar el cumplimiento de todos los anteriores.",
+    "why": "A el consentimiento es una de las seis bases jurídicas del art. 6, no un principio del art. 5; los principios son los criterios transversales que rigen la calidad del tratamiento. C los principios del RGPD son técnico-jurídicos, no de origen filosófico; su contenido responde a la lógica de la protección de datos. D proporcionalidad y seguridad son elementos recogidos en el art. 5 (como parte de la minimización y de la integridad/confidencialidad), pero el artículo enumera siete principios diferenciados, no solo dos.",
+    "norma": "Reglamento (UE) 2016/679 (RGPD)",
+    "articulo": "5"
+  },
+  {
+    "id": "B2T26-005",
+    "bloque": 2,
+    "tema": 26,
+    "test": 26,
+    "dificultad": "facil",
+    "pregunta": "¿Qué son las categorías especiales de datos personales y qué régimen les aplica el art. 9 del RGPD?",
+    "opciones": {
+      "A": "Son los datos de menores de edad; su tratamiento está absolutamente prohibido en todos los casos.",
+      "B": "Son los datos que revelan el origen racial o étnico, opiniones políticas, creencias religiosas o filosóficas, afiliación sindical, datos genéticos, biométricos, datos relativos a la salud, vida sexual u orientación sexual; su tratamiento está prohibido salvo que concurran excepciones expresamente establecidas.",
+      "C": "Son los datos financieros y bancarios de las personas; su tratamiento requiere autorización de la AEPD en cada caso.",
+      "D": "Son todos los datos que obran en bases de datos de organismos públicos; se rigen por las normas del sector público con independencia del tipo de dato."
+    },
+    "correcta": "B",
+    "explicacion": "El art. 9 RGPD enumera las categorías especiales: datos que revelan el origen racial o étnico, opiniones políticas, convicciones religiosas o filosóficas, o afiliación sindical; datos genéticos (que permiten identificar de manera unívoca a una persona); datos biométricos tratados con la finalidad de identificar de manera unívoca a una persona; datos relativos a la salud; y datos relativos a la vida sexual u orientación sexual. Su tratamiento está prohibido con carácter general porque su revelación puede causar discriminación grave. Las excepciones son tasadas: consentimiento explícito, interés vital, datos manifiestamente públicos, fundaciones o asociaciones sin fines de lucro con fines legítimos, necesidad para la asistencia sanitaria, salud pública, fines de archivo de interés público, o investigación científica.",
+    "why": "A los datos de menores se regulan en el art. 8 RGPD (consentimiento de menores), que fija la edad de consentimiento; las categorías especiales del art. 9 no se refieren a los menores sino a la naturaleza de la información. C los datos financieros y bancarios no están en el listado del art. 9 RGPD; pueden tener protección en regulaciones sectoriales (PSD2, secreto bancario), pero no como categorías especiales del RGPD. D no todos los datos que obran en AAPP son especiales; el criterio es la naturaleza de la información, no quién la tiene.",
+    "norma": "Reglamento (UE) 2016/679 (RGPD)",
+    "articulo": "9"
+  },
+  {
+    "id": "B2T26-006",
+    "bloque": 2,
+    "tema": 26,
+    "test": 26,
+    "dificultad": "facil",
+    "pregunta": "¿Cuándo están obligadas las Administraciones Públicas a designar un Delegado de Protección de Datos (DPD) según el art. 37 del RGPD?",
+    "opciones": {
+      "A": "Solo cuando traten datos de más de un millón de personas.",
+      "B": "Las Administraciones Públicas y organismos públicos están siempre obligados a designar un DPD, con independencia del tipo de tratamiento que realicen.",
+      "C": "Solo si tratan categorías especiales de datos de forma habitual.",
+      "D": "Solo si la AEPD se lo exige mediante resolución motivada."
+    },
+    "correcta": "B",
+    "explicacion": "El art. 37.1.a RGPD establece que el responsable y el encargado del tratamiento designarán en todo caso un DPD cuando el tratamiento lo lleve a cabo una autoridad u organismo público, con independencia de los datos que traten. Esta regla es absoluta para el sector público: las Administraciones Públicas (AGE, CCAA, EELL), organismos autónomos, agencias, universidades públicas, etc., están siempre obligadas a designar un DPD sin necesidad de evaluar el tipo o volumen de datos tratados. Para el sector privado, la obligación depende de si la actividad principal implica el seguimiento sistemático a gran escala o el tratamiento de categorías especiales.",
+    "why": "A el umbral del millón de personas no está establecido en el RGPD; la obligación para las AAPP es incondicional. C el tipo de datos tratados es el criterio para el sector privado, no para las AAPP; para las Administraciones la obligación es universal. D la obligación deriva directamente de la ley (RGPD art. 37.1.a), sin necesidad de resolución de la AEPD en cada caso.",
+    "norma": "Reglamento (UE) 2016/679 (RGPD)",
+    "articulo": "37"
+  },
+  {
+    "id": "B2T26-007",
+    "bloque": 2,
+    "tema": 26,
+    "test": 26,
+    "dificultad": "media",
+    "pregunta": "¿Cuáles son las bases jurídicas que legitiman el tratamiento de datos personales según el art. 6.1 del RGPD?",
+    "opciones": {
+      "A": "Solo el consentimiento del interesado; ninguna otra base jurídica puede legitimar el tratamiento.",
+      "B": "El consentimiento del interesado, la ejecución de un contrato, el cumplimiento de una obligación legal, la protección de intereses vitales del interesado, el cumplimiento de una misión de interés público o el ejercicio de poderes públicos, y los intereses legítimos del responsable.",
+      "C": "Solo el consentimiento o la autorización previa de la AEPD.",
+      "D": "La necesidad del tratamiento para la actividad empresarial y el cumplimiento de obligaciones laborales, sin necesidad de consentimiento."
+    },
+    "correcta": "B",
+    "explicacion": "El art. 6.1 RGPD establece seis bases jurídicas alternativas que legitiman el tratamiento: (a) consentimiento del interesado para fines específicos; (b) ejecución de un contrato en el que el interesado es parte o medidas precontractuales a su solicitud; (c) cumplimiento de una obligación legal aplicable al responsable; (d) protección de intereses vitales del interesado u otras personas físicas; (e) cumplimiento de una misión en interés público o en el ejercicio de poderes públicos conferidos al responsable (base habitual de las AAPP); y (f) satisfacción de intereses legítimos del responsable o de un tercero, salvo que prevalezcan los derechos del interesado (no aplicable a las AAPP). Basta con que concurra una de las seis bases.",
+    "why": "A el consentimiento es solo una de las seis bases; si el tratamiento se basa en otra base jurídica (p. ej., obligación legal), el consentimiento no es necesario ni relevante. C la autorización de la AEPD no es una base jurídica del art. 6; la AEPD supervisa el cumplimiento pero no autoriza cada tratamiento concreto. D los intereses empresariales y laborales pueden encuadrarse en la base de «intereses legítimos» o «ejecución de contrato», pero el art. 6 exige encuadrar el tratamiento en una de las seis bases tasadas; no existe una base genérica de «necesidad empresarial».",
+    "norma": "Reglamento (UE) 2016/679 (RGPD)",
+    "articulo": "6.1"
+  },
+  {
+    "id": "B2T26-008",
+    "bloque": 2,
+    "tema": 26,
+    "test": 26,
+    "dificultad": "media",
+    "pregunta": "¿Cuándo tiene el interesado derecho a la supresión de sus datos personales (derecho al olvido) según el art. 17 del RGPD?",
+    "opciones": {
+      "A": "En cualquier momento y sin necesidad de justificación alguna; el derecho al olvido es absoluto.",
+      "B": "Cuando los datos ya no sean necesarios para los fines para los que fueron recogidos, cuando el interesado retire el consentimiento y no exista otra base jurídica, cuando los datos hayan sido tratados ilícitamente, o cuando deba suprimirse por obligación legal.",
+      "C": "Únicamente cuando los datos estén publicados en internet; los datos no digitalizados no pueden suprimirse.",
+      "D": "Solo si el interesado acredita daños y perjuicios concretos derivados del tratamiento de sus datos."
+    },
+    "correcta": "B",
+    "explicacion": "El art. 17 RGPD regula el derecho de supresión estableciendo las circunstancias en que procede: (1) cuando los datos ya no sean necesarios para los fines que motivaron su recogida o tratamiento; (2) cuando el interesado retire su consentimiento y no exista otro fundamento jurídico; (3) cuando el interesado se oponga al tratamiento conforme al art. 21 y no prevalezcan motivos legítimos para continuar; (4) cuando los datos hayan sido tratados ilícitamente; (5) cuando deba suprimirse en cumplimiento de una obligación legal; y (6) cuando los datos se hayan obtenido en relación con la oferta de servicios de la sociedad de la información a menores. El derecho tiene límites: no opera cuando el tratamiento es necesario para el cumplimiento de una obligación legal, para el ejercicio de poderes públicos, o para fines de archivo de interés público.",
+    "why": "A el derecho al olvido no es absoluto; el art. 17.3 RGPD enumera excepciones expresas en las que el responsable puede negarse a suprimir los datos. C el derecho no se limita a datos publicados en internet; aplica a cualquier tratamiento, independientemente del soporte o canal. D la acreditación de daños no es un requisito del art. 17 RGPD para ejercer el derecho de supresión; basta con que concurra uno de los supuestos tasados.",
+    "norma": "Reglamento (UE) 2016/679 (RGPD)",
+    "articulo": "17"
+  },
+  {
+    "id": "B2T26-009",
+    "bloque": 2,
+    "tema": 26,
+    "test": 26,
+    "dificultad": "media",
+    "pregunta": "¿En qué consiste el derecho a la portabilidad de los datos reconocido en el art. 20 del RGPD y cuáles son sus requisitos?",
+    "opciones": {
+      "A": "El interesado puede exigir que la Administración traslade todos sus expedientes físicamente a otro organismo competente.",
+      "B": "El interesado tiene derecho a recibir los datos personales que ha facilitado al responsable en un formato estructurado, de uso común y lectura mecánica, y a transmitirlos a otro responsable sin que el primero lo impida, cuando el tratamiento se basa en consentimiento o contrato y se efectúa por medios automatizados.",
+      "C": "El interesado puede pedir que sus datos sean portados a cualquier responsable de tratamiento en cualquier circunstancia, con independencia de la base jurídica del tratamiento.",
+      "D": "El derecho a la portabilidad permite al interesado acceder gratuitamente a cualquier base de datos pública que contenga sus datos."
+    },
+    "correcta": "B",
+    "explicacion": "El art. 20 RGPD reconoce el derecho a la portabilidad: el interesado tiene derecho a recibir los datos personales que haya facilitado al responsable en un formato estructurado, de uso común y legible por máquina, y a transmitirlos a otro responsable sin que el primero lo impida. El derecho opera solo cuando se cumplen dos condiciones acumulativas: (1) la base jurídica del tratamiento es el consentimiento del interesado o la ejecución de un contrato; y (2) el tratamiento se realiza por medios automatizados. En la práctica, este derecho es especialmente relevante en el entorno de servicios digitales (redes sociales, plataformas de streaming, servicios en la nube), permitiendo al usuario cambiar de proveedor sin perder sus datos.",
+    "why": "A la portabilidad de datos no se refiere al traslado físico de expedientes; es un derecho sobre datos personales en formato digital. C el derecho tiene requisitos específicos (consentimiento o contrato como base jurídica, y tratamiento automatizado); no aplica a tratamientos basados en obligación legal o interés público, que son las bases habituales de las AAPP. D el acceso a bases de datos públicas es el derecho de acceso del art. 15 RGPD, no el de portabilidad.",
+    "norma": "Reglamento (UE) 2016/679 (RGPD)",
+    "articulo": "20"
+  },
+  {
+    "id": "B2T26-010",
+    "bloque": 2,
+    "tema": 26,
+    "test": 26,
+    "dificultad": "media",
+    "pregunta": "¿Qué implica el principio de responsabilidad proactiva o accountability establecido en el art. 5.2 del RGPD?",
+    "opciones": {
+      "A": "El responsable debe solicitar la aprobación previa de todos sus tratamientos a la AEPD antes de comenzar a tratar datos.",
+      "B": "El responsable del tratamiento debe poder demostrar en todo momento el cumplimiento de los principios del art. 5 RGPD, aplicando medidas técnicas y organizativas adecuadas de forma proactiva.",
+      "C": "El principio implica que los interesados son responsables de verificar que sus datos están siendo tratados correctamente.",
+      "D": "El responsable puede externalizar toda la responsabilidad al encargado del tratamiento mediante contrato."
+    },
+    "correcta": "B",
+    "explicacion": "El art. 5.2 RGPD consagra el principio de responsabilidad proactiva (accountability): el responsable del tratamiento será responsable del cumplimiento de todos los principios del art. 5 y capaz de demostrarlo. Este principio implica un cambio de modelo: antes de la RGPD, el cumplimiento era reactivo (se actuaba cuando había una reclamación o una inspección); con el RGPD, el responsable debe implementar de forma proactiva las medidas técnicas y organizativas necesarias para garantizar y poder acreditar el cumplimiento. Esto se materializa en el registro de actividades de tratamiento (art. 30), la evaluación de impacto (art. 35), la designación del DPD, la adopción de políticas de privacidad y la documentación de decisiones.",
+    "why": "A la aprobación previa de la AEPD para cada tratamiento no existe en el RGPD; el modelo de notificación previa obligatoria fue suprimido. El accountability exige autorresponsabilidad, no autorización externa. C la responsabilidad proactiva recae sobre el responsable del tratamiento, no sobre los interesados; estos son los titulares de los derechos. D la externalización al encargado no transfiere la responsabilidad al encargado; el responsable sigue respondiendo frente a los interesados y la AEPD.",
+    "norma": "Reglamento (UE) 2016/679 (RGPD)",
+    "articulo": "5.2"
+  },
+  {
+    "id": "B2T26-011",
+    "bloque": 2,
+    "tema": 26,
+    "test": 26,
+    "dificultad": "media",
+    "pregunta": "¿Qué diferencia existe entre el responsable y el encargado del tratamiento según el art. 4 del RGPD?",
+    "opciones": {
+      "A": "El responsable es siempre una Administración Pública; el encargado es siempre una empresa privada.",
+      "B": "El responsable es quien determina los fines y los medios del tratamiento; el encargado trata los datos por cuenta del responsable, siguiendo sus instrucciones.",
+      "C": "Responsable y encargado son términos sinónimos en el RGPD.",
+      "D": "El responsable es quien tiene los datos; el encargado es quien tiene las claves de cifrado para acceder a ellos."
+    },
+    "correcta": "B",
+    "explicacion": "El art. 4 RGPD define ambas figuras con precisión: el responsable del tratamiento es la persona física o jurídica, autoridad pública, servicio u otro organismo que, solo o junto con otros, determine los fines y medios del tratamiento de datos personales (decide el qué y el para qué). El encargado del tratamiento es la persona física o jurídica, autoridad pública, servicio u otro organismo que trate datos personales por cuenta del responsable (no decide los fines; simplemente ejecuta instrucciones). La relación entre ambos debe regularse mediante contrato u otro acto jurídico vinculante (art. 28 RGPD). Ambos responden ante la AEPD y los interesados, aunque con distintos títulos de responsabilidad.",
+    "why": "A tanto responsables como encargados pueden ser entidades públicas o privadas; la distinción no es por naturaleza jurídica sino por el papel que desempeñan en el tratamiento. C son figuras claramente distintas con roles, obligaciones y responsabilidades diferentes. D el control técnico de los datos (tenencia, cifrado) no determina quién es el responsable; lo determinante es quién decide los fines.",
+    "norma": "Reglamento (UE) 2016/679 (RGPD)",
+    "articulo": "4.7 y 4.8"
+  },
+  {
+    "id": "B2T26-012",
+    "bloque": 2,
+    "tema": 26,
+    "test": 26,
+    "dificultad": "media",
+    "pregunta": "En caso de brecha de seguridad que afecte a datos personales, ¿en qué plazo debe el responsable del tratamiento notificarlo a la autoridad de control (AEPD) según el art. 33 del RGPD?",
+    "opciones": {
+      "A": "Dentro de los cinco días hábiles siguientes a tener conocimiento de la brecha.",
+      "B": "Sin dilación indebida y, de ser posible, en el plazo de 72 horas desde que haya tenido conocimiento de ella.",
+      "C": "En el plazo de un mes desde que se produjo la brecha, con posibilidad de ampliación a tres meses.",
+      "D": "No existe plazo; la notificación puede realizarse en cualquier momento antes del inicio de la investigación formal por la AEPD."
+    },
+    "correcta": "B",
+    "explicacion": "El art. 33 RGPD establece que en caso de violación de la seguridad de los datos personales, el responsable del tratamiento la notificará a la autoridad de control competente (la AEPD en España) sin dilación indebida y, de ser posible, a más tardar 72 horas después de que haya tenido conocimiento de ella. Si la notificación no puede realizarse dentro de las 72 horas, deberá ir acompañada de indicación de los motivos de la dilación. Esta obligación no se aplica cuando sea improbable que la violación suponga un riesgo para los derechos y libertades de las personas físicas. Además, si la brecha entraña un alto riesgo, el responsable debe también notificar al propio interesado (art. 34 RGPD).",
+    "why": "A el plazo de cinco días hábiles no está establecido en el art. 33 RGPD; el plazo es de 72 horas naturales (aproximadamente 3 días), contadas desde el conocimiento de la brecha. C el mes es el plazo habitual para resolver solicitudes de ejercicio de derechos (art. 12 RGPD), no para la notificación de brechas. D la ausencia de plazo sería contraria al espíritu del RGPD; la notificación urgente es esencial para que la AEPD pueda adoptar medidas a tiempo.",
+    "norma": "Reglamento (UE) 2016/679 (RGPD)",
+    "articulo": "33"
+  },
+  {
+    "id": "B2T26-013",
+    "bloque": 2,
+    "tema": 26,
+    "test": 26,
+    "dificultad": "media",
+    "pregunta": "¿Cuándo es obligatoria la realización de una Evaluación de Impacto en Protección de Datos (EIPD) según el art. 35 del RGPD?",
+    "opciones": {
+      "A": "En todos los tratamientos de datos personales, con independencia del volumen o tipo de datos.",
+      "B": "Cuando el tratamiento pueda entrañar un alto riesgo para los derechos y libertades de las personas físicas, especialmente en tratamientos a gran escala de categorías especiales, seguimiento sistemático de personas o uso de nuevas tecnologías.",
+      "C": "Solo cuando el responsable del tratamiento tiene más de 500 empleados.",
+      "D": "Únicamente cuando los datos vayan a comunicarse a terceros países fuera de la Unión Europea."
+    },
+    "correcta": "B",
+    "explicacion": "El art. 35 RGPD exige la EIPD cuando el tratamiento pueda suponer un alto riesgo para los derechos y libertades de las personas. Los supuestos que siempre requieren EIPD son: (1) evaluación sistemática y exhaustiva de aspectos personales mediante tratamiento automatizado, incluyendo la elaboración de perfiles; (2) tratamiento a gran escala de categorías especiales de datos (art. 9) o datos relativos a condenas penales; y (3) observación sistemática a gran escala de zonas de acceso público. La EIPD no es obligatoria para todos los tratamientos: solo cuando hay un alto riesgo determinado. La AEPD publica listas orientativas de los tratamientos que la requieren o que quedan exentos.",
+    "why": "A la EIPD para todos los tratamientos sin excepción impondría una carga desproporcionada; el art. 35 la limita a los casos de alto riesgo. C el número de empleados no es el criterio; lo determinante es el riesgo que el tratamiento entraña para los derechos de los interesados. D las transferencias internacionales son un supuesto que puede requerir EIPD, pero no son el único caso; la EIPD aplica a cualquier tratamiento de alto riesgo, no exclusivamente a los que implican transferencias.",
+    "norma": "Reglamento (UE) 2016/679 (RGPD)",
+    "articulo": "35"
+  },
+  {
+    "id": "B2T26-014",
+    "bloque": 2,
+    "tema": 26,
+    "test": 26,
+    "dificultad": "media",
+    "pregunta": "¿Quiénes están obligados a mantener un registro de actividades de tratamiento según el art. 30 del RGPD?",
+    "opciones": {
+      "A": "Solo las empresas con más de 5.000 clientes o usuarios registrados.",
+      "B": "Los responsables y encargados del tratamiento que sean organizaciones con 250 o más empleados; también los de menos de 250 empleados cuando el tratamiento pueda entrañar riesgo para los derechos, no sea ocasional, o incluya categorías especiales de datos; y siempre las autoridades y organismos públicos.",
+      "C": "Solo los encargados del tratamiento que presten servicios a más de tres responsables diferentes.",
+      "D": "Únicamente las empresas de sectores regulados (banca, seguros y telecomunicaciones)."
+    },
+    "correcta": "B",
+    "explicacion": "El art. 30 RGPD establece la obligación de mantener un registro de actividades de tratamiento bajo la responsabilidad del responsable o del encargado. La regla general exime de esta obligación a las organizaciones con menos de 250 empleados, pero la excepción (que en la práctica vuelve obligatorio el registro para la mayoría) aplica cuando el tratamiento: (1) pueda entrañar un riesgo para los derechos y libertades de los interesados; (2) no sea ocasional; o (3) incluya categorías especiales de datos (art. 9) o datos relativos a condenas penales (art. 10). Además, las autoridades y organismos públicos están siempre obligados con independencia del número de empleados, lo que convierte el registro en prácticamente universal para el sector público.",
+    "why": "A el umbral de 5.000 clientes no está en el art. 30 RGPD; el criterio es el número de empleados (250) o el tipo de tratamiento. C la obligación afecta tanto a responsables como a encargados del tratamiento; el número de responsables a los que sirve el encargado no es el criterio del art. 30. D los sectores regulados no son el criterio; la obligación es transversal y aplica a todos los sectores cuando se cumplen los requisitos del art. 30.",
+    "norma": "Reglamento (UE) 2016/679 (RGPD)",
+    "articulo": "30"
+  },
+  {
+    "id": "B2T26-015",
+    "bloque": 2,
+    "tema": 26,
+    "test": 26,
+    "dificultad": "media",
+    "pregunta": "¿Qué implican los principios de privacidad desde el diseño y privacidad por defecto del art. 25 del RGPD?",
+    "opciones": {
+      "A": "El responsable debe instalar cortafuegos y antivirus en todos sus sistemas antes de comenzar cualquier tratamiento.",
+      "B": "La privacidad desde el diseño exige incorporar las medidas técnicas y organizativas de protección desde la concepción inicial del sistema de tratamiento; la privacidad por defecto exige que, por defecto, solo se traten los datos estrictamente necesarios para cada fin específico.",
+      "C": "El responsable debe elaborar un manual interno de privacidad disponible en la página web para los usuarios.",
+      "D": "Los sistemas informáticos del responsable deben estar físicamente ubicados en territorio de la Unión Europea."
+    },
+    "correcta": "B",
+    "explicacion": "El art. 25 RGPD establece dos obligaciones complementarias. La privacidad desde el diseño (privacy by design) exige que el responsable aplique, tanto en el momento de determinar los medios del tratamiento como en el momento del propio tratamiento, medidas técnicas y organizativas apropiadas para aplicar de forma efectiva los principios de protección de datos e integrar las salvaguardias necesarias. La privacidad por defecto (privacy by default) exige que, por defecto, solo se traten los datos personales estrictamente necesarios para cada fin específico del tratamiento: en cuanto a la cantidad de datos, el alcance del tratamiento, el período de conservación y su accesibilidad.",
+    "why": "A los cortafuegos y antivirus son medidas de seguridad técnica, pero la privacidad desde el diseño es un concepto más amplio que incluye el diseño arquitectónico del sistema, la minimización de datos y la anonimización, entre otras medidas. C el manual interno de privacidad puede ser una buena práctica, pero no es lo que exige el art. 25; este se refiere a los sistemas y procesos de tratamiento. D la localización de los servidores en la UE es relevante para las transferencias internacionales (arts. 44-46), no para los principios de privacidad desde el diseño y por defecto.",
+    "norma": "Reglamento (UE) 2016/679 (RGPD)",
+    "articulo": "25"
+  },
+  {
+    "id": "B2T26-016",
+    "bloque": 2,
+    "tema": 26,
+    "test": 26,
+    "dificultad": "media",
+    "pregunta": "¿Cuáles son los dos niveles de multas administrativas que puede imponer la autoridad de control por infracciones del RGPD según el art. 83?",
+    "opciones": {
+      "A": "Multas de hasta 1.000 euros y multas de hasta 10.000 euros.",
+      "B": "Para las infracciones más graves: hasta 20 millones de euros o el 4 % del volumen de negocio anual total mundial del ejercicio anterior (el importe que sea más elevado). Para las menos graves: hasta 10 millones de euros o el 2 % de dicho volumen.",
+      "C": "Las sanciones son siempre proporcionales al daño causado y no tienen límite máximo establecido.",
+      "D": "Solo se pueden imponer multas a las empresas; las Administraciones Públicas no pueden ser sancionadas económicamente por el RGPD."
+    },
+    "correcta": "B",
+    "explicacion": "El art. 83 RGPD establece dos niveles de sanciones. El nivel más elevado (art. 83.5) aplica a las infracciones más graves (incumplimiento de los principios básicos del tratamiento, derechos de los interesados, transferencias a terceros países): multa de hasta 20.000.000 euros o, tratándose de una empresa, de una cuantía equivalente al 4 % del volumen de negocio anual global, optándose por la de mayor cuantía. El nivel intermedio (art. 83.4) aplica a otras infracciones (incumplimiento del DPD, registro de actividades, etc.): multa de hasta 10.000.000 euros o el 2 % del volumen de negocio. En España, la LOPDGDD adapta este régimen para las Administraciones Públicas, que no pueden recibir multas pero sí apercibimientos y publicidad de la sanción.",
+    "why": "A los importes de 1.000 y 10.000 euros son irrisorios y completamente distintos a los del art. 83 RGPD. C el RGPD sí establece límites máximos expresos; la ausencia de límite crearía inseguridad jurídica. D las Administraciones Públicas también pueden infringir el RGPD; si bien la LOPDGDD adapta el régimen sancionador para no imponerles multas pecuniarias, sí pueden ser objeto de apercibimiento y comunicación al Defensor del Pueblo o a los órganos equivalentes de las CCAA.",
+    "norma": "Reglamento (UE) 2016/679 (RGPD)",
+    "articulo": "83"
+  },
+  {
+    "id": "B2T26-017",
+    "bloque": 2,
+    "tema": 26,
+    "test": 26,
+    "dificultad": "dificil",
+    "pregunta": "¿Cuáles son las funciones del Delegado de Protección de Datos (DPD) según los arts. 38 y 39 del RGPD?",
+    "opciones": {
+      "A": "El DPD tiene facultades sancionadoras internas y puede imponer multas al responsable cuando detecta infracciones.",
+      "B": "El DPD informa y asesora al responsable y al encargado sobre sus obligaciones RGPD; supervisa el cumplimiento interno; asesora sobre la EIPD; actúa como punto de contacto con la autoridad de control; y coopera con la AEPD en el ejercicio de sus investigaciones.",
+      "C": "El DPD sustituye al responsable del tratamiento en la toma de decisiones sobre los fines del tratamiento cuando hay conflictos de privacidad.",
+      "D": "El DPD solo tiene funciones de auditoría contable interna en materia de inversiones en sistemas de seguridad informática."
+    },
+    "correcta": "B",
+    "explicacion": "El art. 39 RGPD enumera las funciones del DPD: (1) informar y asesorar al responsable, al encargado y a los empleados sobre las obligaciones del RGPD y la normativa nacional; (2) supervisar el cumplimiento del RGPD, de las políticas del responsable o encargado y de las obligaciones en materia de protección de datos, incluida la asignación de responsabilidades, formación del personal y las auditorías; (3) asesorar en la realización de las EIPD del art. 35 y supervisar su aplicación; (4) cooperar con la autoridad de control (AEPD) y actuar como punto de contacto con ella; y (5) actuar como punto de contacto para los interesados respecto al ejercicio de sus derechos. El art. 38 garantiza la independencia del DPD: no puede ser destituido ni sancionado por el ejercicio de sus funciones.",
+    "why": "A el DPD no tiene potestades sancionadoras; las infracciones las sanciona la AEPD. El DPD asesora e informa, pero no impone multas internas. C el DPD no sustituye al responsable del tratamiento en la toma de decisiones sobre los fines; el responsable sigue siendo quien determina los fines y medios del tratamiento. D las funciones del DPD son de cumplimiento normativo en materia de protección de datos, no de auditoría contable o financiera.",
+    "norma": "Reglamento (UE) 2016/679 (RGPD)",
+    "articulo": "38 y 39"
+  },
+  {
+    "id": "B2T26-018",
+    "bloque": 2,
+    "tema": 26,
+    "test": 26,
+    "dificultad": "dificil",
+    "pregunta": "¿Cuál es la base jurídica habitual del tratamiento de datos personales por las Administraciones Públicas en el ejercicio de sus funciones?",
+    "opciones": {
+      "A": "El consentimiento del ciudadano, que debe obtenerse antes de iniciar cualquier tratamiento administrativo.",
+      "B": "El cumplimiento de una misión realizada en interés público o en el ejercicio de poderes públicos conferidos al responsable, previsto en el art. 6.1.e del RGPD.",
+      "C": "El interés legítimo del responsable del tratamiento, que las AAPP pueden invocar en igualdad de condiciones con los sujetos privados.",
+      "D": "Las AAPP están exentas de la exigencia de base jurídica para el tratamiento; pueden tratar cualquier dato sin necesidad de justificación."
+    },
+    "correcta": "B",
+    "explicacion": "El art. 6.1.e RGPD establece como base jurídica el tratamiento necesario para el cumplimiento de una misión realizada en interés público o en el ejercicio de poderes públicos conferidos al responsable del tratamiento. Esta es la base jurídica habitual de las AAPP: cuando la Administración trata datos en el ejercicio de sus competencias (gestionar tributos, tramitar prestaciones, gestionar el padrón, imponer sanciones, etc.), la legitimación no proviene del consentimiento sino de la habilitación legal que confiere a la Administración esas potestades públicas. La LOPDGDD desarrolla esta base para el ámbito del derecho español.",
+    "why": "A el consentimiento es una base jurídica válida para las AAPP en algunos casos puntuales (p. ej., boletines informativos voluntarios), pero no puede ser la base del ejercicio de funciones administrativas imperativas: el ciudadano no puede «retirar» el consentimiento para que la Administración no le gestione sus impuestos. C el interés legítimo (art. 6.1.f RGPD) está excluido expresamente para las autoridades públicas en el ejercicio de sus funciones; el considerando 47 RGPD lo aclara. D las AAPP no están exentas de la exigencia de base jurídica; el RGPD les aplica íntegramente y deben identificar la base del art. 6 para cada tratamiento.",
+    "norma": "Reglamento (UE) 2016/679 (RGPD)",
+    "articulo": "6.1.e"
+  },
+  {
+    "id": "B2T26-019",
+    "bloque": 2,
+    "tema": 26,
+    "test": 26,
+    "dificultad": "dificil",
+    "pregunta": "¿Cuándo son lícitas las transferencias internacionales de datos personales a terceros países según los arts. 44-46 del RGPD?",
+    "opciones": {
+      "A": "Las transferencias a terceros países son siempre libres; el RGPD no restringe el flujo internacional de datos.",
+      "B": "Son lícitas cuando: el país destinatario cuenta con una decisión de adecuación de la Comisión Europea; se aplican garantías apropiadas (cláusulas contractuales tipo, normas corporativas vinculantes, códigos de conducta aprobados, mecanismos de certificación); o concurre alguna de las excepciones del art. 49 (consentimiento, ejecución de contrato, interés público, etc.).",
+      "C": "Solo son lícitas si el Ministerio de Asuntos Exteriores aprueba la transferencia caso a caso.",
+      "D": "Las transferencias son lícitas únicamente a los países miembros del Espacio Económico Europeo; fuera del EEE, ninguna transferencia es posible."
+    },
+    "correcta": "B",
+    "explicacion": "El art. 44 RGPD establece la prohibición general de transferir datos personales a terceros países o a organizaciones internacionales, salvo que se cumplan las condiciones del Capítulo V. Las vías para transferir lícitamente son: (1) decisión de adecuación de la Comisión Europea (art. 45): la Comisión declara que el país garantiza un nivel de protección equivalente al europeo (p. ej., Suiza, Japón, Reino Unido, Corea del Sur, etc.); (2) garantías apropiadas del art. 46: cláusulas contractuales tipo aprobadas por la Comisión, normas corporativas vinculantes (BCR), códigos de conducta aprobados, mecanismos de certificación; y (3) excepciones del art. 49 para casos específicos: consentimiento explícito del interesado, ejecución de un contrato, interés público, defensa de reclamaciones o protección de intereses vitales.",
+    "why": "A el RGPD sí restringe las transferencias a terceros países con el objetivo de que el nivel de protección de los datos europeos no se degrade al exportarlos a jurisdicciones con menor protección. C la aprobación caso a caso por el Ministerio de Exteriores no es el mecanismo del RGPD; son la Comisión Europea y las autoridades de control (no el Ejecutivo nacional) quienes intervienen. D el EEE incluye la UE más Islandia, Liechtenstein y Noruega, que aplican el RGPD; las transferencias dentro del EEE son libres, pero fuera del EEE no son imposibles: se requiere una de las vías del Capítulo V.",
+    "norma": "Reglamento (UE) 2016/679 (RGPD)",
+    "articulo": "44 a 46"
+  },
+  {
+    "id": "B2T26-020",
+    "bloque": 2,
+    "tema": 26,
+    "test": 26,
+    "dificultad": "dificil",
+    "pregunta": "¿Qué garantías debe incluir el contrato entre el responsable y el encargado del tratamiento según el art. 28 del RGPD?",
+    "opciones": {
+      "A": "El contrato solo necesita especificar el precio del servicio y la duración del encargo; las obligaciones en materia de datos se rigen por la ley sin necesidad de plasmarlas contractualmente.",
+      "B": "El contrato debe especificar el objeto, la duración, la naturaleza y finalidad del tratamiento, el tipo de datos y las categorías de interesados; debe obligar al encargado a tratar los datos solo según instrucciones del responsable, garantizar la confidencialidad, aplicar medidas de seguridad, no subcontratar sin autorización previa, asistir al responsable en el ejercicio de derechos, suprimir o devolver los datos al concluir, y poner a disposición del responsable toda la información necesaria para demostrar el cumplimiento.",
+      "C": "El contrato entre responsable y encargado es opcional; basta con una comunicación interna del responsable estableciendo las instrucciones de tratamiento.",
+      "D": "El encargado puede determinar libremente los fines del tratamiento dentro del contrato; no está obligado a seguir las instrucciones del responsable."
+    },
+    "correcta": "B",
+    "explicacion": "El art. 28 RGPD exige que el tratamiento por un encargado se rija por un contrato u otro acto jurídico vinculante. El contenido mínimo del contrato incluye: (1) que el encargado trate los datos solo según instrucciones documentadas del responsable; (2) que garantice la confidencialidad de las personas autorizadas para tratar los datos; (3) que aplique las medidas de seguridad del art. 32; (4) que no recurra a otro encargado (subencargado) sin autorización previa escrita del responsable; (5) que asista al responsable en el cumplimiento de los derechos de los interesados; (6) que, a elección del responsable, suprima o devuelva todos los datos al terminar el servicio; y (7) que ponga a disposición del responsable toda la información necesaria para demostrar el cumplimiento. El incumplimiento de estas obligaciones puede hacer al encargado directamente responsable ante la AEPD.",
+    "why": "A los elementos contractuales en materia de datos son obligatorios por el art. 28 RGPD, no opcionales; sin ellos el tratamiento sería ilícito. C el contrato o acto jurídico vinculante es obligatorio por expresa exigencia del art. 28.3 RGPD; una simple comunicación interna no satisface el requisito. D el encargado no puede determinar los fines; solo el responsable determina los fines y medios del tratamiento, y el encargado actúa exclusivamente según las instrucciones del responsable.",
+    "norma": "Reglamento (UE) 2016/679 (RGPD)",
+    "articulo": "28"
+  }
+]
