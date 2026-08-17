@@ -55,7 +55,9 @@
   .test-row{display:flex;align-items:center;justify-content:space-between;padding:13px 16px;background:var(--paper-raised);border:1px solid var(--line);cursor:pointer;}
   .test-row.locked{cursor:not-allowed;opacity:.5;}
   .test-row:hover:not(.locked){border-color:var(--navy-2);}
+  .test-row .name-group{display:flex;flex-direction:column;gap:3px;}
   .test-row .name{font-size:14px;color:var(--navy);font-weight:600;}
+  .test-row .test-subtitle{font-size:11px;color:var(--ink-soft);font-weight:400;}
   .test-row .status{font-family:var(--mono);font-size:11px;color:var(--ink-soft);text-transform:uppercase;letter-spacing:.06em;}
   .q-header{display:flex;justify-content:space-between;align-items:baseline;margin-bottom:18px;padding-bottom:10px;border-bottom:1px solid var(--line);}
   .q-count{font-family:var(--mono);font-size:13px;color:var(--ink-soft);}
@@ -273,7 +275,11 @@ function renderTestList(){
     const absTest = range.offset + t;
     const has = built.has(absTest);
     const row = el("div","test-row"+(has?"":" locked"));
-    row.appendChild(el("div","name", `Test ${String(t).padStart(2,"0")}`));
+    const nameGroup = el("div","name-group");
+    nameGroup.appendChild(el("div","name", `Test ${String(t).padStart(2,"0")}`));
+    const tema = b.temas[t-1];
+    if(tema) nameGroup.appendChild(el("div","test-subtitle", tema));
+    row.appendChild(nameGroup);
     row.appendChild(el("div","status", has? "20 preguntas" : "pendiente de construir"));
     if(has){
       row.onclick = async ()=>{
