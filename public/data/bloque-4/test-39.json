@@ -1,0 +1,382 @@
+[
+  {
+    "id": "B4T39-001",
+    "bloque": 4,
+    "tema": 39,
+    "test": 39,
+    "dificultad": "facil",
+    "pregunta": "¿Qué es el Consejo de Política Fiscal y Financiera (CPFF) y cuáles son sus funciones principales?",
+    "opciones": {
+      "A": "El CPFF es el órgano de control presupuestario del Ministerio de Hacienda; no intervienen las CCAA en su composición.",
+      "B": "El CPFF es el Tribunal que resuelve los conflictos tributarios entre el Estado y las CCAA; sus resoluciones son equiparables a sentencias del TC.",
+      "C": "El Consejo de Política Fiscal y Financiera, previsto en el art. 3 LOFCA, es el órgano multilateral de coordinación y cooperación entre el Estado y las CCAA en materia financiera; está compuesto por el Ministro de Hacienda del Estado y los Consejeros competentes en materia de hacienda de todas las CCAA; sus funciones incluyen fijar los objetivos de estabilidad presupuestaria, deliberar sobre el sistema de financiación autonómica y coordinar la política tributaria.",
+      "D": "El CPFF es la Conferencia de Presidentes; sus acuerdos sustituyen a la ley ordinaria en materia de financiación autonómica."
+    },
+    "correcta": "C",
+    "explicacion": "El Consejo de Política Fiscal y Financiera de las Comunidades Autónomas está regulado en el art. 3 LOFCA (LO 8/1980) y desarrollado por la Ley 22/2009. Es el principal instrumento de cooperación multilateral en materia financiera entre el Estado y las CCAA de régimen común. Su composición: el Ministro de Hacienda del Estado (que lo preside) y los Consejeros competentes en Hacienda de cada CCAA. Sus funciones principales son: (1) Coordinar la política presupuestaria y fiscal del Estado y las CCAA. (2) Fijar los objetivos de estabilidad presupuestaria para el conjunto de las AAPP y para cada CCAA, de conformidad con la LO 2/2012. (3) Examinar y deliberar sobre el sistema de financiación autonómica y sus actualizaciones. (4) Emitir dictámenes sobre cuestiones de armonización tributaria. (5) Facilitar el intercambio de información estadística, financiera y presupuestaria. La CM de Madrid está representada en el CPFF por su Consejero de Hacienda y Función Pública.",
+    "why": "A el CPFF es un órgano de coordinación entre el Estado y las CCAA; su composición incluye representantes de todas las CCAA, no solo del Ministerio de Hacienda. B el CPFF no tiene funciones jurisdiccionales ni arbitrales; los conflictos tributarios se resuelven ante el Tribunal Económico-Administrativo y el TC. D la Conferencia de Presidentes es un órgano distinto del CPFF; sus acuerdos no tienen rango de ley.",
+    "norma": "Ley Orgánica 8/1980 (LOFCA); Ley 22/2009",
+    "articulo": "3 LOFCA; 22/2009"
+  },
+  {
+    "id": "B4T39-002",
+    "bloque": 4,
+    "tema": 39,
+    "test": 39,
+    "dificultad": "facil",
+    "pregunta": "¿Cuál es la diferencia fundamental entre una tasa autonómica y un precio público autonómico?",
+    "opciones": {
+      "A": "Las tasas son prestaciones exigidas por la CM cuando el servicio es de solicitud obligatoria o el uso del dominio público no es voluntario; los precios públicos son contraprestaciones por servicios de solicitud voluntaria que también presta el sector privado o que no son de recepción obligatoria; las tasas son tributos y se rigen por el principio de reserva de ley; los precios públicos no son tributos y pueden fijarse por decreto o resolución administrativa.",
+      "B": "Las tasas y los precios públicos son términos sinónimos; en la CM de Madrid se utiliza indistintamente uno u otro nombre para referirse a la misma figura.",
+      "C": "Las tasas son exclusivas de la Administración Central del Estado; las CCAA solo pueden establecer precios públicos, nunca tasas.",
+      "D": "Los precios públicos son tributos de carácter obligatorio; las tasas son contraprestaciones voluntarias que el ciudadano paga si quiere acceder a un servicio no obligatorio."
+    },
+    "correcta": "A",
+    "explicacion": "La distinción entre tasas y precios públicos es fundamental en el Derecho Financiero español y tiene importantes consecuencias prácticas: (1) Tasas: son tributos (art. 2.2.a LGT), cuya exigencia está sujeta a reserva de ley; proceden cuando: (a) se utiliza el dominio público de forma privativa o especial (concesión de uso de vía pública, espacio radioeléctrico, etc.), o (b) se presta un servicio o se realiza una actividad administrativa de solicitud obligatoria o que no puede prestarse por el sector privado (expedición de DNI, autorización urbanística, etc.); la cuantía de la tasa no puede exceder el coste del servicio (principio de equivalencia). (2) Precios públicos: no son tributos; son contraprestaciones por servicios o actividades de solicitud voluntaria que también presta el sector privado en condiciones de mercado (matrícula en cursos no obligatorios, estacionamiento en parking municipal, etc.); se fijan por decreto o resolución; deben cubrir al menos el coste del servicio salvo política social justificada. La distinción tiene consecuencia: las tasas requieren ley para su creación; los precios públicos, no.",
+    "why": "B tasas y precios públicos son figuras jurídicas distintas con regímenes jurídicos diferentes: las tasas son tributos sujetos a reserva de ley; los precios públicos no son tributos y pueden fijarse reglamentariamente. C las CCAA pueden establecer tasas propias con plena base legal en la LOFCA y la LGT; el art. 6 LOFCA reconoce el poder tributario autonómico. D las definiciones están invertidas: son las tasas las de recepción obligatoria o uso de dominio público; los precios públicos son los servicios voluntarios.",
+    "norma": "LGT art. 2.2.a; LOFCA; Ley 8/1989 de Tasas y Precios Públicos",
+    "articulo": "2 LGT; 6 LOFCA; Ley 8/1989"
+  },
+  {
+    "id": "B4T39-003",
+    "bloque": 4,
+    "tema": 39,
+    "test": 39,
+    "dificultad": "facil",
+    "pregunta": "¿Qué tipos de tributos propios puede crear la Comunidad de Madrid y cuál es su límite principal?",
+    "opciones": {
+      "A": "La CM solo puede crear tasas propias; está prohibida la creación de impuestos propios autonómicos.",
+      "B": "La CM puede crear cualquier tipo de tributo propio sin ningún límite constitucional ni legal.",
+      "C": "La CM puede crear cualquier tipo de tributo propio (impuestos, tasas y contribuciones especiales) mediante ley de la Asamblea de Madrid, pero con el límite esencial de que no pueden gravar hechos imponibles ya gravados por el Estado ni crear obstáculos a la libre circulación de bienes, personas, servicios y capitales entre comunidades autónomas.",
+      "D": "Los tributos propios de la CM solo pueden crearse con autorización previa del Estado; sin esa autorización, son nulos de pleno derecho."
+    },
+    "correcta": "C",
+    "explicacion": "La potestad tributaria de la CM para crear tributos propios tiene base constitucional (arts. 133.2, 156 y 157 CE) y legal (LOFCA). La CM puede crear mediante ley de la Asamblea de Madrid: (1) Impuestos propios: sobre hechos imponibles no gravados por el Estado ni por los tributos locales. (2) Tasas autonómicas: por la utilización privativa del dominio público autonómico o la prestación de servicios propios de la CM. (3) Contribuciones especiales: por obras o servicios realizados por la CM que generan un beneficio especial en determinados sujetos. Los límites de esta potestad, establecidos en el art. 6 LOFCA, son: (a) No solapamiento con tributos estatales: la CM no puede crear tributos que graven hechos imponibles ya gravados por el Estado (aunque el TC ha matizado que el solapamiento debe ser de naturaleza idéntica, no meramente similar). (b) No solapamiento con tributos locales. (c) No obstáculo a la libre circulación. (d) No competencia fiscal desleal con el Estado. La CM de Madrid ha ejercido esta potestad con moderación, siguiendo una política de baja presión fiscal.",
+    "why": "A la CM puede crear impuestos, tasas y contribuciones especiales propias; la restricción es el solapamiento con los estatales, no la prohibición de impuestos. B la potestad tributaria autonómica tiene límites constitucionales y legales claros (LOFCA); no es ilimitada. D la CM no necesita autorización previa del Estado para crear tributos propios, siempre que respete los límites del art. 6 LOFCA.",
+    "norma": "LOFCA art. 6; Constitución Española arts. 133, 156-157",
+    "articulo": "6 LOFCA; 133.2 CE; 157 CE"
+  },
+  {
+    "id": "B4T39-004",
+    "bloque": 4,
+    "tema": 39,
+    "test": 39,
+    "dificultad": "facil",
+    "pregunta": "¿Qué bonificaciones aplica la Comunidad de Madrid en el Impuesto sobre Sucesiones y Donaciones (ISD)?",
+    "opciones": {
+      "A": "La CM de Madrid no aplica ninguna bonificación en el ISD; el impuesto se liquida íntegramente según la tarifa estatal sin adaptación autonómica.",
+      "B": "La CM de Madrid ha aplicado bonificaciones muy elevadas en el ISD —llegando al 99% de la cuota— para las adquisiciones mortis causa (herencias) y determinadas donaciones entre familiares directos (cónyuge, ascendientes y descendientes), ejerciendo la capacidad normativa que el Estado le otorga sobre este tributo cedido al 100%.",
+      "C": "La CM aplica una bonificación del 50% en el ISD únicamente para los hijos mayores de 65 años que heredan de sus padres.",
+      "D": "Las bonificaciones en el ISD de la CM de Madrid solo afectan a las donaciones de empresas familiares; las herencias se gravan al tipo máximo estatal."
+    },
+    "correcta": "B",
+    "explicacion": "El Impuesto sobre Sucesiones y Donaciones (ISD) es un tributo cedido al 100% a la CM de Madrid, con plena capacidad normativa, conforme a la Ley 22/2009. La CM de Madrid, en el ejercicio de esa capacidad normativa, ha establecido desde la Ley 7/2004 sucesivamente reforzada bonificaciones muy elevadas en la cuota del ISD: (1) Bonificación en adquisiciones mortis causa (herencias) de los Grupos I y II (descendientes y adoptados, cónyuge/pareja de hecho, ascendientes y adoptantes): la CM ha aplicado bonificaciones en cuota del 99% (es decir, solo se paga el 1% de la cuota que resultaría de aplicar la tarifa), lo que prácticamente suprime el ISD entre familiares directos. (2) Bonificaciones en donaciones entre los mismos grupos, aunque en términos generales inferiores a las de sucesiones. (3) Bonificaciones para grupos III (colaterales de segundo y tercer grado) e incluso en algunos casos el Grupo IV. Esta política ha convertido a Madrid en una de las CCAA con menor carga fiscal por el ISD, lo que ha atraído residentes de otras CCAA con impuesto más elevado.",
+    "why": "A la CM de Madrid sí aplica bonificaciones muy significativas en el ISD; es una de sus políticas fiscales más conocidas. C la bonificación del 99% aplica a descendientes, cónyuge y ascendientes (Grupos I y II), no solo a hijos mayores de 65 años. D las bonificaciones del ISD en Madrid se aplican a herencias (mortis causa) entre familiares directos, no solo a empresas familiares.",
+    "norma": "Ley 7/2004 CM; sucesivas leyes de presupuestos de la CM; Ley 22/2009",
+    "articulo": "Ley 7/2004 CM; Ley 29/1987 ISD"
+  },
+  {
+    "id": "B4T39-005",
+    "bloque": 4,
+    "tema": 39,
+    "test": 39,
+    "dificultad": "facil",
+    "pregunta": "¿Qué tributos gestiona la Agencia Tributaria de la Comunidad de Madrid?",
+    "opciones": {
+      "A": "La Agencia Tributaria de la CM gestiona todos los tributos del Estado en el territorio de Madrid, incluidos el IRPF, el IVA y los Impuestos Especiales.",
+      "B": "La Agencia Tributaria de la CM gestiona exclusivamente los recargos sobre tributos estatales; el resto de tributos lo gestiona la AEAT.",
+      "C": "La Agencia Tributaria de la Comunidad de Madrid gestiona los tributos cedidos con competencia gestora plena (principalmente el Impuesto sobre Sucesiones y Donaciones, el Impuesto sobre Transmisiones Patrimoniales y Actos Jurídicos Documentados, el Impuesto sobre el Patrimonio y las Tasas sobre el Juego), así como los tributos propios de la CM; la AEAT, en cambio, gestiona los tributos estatales (IRPF, IS, IVA, IE) y transfiere a la CM el porcentaje cedido.",
+      "D": "No existe una agencia tributaria propia de la CM; todos los tributos que corresponden a la CM los recauda directamente la Consejería de Hacienda sin organismo intermedio."
+    },
+    "correcta": "C",
+    "explicacion": "En el modelo de gestión tributaria autonómica español, la CM de Madrid gestiona directamente determinados tributos a través de su propia Agencia Tributaria (actualmente integrada en la estructura de la Consejería de Hacienda y Función Pública): (1) Tributos cedidos con competencia gestora: ISD (Impuesto sobre Sucesiones y Donaciones), ITPAJD (Impuesto sobre Transmisiones Patrimoniales y Actos Jurídicos Documentados), IP (Impuesto sobre el Patrimonio) y Tasas sobre el Juego. Para estos tributos, la CM no solo recibe el rendimiento sino que también gestiona, liquida, recauda, inspecciona y revisa. (2) Tributos propios: los impuestos, tasas y contribuciones especiales creados por la propia CM (Canon de saneamiento, tasas autonómicas, etc.). Los tributos compartidos (IRPF, IVA, IE): la AEAT los recauda en todo el territorio nacional y luego transfiere a la CM el porcentaje que le corresponde según la Ley 22/2009; la CM tiene capacidad normativa sobre parte del IRPF pero no gestiona su recaudación.",
+    "why": "A la AEAT gestiona los tributos estatales (IRPF, IVA, IE); la CM no gestiona estos tributos directamente. B la CM gestiona más que meros recargos; gestiona plenamente ISD, ITPAJD, IP y sus tributos propios. D la CM sí dispone de estructura administrativa para la gestión tributaria (integrada en la Consejería de Hacienda); no es solo competencia normativa.",
+    "norma": "Ley 22/2009; Ley 9/1990 Hacienda CM",
+    "articulo": "23-43 Ley 22/2009"
+  },
+  {
+    "id": "B4T39-006",
+    "bloque": 4,
+    "tema": 39,
+    "test": 39,
+    "dificultad": "facil",
+    "pregunta": "¿Cuándo se inicia el período ejecutivo de recaudación tributaria y qué recargos conlleva?",
+    "opciones": {
+      "A": "El período ejecutivo comienza el día siguiente al vencimiento del plazo de pago en período voluntario; los recargos del período ejecutivo son: recargo ejecutivo del 5% (si se paga antes de la notificación de la providencia de apremio), recargo de apremio reducido del 10% (si se paga dentro del plazo del período voluntario de apremio) y recargo de apremio ordinario del 20% (en los demás casos); en los dos primeros supuestos no se exigen intereses de demora.",
+      "B": "El período ejecutivo comienza cuando el contribuyente solicita la devolución de ingresos indebidos; los recargos son siempre del 5%.",
+      "C": "El período ejecutivo comienza tras 30 días desde el fin del período voluntario; el único recargo es el de apremio del 20% más los intereses de demora del período voluntario.",
+      "D": "El período ejecutivo comienza cuando la Administración lo declara expresamente mediante acto administrativo; sin esa declaración, el contribuyente no incurre en ningún recargo."
+    },
+    "correcta": "A",
+    "explicacion": "El período ejecutivo de recaudación de los tributos propios de la CM (y de los cedidos que esta gestiona) se rige por la LGT y sus reglamentos de desarrollo. Conforme al art. 28 LGT: (1) Inicio: el período ejecutivo comienza automáticamente el día siguiente al vencimiento del plazo establecido para el pago en período voluntario, sin necesidad de ningún acto administrativo de declaración. (2) Recargo ejecutivo (5%): se aplica cuando el obligado paga la deuda antes de que la Administración le notifique la providencia de apremio; en este caso no se exigen intereses de demora ni costas. (3) Recargo de apremio reducido (10%): se aplica cuando el obligado paga la deuda dentro del plazo concedido en la providencia de apremio; tampoco se exigen intereses de demora. (4) Recargo de apremio ordinario (20%): se aplica cuando no se ha pagado en los supuestos anteriores; a este recargo se suman los intereses de demora calculados desde el inicio del período ejecutivo. El procedimiento de apremio es el mecanismo de ejecución forzosa que permite a la Administración cobrar las deudas no satisfechas en período voluntario.",
+    "why": "B el período ejecutivo no comienza con la solicitud de devolución; esta es un derecho del contribuyente, no una infracción. C el período ejecutivo comienza automáticamente al día siguiente del vencimiento del período voluntario, sin necesidad de que transcurran 30 días adicionales; tampoco existe un único recargo del 20%. D el período ejecutivo opera automáticamente por ministerio de la ley; no requiere declaración expresa de la Administración.",
+    "norma": "Ley 58/2003 General Tributaria; RGR (RD 939/2005)",
+    "articulo": "28 LGT"
+  },
+  {
+    "id": "B4T39-007",
+    "bloque": 4,
+    "tema": 39,
+    "test": 39,
+    "dificultad": "media",
+    "pregunta": "¿Qué es el Fondo de Liquidez Autonómica (FLA) y para qué se creó?",
+    "opciones": {
+      "A": "El FLA es el equivalente autonómico del Fondo de Compensación Interterritorial; distribuye recursos entre CCAA ricas y pobres.",
+      "B": "El FLA es el fondo que la CM de Madrid aporta anualmente al Estado en concepto de solidaridad interterritorial por ser una CCAA de alta renta.",
+      "C": "El FLA es un mecanismo de financiación de los municipios madrileños financiado por la CM.",
+      "D": "El Fondo de Liquidez Autonómica (FLA), creado en 2012 (RDL 21/2012) en el contexto de la crisis de la deuda soberana, es un instrumento de liquidez del Estado a favor de las CCAA que tienen dificultades de acceso a los mercados financieros; consiste en préstamos del Estado (a través del Tesoro Público) a tipos de interés favorables, condicionados a la suscripción de un plan de ajuste y al cumplimiento de los objetivos de estabilidad presupuestaria; las CCAA adheridas al FLA quedan sometidas a mayor supervisión financiera del Estado."
+    },
+    "correcta": "D",
+    "explicacion": "El Fondo de Liquidez Autonómica (FLA) fue creado por el RDL 21/2012, de 13 de julio, como respuesta a la grave situación de restricción del crédito que sufrieron las CCAA durante la crisis financiera de 2011-2013: (1) Contexto: las CCAA no podían emitir deuda en los mercados de capitales en condiciones razonables (tipos de interés muy elevados o directa imposibilidad de colocación); necesitaban financiación para atender sus obligaciones de pago. (2) Funcionamiento: el Estado, que sí tenía acceso a los mercados (con el respaldo del BCE), obtenía financiación en los mercados y la prestaba a las CCAA adheridas al FLA a tipos favorables. (3) Condiciones: las CCAA que solicitaban adherirse al FLA debían presentar y cumplir un plan de ajuste presupuestario; quedaban sometidas a un seguimiento mensual del Ministerio de Hacienda. (4) Madrid: la CM de Madrid no se adhirió sistemáticamente al FLA, aprovechando su relativamente mejor situación financiera para emitir directamente en los mercados. El FLA evolucionó hacia el actual sistema de mecanismos extraordinarios de financiación.",
+    "why": "A el FLA no distribuye recursos entre CCAA; es un mecanismo de liquidez (préstamos del Estado a las CCAA), no de solidaridad redistributiva. B el FLA no es una aportación de Madrid al Estado; es un instrumento del Estado a favor de las CCAA con problemas de liquidez. C el FLA no financia municipios; es exclusivo para CCAA.",
+    "norma": "RDL 21/2012, de 13 de julio; LO 2/2012",
+    "articulo": "RDL 21/2012"
+  },
+  {
+    "id": "B4T39-008",
+    "bloque": 4,
+    "tema": 39,
+    "test": 39,
+    "dificultad": "media",
+    "pregunta": "¿Qué tipos autonómicos aplica la Comunidad de Madrid en el Impuesto sobre Transmisiones Patrimoniales y Actos Jurídicos Documentados (ITPAJD)?",
+    "opciones": {
+      "A": "La CM de Madrid aplica el tipo del 21% en todas las modalidades del ITPAJD.",
+      "B": "La CM de Madrid aplica, en el ejercicio de su capacidad normativa sobre el ITPAJD cedido al 100%: el tipo general del 6% en la modalidad de Transmisiones Patrimoniales Onerosas (TPO) para inmuebles; el tipo general del 0,75% en la modalidad de Actos Jurídicos Documentados (AJD), con tipos reducidos para familias numerosas, jóvenes menores de 35 años en primera vivienda habitual y viviendas de protección oficial (VPO).",
+      "C": "La CM de Madrid no tiene capacidad normativa sobre el ITPAJD; se aplica solo el tipo estatal supletorio del 4%.",
+      "D": "La CM aplica un único tipo del 10% para todas las modalidades del ITPAJD sin distinción."
+    },
+    "correcta": "B",
+    "explicacion": "El ITPAJD es un tributo cedido al 100% a la CM de Madrid con plena capacidad normativa, conforme a la Ley 22/2009 y la Ley del ITPAJD (RDL 1/1993). La CM ejerce esa capacidad con los siguientes tipos: (1) Transmisiones Patrimoniales Onerosas (TPO): tipo general del 6% para la transmisión de inmuebles (compraventa de segunda mano); tipo del 4% para viviendas de protección pública básica (VPO). (2) Actos Jurídicos Documentados (AJD — documentos notariales): tipo general del 0,75%; tipos reducidos: 0,4% para familias numerosas en primera vivienda habitual, jóvenes menores de 35 años en primera vivienda habitual, VPO; 0,2% para determinadas VPO de protección máxima. (3) Operaciones Societarias (OS): el tipo es del 1% y corresponde íntegramente al Estado; las CCAA no tienen capacidad normativa sobre esta modalidad. Esta política de tipos relativamente bajos en el AJD forma parte de la estrategia fiscal de la CM de reducir la carga tributaria sobre el acceso a la vivienda.",
+    "why": "A el tipo del 21% es el tipo general del IVA; no tiene relación con el ITPAJD. C la CM sí tiene plena capacidad normativa sobre el ITPAJD cedido al 100%; no se limita a aplicar tipos estatales supletorios. D no existe un tipo único del 10% en el ITPAJD; las modalidades (TPO, AJD) tienen tipos propios y diferenciados.",
+    "norma": "Ley 22/2009; RDL 1/1993 ITPAJD; legislación tributaria de la CM",
+    "articulo": "RDL 1/1993; Ley 22/2009"
+  },
+  {
+    "id": "B4T39-009",
+    "bloque": 4,
+    "tema": 39,
+    "test": 39,
+    "dificultad": "media",
+    "pregunta": "¿En qué consisten las contribuciones especiales como tributo propio de la Comunidad de Madrid y cuándo procede su exacción?",
+    "opciones": {
+      "A": "Las contribuciones especiales son tributos estatales que el Estado cede temporalmente a la CM; no son tributos propios autonómicos.",
+      "B": "Las contribuciones especiales son sanciones administrativas que la CM impone a las empresas que incumplen la normativa medioambiental.",
+      "C": "Las contribuciones especiales son tributos propios que la CM puede establecer mediante ley para financiar obras o servicios de su competencia que generan un beneficio especial o un aumento de valor en los bienes de determinadas personas; el importe que se puede exigir a los beneficiarios no puede exceder del coste de la obra o servicio, y cada contribuyente paga en proporción al beneficio obtenido.",
+      "D": "Las contribuciones especiales son equivalentes a las tasas; no existe ninguna diferencia sustancial entre ambas figuras tributarias."
+    },
+    "correcta": "C",
+    "explicacion": "Las contribuciones especiales son la tercera modalidad de tributo que puede crear la CM (junto con los impuestos y las tasas), conforme al art. 2.1.c LGT: «Las contribuciones especiales son los tributos cuyo hecho imponible consiste en la obtención por el obligado tributario de un beneficio o de un aumento de valor de sus bienes como consecuencia de la realización de obras públicas o del establecimiento o ampliación de servicios públicos.» Sus características son: (1) Presupuesto: una obra o servicio público promovido por la CM que produce un beneficio especial para determinados sujetos (p. ej., asfaltado de una vía que da acceso a un polígono, instalación de infraestructuras de saneamiento en una zona residencial). (2) Sujetos pasivos: los beneficiados especialmente por la obra o servicio. (3) Límite cuantitativo: el importe exigido a los contribuyentes no puede superar el coste de la obra o servicio atribuible a la zona que se beneficia. (4) Distribución: cada contribuyente paga en proporción a su beneficio (criterios: metros lineales de fachada, superficie del inmueble, etc.). Son tributos causales: su exacción está directamente vinculada a una actuación pública concreta.",
+    "why": "A las contribuciones especiales son tributos que puede crear la propia CM (no son cedidos por el Estado); tienen base legal en la LOFCA y la LGT. B las contribuciones especiales no son sanciones; son tributos vinculados al beneficio obtenido por el contribuyente de una actuación pública. D las contribuciones especiales y las tasas son figuras distintas: las tasas gravan el uso del dominio público o la prestación de servicios obligatorios; las contribuciones especiales gravan el beneficio derivado de obras o servicios públicos.",
+    "norma": "LGT art. 2.1.c; LOFCA; Ley 9/1990 Hacienda CM",
+    "articulo": "2.1.c LGT; 6 LOFCA"
+  },
+  {
+    "id": "B4T39-010",
+    "bloque": 4,
+    "tema": 39,
+    "test": 39,
+    "dificultad": "media",
+    "pregunta": "¿Cómo ha regulado la Comunidad de Madrid el Impuesto sobre el Patrimonio y cuál fue la respuesta del Estado ante esa regulación?",
+    "opciones": {
+      "A": "La CM de Madrid ha ejercido su capacidad normativa sobre el Impuesto sobre el Patrimonio —cedido al 100%— aplicando una bonificación del 100% sobre la cuota, lo que equivalía a la exención total del impuesto para los residentes en Madrid; el Estado respondió creando el Impuesto de Solidaridad de las Grandes Fortunas (ISoGF, Ley 38/2022) como impuesto temporal estatal complementario que recae sobre patrimonios superiores a 3 millones de euros, neutralizando de facto la bonificación autonómica para los grandes patrimonios.",
+      "B": "La CM de Madrid aplica el Impuesto sobre el Patrimonio con el tipo máximo estatal del 3,5%; no ha ejercido ninguna bonificación sobre este tributo.",
+      "C": "El Impuesto sobre el Patrimonio fue suprimido por la CM de Madrid mediante ley autonómica; al ser un tributo cedido al 100%, la CM tiene competencia para suprimirlo en su territorio.",
+      "D": "La CM de Madrid nunca ha tenido capacidad normativa sobre el Impuesto sobre el Patrimonio; solo pueden aplicarlo el Estado y los municipios."
+    },
+    "correcta": "A",
+    "explicacion": "El Impuesto sobre el Patrimonio (IP) está cedido al 100% a las CCAA con plena capacidad normativa (Ley 22/2009, Ley 19/1991 del IP). La CM de Madrid, desde 2008, aplicó una bonificación del 100% sobre la cuota íntegra, lo que implicaba que ningún residente en Madrid pagaba este impuesto con independencia del tamaño de su patrimonio. Ante esta situación: (1) Efecto de atracción: muchos contribuyentes de alto patrimonio trasladaron su residencia fiscal a Madrid para beneficiarse de la bonificación. (2) Respuesta estatal: el Estado aprobó la Ley 38/2022, de 27 de diciembre, que creó el Impuesto de Solidaridad de las Grandes Fortunas (ISoGF), un impuesto temporal y directo del Estado sobre patrimonios netos superiores a 3 millones de euros; el ISoGF se calculó de forma que la cuota del IP pagada (si lo hubiera) podría deducirse del ISoGF, pero la bonificación autonómica del IP no reduce el ISoGF estatal. (3) Impugnación: la CM de Madrid recurrió el ISoGF ante el TC por entender que vulneraba su autonomía financiera; el TC avaló el ISoGF en 2023.",
+    "why": "B la CM de Madrid aplica una bonificación del 100% en el IP, no el tipo máximo estatal; la política fiscal de Madrid es precisamente la contraria. C la CM no ha suprimido el IP mediante ley; lo que ha hecho es establecer una bonificación del 100% en la cuota; la supresión del impuesto exigiría una ley estatal porque el IP es un tributo estatal cedido. D la CM tiene plena capacidad normativa sobre el IP (incluyendo escala, cuota y bonificaciones), lo que incluye establecer una bonificación del 100%.",
+    "norma": "Ley 19/1991 IP; Ley 22/2009; Ley 38/2022 ISoGF",
+    "articulo": "Ley 19/1991; Ley 38/2022"
+  },
+  {
+    "id": "B4T39-011",
+    "bloque": 4,
+    "tema": 39,
+    "test": 39,
+    "dificultad": "media",
+    "pregunta": "¿Qué límite cuantitativo rige para las tasas autonómicas de la Comunidad de Madrid?",
+    "opciones": {
+      "A": "Las tasas autonómicas no tienen ningún límite cuantitativo; la CM puede fijar el importe que considere oportuno.",
+      "B": "El importe de una tasa autonómica de la CM no puede exceder el coste real o previsible del servicio o actividad de que se trate o el valor de la utilidad derivada del uso del dominio público; este principio de equivalencia o no superación del coste garantiza que las tasas no sean instrumentos recaudatorios sino compensatorios del coste del servicio prestado.",
+      "C": "Las tasas autonómicas tienen un límite de 100 euros por servicio; si el coste del servicio es mayor, la diferencia la financia el presupuesto autonómico.",
+      "D": "El límite de las tasas autonómicas de la CM es el mismo que el del IRPF; no puede superarse el tipo marginal máximo del IRPF aplicado al valor del servicio."
+    },
+    "correcta": "B",
+    "explicacion": "El límite cuantitativo de las tasas está establecido en el art. 7 de la Ley 8/1989 de Tasas y Precios Públicos (de aplicación supletoria) y en la normativa tributaria autonómica equivalente: «El importe de las tasas por la prestación de un servicio o por la realización de una actividad no podrá exceder, en su conjunto, del coste real o previsible del servicio o actividad de que se trate o, en su defecto, del valor de la prestación recibida.» Este principio de equivalencia (también denominado de no superación del coste) es la característica que distingue a las tasas de los impuestos: mientras los impuestos no tienen limitación en su cuantía (se fijan en función de la capacidad económica), las tasas no pueden usarse como fuente de lucro para la Administración. La CM de Madrid está obligada a elaborar memorias económico-financieras que justifiquen que el importe de cada tasa no supera el coste del servicio o la utilidad del uso del dominio público.",
+    "why": "A las tasas sí tienen un límite cuantitativo claro: no pueden exceder el coste del servicio o el valor del dominio público utilizado; fijarlas por encima de ese coste las convertiría en impuestos encubiertos. C no existe un límite fijo de 100 euros; el límite es el coste real del servicio, que varía según la naturaleza de cada tasa. D el tipo marginal del IRPF no tiene ninguna relación con el límite cuantitativo de las tasas; son figuras tributarias completamente distintas.",
+    "norma": "Ley 8/1989 de Tasas y Precios Públicos; LOFCA; Ley 9/1990 Hacienda CM",
+    "articulo": "7 Ley 8/1989; 6 LOFCA"
+  },
+  {
+    "id": "B4T39-012",
+    "bloque": 4,
+    "tema": 39,
+    "test": 39,
+    "dificultad": "media",
+    "pregunta": "¿En qué se diferencia el sistema de financiación de las CCAA de régimen foral (País Vasco y Navarra) del sistema de régimen común aplicable a la Comunidad de Madrid?",
+    "opciones": {
+      "A": "Las CCAA de régimen foral y las de régimen común tienen el mismo sistema de financiación; la diferencia es solo histórica y sin consecuencias prácticas actuales.",
+      "B": "En el régimen foral (Concierto Económico para el País Vasco; Convenio Económico para Navarra), son los propios territorios forales quienes recaudan la mayoría de los tributos en su territorio y posteriormente pagan al Estado un «cupo» o «aportación» por los servicios no transferidos; en el régimen común (como la CM de Madrid, regulado por la LOFCA y la Ley 22/2009), el Estado recauda los principales tributos y luego cede a la CM los rendimientos correspondientes según los porcentajes de cesión, siendo el Estado el que hace la distribución.",
+      "C": "Las CCAA forales reciben más financiación que las de régimen común; esa diferencia es la razón de la menor presión fiscal en el País Vasco.",
+      "D": "El régimen foral solo se aplica a los municipios de Álava, Guipúzcoa y Vizcaya, no a la CCAA del País Vasco en su conjunto."
+    },
+    "correcta": "B",
+    "explicacion": "El sistema de financiación autonómica en España tiene dos grandes regímenes: (1) Régimen foral: aplicable a la CCAA del País Vasco (mediante el Concierto Económico, regulado por la Ley 12/2002) y a la Comunidad Foral de Navarra (mediante el Convenio Económico, Ley 28/1990). En este régimen, las Diputaciones Forales vascas (Álava, Guipúzcoa y Vizcaya) o la Comunidad Foral de Navarra recaudan directamente en su territorio todos o casi todos los tributos (IRPF, IS, IVA, IE...), siguiendo su propia normativa tributaria (con algunos límites de armonización). Luego pagan al Estado un «cupo» (País Vasco) o «aportación» (Navarra) calculado en función del porcentaje de los servicios no transferidos. (2) Régimen común: aplicable al resto de CCAA, incluida la CM de Madrid, regulado por la LOFCA y la Ley 22/2009. El Estado recauda los principales tributos y cede los rendimientos a la CM según los porcentajes establecidos. La diferencia esencial es quién recauda: en el régimen foral, la CCAA; en el régimen común, el Estado.",
+    "why": "A el régimen foral y el común son radicalmente distintos en cuanto a quién recauda los tributos y cómo fluye el dinero; la diferencia tiene importantes consecuencias prácticas y ha sido fuente de controversia política. C la comparación de financiación per cápita entre regímenes es compleja y no puede simplificarse como que el régimen foral da «más»; depende de múltiples factores. D el régimen foral del País Vasco aplica a la CCAA en su conjunto; las Diputaciones Forales son los órganos que gestionan el Concierto, pero es un sistema de la CCAA.",
+    "norma": "Ley 12/2002 Concierto Económico País Vasco; Ley 28/1990 Convenio Navarra; LOFCA; Ley 22/2009",
+    "articulo": "Disposición Adicional Primera CE; Ley 12/2002; Ley 28/1990"
+  },
+  {
+    "id": "B4T39-013",
+    "bloque": 4,
+    "tema": 39,
+    "test": 39,
+    "dificultad": "media",
+    "pregunta": "¿Qué capacidad normativa tiene la Comunidad de Madrid sobre el IRPF cedido parcialmente por el Estado?",
+    "opciones": {
+      "A": "La CM de Madrid puede modificar el hecho imponible, la base imponible y el tipo de retención del IRPF en su territorio.",
+      "B": "La CM de Madrid tiene capacidad normativa para: aprobar la escala autonómica del IRPF (los tipos aplicables al tramo cedido del 50%); establecer deducciones autonómicas propias en la cuota íntegra autonómica; y modificar los mínimos personales y familiares dentro de los límites de la Ley 22/2009; no puede modificar el hecho imponible, la base imponible, ni el tipo de retención.",
+      "C": "La CM de Madrid no tiene ninguna capacidad normativa sobre el IRPF cedido; solo recibe el rendimiento pero no puede regular ningún elemento del impuesto.",
+      "D": "La CM de Madrid puede suprimir el IRPF en su territorio para los residentes que cumplan determinados requisitos de renta."
+    },
+    "correcta": "B",
+    "explicacion": "El IRPF está cedido a la CM en un 50% del rendimiento atribuible a los contribuyentes residentes en Madrid, junto con determinadas competencias normativas reguladas en la Ley 22/2009 y la Ley 35/2006 (LIRPF). La capacidad normativa de la CM sobre el IRPF comprende: (1) Escala autonómica del IRPF: la CM puede aprobar su propia escala de tipos aplicable a la base liquidable general, complementaria a la escala estatal; la suma de ambas determina el tipo marginal total. La CM de Madrid ha aprobado una escala autonómica con tipos relativamente bajos. (2) Deducciones autonómicas: la CM puede establecer deducciones propias en la cuota íntegra autonómica (p. ej., deducción por nacimiento o adopción, por arrendamiento de vivienda habitual, por gastos educativos, por donativos a entidades sin ánimo de lucro de la CM). (3) Mínimos personales y familiares: la CM puede aumentarlos o disminuirlos, con un límite del 10% respecto a los importes estatales. Límites: la CM no puede modificar el hecho imponible (concepto de renta gravada), la base imponible, el método de estimación, ni el tipo de retención (estos son elementos esenciales reservados al Estado).",
+    "why": "A el hecho imponible, la base imponible y el tipo de retención son elementos esenciales del IRPF que permanecen en la normativa estatal; la CM no puede modificarlos. C la CM sí tiene capacidad normativa sobre el IRPF cedido: escala, deducciones y mínimos personales/familiares. D la CM no puede suprimir el IRPF en su territorio; el hecho imponible es de competencia estatal.",
+    "norma": "Ley 22/2009; Ley 35/2006 LIRPF",
+    "articulo": "23 y ss. Ley 22/2009; LIRPF"
+  },
+  {
+    "id": "B4T39-014",
+    "bloque": 4,
+    "tema": 39,
+    "test": 39,
+    "dificultad": "media",
+    "pregunta": "¿Cómo participan los municipios madrileños en los recursos de la Comunidad de Madrid?",
+    "opciones": {
+      "A": "Los municipios madrileños no tienen ninguna participación en los ingresos de la CM; toda la financiación municipal proviene del Estado directamente.",
+      "B": "Las relaciones financieras entre la CM de Madrid y sus municipios se canalizan, entre otros instrumentos, a través de las participaciones de los municipios en los tributos de la CM (PIATCM) y del Fondo Regional de Cooperación Municipal; la CM transfiere a los municipios un porcentaje de sus tributos propios y cedidos como mecanismo de financiación subsidiaria para los entes locales, en el marco de la autonomía local reconocida en la Constitución y la Ley de Haciendas Locales.",
+      "C": "Los municipios madrileños participan en los ingresos de la CM solo si tienen más de 100.000 habitantes.",
+      "D": "La participación de los municipios en los tributos de la CM es voluntaria; cada municipio decide si quiere adherirse o no al sistema de participación."
+    },
+    "correcta": "B",
+    "explicacion": "El sistema de financiación local en la CM de Madrid combina la financiación estatal (Participación en los Ingresos del Estado, PIE) con la participación en los tributos de la CM: (1) Participaciones de los municipios en los tributos de la CM (PIATCM): la CM de Madrid transfiere a sus municipios una participación en sus tributos propios y cedidos a través de instrumentos de cooperación económica. La CM regula mediante ley autonómica el reparto de estas participaciones entre los municipios, considerando criterios como la población, la extensión del término municipal, el nivel de servicios prestados, etc. (2) Fondo Regional de Cooperación Municipal: instrumento de la CM para financiar inversiones y servicios de los municipios madrileños. (3) Base legal: la Ley de Haciendas Locales (RDL 2/2004), la Ley Reguladora de las Bases del Régimen Local (LRBRL) y las leyes de financiación de la CM establecen este sistema de participaciones. Estas participaciones son una manifestación del principio de autonomía local y de la necesaria articulación entre los distintos niveles de la Administración.",
+    "why": "A los municipios madrileños sí participan en los tributos de la CM; la CM tiene obligación legal de contribuir a la financiación de los entes locales de su territorio. C el sistema de participación no está condicionado por el umbral de 100.000 habitantes; aplica a todos los municipios de la CM. D las participaciones de los municipios en los tributos de la CM son obligatorias por ley, no voluntarias.",
+    "norma": "RDL 2/2004 Haciendas Locales; LRBRL; legislación propia de la CM",
+    "articulo": "RDL 2/2004; LRBRL"
+  },
+  {
+    "id": "B4T39-015",
+    "bloque": 4,
+    "tema": 39,
+    "test": 39,
+    "dificultad": "media",
+    "pregunta": "¿Qué es el Canon de Saneamiento de la Comunidad de Madrid y cuál es su naturaleza jurídica?",
+    "opciones": {
+      "A": "El Canon de Saneamiento es un precio público que la CM cobra por la tramitación de licencias de vertido industrial.",
+      "B": "El Canon de Saneamiento es una tasa autonómica que la CM aplica sobre la actividad de las empresas depuradoras privadas.",
+      "C": "El Canon de Saneamiento de la CM, regulado por la Ley 10/1993, de 26 de octubre, de saneamiento y depuración de aguas residuales de la Comunidad de Madrid, es un tributo propio de la CM de naturaleza finalista; grava el uso del ciclo integral del agua (vertidos de aguas residuales) para financiar las infraestructuras de saneamiento y depuración; lo pagan los usuarios del servicio de abastecimiento de agua (domésticos e industriales) en proporción al consumo de agua o al volumen de vertidos.",
+      "D": "El Canon de Saneamiento es una transferencia del Estado a la CM para financiar las infraestructuras de depuración de aguas; no es un tributo autonómico."
+    },
+    "correcta": "C",
+    "explicacion": "El Canon de Saneamiento de la CM es uno de los principales tributos propios de la Comunidad de Madrid. Sus características son: (1) Base legal: Ley 10/1993, de 26 de octubre, de saneamiento y depuración de aguas residuales de la CM. (2) Naturaleza jurídica: es un tributo propio de la CM, con naturaleza de canon o tasa ambiental; algunos autores lo califican como contribución especial o como parafiscal, pero la ley lo configura como tributo finalista. (3) Hecho imponible: el uso del servicio de abastecimiento de agua y la generación de vertidos de aguas residuales. (4) Sujetos pasivos: los usuarios domésticos e industriales del suministro de agua; los titulares de captaciones propias (pozos, manantiales) en algunos casos. (5) Cuantía: se calcula en función del volumen de agua consumida (para domésticos) o del volumen y carga contaminante de los vertidos (para industriales). (6) Afectación: lo recaudado se destina específicamente a financiar las redes y estaciones de depuración de aguas residuales de la CM (gestionadas por el Canal de Isabel II u organismo equivalente).",
+    "why": "A el Canon de Saneamiento no es un precio público; es un tributo (con todos los requisitos de reserva de ley y coercitividad); y no se cobra por tramitación de licencias sino por el consumo de agua. B el Canon de Saneamiento no grava a las empresas depuradoras; las pagan los usuarios del servicio de agua que generan los vertidos. D el Canon de Saneamiento es un tributo propio de la CM, no una transferencia del Estado.",
+    "norma": "Ley 10/1993, de saneamiento y depuración de aguas residuales de la CM",
+    "articulo": "Ley 10/1993 CM"
+  },
+  {
+    "id": "B4T39-016",
+    "bloque": 4,
+    "tema": 39,
+    "test": 39,
+    "dificultad": "media",
+    "pregunta": "¿Qué prohíbe el art. 6 LOFCA a las CCAA cuando crean tributos propios?",
+    "opciones": {
+      "A": "El art. 6 LOFCA prohíbe a las CCAA crear tributos propios que graven hechos imponibles ya gravados por los tributos del Estado o que establezcan obstáculos a la libre circulación de bienes, personas y capitales entre territorios autonómicos.",
+      "B": "El art. 6 LOFCA solo prohíbe que las CCAA creen impuestos; las tasas y contribuciones especiales propias no tienen limitación.",
+      "C": "El art. 6 LOFCA prohíbe a las CCAA tener presupuesto propio; toda actividad financiera autonómica debe integrarse en el presupuesto del Estado.",
+      "D": "El art. 6 LOFCA prohíbe a las CCAA establecer tributos sobre bienes situados fuera de su territorio, pero permite gravar cualquier hecho imponible dentro de su territorio aunque ya esté gravado por el Estado."
+    },
+    "correcta": "A",
+    "explicacion": "El art. 6 LOFCA establece los límites fundamentales a la potestad tributaria de las CCAA en la creación de tributos propios. Sus prohibiciones son: (1) Doble imposición con el Estado: las CCAA no pueden establecer tributos sobre hechos imponibles gravados por el Estado (art. 6.2 LOFCA); si el Estado ya grava un hecho imponible con un tributo propio, la CCAA no puede crear otro tributo que recaiga sobre el mismo hecho imponible (misma naturaleza y mismo objeto). El TC ha precisado que la coincidencia debe ser sustancial: el mismo hecho económico no puede estar gravado dos veces por el Estado y la CCAA. Esta prohibición motivó la derogación de varios tributos autonómicos propios que duplicaban tributos estatales (ej. impuesto sobre depósitos bancarios). (2) Libre circulación: los tributos autonómicos no pueden constituir obstáculos a la libre circulación de personas, bienes, servicios y capitales entre los territorios de las distintas CCAA. (3) Doble imposición con tributos locales: las CCAA deben establecer compensaciones o límites cuando sus tributos recaigan sobre hechos imponibles gravados por los tributos locales (art. 6.3 LOFCA).",
+    "why": "B el art. 6 LOFCA aplica a todos los tributos propios (impuestos, tasas y contribuciones especiales); no establece excepciones para las tasas y contribuciones especiales. C el art. 6 LOFCA regula los límites al poder tributario, no la existencia de presupuesto; todas las CCAA tienen presupuesto propio garantizado constitucionalmente. D la prohibición del art. 6.2 LOFCA no se limita a bienes situados fuera del territorio; prohíbe gravar hechos imponibles ya gravados por el Estado, con independencia de la ubicación del bien.",
+    "norma": "Ley Orgánica 8/1980 (LOFCA) art. 6",
+    "articulo": "6 LOFCA"
+  },
+  {
+    "id": "B4T39-017",
+    "bloque": 4,
+    "tema": 39,
+    "test": 39,
+    "dificultad": "dificil",
+    "pregunta": "¿Qué es el Impuesto de Solidaridad de las Grandes Fortunas (ISoGF) y cuál fue el pronunciamiento del Tribunal Constitucional sobre su compatibilidad con la autonomía financiera de la CM de Madrid?",
+    "opciones": {
+      "A": "El ISoGF, creado por la Ley 38/2022, es un impuesto temporal del Estado sobre patrimonios netos superiores a 3 millones de euros; neutraliza la bonificación del 100% en el Impuesto sobre el Patrimonio que la CM de Madrid había establecido; la CM recurrió el ISoGF ante el TC, que lo avaló en 2023 por considerar que el Estado tiene competencia para crear impuestos nacionales aunque afecten a la política fiscal de las CCAA, siempre que no vacíen de contenido la autonomía financiera autonómica; el ISoGF sí respetó ese límite al no suprimir la capacidad normativa de la CM sobre el IP.",
+      "B": "El ISoGF fue declarado inconstitucional por el TC por vulnerar la autonomía financiera de la CM de Madrid.",
+      "C": "El ISoGF es un impuesto autonómico creado por la CM de Madrid sobre los residentes con grandes fortunas, para compensar los ingresos perdidos por la bonificación del IP.",
+      "D": "El ISoGF no tiene relación con el Impuesto sobre el Patrimonio autonómico; grava exclusivamente las herencias de cuantía superior a 3 millones de euros."
+    },
+    "correcta": "A",
+    "explicacion": "El Impuesto de Solidaridad de las Grandes Fortunas fue creado por la Ley 38/2022, de 27 de diciembre. Sus elementos principales: (1) Naturaleza: impuesto estatal, temporal (inicialmente para 2022 y 2023) y directo, compatible con el IP pero complementario. (2) Hecho imponible: la titularidad de un patrimonio neto superior a 3 millones de euros a 31 de diciembre. (3) Deducción del IP: si el contribuyente ha pagado el IP estatal/autonómico, ese importe se deduce del ISoGF; pero si la CCAA ha bonificado el IP al 100% (como Madrid), no hay nada que deducir del ISoGF, que se liquida íntegramente. (4) Efecto: convierte la bonificación del 100% en IP de Madrid en irrelevante para los patrimonios >3 M€, ya que el ISoGF estatal suple lo que el IP autonómico dejaba de recaudar. (5) Pronunciamiento del TC (STC 149/2023): el TC desestimó los recursos de las CCAA (Madrid y Andalucía) que impugnaron el ISoGF, declarando que el Estado tiene potestad para crear impuestos nacionales aunque incidan sobre materias donde las CCAA tienen capacidad normativa, siempre que no las vacíen completamente; el ISoGF no elimina la capacidad normativa de la CM sobre el IP.",
+    "why": "B el TC avaló el ISoGF y no lo declaró inconstitucional; las CCAA que lo recurrieron (Madrid y Andalucía) vieron desestimados sus recursos. C el ISoGF es un impuesto estatal, no autonómico; fue creado por el Gobierno central, no por la CM de Madrid. D el ISoGF grava el patrimonio neto, no las herencias; el impuesto sobre herencias es el ISD.",
+    "norma": "Ley 38/2022; Ley 19/1991 IP; STC 149/2023",
+    "articulo": "Ley 38/2022; STC 149/2023"
+  },
+  {
+    "id": "B4T39-018",
+    "bloque": 4,
+    "tema": 39,
+    "test": 39,
+    "dificultad": "dificil",
+    "pregunta": "¿Cómo se fijan los objetivos de estabilidad presupuestaria para la Comunidad de Madrid y qué mecanismos de corrección existen ante su incumplimiento?",
+    "opciones": {
+      "A": "Los objetivos de estabilidad presupuestaria para la CM de Madrid se fijan mediante un proceso que comienza en el Consejo de Política Fiscal y Financiera (CPFF), donde el Estado propone y debate con las CCAA los objetivos de déficit y deuda; el Consejo de Ministros los aprueba mediante acuerdo; si la CM incumple, la LO 2/2012 activa mecanismos graduales de corrección: plan económico-financiero, imposibilidad de acceder a nuevas operaciones de crédito, retención de transferencias del Estado y, en último término, la adopción de medidas coercitivas directas por el Estado (art. 26 LO 2/2012).",
+      "B": "Los objetivos de estabilidad solo los fija la CM de Madrid de forma autónoma, sin intervención del Estado.",
+      "C": "Los objetivos de estabilidad para la CM de Madrid los fija el Tribunal de Cuentas del Estado mediante resolución vinculante.",
+      "D": "Si la CM incumple los objetivos de estabilidad, el único mecanismo de corrección es la suspensión de los tributos cedidos hasta que recupere el equilibrio."
+    },
+    "correcta": "A",
+    "explicacion": "El proceso de fijación y aplicación de los objetivos de estabilidad presupuestaria para la CM de Madrid está regulado en los arts. 15-17 de la LO 2/2012: (1) Propuesta del Gobierno: el Gobierno del Estado elabora un informe sobre los objetivos de estabilidad y deuda pública para el conjunto de las AAPP (Estado, CCAA, Corporaciones Locales) para los tres ejercicios siguientes. (2) Dictamen del CPFF: el Consejo de Política Fiscal y Financiera emite dictamen sobre los objetivos aplicables a las CCAA; la CM participa a través de su Consejero de Hacienda. (3) Aprobación: el Consejo de Ministros, con la posterior ratificación del Congreso y el Senado, aprueba los objetivos. (4) Mecanismos de corrección ante incumplimiento (arts. 19-26 LO 2/2012): (a) Plan económico-financiero: si la CCAA incumple, debe presentar un plan de corrección en un mes. (b) Advertencia preventiva: el Gobierno puede advertir formalmente. (c) Medidas automáticas de corrección: limitación de operaciones de crédito. (d) Medidas coercitivas: comisionado del Estado, retención de transferencias, ejecución sustitutiva (art. 155 CE en última instancia).",
+    "why": "B los objetivos de estabilidad no los fija la CM de forma autónoma; son fijados por el Estado con dictamen del CPFF, aunque con participación autonómica. C el Tribunal de Cuentas no tiene competencia para fijar objetivos de estabilidad; su función es la fiscalización y la jurisdicción contable. D el incumplimiento activa un proceso gradual de mecanismos de corrección; la suspensión de tributos cedidos no es el mecanismo previsto.",
+    "norma": "LO 2/2012 de Estabilidad Presupuestaria y Sostenibilidad Financiera",
+    "articulo": "15-26 LO 2/2012; 135 CE"
+  },
+  {
+    "id": "B4T39-019",
+    "bloque": 4,
+    "tema": 39,
+    "test": 39,
+    "dificultad": "dificil",
+    "pregunta": "¿Pueden las Comunidades Autónomas, incluida la CM de Madrid, establecer recargos sobre tributos estatales y con qué límites?",
+    "opciones": {
+      "A": "Las CCAA no pueden establecer recargos sobre ningún tributo estatal; los recargos tributarios son competencia exclusiva del Estado.",
+      "B": "Sí, las CCAA pueden establecer recargos sobre los tributos del Estado cedibles a las CCAA (como el IRPF), siempre que no impliquen una minoración de los ingresos del Estado derivados de esos tributos en su territorio ni alteraciones en los criterios de distribución; expresamente están prohibidos los recargos sobre el IVA e Impuestos Especiales de fabricación por su naturaleza de impuestos indirectos armonizados en la UE.",
+      "C": "Las CCAA pueden establecer recargos ilimitados sobre cualquier tributo estatal, incluyendo el IVA y los impuestos especiales.",
+      "D": "Los recargos autonómicos sobre tributos estatales son automáticos y obligatorios; todas las CCAA deben aplicarlos según las instrucciones del Ministerio de Hacienda."
+    },
+    "correcta": "B",
+    "explicacion": "El art. 12 LOFCA reconoce a las CCAA la posibilidad de establecer recargos sobre los tributos del Estado cedibles. Sin embargo, esta potestad tiene límites importantes: (1) Tributos sobre los que sí pueden establecerse recargos: los tributos cedibles donde el Estado lo permite (fundamentalmente el IRPF, donde la propia escala autonómica ya funciona como un «recargo» sobre la parte cedida). (2) Límites sustantivos (art. 12.1 LOFCA): los recargos no pueden «suponer una minoración de los ingresos del Estado por los tributos sobre los que recaigan». Esto significa que el recargo autonómico no puede alterar la distribución de la recaudación estatal ni los criterios de cesión. (3) Prohibición expresa sobre IVA e IE: el art. 12.2 LOFCA prohíbe expresamente establecer recargos sobre el IVA, los Impuestos Especiales de Fabricación y el Impuesto sobre las Primas de Seguros; la razón es la armonización fiscal de la UE: los impuestos indirectos sobre el consumo (IVA e IE) están sujetos a directivas comunitarias que impiden sobrecargas adicionales por parte de los Estados miembros. (4) Escasa utilización: en la práctica, las CCAA han recurrido poco a los recargos porque la escala autonómica del IRPF es ya el instrumento preferido para modular la carga fiscal.",
+    "why": "A el art. 12 LOFCA sí permite recargos autonómicos sobre tributos estatales cedibles, con los límites señalados. C los recargos sobre IVA e IE están expresamente prohibidos por el art. 12.2 LOFCA y por el Derecho de la UE; no son ilimitados. D los recargos autonómicos son potestativos, no obligatorios; cada CCAA decide si los establece o no en el ejercicio de su autonomía financiera.",
+    "norma": "LOFCA art. 12; Directiva 2006/112/CE (IVA); Directiva 2020/262/CE (IE)",
+    "articulo": "12 LOFCA"
+  },
+  {
+    "id": "B4T39-020",
+    "bloque": 4,
+    "tema": 39,
+    "test": 39,
+    "dificultad": "dificil",
+    "pregunta": "¿Cómo se calcula la «población ajustada» de la Comunidad de Madrid para determinar sus necesidades de financiación en el sistema de la Ley 22/2009?",
+    "opciones": {
+      "A": "La población ajustada es simplemente el censo de habitantes de la CM; no se aplica ningún factor de corrección.",
+      "B": "La «población ajustada» o «unidad de necesidad» es la magnitud que el sistema de financiación (Ley 22/2009) utiliza para calcular las necesidades de gasto de cada CCAA; se obtiene ponderando la población real con varios factores correctores que reflejan los determinantes del coste de los servicios públicos: población protegida en sanidad (ponderada por grupos de edad, ya que los niños y mayores consumen más recursos sanitarios), población en edad escolar (para educación), superficie (para servicios de menor densidad), dispersión geográfica, insularidad y población mayor de 65 años (para servicios sociales); la CM de Madrid, por su alta concentración y joven demografía relativa, obtiene una unidad de necesidad inferior a su peso en población bruta.",
+      "C": "La población ajustada es la suma del padrón municipal más el número de turistas que visitan la CM cada año.",
+      "D": "La población ajustada se calcula exclusivamente en función del PIB per cápita de la CM; a mayor riqueza, menor unidad de necesidad."
+    },
+    "correcta": "B",
+    "explicacion": "La «población ajustada» (también denominada «unidad de necesidad») es el indicador central del sistema de financiación de la Ley 22/2009 para calcular cómo distribuir el Fondo de Garantía de Servicios Públicos Fundamentales. Su cálculo (arts. 9 y Anexo I de la Ley 22/2009) pondera la población real de cada CCAA con los siguientes factores: (1) Población protegida en el Sistema Nacional de Salud (ponderada por grupos de edad: 0-4 años, 5-14, 15-44, 45-54, 55-64, 65-74, >74 años): los mayores de 65 años y los menores de 5 generan más gasto sanitario. (2) Población en edad escolar (0-16 años): para el gasto en educación. (3) Superficie del territorio autonómico: mayor superficie → mayor coste de prestación de servicios en municipios dispersos. (4) Dispersión de la población (número de entidades de población): a mayor dispersión, mayor coste de servicios públicos. (5) Insularidad (solo Baleares y Canarias): coste adicional por la condición insular. (6) Población mayor de 65 años: para servicios sociales. Para la CM de Madrid, su alta concentración en municipios urbanos y su estructura demográfica (con menos mayores que otras CCAA en términos relativos) hacen que la unidad de necesidad sea algo inferior a lo que representaría aplicando solo la población nominal.",
+    "why": "A la simple población nominal no refleja las necesidades de financiación; regiones más dispersas, envejecidas o con insularidad tienen mayor coste por habitante. C los turistas no forman parte del cálculo de la unidad de necesidad; el sistema se basa en la población protegida y residente. D el PIB per cápita no forma parte del cálculo de la unidad de necesidad; sí puede influir en otros fondos (Fondo de Competitividad), pero no en el cálculo de la unidad de necesidad.",
+    "norma": "Ley 22/2009, de 18 de diciembre, Sistema de Financiación de CCAA",
+    "articulo": "9 y Anexo I Ley 22/2009"
+  }
+]
