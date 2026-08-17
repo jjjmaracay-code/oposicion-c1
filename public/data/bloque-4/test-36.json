@@ -1,0 +1,382 @@
+[
+  {
+    "id": "B4T36-001",
+    "bloque": 4,
+    "tema": 36,
+    "test": 36,
+    "dificultad": "facil",
+    "pregunta": "¿Qué comprende la Hacienda de la Comunidad de Madrid según la Ley 9/1990, Reguladora de la Hacienda de la CM?",
+    "opciones": {
+      "A": "Solo el patrimonio inmobiliario de la Consejería de Hacienda y los edificios administrativos de la CM.",
+      "B": "Únicamente los tributos propios de la CM; los recursos cedidos y el endeudamiento son ajenos a la Hacienda autonómica.",
+      "C": "La Hacienda de la CM está constituida por el conjunto de derechos de contenido económico cuya titularidad corresponde a la CM, incluidos los recursos de su sistema de financiación, los rendimientos de su patrimonio y todos los demás ingresos de derecho público y privado que le correspondan.",
+      "D": "Solo los Presupuestos Generales de la CM y sus modificaciones; el patrimonio se regula en norma completamente separada sin conexión con la Hacienda."
+    },
+    "correcta": "C",
+    "explicacion": "El art. 1 de la Ley 9/1990, de 8 de noviembre, Reguladora de la Hacienda de la Comunidad de Madrid, define la Hacienda de la CM como el conjunto de derechos y obligaciones de contenido económico cuya titularidad corresponde a la Comunidad. Esta definición comprende: los recursos del sistema de financiación autonómica (tributos cedidos, participaciones en ingresos estatales, FCI); los tributos propios de la CM (impuestos, tasas y contribuciones especiales); los rendimientos del patrimonio de la CM; los ingresos de derecho privado; el producto de las operaciones de crédito (deuda pública); y las transferencias y subvenciones. La Hacienda de la CM es la institución a través de la cual la Comunidad gestiona su actividad económico-financiera y hace efectiva su autonomía financiera reconocida en el art. 156 CE y en el Estatuto de Autonomía.",
+    "why": "A la Hacienda de la CM abarca todos los recursos económicos de la CM, no solo el patrimonio inmobiliario de una Consejería concreta. B los tributos cedidos son uno de los recursos más importantes de la Hacienda autonómica; excluirlos supondría ignorar la mayor parte de la financiación autonómica. D la Hacienda no se limita al presupuesto; incluye también el patrimonio, la deuda y todos los recursos económicos.",
+    "norma": "Ley 9/1990, de 8 de noviembre, Reguladora de la Hacienda de la Comunidad de Madrid",
+    "articulo": "1 Ley 9/1990"
+  },
+  {
+    "id": "B4T36-002",
+    "bloque": 4,
+    "tema": 36,
+    "test": 36,
+    "dificultad": "facil",
+    "pregunta": "¿Qué establece el principio de anualidad presupuestaria en el ámbito de la Comunidad de Madrid?",
+    "opciones": {
+      "A": "El presupuesto de la CM se aprueba con vigencia de un año natural (del 1 de enero al 31 de diciembre); los créditos tienen carácter temporal y no pueden utilizarse para gastos de ejercicios distintos, salvo los créditos ampliables, incorporables o las autorizaciones plurianuales expresamente previstas.",
+      "B": "El presupuesto puede aprobarse para períodos bienales de dos años cuando la Asamblea de Madrid lo considere conveniente.",
+      "C": "La anualidad significa que los Presupuestos de la CM deben coincidir exactamente con el ciclo fiscal del Estado.",
+      "D": "La anualidad solo afecta a los ingresos tributarios; los gastos de capital pueden planificarse sin referencia al ejercicio anual."
+    },
+    "correcta": "A",
+    "explicacion": "El principio de anualidad, recogido en la Ley 9/1990 y en el art. 134 CE (de aplicación analógica en las CCAA), implica que: (1) El presupuesto de la CM se elabora y aprueba para cada año natural, con vigencia del 1 de enero al 31 de diciembre. (2) Los créditos del presupuesto tienen carácter temporal: si no se utilizan en el ejercicio para el que fueron aprobados, se anulan al final del año, salvo excepciones como los créditos incorporables (proyectos de inversión financiados externamente), los compromisos de gasto con cargo a ejercicios futuros o las autorizaciones plurianuales. (3) Consecuencia: ninguna Administración puede realizar gastos sin crédito presupuestario ni comprometer el presupuesto de ejercicios futuros sin la preceptiva autorización. La anualidad garantiza el control democrático periódico de la gestión financiera por la Asamblea de Madrid.",
+    "why": "B el presupuesto de la CM es necesariamente anual; no se contempla la posibilidad de presupuestos bienales en la Ley 9/1990. C la anualidad del presupuesto autonómico es independiente del ciclo fiscal estatal; la CM aprueba sus propios presupuestos. D la anualidad afecta tanto a ingresos como a gastos; también los gastos de capital están sujetos al principio de anualidad salvo autorizaciones plurianuales expresas.",
+    "norma": "Ley 9/1990, Reguladora de la Hacienda de la CM; art. 134 CE",
+    "articulo": "Título II Ley 9/1990"
+  },
+  {
+    "id": "B4T36-003",
+    "bloque": 4,
+    "tema": 36,
+    "test": 36,
+    "dificultad": "facil",
+    "pregunta": "¿Qué es la Cámara de Cuentas de la Comunidad de Madrid y cuál es su función principal?",
+    "opciones": {
+      "A": "Es un órgano del Gobierno de la CM encargado de elaborar y presentar el proyecto de Presupuestos Generales de la CM ante la Asamblea.",
+      "B": "Es la tesorería central de la CM; gestiona los fondos y los pagos del sector público autonómico bajo dependencia de la Consejería de Hacienda.",
+      "C": "Es un órgano del Ministerio de Hacienda que supervisa la gestión económico-financiera de la Comunidad de Madrid en nombre del Estado.",
+      "D": "La Cámara de Cuentas de la CM es el órgano de control externo e independiente de la actividad económica, financiera y contable del sector público de la Comunidad de Madrid; tiene relevancia estatutaria (art. 57 Estatuto de Autonomía) y presenta sus informes a la Asamblea de Madrid; fiscaliza la legalidad, eficiencia y economía de la gestión pública autonómica."
+    },
+    "correcta": "D",
+    "explicacion": "La Cámara de Cuentas de la Comunidad de Madrid fue creada con base en el art. 57 del Estatuto de Autonomía (LO 3/1983) y está regulada por la Ley 11/1999, de 29 de abril, de la Cámara de Cuentas de la Comunidad de Madrid. Es el órgano de control externo del sector público de la CM, dotado de autonomía funcional respecto del Gobierno autonómico. Sus funciones son: (1) Fiscalización externa de la actividad económico-financiera y contable de la Administración de la CM, sus organismos autónomos, empresas públicas y entes del sector público autonómico. (2) Elaboración y presentación de informes anuales y especiales a la Asamblea de Madrid. (3) Enjuiciamiento contable: aunque carece de funciones jurisdiccionales plenas, puede emitir informes sobre la responsabilidad contable que se trasladan al Tribunal de Cuentas estatal. Coordina sus actuaciones con el Tribunal de Cuentas mediante convenios de colaboración.",
+    "why": "A la elaboración del proyecto de Presupuestos corresponde a la Consejería de Hacienda, no a la Cámara de Cuentas. B la gestión de los fondos corresponde a la Tesorería de la CM, no a la Cámara de Cuentas. C la Cámara de Cuentas es un órgano propio de la CM, no del Ministerio de Hacienda estatal; es independiente del Gobierno de la CM y del Estado.",
+    "norma": "Ley 11/1999, de 29 de abril, de la Cámara de Cuentas de la CM; Estatuto de Autonomía",
+    "articulo": "57 Estatuto de Autonomía; Ley 11/1999"
+  },
+  {
+    "id": "B4T36-004",
+    "bloque": 4,
+    "tema": 36,
+    "test": 36,
+    "dificultad": "facil",
+    "pregunta": "¿Cuál es la diferencia entre los tributos propios y los tributos cedidos de la Comunidad de Madrid?",
+    "opciones": {
+      "A": "Los tributos cedidos y los propios son lo mismo; la distinción es meramente terminológica sin consecuencias jurídicas.",
+      "B": "Los tributos propios son los establecidos por la CM mediante su propia ley autonómica (impuestos, tasas y contribuciones especiales autonómicas); los tributos cedidos son tributos de titularidad estatal cuya gestión, recaudación y/o rendimiento (total o parcial) es transferido a la CM, aunque el Estado conserva la normativa básica.",
+      "C": "Los tributos cedidos son los que la CM transfiere a los municipios madrileños; los propios los recauda directamente la AEAT en nombre de la CM.",
+      "D": "No existen tributos propios de las CCAA en el ordenamiento español; todas las CCAA solo pueden gestionar tributos cedidos por el Estado."
+    },
+    "correcta": "B",
+    "explicacion": "La LOFCA (LO 8/1980) y el Estatuto de Autonomía de la CM (art. 51) distinguen claramente los dos grandes tipos de recursos tributarios autonómicos: (1) Tributos propios: la CM, en ejercicio de su autonomía financiera (arts. 133 y 157 CE), puede crear y regular sus propios impuestos, tasas y contribuciones especiales mediante ley de la Asamblea de Madrid, con el único límite de no solaparse con los tributos estatales o locales ni establecer obstáculos a la libre circulación de bienes y personas. La CM tiene plena normativa y gestión sobre ellos. (2) Tributos cedidos: son tributos creados y regulados en lo esencial por el Estado que este cede a la CM, bien en su rendimiento (cesión recaudatoria), bien en determinadas competencias normativas (escala autonómica del IRPF, tipos reducidos en IVA, bonificaciones en ISD, etc.). La CM gestiona los tributos cedidos plenos (ISD, ITPAJD) pero la normativa básica es estatal.",
+    "why": "A la distinción tiene consecuencias jurídicas relevantes: los tributos propios los norma libremente la CM; en los cedidos, la CM tiene normativa limitada y la titularidad es del Estado. C los tributos cedidos los recibe la CM del Estado, no los cede la CM a los municipios. D el art. 133.2 CE y la LOFCA reconocen la potestad tributaria propia de las CCAA; existen tributos propios autonómicos en toda España.",
+    "norma": "LO 8/1980 (LOFCA); Estatuto de Autonomía de la CM; Ley 22/2009",
+    "articulo": "4-6 LOFCA; 51 Estatuto CM"
+  },
+  {
+    "id": "B4T36-005",
+    "bloque": 4,
+    "tema": 36,
+    "test": 36,
+    "dificultad": "facil",
+    "pregunta": "¿Qué órgano de la Comunidad de Madrid tiene la competencia en materia de hacienda y elabora el proyecto de Presupuestos Generales?",
+    "opciones": {
+      "A": "La Asamblea de Madrid, que elabora y gestiona directamente los Presupuestos Generales de la CM.",
+      "B": "El Tribunal Superior de Justicia de Madrid, que supervisa la política financiera de la CM.",
+      "C": "La Consejería competente en materia de hacienda (actualmente Consejería de Hacienda y Función Pública), que elabora el proyecto de Presupuestos Generales de la CM, dirige la política financiera, gestiona los recursos autonómicos y coordina el endeudamiento.",
+      "D": "La Delegación Especial de la AEAT en Madrid, que ejerce las competencias hacendísticas en la CM en nombre del Estado."
+    },
+    "correcta": "C",
+    "explicacion": "El Gobierno de la CM, a través de la Consejería competente en materia de hacienda (en la actualidad, Consejería de Hacienda y Función Pública), es el órgano responsable de la dirección de la política financiera autonómica. Sus competencias principales son: (1) Elaborar el proyecto anual de Presupuestos Generales de la CM, que posteriormente se remite a la Asamblea de Madrid para su aprobación mediante ley. (2) Gestionar y recaudar los tributos propios de la CM y los cedidos cuya gestión corresponde a la CM (ISD, ITPAJD). (3) Coordinar la política de endeudamiento y autorizar las operaciones de crédito. (4) Supervisar la gestión financiera de los organismos del sector público autonómico. La Asamblea de Madrid ejerce la función de control presupuestario mediante la aprobación de los presupuestos como ley y la fiscalización a posteriori de su ejecución.",
+    "why": "A la Asamblea de Madrid aprueba los presupuestos mediante ley, pero no los elabora ni gestiona directamente; esa función corresponde al ejecutivo (Consejería de Hacienda). B el Tribunal Superior de Justicia de Madrid es el órgano jurisdiccional para el contencioso-administrativo, no la autoridad hacendística. D la AEAT gestiona los tributos estatales en Madrid, pero no las competencias de Hacienda de la propia CM.",
+    "norma": "Ley 9/1990 Reguladora de la Hacienda de la CM; Estatuto de Autonomía",
+    "articulo": "Título I Ley 9/1990"
+  },
+  {
+    "id": "B4T36-006",
+    "bloque": 4,
+    "tema": 36,
+    "test": 36,
+    "dificultad": "facil",
+    "pregunta": "¿Cuál es la función principal de la Intervención General de la Comunidad de Madrid?",
+    "opciones": {
+      "A": "La Intervención General de la CM es el órgano de control interno de la gestión económico-financiera del sector público autonómico; ejerce la fiscalización previa de legalidad de los actos con repercusión económica, el control financiero permanente y la auditoría pública, y actúa con plena autonomía funcional respecto de los órganos cuya gestión controla.",
+      "B": "La Intervención General gestiona directamente el cobro de los tributos propios de la CM y coordina su recaudación con la AEAT.",
+      "C": "La Intervención General y la Cámara de Cuentas son el mismo órgano con diferente denominación; ambos ejercen el control externo de la hacienda autonómica.",
+      "D": "La Intervención General de la CM es un órgano del Ministerio de Hacienda que controla el gasto de la CM en nombre del Gobierno central."
+    },
+    "correcta": "A",
+    "explicacion": "La Intervención General de la Comunidad de Madrid, regulada en la Ley 9/1990, es el órgano competente para el control interno de toda la actividad económico-financiera del sector público autonómico. Sus funciones son: (1) Fiscalización previa: examina, antes de ejecutarse, todos los actos de la CM que impliquen reconocimiento de obligaciones o gastos, comprobando que se ajustan a la normativa vigente y que existe crédito presupuestario suficiente; emite informe favorable (fiscalización previa de conformidad) o reparo si detecta irregularidades. (2) Control financiero permanente: verifica el funcionamiento de los sistemas de gestión económico-financiera de los organismos del sector público. (3) Auditoría pública: realiza auditorías contables y de cumplimiento sobre la actividad del sector público autonómico. La Intervención General es un órgano interno de la CM (a diferencia de la Cámara de Cuentas, que es un órgano externo).",
+    "why": "B la recaudación de tributos corresponde a la Agencia Tributaria de la CM o a la AEAT según el tributo; la Intervención General controla la legalidad del gasto, no gestiona la recaudación. C la Intervención General es el órgano de control interno; la Cámara de Cuentas es el de control externo; son órganos distintos con funciones complementarias. D la Intervención General es un órgano propio de la CM, no del Ministerio de Hacienda estatal.",
+    "norma": "Ley 9/1990, Reguladora de la Hacienda de la Comunidad de Madrid",
+    "articulo": "Título IV Ley 9/1990"
+  },
+  {
+    "id": "B4T36-007",
+    "bloque": 4,
+    "tema": 36,
+    "test": 36,
+    "dificultad": "media",
+    "pregunta": "¿Qué regula la Ley Orgánica 8/1980 (LOFCA) y cuál es su importancia para la financiación de la Comunidad de Madrid?",
+    "opciones": {
+      "A": "La LOFCA regula exclusivamente la deuda pública autonómica; no afecta al sistema de tributos cedidos.",
+      "B": "La LOFCA es la norma que regula los tributos locales; se aplica a los municipios y diputaciones de la CM.",
+      "C": "La LOFCA regula el sistema de tributación propia de las CCAA pero no establece ningún límite a su potestad tributaria.",
+      "D": "La Ley Orgánica 8/1980 de Financiación de las Comunidades Autónomas (LOFCA) es el marco orgánico que regula el ejercicio de la actividad financiera de las CCAA de régimen común; establece los tipos de recursos que pueden utilizar (tributos propios, cedidos, participaciones, endeudamiento), los límites a su poder tributario, los principios de coordinación financiera con el Estado y el sistema de transferencias; es una ley orgánica porque afecta a derechos fundamentales y al reparto de competencias."
+    },
+    "correcta": "D",
+    "explicacion": "La LOFCA (LO 8/1980, de 22 de septiembre, de Financiación de las Comunidades Autónomas), dictada al amparo del art. 157.3 CE, es la norma básica del sistema de financiación autonómica en España. Su contenido principal es: (1) Tipología de recursos de las CCAA: impuestos propios, tasas, contribuciones especiales, recargos sobre impuestos estatales, tributos cedidos, participaciones en ingresos del Estado (PIE), FCI, endeudamiento, precios públicos. (2) Límites al poder tributario autonómico: las CCAA no pueden establecer tributos que incidan sobre hechos imponibles gravados por el Estado, que supongan obstáculo a la circulación de bienes o personas, o que sean equivalentes a tributos locales ya existentes. (3) Marco de cesión: define qué tributos pueden cederse (concretados luego en leyes de cesión individuales para cada CCAA). (4) Organos de coordinación: Consejo de Política Fiscal y Financiera (CPFF). La LOFCA es el marco que luego desarrolla la Ley 22/2009 para el sistema vigente.",
+    "why": "A la LOFCA regula el conjunto del sistema de financiación, incluidos tributos cedidos, propios y transferencias; no se limita a la deuda. B la LOFCA regula la financiación de las CCAA; los tributos locales se regulan por la Ley de Haciendas Locales (RDL 2/2004). C la LOFCA sí establece límites a la potestad tributaria autonómica: las CCAA no pueden crear tributos que solapen con los estatales o que dificulten la libre circulación.",
+    "norma": "Ley Orgánica 8/1980, de 22 de septiembre, de Financiación de las Comunidades Autónomas",
+    "articulo": "1 y ss. LOFCA; 157.3 CE"
+  },
+  {
+    "id": "B4T36-008",
+    "bloque": 4,
+    "tema": 36,
+    "test": 36,
+    "dificultad": "media",
+    "pregunta": "¿Qué porcentaje de cesión se aplica a los principales tributos cedidos a la Comunidad de Madrid según el sistema de financiación autonómica vigente?",
+    "opciones": {
+      "A": "El IRPF se cede en un 25%, el IVA en un 25% y todos los impuestos especiales en un 100%.",
+      "B": "El IRPF se cede en un 50%, el IVA en un 50% y los impuestos especiales de fabricación en un 58%; los impuestos sobre sucesiones y donaciones (ISD), transmisiones patrimoniales y actos jurídicos documentados (ITPAJD) y sobre el patrimonio se ceden al 100% junto con las tasas sobre el juego.",
+      "C": "El IRPF se cede en un 100% y el IVA en un 75%; el ISD y el ITPAJD no son tributos cedibles.",
+      "D": "Todos los tributos son cedidos al 100% a la CM; el Estado no retiene ninguna parte de la recaudación obtenida en Madrid."
+    },
+    "correcta": "B",
+    "explicacion": "La Ley 22/2009, de 18 de diciembre, por la que se regula el sistema de financiación de las CCAA de régimen común, establece los porcentajes de cesión: (1) IRPF: 50% del rendimiento atribuido a la CM (calculado por la residencia habitual del contribuyente), con capacidad normativa para establecer la escala autonómica y determinadas deducciones. (2) IVA: 50% del rendimiento atribuido a la CM según criterios estadísticos de consumo. (3) Impuestos Especiales de fabricación (alcohol, tabaco, hidrocarburos, cerveza, etc.): 58% del rendimiento atribuido. (4) ISD: 100%, con plena capacidad normativa (la CM de Madrid tiene bonificaciones del 99% para herencias entre familiares directos). (5) ITPAJD: 100%, con capacidad normativa sobre algunos elementos. (6) Impuesto sobre el Patrimonio: 100% del rendimiento con capacidad normativa (la CM lo tenía bonificado al 100% hasta su reactivación en 2022). (7) Tasas sobre el juego: 100%. (8) IEDMT (matriculación): 100%.",
+    "why": "A los porcentajes del 25% no se corresponden con el sistema vigente; el IRPF se cede al 50% desde 2009. C el IRPF no se cede al 100%; el IVA tampoco se cede al 75%; y el ISD es uno de los tributos más relevantes cedidos al 100%. D no todos los tributos se ceden al 100%; el IRPF, IVA e IE se ceden a porcentajes parciales porque tienen relevancia redistributiva estatal.",
+    "norma": "Ley 22/2009, de 18 de diciembre, Sistema de Financiación de las CCAA",
+    "articulo": "23-43 Ley 22/2009"
+  },
+  {
+    "id": "B4T36-009",
+    "bloque": 4,
+    "tema": 36,
+    "test": 36,
+    "dificultad": "media",
+    "pregunta": "¿En qué consiste el principio de universalidad presupuestaria y cuál es su corolario en materia de afectación de ingresos?",
+    "opciones": {
+      "A": "El principio de universalidad exige que solo los ingresos tributarios se incluyan en el presupuesto; los ingresos patrimoniales se gestionan fuera del mismo.",
+      "B": "La universalidad presupuestaria significa que cada ingreso queda afectado específicamente al gasto que lo generó; no puede usarse para otra finalidad.",
+      "C": "El principio de universalidad presupuestaria exige que el presupuesto recoja la totalidad de los ingresos y gastos del sector público autonómico sin exclusiones; su corolario es el principio de no afectación, que implica que los ingresos no están vinculados a gastos específicos y se integran en un fondo común, salvo las excepciones expresamente previstas.",
+      "D": "La universalidad solo aplica a los gastos de personal; los gastos de inversión pueden gestionarse fuera del presupuesto mediante fondos especiales."
+    },
+    "correcta": "C",
+    "explicacion": "El principio de universalidad presupuestaria, recogido en la Ley 9/1990 y en la Ley General Presupuestaria (aplicable supletoriamente), tiene dos vertientes: (1) Presupuesto completo: el presupuesto debe comprender la totalidad de los ingresos y gastos del sector público autonómico; no pueden existir «fondos fuera del presupuesto» o «cajas paralelas». Todos los organismos y entidades del sector público se integran en el presupuesto. (2) No afectación (principio complementario): los ingresos públicos no están vinculados a gastos específicos; se integran en el fondo general de la Hacienda y financian el conjunto del gasto público indistintamente. Excepciones tasadas: las subvenciones finalistas de la UE o del Estado pueden estar afectadas a un destino concreto; las operaciones de crédito pueden quedar vinculadas a inversiones concretas. El principio de no afectación evita la rigidez presupuestaria y facilita la asignación eficiente de recursos.",
+    "why": "A el presupuesto debe incluir todos los ingresos (tributarios, patrimoniales, transferencias, etc.); nada queda fuera. B la no afectación es exactamente lo contrario de lo que describe esta opción; los ingresos no están vinculados a gastos específicos, sino que van a un fondo común. D la universalidad afecta a todos los créditos de gasto, incluidas las inversiones; no existen gastos que puedan gestionarse fuera del presupuesto sin amparo legal.",
+    "norma": "Ley 9/1990, Reguladora de la Hacienda de la CM",
+    "articulo": "Título II Ley 9/1990"
+  },
+  {
+    "id": "B4T36-010",
+    "bloque": 4,
+    "tema": 36,
+    "test": 36,
+    "dificultad": "media",
+    "pregunta": "¿Qué es el Fondo de Compensación Interterritorial (FCI) y cuál es su relación con la Comunidad de Madrid?",
+    "opciones": {
+      "A": "El FCI, previsto en el art. 158.2 CE, es un fondo estatal destinado a corregir los desequilibrios económicos interterritoriales; se destina a las CCAA cuyo PIB per cápita es inferior a la media nacional o que tienen especiales dificultades de desarrollo; la CM de Madrid, al tener uno de los mayores PIB per cápita del país, no es beneficiaria del FCI sino que, a través de la solidaridad fiscal, contribuye a su financiación.",
+      "B": "El FCI es un fondo que la CM de Madrid recibe del Estado en compensación por albergar la capital del país; es el principal recurso financiero de la CM.",
+      "C": "El FCI es un fondo municipal para compensar a los ayuntamientos madrileños con menor recaudación tributaria.",
+      "D": "El FCI ya no existe; fue suprimido por la reforma del sistema de financiación de 2009 y sustituido por el Fondo de Competitividad."
+    },
+    "correcta": "A",
+    "explicacion": "El Fondo de Compensación Interterritorial (FCI) tiene su base constitucional en el art. 158.2 CE: «Con el fin de corregir desequilibrios económicos interterritoriales y hacer efectivo el principio de solidaridad, se constituirá un Fondo de Compensación con destino a gastos de inversión.» Características: (1) Destinatarios: CCAA y ciudades autónomas con menor nivel de desarrollo económico (PIB per cápita inferior a la media nacional o especiales circunstancias de desarrollo). (2) Finalidad: financiar inversiones en infraestructuras, equipamientos y servicios públicos en los territorios menos desarrollados. (3) Composición: desde 2001, existe el FCI propiamente dicho (inversión real) y el Fondo Complementario (gastos corrientes asociados a las inversiones). (4) Madrid: la CM de Madrid, como CCAA de alta renta, no es beneficiaria del FCI. Es una muestra del principio de solidaridad interterritorial del art. 138 CE, por el que las CCAA más ricas contribuyen a la nivelación de los servicios en las más pobres.",
+    "why": "B el FCI no se destina a Madrid por ser la capital; se destina a las CCAA más pobres. Si algo, la capitalidad genera ciertos gastos específicos que son objeto de mecanismos distintos (convenios, compensación). C el FCI no es un fondo municipal; se transfiere a las CCAA (gobierno autonómico), no a los ayuntamientos. D el FCI sigue vigente; los Fondos de Convergencia (Competitividad y Cooperación) creados en 2009 son mecanismos adicionales de nivelación, no sustitutos del FCI.",
+    "norma": "Constitución Española; Ley 22/2001, reguladora de los Fondos de Compensación",
+    "articulo": "158.2 CE; Ley 22/2001"
+  },
+  {
+    "id": "B4T36-011",
+    "bloque": 4,
+    "tema": 36,
+    "test": 36,
+    "dificultad": "media",
+    "pregunta": "¿Qué requisitos establece la normativa para que la Comunidad de Madrid pueda contraer deuda pública?",
+    "opciones": {
+      "A": "La CM puede endeudarse libremente sin ningún límite, ya que la autonomía financiera autonómica impide restricciones al endeudamiento.",
+      "B": "La deuda pública de la CM solo puede contraerse para financiar gastos corrientes de personal; no puede utilizarse para inversiones.",
+      "C": "La CM puede emitir deuda pública sin intervención del Estado, pero únicamente en mercados nacionales.",
+      "D": "La contracción de deuda pública por la CM requiere autorización legal (ley de presupuestos o ley específica); está sujeta a los límites de déficit y deuda establecidos por la LO 2/2012 de Estabilidad Presupuestaria y Sostenibilidad Financiera; las operaciones en el exterior o que superen los límites fijados requieren autorización previa del Estado."
+    },
+    "correcta": "D",
+    "explicacion": "El régimen de endeudamiento de la CM se rige por varios instrumentos normativos: (1) Autorización legal: la Ley 9/1990 y las sucesivas leyes de presupuestos anuales de la CM fijan el límite máximo de endeudamiento autorizado y las condiciones para emitir deuda pública (bonos, obligaciones, letras del Tesoro autonómico). (2) Límites de déficit: la LO 2/2012 (Ley de Estabilidad Presupuestaria y Sostenibilidad Financiera), dictada en aplicación del art. 135 CE reformado en 2011, establece el objetivo de estabilidad presupuestaria que el Gobierno central fija para cada CCAA; las CCAA deben equilibrar o tener superávit en sus presupuestos salvo en recesión económica. (3) Límite de deuda: el nivel de deuda del conjunto de CCAA no puede superar el 13% del PIB nacional (del total 60%). (4) Operaciones en el exterior: las CCAA necesitan autorización del Estado para emitir deuda en mercados extranjeros (art. 14.3 LOFCA).",
+    "why": "A el endeudamiento autonómico tiene límites constitucionales (art. 135 CE) y legales (LO 2/2012) muy relevantes, especialmente tras la reforma constitucional de 2011. B la deuda pública se destina preferentemente a gastos de inversión, no a gastos corrientes; financiar personal con deuda sería financieramente insostenible. C las operaciones de endeudamiento en el exterior requieren autorización estatal; la autonomía financiera no es ilimitada.",
+    "norma": "Ley 9/1990 Hacienda CM; LO 2/2012 Estabilidad Presupuestaria; LOFCA",
+    "articulo": "14 LOFCA; 135 CE; LO 2/2012"
+  },
+  {
+    "id": "B4T36-012",
+    "bloque": 4,
+    "tema": 36,
+    "test": 36,
+    "dificultad": "media",
+    "pregunta": "¿Cuál es la función de la Tesorería de la Comunidad de Madrid y qué principio rige su gestión?",
+    "opciones": {
+      "A": "La Tesorería de la CM tiene funciones de control externo equivalentes a las de la Cámara de Cuentas; ambas comparten la supervisión del gasto público.",
+      "B": "La Tesorería de la CM es el órgano encargado de gestionar el conjunto de los recursos financieros de la Hacienda autonómica; recauda los ingresos, realiza los pagos y gestiona la liquidez; su gestión se rige por el principio de unidad de caja, que implica que todos los fondos se canalizan a través de un único fondo centralizado.",
+      "C": "La Tesorería de la CM gestiona exclusivamente las operaciones de deuda pública; los pagos ordinarios de nóminas y proveedores se realizan directamente por cada Consejería.",
+      "D": "La Tesorería de la CM es un organismo autónomo independiente del Gobierno de la CM; sus directivos son elegidos por la Asamblea de Madrid."
+    },
+    "correcta": "B",
+    "explicacion": "La Tesorería de la Comunidad de Madrid, dependiente de la Consejería de Hacienda, es el órgano encargado de la gestión y administración del conjunto de recursos financieros de la Hacienda de la CM. Sus funciones son: (1) Recaudación: centraliza el cobro de todos los ingresos de derecho público de la CM. (2) Pagos: ordena y ejecuta los pagos de las obligaciones reconocidas por la CM. (3) Gestión de la liquidez: administra las disponibilidades de tesorería, invirtiendo los excedentes temporales de caja en activos financieros a corto plazo para obtener rendimiento. (4) Control de flujos: gestiona el Estado de Flujos de Efectivo de la CM. El principio rector es la unidad de caja: todos los fondos de la Hacienda de la CM, con independencia de su origen o destino, se gestionan de forma centralizada a través de la Tesorería, evitando la dispersión de fondos en múltiples cuentas no coordinadas. Este principio garantiza la eficiencia en la gestión de liquidez.",
+    "why": "A la Tesorería no ejerce funciones de control; el control interno corresponde a la Intervención General y el externo a la Cámara de Cuentas. C la Tesorería gestiona todos los flujos financieros, no solo la deuda pública; los pagos de nóminas y proveedores se canalizan a través de ella. D la Tesorería no es un organismo autónomo independiente; depende jerárquicamente de la Consejería de Hacienda.",
+    "norma": "Ley 9/1990, Reguladora de la Hacienda de la CM",
+    "articulo": "Título III Ley 9/1990"
+  },
+  {
+    "id": "B4T36-013",
+    "bloque": 4,
+    "tema": 36,
+    "test": 36,
+    "dificultad": "media",
+    "pregunta": "¿Qué estableció la reforma del art. 135 CE de 2011 y la LO 2/2012 en materia de estabilidad presupuestaria para las CCAA?",
+    "opciones": {
+      "A": "La reforma de 2011 del art. 135 CE solo afecta al Estado central; las CCAA conservan plena autonomía para aprobar presupuestos deficitarios.",
+      "B": "La LO 2/2012 exige superávit presupuestario a todas las CCAA en todo momento; no permite ningún déficit incluso en situaciones de recesión.",
+      "C": "La reforma constitucional del art. 135 CE (septiembre 2011) constitucionalizó el principio de estabilidad presupuestaria para todas las AAPP; la LO 2/2012 lo desarrolla estableciendo que el déficit estructural de las CCAA debe ser nulo, admitiendo déficits cíclicos limitados en recesión grave y fijando que el nivel de deuda del conjunto de CCAA no puede superar el 13% del PIB; el incumplimiento puede acarrear la intervención del Estado y la aplicación de medidas coercitivas.",
+      "D": "La LO 2/2012 solo afecta a las CCAA con mayor endeudamiento; la CM de Madrid, por su buena gestión financiera, queda exenta de sus obligaciones."
+    },
+    "correcta": "C",
+    "explicacion": "La reforma del art. 135 CE, aprobada el 27 de septiembre de 2011 con el consenso del PP y el PSOE, introdujo el principio de estabilidad presupuestaria en la Constitución, obligando al desarrollo por ley orgánica. La LO 2/2012, de 27 de abril, de Estabilidad Presupuestaria y Sostenibilidad Financiera, establece: (1) Principio de estabilidad presupuestaria: todas las AAPP (Estado, CCAA y entidades locales) deben mantener una posición de equilibrio o superávit estructural. (2) Déficit admisible: en situaciones de recesión grave o de emergencia excepcional, se permite un margen de déficit cíclico que se compensa con superávit en fases expansivas. (3) Límite de deuda: el nivel de deuda del conjunto de CCAA no puede superar el 13% del PIB nacional (referido al 60% de deuda total de las AAPP exigido por el Pacto de Estabilidad europeo). (4) Mecanismos de corrección: si una CCAA incumple, el Estado puede suspender transferencias o, en última instancia, intervenir (art. 26 LO 2/2012).",
+    "why": "A la reforma del art. 135 CE y la LO 2/2012 se aplican expresamente a «todas las Administraciones Públicas», incluidas las CCAA. B la LO 2/2012 admite déficits cíclicos en recesión grave (siempre que se corrija posteriormente); no exige superávit permanente. D la LO 2/2012 se aplica a todas las CCAA sin excepción; ninguna queda eximida de las obligaciones de estabilidad presupuestaria.",
+    "norma": "Constitución Española; LO 2/2012, de Estabilidad Presupuestaria y Sostenibilidad Financiera",
+    "articulo": "135 CE; 11-13 LO 2/2012"
+  },
+  {
+    "id": "B4T36-014",
+    "bloque": 4,
+    "tema": 36,
+    "test": 36,
+    "dificultad": "media",
+    "pregunta": "¿Cuál es el objeto y el ámbito de aplicación de la Ley 9/1990, Reguladora de la Hacienda de la Comunidad de Madrid?",
+    "opciones": {
+      "A": "La Ley 9/1990 regula el régimen económico-financiero de la Comunidad de Madrid, incluyendo los recursos, el sistema presupuestario, la tesorería, el endeudamiento, el control interno y la contabilidad pública; se aplica a la Administración de la CM y sus organismos autónomos, con aplicación específica y parcial a las empresas y entidades del sector público autonómico.",
+      "B": "La Ley 9/1990 solo regula los tributos propios de la CM; para el resto de materias financieras aplica supletoriamente la Ley General Presupuestaria del Estado.",
+      "C": "La Ley 9/1990 es la ley de Presupuestos Generales de la CM del año 1990; solo tuvo vigencia ese año y fue sustituida por leyes presupuestarias anuales posteriores.",
+      "D": "La Ley 9/1990 regula únicamente el control externo de la Hacienda de la CM; las demás materias financieras se rigen por la normativa estatal directamente aplicable."
+    },
+    "correcta": "A",
+    "explicacion": "La Ley 9/1990, de 8 de noviembre, Reguladora de la Hacienda de la Comunidad de Madrid, es la norma básica del régimen económico-financiero de la CM, equivalente a la Ley 47/2003 General Presupuestaria en el ámbito estatal. Su contenido se estructura en: (1) Hacienda de la CM: concepto, recursos y principios generales. (2) Régimen presupuestario: principios, estructura del presupuesto, elaboración, aprobación, ejecución y liquidación. (3) Tesorería y endeudamiento: gestión de la caja, operaciones de crédito, límites. (4) Control interno: Intervención General, fiscalización previa, control financiero. (5) Contabilidad pública: plan de cuentas, rendición de cuentas, Cuenta General. Ámbito de aplicación: se aplica íntegramente a la Administración General de la CM y sus organismos autónomos; para las empresas públicas (sociedades mercantiles autonómicas) solo se aplican determinadas disposiciones, ya que estas se rigen principalmente por el Derecho mercantil.",
+    "why": "B la Ley 9/1990 regula todo el régimen financiero de la CM, no solo los tributos propios; estos tienen sus propias leyes de creación. C la Ley 9/1990 no es la ley de presupuestos de 1990; es una ley ordinaria permanente y en vigor. D la Ley 9/1990 regula tanto el control interno como el conjunto del sistema financiero de la CM.",
+    "norma": "Ley 9/1990, de 8 de noviembre, Reguladora de la Hacienda de la Comunidad de Madrid",
+    "articulo": "1-3 Ley 9/1990"
+  },
+  {
+    "id": "B4T36-015",
+    "bloque": 4,
+    "tema": 36,
+    "test": 36,
+    "dificultad": "media",
+    "pregunta": "¿Qué ocurre si la Asamblea de Madrid no aprueba el proyecto de Presupuestos Generales de la CM antes del inicio del ejercicio presupuestario?",
+    "opciones": {
+      "A": "Si no se aprueban los presupuestos antes del 1 de enero, la CM queda sin capacidad de gasto y debe suspender todos los servicios públicos hasta su aprobación.",
+      "B": "Si no se aprueban los presupuestos, el Gobierno de la CM puede aprobarlos por decreto sin necesidad de intervención de la Asamblea.",
+      "C": "La falta de aprobación de los presupuestos genera una situación inconstitucional que obliga al Gobierno de la CM a convocar elecciones automáticamente.",
+      "D": "Si los Presupuestos Generales de la CM no son aprobados por la Asamblea de Madrid antes del inicio del ejercicio, quedan automáticamente prorrogados los del ejercicio anterior, en su totalidad, hasta la aprobación de los nuevos; durante la prórroga, los créditos prorrogados no pueden destinarse a nuevas inversiones o gasto que no estuvieran previstos en el presupuesto prorrogado."
+    },
+    "correcta": "D",
+    "explicacion": "La prórroga presupuestaria está prevista tanto en el art. 134.4 CE (para los Presupuestos Generales del Estado) como en las correspondientes disposiciones de la Ley 9/1990 de Hacienda de la CM. Cuando los presupuestos no se aprueban antes del 1 de enero: (1) Prórroga automática: el presupuesto del ejercicio anterior queda prorrogado con carácter automático hasta que se aprueben los nuevos presupuestos. (2) Alcance de la prórroga: se prorrogan los créditos iniciales del ejercicio anterior; no se prorrogan los créditos extraordinarios ni las modificaciones aprobadas durante la ejecución. (3) Limitaciones: los créditos prorrogados tienen el mismo destino y condiciones que en el ejercicio anterior; no pueden dedicarse a nuevas finalidades ni a incrementos de plantilla o nuevos programas no previstos. La prórroga permite la continuidad del funcionamiento de los servicios públicos sin interrupción durante el período de negociación presupuestaria.",
+    "why": "A la prórroga presupuestaria garantiza precisamente la continuidad de los servicios públicos; no suspende la actividad de la CM. B el Gobierno no puede aprobar los presupuestos por decreto; requieren la aprobación de la Asamblea como ley formal. C la no aprobación de los presupuestos no conlleva la convocatoria automática de elecciones; simplemente opera la prórroga del presupuesto anterior.",
+    "norma": "Ley 9/1990 Hacienda CM; art. 134.4 CE",
+    "articulo": "134.4 CE; Título II Ley 9/1990"
+  },
+  {
+    "id": "B4T36-016",
+    "bloque": 4,
+    "tema": 36,
+    "test": 36,
+    "dificultad": "media",
+    "pregunta": "¿Cuáles son las tres dimensiones del principio de especialidad presupuestaria?",
+    "opciones": {
+      "A": "El principio de especialidad solo tiene una dimensión: la cuantitativa, que limita el gasto a los importes aprobados.",
+      "B": "El principio de especialidad presupuestaria tiene tres dimensiones: cualitativa (los créditos solo pueden destinarse al fin para el que fueron aprobados), cuantitativa (los créditos son el límite máximo de gasto que no puede superarse sin modificación presupuestaria) y temporal (los créditos son válidos solo durante el ejercicio presupuestario para el que se aprobaron).",
+      "C": "El principio de especialidad regula exclusivamente los gastos de personal; para gastos de inversión aplica el principio de oportunidad.",
+      "D": "La especialidad presupuestaria es sinónimo de la anualidad; ambos principios son dos nombres distintos del mismo concepto."
+    },
+    "correcta": "B",
+    "explicacion": "El principio de especialidad presupuestaria es uno de los más importantes en la gestión financiera pública, ya que garantiza el respeto a la voluntad del órgano legislativo que aprobó el presupuesto. Sus tres dimensiones son: (1) Especialidad cualitativa: los créditos presupuestarios tienen un destino específico (programa, proyecto, concepto) que no puede alterarse sin la correspondiente modificación presupuestaria; no puede utilizarse el crédito de gastos de personal para pagar obras, ni viceversa. (2) Especialidad cuantitativa: el importe aprobado en el presupuesto es el límite máximo de gasto; no puede contraerse ningún compromiso ni reconocerse ninguna obligación por importe superior al crédito disponible; los excesos de gasto solo son posibles mediante créditos extraordinarios o suplementos de crédito aprobados por la Asamblea. (3) Especialidad temporal: los créditos solo son aplicables al ejercicio presupuestario para el que se aprobaron; los no utilizados se pierden al 31 de diciembre (principio de anualidad); solo se pueden incorporar al ejercicio siguiente mediante el mecanismo de incorporación de remanentes, en los casos tasados.",
+    "why": "A la especialidad tiene tres dimensiones (cualitativa, cuantitativa y temporal); reducirla solo a la cuantitativa deja fuera aspectos fundamentales de la disciplina presupuestaria. C el principio de especialidad aplica a todos los tipos de crédito, no solo a personal; los créditos de inversión también están sujetos a la especialidad cualitativa y cuantitativa. D especialidad y anualidad son principios distintos: la especialidad se refiere al destino y cuantía del crédito; la anualidad, a su vigencia temporal.",
+    "norma": "Ley 9/1990 Hacienda CM; Ley 47/2003 General Presupuestaria",
+    "articulo": "Título II Ley 9/1990"
+  },
+  {
+    "id": "B4T36-017",
+    "bloque": 4,
+    "tema": 36,
+    "test": 36,
+    "dificultad": "dificil",
+    "pregunta": "¿Qué es el Fondo de Suficiencia Global dentro del sistema de financiación autonómica y cuál es su significado para la CM de Madrid?",
+    "opciones": {
+      "A": "El Fondo de Suficiencia Global financia exclusivamente los servicios de educación y sanidad de las CCAA; la CM de Madrid recibe cantidades muy elevadas por este fondo dado el tamaño de su población.",
+      "B": "El Fondo de Suficiencia Global solo existe cuando el Estado tiene superávit presupuestario; en años deficitarios no se transfiere a las CCAA.",
+      "C": "El Fondo de Suficiencia Global (Ley 22/2009) es la transferencia del Estado a cada CCAA (o viceversa) que cubre la diferencia entre sus necesidades de financiación y los recursos generados por el sistema de tributos cedidos y los fondos de garantía; en el caso de Madrid, al ser una CCAA de alta capacidad fiscal, el Fondo de Suficiencia suele ser negativo (Madrid aporta al sistema más de lo que recibe), lo que refleja el principio de solidaridad interterritorial.",
+      "D": "El Fondo de Suficiencia Global es equivalente al FCI; ambos fondos se calculan y distribuyen de la misma forma entre todas las CCAA."
+    },
+    "correcta": "C",
+    "explicacion": "El Fondo de Suficiencia Global, regulado en los arts. 9-10 de la Ley 22/2009, es el mecanismo de cierre del sistema de financiación autonómica que garantiza que ninguna CCAA recibe menos del nivel de financiación que le corresponde por sus necesidades de gasto. Funciona del siguiente modo: (1) Para cada CCAA se calcula un nivel de necesidad de financiación (basado en la población, la dispersión, la insularidad y otros factores). (2) Se suman los recursos que obtiene la CCAA por el sistema de tributos cedidos y el Fondo de Garantía de Servicios Públicos Fundamentales. (3) Si los recursos obtenidos son inferiores a las necesidades, el Estado aporta la diferencia mediante una transferencia positiva. (4) Si los recursos son superiores (como ocurre con Madrid), la CCAA es contribuyente neta del sistema y el Fondo de Suficiencia es negativo (la CCAA transfiere recursos al Estado). La CM de Madrid, como CCAA rica y receptora de un alto flujo de recursos tributarios, suele tener un Fondo de Suficiencia negativo, ilustrando el funcionamiento del principio de solidaridad interterritorial del art. 138 CE.",
+    "why": "A el Fondo de Suficiencia no está vinculado a servicios específicos; es un mecanismo de nivelación general, y Madrid no es receptora neta del mismo. B el Fondo de Suficiencia se paga o recibe con independencia de la situación presupuestaria del Estado; está garantizado por la ley del sistema de financiación. D el Fondo de Suficiencia y el FCI son instrumentos diferentes: el FCI financia inversiones en CCAA con menor desarrollo; el Fondo de Suficiencia es un mecanismo de nivelación que puede ser positivo o negativo.",
+    "norma": "Ley 22/2009, de 18 de diciembre, Sistema de Financiación de CCAA",
+    "articulo": "9-10 Ley 22/2009"
+  },
+  {
+    "id": "B4T36-018",
+    "bloque": 4,
+    "tema": 36,
+    "test": 36,
+    "dificultad": "dificil",
+    "pregunta": "¿Qué son los ingresos de derecho privado de la Comunidad de Madrid y qué los diferencia de los ingresos de derecho público?",
+    "opciones": {
+      "A": "Los ingresos de derecho privado de la CM son los que obtiene actuando como un particular en el tráfico jurídico: rendimientos de su patrimonio (arrendamientos de inmuebles, dividendos de empresas participadas, intereses de depósitos), los frutos de bienes patrimoniales, precios de compraventas de bienes muebles e inmuebles y otras contraprestaciones derivadas de actos de gestión privada; se diferencian de los ingresos de derecho público en que no gozan del régimen de ejecutividad administrativa ni de la presunción de legalidad propios de la autotutela declarativa.",
+      "B": "Los ingresos de derecho privado son los que corresponden a los particulares; la CM de Madrid no tiene ingresos de esta naturaleza.",
+      "C": "Los ingresos de derecho privado son sinónimos de los tributos propios; ambas categorías se gestionan con las mismas normas.",
+      "D": "Los ingresos de derecho privado de la CM son recaudados por la AEAT y transferidos posteriormente a la CM; no pueden gestionarse directamente por la Consejería de Hacienda."
+    },
+    "correcta": "A",
+    "explicacion": "Los ingresos de derecho privado de la CM son aquellos que derivan de relaciones jurídicas en las que la CM actúa en pie de igualdad con los demás sujetos, sin ejercer potestades públicas. Ejemplos: (1) Rendimientos del patrimonio: arrendamientos de inmuebles de la CM, dividendos percibidos por participaciones en empresas mercantiles donde la CM es accionista, intereses de depósitos bancarios de la Tesorería. (2) Compraventas: precio recibido por la enajenación de bienes patrimoniales (inmuebles, acciones de empresas públicas privatizadas). (3) Donaciones y legados: aunque infrecuentes. A diferencia de los ingresos de derecho público (tributos, multas, sanciones), los ingresos de derecho privado: (a) se rigen por normas de derecho civil, mercantil o laboral, no por el Derecho Público; (b) no se pueden recaudar por vía de apremio administrativo; (c) en caso de impago, la CM debe acudir a la jurisdicción civil ordinaria.",
+    "why": "B la CM sí tiene ingresos de derecho privado: los rendimientos de su patrimonio y las operaciones de gestión privada son relevantes en el conjunto de los recursos autonómicos. C los tributos propios son ingresos de derecho público (coercitivos); los ingresos de derecho privado son una categoría distinta, sin carácter coercitivo. D los ingresos de derecho privado los gestiona directamente la CM (a través de la Consejería de Hacienda o la Tesorería); no interviene la AEAT, que gestiona tributos estatales.",
+    "norma": "Ley 9/1990 Reguladora de la Hacienda de la CM; Estatuto de Autonomía",
+    "articulo": "2 Ley 9/1990; 51 Estatuto CM"
+  },
+  {
+    "id": "B4T36-019",
+    "bloque": 4,
+    "tema": 36,
+    "test": 36,
+    "dificultad": "dificil",
+    "pregunta": "¿En qué se diferencia la Cámara de Cuentas de la CM del Tribunal de Cuentas del Estado y cómo se articula la relación entre ambos?",
+    "opciones": {
+      "A": "No existe ninguna diferencia; la Cámara de Cuentas de la CM es una delegación periférica del Tribunal de Cuentas.",
+      "B": "El Tribunal de Cuentas fiscaliza las CCAA y la Cámara de Cuentas solo fiscaliza los municipios madrileños.",
+      "C": "La Cámara de Cuentas y el Tribunal de Cuentas tienen exactamente las mismas competencias; actúan de forma paralela e independiente sin mecanismo de coordinación.",
+      "D": "La Cámara de Cuentas de la CM es el órgano de control externo autonómico, que carece de funciones jurisdiccionales plenas; el Tribunal de Cuentas es el supremo órgano fiscalizador del Estado con funciones tanto fiscalizadoras como jurisdiccionales (puede declarar la responsabilidad contable de los gestores de fondos públicos); el Tribunal de Cuentas tiene jurisdicción última sobre el sector público de la CM, pero en la práctica delega gran parte de la fiscalización mediante convenios de colaboración con la Cámara de Cuentas."
+    },
+    "correcta": "D",
+    "explicacion": "La articulación entre la Cámara de Cuentas de la CM y el Tribunal de Cuentas del Estado es compleja y se rige por la Ley Orgánica 2/1982 del Tribunal de Cuentas, la Ley 11/1999 de la Cámara de Cuentas y los convenios de colaboración suscritos entre ambos órganos. Diferencias clave: (1) Fundamento: el Tribunal de Cuentas tiene base constitucional (art. 136 CE); la Cámara de Cuentas tiene base estatutaria (art. 57 Estatuto de la CM). (2) Funciones: el Tribunal de Cuentas ejerce tanto fiscalización externa como jurisdicción contable (puede enjuiciar la responsabilidad contable de los gestores de fondos públicos y dictar sentencias). La Cámara de Cuentas solo ejerce fiscalización; no tiene funciones jurisdiccionales propias: si detecta indicios de responsabilidad contable, los traslada al Tribunal de Cuentas. (3) Coordinación: el Tribunal de Cuentas tiene competencia última sobre las CCAA y puede fiscalizar el sector público autonómico; en la práctica, y mediante convenios, encomienda la fiscalización ordinaria a la Cámara de Cuentas, evitando duplicidades.",
+    "why": "A la Cámara de Cuentas no es delegación del Tribunal de Cuentas; es un órgano propio e independiente de la CM, aunque coordinado con el Tribunal. B el Tribunal de Cuentas fiscaliza todo el sector público (Estado, CCAA, entidades locales); la Cámara de Cuentas fiscaliza el sector público de la CM (no solo los municipios). C la Cámara de Cuentas no tiene funciones jurisdiccionales; esa diferencia con el Tribunal de Cuentas es fundamental y exige coordinación para los casos de responsabilidad contable.",
+    "norma": "Ley 11/1999 Cámara de Cuentas CM; LO 2/1982 Tribunal de Cuentas",
+    "articulo": "136 CE; 57 Estatuto CM; Ley 11/1999"
+  },
+  {
+    "id": "B4T36-020",
+    "bloque": 4,
+    "tema": 36,
+    "test": 36,
+    "dificultad": "dificil",
+    "pregunta": "¿Cuáles son los cuatro fondos principales del sistema de financiación autonómica establecido por la Ley 22/2009 y qué función cumple cada uno?",
+    "opciones": {
+      "A": "El sistema solo tiene un fondo: el Fondo de Compensación Interterritorial; los demás mecanismos no tienen consideración de fondos.",
+      "B": "Los cuatro fondos del sistema de financiación de la Ley 22/2009 son: el Fondo de Garantía de Servicios Públicos Fundamentales (que garantiza que ninguna CCAA reciba menos del 75% de la financiación media por unidad de necesidad para sanidad, educación y servicios sociales), el Fondo de Suficiencia Global (que cubre la diferencia entre recursos del sistema y necesidades de financiación), el Fondo de Competitividad (que reduce la brecha entre PIB per cápita y financiación per cápita) y el Fondo de Cooperación (destinado a CCAA con PIB por habitante inferior al 90% de la media o con poca densidad de población).",
+      "C": "Los fondos del sistema son el FCI, el Fondo de Pensiones, el Fondo de Empleo y el Fondo de Infraestructuras; no existe ningún Fondo de Garantía de Servicios Fundamentales.",
+      "D": "La Ley 22/2009 solo regula el Fondo de Suficiencia; los demás fondos se regulan en leyes presupuestarias anuales sin carácter permanente."
+    },
+    "correcta": "B",
+    "explicacion": "La Ley 22/2009 articuló el sistema de financiación en torno a varios fondos complementarios: (1) Fondo de Garantía de Servicios Públicos Fundamentales (art. 9): es el fondo más voluminoso del sistema (el 75% del conjunto de recursos tributarios de las CCAA se suma a este fondo y se redistribuye en función de la población ajustada, para garantizar niveles mínimos iguales de servicios en sanidad, educación y servicios sociales). Busca la nivelación horizontal. (2) Fondo de Suficiencia Global (art. 9-10): cubre la diferencia entre las necesidades de financiación de cada CCAA y lo que le corresponde del Fondo de Garantía más sus recursos tributarios; es el mecanismo de cierre del sistema y puede ser positivo o negativo. (3) Fondo de Competitividad (art. 23): dotación adicional para CCAA con financiación per cápita inferior a la media o con PIB per cápita superior a la media pero baja financiación; busca reducir las diferencias en recursos entre CCAA sin perjudicar al resto. (4) Fondo de Cooperación (art. 24): para CCAA con PIB por habitante inferior al 90% de la media, que crecen por debajo de la media o tienen baja densidad de población; busca promover la convergencia.",
+    "why": "A el sistema tiene varios fondos con funciones distintas; el FCI es un mecanismo adicional fuera del sistema de financiación ordinaria. C el Fondo de Pensiones, de Empleo e Infraestructuras no son los fondos del sistema de financiación autonómica regulado en la Ley 22/2009. D la Ley 22/2009 regula expresamente los cuatro fondos mencionados con carácter permanente; no son de carácter presupuestario anual.",
+    "norma": "Ley 22/2009, de 18 de diciembre, Sistema de Financiación de CCAA",
+    "articulo": "9-10 y 22-24 Ley 22/2009"
+  }
+]
