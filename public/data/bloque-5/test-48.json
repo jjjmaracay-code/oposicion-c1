@@ -1,0 +1,382 @@
+[
+  {
+    "id": "B5T48-001",
+    "bloque": 5,
+    "tema": 48,
+    "test": 48,
+    "dificultad": "facil",
+    "pregunta": "¿Cuáles son los elementos principales de la interfaz de Microsoft Outlook?",
+    "opciones": {
+      "A": "Outlook solo muestra el correo electrónico; no tiene calendario, contactos ni tareas integrados en la misma aplicación.",
+      "B": "La interfaz de Outlook se organiza en un único panel sin panel de carpetas; todos los elementos se muestran en una sola lista sin distinción por tipo.",
+      "C": "La interfaz de Outlook se compone de: Panel de carpetas (izquierda, con Bandeja de entrada, Enviados, Eliminados…), Lista de elementos (centro, con los mensajes o citas del elemento seleccionado), Panel de lectura (derecha, previsualiza el contenido sin abrir la ventana completa), Cinta de opciones (accesos a acciones) y Barra de navegación inferior o lateral (íconos para cambiar entre Correo, Calendario, Personas y Tareas).",
+      "D": "El panel de lectura de Outlook solo está disponible en la versión de escritorio; la versión web de Outlook (OWA) no dispone de ningún panel de previsualización."
+    },
+    "correcta": "C",
+    "explicacion": "Microsoft Outlook organiza su interfaz en componentes bien diferenciados: (1) Panel de carpetas: árbol de carpetas de la cuenta (Bandeja de entrada, Bandeja de salida, Enviados, Eliminados, Borradores, Correo no deseado, Archivo…); puede contraerse para ganar espacio. (2) Lista de elementos: muestra los mensajes, citas o contactos de la carpeta o vista seleccionada; se puede ordenar por fecha, remitente, asunto o tamaño. (3) Panel de lectura: previsualiza el contenido del elemento seleccionado sin abrir una ventana nueva; se puede situar a la derecha, en la parte inferior o desactivar (Vista > Panel de lectura). (4) Cinta de opciones: pestañas contextuales según el elemento seleccionado. (5) Barra de navegación: íconos (o texto) para cambiar entre los módulos Correo (Ctrl+1), Calendario (Ctrl+2), Personas (Ctrl+3), Tareas (Ctrl+4). (6) Outlook Web Access (OWA): la versión web de Outlook también dispone de panel de lectura y la misma estructura de módulos.",
+    "why": "A Outlook integra en la misma aplicación Correo, Calendario, Personas (contactos) y Tareas; no es solo un cliente de correo. B el panel de carpetas y la lista de elementos son paneles independientes y diferenciados en la interfaz. D OWA (Outlook Web Access / Outlook en la web) también tiene panel de lectura y estructura similar a la versión de escritorio.",
+    "norma": "Microsoft Outlook 365/2021 — Interfaz",
+    "articulo": "Interfaz principal de Microsoft Outlook: paneles y barra de navegación"
+  },
+  {
+    "id": "B5T48-002",
+    "bloque": 5,
+    "tema": 48,
+    "test": 48,
+    "dificultad": "facil",
+    "pregunta": "¿Cómo se compone y envía un correo electrónico en Microsoft Outlook?",
+    "opciones": {
+      "A": "Para crear un nuevo mensaje en Outlook se usa Ctrl+N o el botón Nuevo correo electrónico; los campos disponibles son: Para (destinatarios directos), CC (con copia, los demás destinatarios ven quién recibe copia), CCO/BCC (con copia oculta, los demás destinatarios no saben que esa persona recibe el mensaje); la prioridad se indica con el botón de Importancia Alta (!); Ctrl+Enter envía el mensaje.",
+      "B": "El campo CCO (con copia oculta) en Outlook muestra a todos los destinatarios quién está incluido como copia oculta.",
+      "C": "En Outlook no se pueden adjuntar archivos directamente al correo en el momento de la redacción; los archivos deben enviarse en un correo separado.",
+      "D": "Ctrl+Enter en Outlook abre el corrector ortográfico del mensaje; el atajo de teclado para enviar el correo es Alt+S."
+    },
+    "correcta": "A",
+    "explicacion": "Componer y enviar correo en Outlook: (1) Nuevo mensaje: Ctrl+N estando en el módulo Correo, o botón Nuevo correo electrónico en la cinta. (2) Campos de destinatarios: Para: destinatarios principales; CC (Con copia): destinatarios secundarios que también deben conocer el contenido; todos los del campo Para y CC pueden ver quiénes están en estos campos. CCO (Con copia oculta) / BCC: el destinatario recibe el mensaje pero ningún otro destinatario ve su dirección; útil para listas masivas o cuando la privacidad de los destinatarios importa; el campo CCO no se muestra por defecto y se activa con Opciones > Mostrar CCO. (3) Adjuntar archivos: botón Adjuntar archivo en la cinta o arrastrando y soltando desde el Explorador. (4) Prioridad: botón Importancia alta (!) o Importancia baja en la pestaña Mensaje; el destinatario ve el icono de prioridad en la lista de mensajes. (5) Enviar: Ctrl+Enter o el botón Enviar; el mensaje va a la Bandeja de salida y, si hay conexión, se envía inmediatamente y se guarda una copia en Elementos enviados.",
+    "why": "B el CCO (copia oculta) es precisamente lo contrario: los demás destinatarios NO ven la dirección de quien está en CCO; es la función que lo define. C adjuntar archivos es una función estándar de la ventana de composición; se hace desde el botón Adjuntar archivo o arrastrando desde el Explorador. D Ctrl+Enter envía el mensaje; el corrector ortográfico se accede con F7.",
+    "norma": "Microsoft Outlook 365/2021 — Correo electrónico",
+    "articulo": "Composición y envío de correos electrónicos en Microsoft Outlook"
+  },
+  {
+    "id": "B5T48-003",
+    "bloque": 5,
+    "tema": 48,
+    "test": 48,
+    "dificultad": "facil",
+    "pregunta": "¿Cuáles son las carpetas principales del buzón de Outlook y qué contiene cada una?",
+    "opciones": {
+      "A": "En Outlook, los mensajes eliminados se borran definitivamente de forma inmediata al pulsar Supr; no existe ninguna carpeta de recuperación.",
+      "B": "La Bandeja de salida de Outlook almacena los correos recibidos que aún no se han leído.",
+      "C": "La carpeta Elementos enviados de Outlook solo guarda los últimos 10 correos enviados; los más antiguos se eliminan automáticamente para liberar espacio.",
+      "D": "Las carpetas principales de Outlook son: Bandeja de entrada (mensajes recibidos), Bandeja de salida (mensajes pendientes de enviar aún no entregados), Elementos enviados (copia de mensajes enviados correctamente), Elementos eliminados (mensajes borrados, recuperables hasta que se vacíe la carpeta), Correo no deseado (spam detectado automáticamente), Borradores (mensajes guardados sin enviar) y Archivo (mensajes archivados manualmente o por política automática)."
+    },
+    "correcta": "D",
+    "explicacion": "Estructura de carpetas del buzón de Outlook: (1) Bandeja de entrada: carpeta principal donde llegan los mensajes recibidos; puede tener subcarpetas creadas por el usuario o por reglas. (2) Bandeja de salida: mensajes pendientes de envío (p. ej., si no hay conexión al enviar); se vacía automáticamente al establecerse la conexión y completarse el envío. (3) Elementos enviados: copia de todos los mensajes enviados exitosamente; se mantienen indefinidamente hasta que el usuario los elimine (configurable). (4) Elementos eliminados: papelera del correo; los mensajes borrados con Supr se mueven aquí (no se eliminan definitivamente); se puede vaciar manualmente o configurar para vaciarse al cerrar Outlook; en Exchange Online, los mensajes eliminados se pueden recuperar durante 14-30 días adicionales desde Recuperar elementos eliminados. (5) Correo no deseado (Junk Mail): mensajes clasificados como spam por el filtro de Outlook; se puede ajustar la sensibilidad del filtro en Inicio > Correo no deseado > Opciones. (6) Borradores: mensajes en redacción guardados automáticamente (cada 3 minutos) o manualmente. (7) Archivo: carpeta de almacenamiento de mensajes antiguos.",
+    "why": "A al pulsar Supr los mensajes se mueven a Elementos eliminados; la eliminación definitiva requiere vaciar esa carpeta o pulsar Supr de nuevo desde ella. B la Bandeja de salida contiene mensajes pendientes de enviar, no mensajes recibidos sin leer. C Elementos enviados conserva todos los correos enviados indefinidamente; no existe ningún límite de 10 mensajes.",
+    "norma": "Microsoft Outlook 365/2021 — Carpetas del buzón",
+    "articulo": "Carpetas principales del buzón en Microsoft Outlook"
+  },
+  {
+    "id": "B5T48-004",
+    "bloque": 5,
+    "tema": 48,
+    "test": 48,
+    "dificultad": "facil",
+    "pregunta": "¿Cómo se gestionan los contactos (Personas) en Microsoft Outlook?",
+    "opciones": {
+      "A": "En Outlook, los contactos solo pueden crearse manualmente; no se pueden importar desde archivos CSV ni desde otros servicios.",
+      "B": "La sección Personas de Outlook permite crear y gestionar contactos con campos: nombre, correo, teléfono, empresa, dirección y notas; se pueden crear grupos de contactos (listas de distribución) para enviar mensajes a varios destinatarios a la vez; los contactos se pueden importar o exportar en formato .vcf (vCard) o CSV; con cuentas Exchange/Microsoft 365, los contactos se sincronizan entre dispositivos.",
+      "C": "Los grupos de contactos de Outlook son permanentes y no pueden modificarse ni eliminarse una vez creados.",
+      "D": "La sección de contactos (Personas) es una aplicación completamente separada de Outlook que debe instalarse aparte; no está integrada en la interfaz principal de Outlook."
+    },
+    "correcta": "B",
+    "explicacion": "La sección Personas (contactos) de Outlook: (1) Crear contacto: Ctrl+N en el módulo Personas o Archivo > Nuevo elemento > Contacto; campos disponibles: Nombre completo, Empresa, Cargo, Correo electrónico (múltiples), Teléfono (trabajo, móvil, casa), Dirección, Página web, Notas, Foto. (2) Grupos de contactos: agrupan varias direcciones de correo bajo un nombre; al enviar a ese nombre, el mensaje llega a todos los miembros; se crean con Nuevo grupo de contactos; se pueden añadir y eliminar miembros en cualquier momento; son distintos de los Grupos de Microsoft 365. (3) Importar/exportar: Archivo > Abrir y exportar > Importar o exportar; formatos: CSV (comma-separated values), .vcf (vCard estándar). (4) Sincronización: con cuentas Exchange y Microsoft 365, los contactos se almacenan en el servidor y se sincronizan con OWA, la app móvil de Outlook y Teams; con IMAP los contactos son locales. (5) Directorio global (GAL): en entornos Exchange, hay una lista de direcciones global de toda la organización accesible desde el campo Para > Libreta de direcciones.",
+    "why": "A Outlook permite importar contactos desde CSV y .vcf (vCard); también puede sincronizarse con Google Contacts mediante cuentas IMAP. C los grupos de contactos se pueden editar (añadir/eliminar miembros) y eliminar en cualquier momento. D Personas es un módulo integrado en Outlook; se accede desde la barra de navegación con Ctrl+3.",
+    "norma": "Microsoft Outlook 365/2021 — Personas (contactos)",
+    "articulo": "Gestión de contactos y grupos de contactos en Microsoft Outlook"
+  },
+  {
+    "id": "B5T48-005",
+    "bloque": 5,
+    "tema": 48,
+    "test": 48,
+    "dificultad": "facil",
+    "pregunta": "¿Cómo funciona el Calendario de Microsoft Outlook y cuáles son sus principales características?",
+    "opciones": {
+      "A": "El calendario de Outlook solo puede mostrar la vista mensual; no existen otras vistas como la diaria o semanal.",
+      "B": "En el calendario de Outlook no se pueden crear eventos recurrentes; cada cita debe añadirse manualmente e individualmente.",
+      "C": "El calendario de Outlook permite crear citas (solo para el usuario) y reuniones (con invitaciones a otros); las vistas disponibles son: Día, Semana laboral, Semana completa, Mes y Programación; los eventos pueden ser recurrentes (diaria, semanal, mensual, anual o personalizado); se pueden añadir recordatorios; las convocatorias de reunión envían invitaciones con opciones Aceptar, Tentativamente y Rechazar al destinatario.",
+      "D": "Las convocatorias de reunión de Outlook no pueden incluir archivos adjuntos ni descripción; solo es posible indicar la hora y el lugar de la reunión."
+    },
+    "correcta": "C",
+    "explicacion": "El módulo Calendario de Outlook (Ctrl+2): (1) Citas vs reuniones: Cita (Nueva cita, Ctrl+N): evento personal sin destinatarios. Reunión (Nueva reunión o Ctrl+Mayús+Q): convocatoria enviada a otros usuarios; incluye la disponibilidad del calendario de los invitados (en entornos Exchange). (2) Vistas del calendario: Día, Semana laboral (lun-vie), Semana completa (7 días), Mes, Programación (vista de línea de tiempo útil para comparar calendarios de varios usuarios). (3) Eventos recurrentes: en la ventana de cita/reunión, botón Periodicidad; patrones: diaria, semanal (los días que se elija), mensual (el día N del mes, o el primer lunes…), anual; con o sin fecha de fin. (4) Recordatorios: campo Recordatorio con anticipación configurable (0 minutos, 5 minutos, 1 hora, 1 día…). (5) Convocatorias de reunión: se envían por correo; el destinatario recibe opciones Aceptar / Tentativamente / Rechazar; la respuesta actualiza el estado en el calendario del organizador; se pueden adjuntar archivos y añadir descripción. (6) Calendarios múltiples: se pueden añadir calendarios de otros usuarios (con permiso), calendarios de Internet (ICS) y calendarios de SharePoint.",
+    "why": "A el calendario de Outlook tiene cinco vistas: Día, Semana laboral, Semana, Mes y Programación. B los eventos recurrentes son una función estándar del calendario de Outlook. D las convocatorias de reunión pueden incluir descripción, archivos adjuntos, sala de reuniones y vínculo de Teams.",
+    "norma": "Microsoft Outlook 365/2021 — Calendario",
+    "articulo": "Calendario en Microsoft Outlook: citas, reuniones y vistas"
+  },
+  {
+    "id": "B5T48-006",
+    "bloque": 5,
+    "tema": 48,
+    "test": 48,
+    "dificultad": "facil",
+    "pregunta": "¿Qué son las tareas de Outlook y qué funcionalidades ofrecen?",
+    "opciones": {
+      "A": "Las tareas de Outlook permiten crear elementos de lista de trabajo con: asunto, fecha de vencimiento, prioridad (Alta/Normal/Baja), estado (No iniciada/En curso/Completada/Esperando a otros/Diferida), porcentaje completado, recordatorio y notas; se pueden asignar a otros usuarios (el asignador recibe actualizaciones de estado); se accede con Ctrl+4; se integran con el Panel de tareas pendientes del correo.",
+      "B": "Las tareas de Outlook solo tienen dos estados posibles: Pendiente y Completada; no admiten niveles de prioridad ni porcentaje de completado.",
+      "C": "En Outlook, las tareas no pueden asignarse a otros usuarios; son exclusivamente personales y no permiten ningún tipo de colaboración.",
+      "D": "Las tareas de Outlook no tienen ninguna integración con el calendario ni con el correo; son una lista independiente sin fechas de vencimiento ni recordatorios."
+    },
+    "correcta": "A",
+    "explicacion": "El módulo Tareas de Outlook (Ctrl+4 o icono en la barra de navegación): (1) Crear tarea: Ctrl+N en el módulo Tareas o Ctrl+Mayús+K desde cualquier módulo; campos: Asunto, Fecha de inicio, Fecha de vencimiento, Estado, Prioridad, Porcentaje completado, Recordatorio, Notas. (2) Estados de la tarea: No iniciada, En curso, Completada (aparece tachada), Esperando a otros (pendiente de respuesta de otro), Diferida. (3) Prioridad: Alta, Normal, Baja. (4) Asignación de tareas: botón Asignar tarea; la tarea se envía por correo al asignado; cuando este la acepta y actualiza el estado, el asignador recibe notificaciones de progreso. (5) Integración: Panel de tareas pendientes (To-Do Bar): muestra las próximas tareas y citas en el panel lateral del Correo. Marcado de mensajes: al marcar un mensaje con la bandera de seguimiento, se crea automáticamente una tarea asociada. Sincronización con Microsoft To Do: las tareas de Outlook (incluidas las marcadas con bandera) se sincronizan con la app Microsoft To Do.",
+    "why": "B las tareas de Outlook tienen cinco estados, campo de porcentaje completado y tres niveles de prioridad. C las tareas se pueden asignar a otros usuarios con la función 'Asignar tarea' y recibir actualizaciones de progreso. D las tareas tienen fecha de vencimiento, recordatorio y se integran con el Panel de tareas pendientes del correo y con el calendario.",
+    "norma": "Microsoft Outlook 365/2021 — Tareas",
+    "articulo": "Tareas en Microsoft Outlook: creación, estados y asignación"
+  },
+  {
+    "id": "B5T48-007",
+    "bloque": 5,
+    "tema": 48,
+    "test": 48,
+    "dificultad": "media",
+    "pregunta": "¿Cómo se crean y funcionan las reglas de correo en Outlook?",
+    "opciones": {
+      "A": "Las reglas de Outlook solo pueden aplicarse cuando Outlook está abierto y conectado; si el programa está cerrado, los mensajes nuevos no se procesan por ninguna regla.",
+      "B": "En Outlook, solo se pueden crear reglas basadas en el remitente del mensaje; no es posible crear reglas por asunto, palabras en el cuerpo ni tipo de destinatario.",
+      "C": "Las reglas creadas en Outlook solo se aplican a los mensajes nuevos que lleguen después de crear la regla; nunca pueden aplicarse retroactivamente a mensajes existentes.",
+      "D": "Las reglas de Outlook (Inicio > Reglas > Administrar reglas y alertas) automatizan la organización del correo; se crean en el Asistente de reglas con dos partes: condiciones (de [persona], asunto contiene [texto], con archivos adjuntos, enviado solo a mí…) y acciones (mover a carpeta, reenviar a, marcar como leído, asignar categoría, eliminar, reproducir sonido…); se pueden ejecutar retroactivamente sobre mensajes existentes con 'Ejecutar reglas ahora'; en cuentas Exchange, las reglas del servidor se ejecutan aunque Outlook esté cerrado."
+    },
+    "correcta": "D",
+    "explicacion": "Las reglas de Outlook son automatizaciones que procesan los mensajes según condiciones definidas: (1) Acceder: Inicio > Reglas > Administrar reglas y alertas, o clic derecho sobre un mensaje > Reglas > Crear regla. (2) Asistente de reglas: dos pasos principales: Condiciones (cuándo aplicar la regla): de [persona específica], asunto contiene [texto], cuerpo del mensaje contiene [texto], con datos adjuntos, enviado solo a mí, marcado con importancia [alta/baja], tamaño [mayor/menor que] X KB, enviado a [lista de distribución], etc. Acciones (qué hacer): mover a la carpeta [X], mover a la carpeta de correo no deseado, reenviar a [persona], responder usando [plantilla], marcar como leído, asignar categoría [X], eliminar, reproducir sonido, mostrar alerta. Excepciones (cuándo NO aplicar): excepto si el asunto contiene [texto], excepto si se envía a través de una cuenta específica, etc. (3) Tipos de reglas: Servidor (Exchange): se ejecutan en el servidor sin necesidad de que Outlook esté abierto. Cliente (IMAP/POP3 o ciertas acciones): solo se ejecutan cuando Outlook está abierto. (4) Ejecutar reglas ahora: se pueden aplicar retroactivamente a mensajes existentes seleccionando las carpetas. (5) Exportar/importar reglas: se pueden exportar a un archivo .rwz para hacer copia de seguridad o transferir entre equipos.",
+    "why": "A en cuentas Exchange, las reglas del servidor se ejecutan aunque Outlook esté cerrado; en IMAP/POP3 sí requieren Outlook abierto, pero Exchange no. B las condiciones de las reglas incluyen remitente, asunto, cuerpo del mensaje, destinatario, tamaño, importancia, archivos adjuntos y muchos más criterios. C la opción 'Ejecutar reglas ahora' permite aplicar retroactivamente las reglas a mensajes existentes en cualquier carpeta.",
+    "norma": "Microsoft Outlook 365/2021 — Reglas y alertas",
+    "articulo": "Reglas de correo en Microsoft Outlook: condiciones, acciones y tipos"
+  },
+  {
+    "id": "B5T48-008",
+    "bloque": 5,
+    "tema": 48,
+    "test": 48,
+    "dificultad": "media",
+    "pregunta": "¿Qué son las categorías de color en Outlook y cómo se utilizan?",
+    "opciones": {
+      "A": "Las categorías de Outlook solo pueden asignarse a correos electrónicos; no se pueden aplicar a citas del calendario, contactos ni tareas.",
+      "B": "Las categorías de Outlook son etiquetas de color que se pueden asignar a cualquier elemento: correos, citas, contactos y tareas; se configuran en Inicio > Categorizar > Todas las categorías (se puede personalizar el nombre y el color de cada una); permiten filtrar y agrupar elementos del mismo tipo; se asignan con clic derecho > Categorizar o con el atajo de teclado asignado; la búsqueda de Outlook permite filtrar por categoría.",
+      "C": "Las categorías de Outlook tienen un número máximo de 6 y no pueden renombrarse ni personalizarse.",
+      "D": "Para asignar una categoría en Outlook es obligatorio abrir las propiedades completas del mensaje; no existe ningún acceso rápido mediante clic derecho ni atajos de teclado."
+    },
+    "correcta": "B",
+    "explicacion": "Las categorías de color de Outlook son un sistema de etiquetado transversal: (1) Tipos de elementos: se pueden categorizar correos, citas del calendario, contactos y tareas con las mismas categorías. (2) Configurar categorías: Inicio > Categorizar > Todas las categorías; en el cuadro de diálogo se pueden crear nuevas categorías, asignarles un color (de una paleta de colores predefinidos) y un atajo de teclado (p. ej., Ctrl+F2 para la categoría 1). (3) Asignar: clic derecho sobre el elemento > Categorizar > seleccionar la categoría; o desde la cinta Inicio > Categorizar; o con el atajo de teclado configurado. (4) Uso para organización: filtrar la lista de mensajes por categoría (Vista > Categorizar por categoría o con la búsqueda: Categoría:'Trabajo'); agrupar por categoría en la vista en lista; crear reglas que asignen categorías automáticamente según criterios del mensaje. (5) Límites: no hay límite fijo en el número de categorías que se pueden crear; los colores disponibles son los del menú de Outlook pero se pueden usar el mismo color para varias categorías si se desea.",
+    "why": "A las categorías se pueden asignar a cualquier tipo de elemento de Outlook: correos, citas, contactos y tareas. C no existe límite de 6 categorías; se pueden crear tantas como se necesite y se puede personalizar nombre y color. D las categorías se asignan con clic derecho > Categorizar, desde la cinta o con atajos de teclado; no es necesario abrir las propiedades completas.",
+    "norma": "Microsoft Outlook 365/2021 — Categorías",
+    "articulo": "Categorías de color en Microsoft Outlook: etiquetado y organización"
+  },
+  {
+    "id": "B5T48-009",
+    "bloque": 5,
+    "tema": 48,
+    "test": 48,
+    "dificultad": "media",
+    "pregunta": "¿Cómo se configuran y utilizan las firmas de correo electrónico en Outlook?",
+    "opciones": {
+      "A": "En Outlook, solo se puede configurar una firma por cuenta de correo; no es posible tener diferentes firmas para mensajes nuevos y para respuestas o reenvíos.",
+      "B": "Las firmas de Outlook se crean exclusivamente en texto plano; no admiten imágenes, logotipos, tablas HTML ni hipervínculos.",
+      "C": "Las firmas configuradas en Outlook de escritorio se sincronizan automáticamente con todos los dispositivos y con Outlook Web; no es necesario configurarlas por separado en cada cliente.",
+      "D": "Las firmas de Outlook se configuran en Archivo > Opciones > Correo > Firmas; se pueden crear múltiples firmas y asignar firmas distintas para mensajes nuevos y para respuestas o reenvíos en cada cuenta; admiten formato enriquecido (fuentes, imágenes, logotipos, hipervínculos, tablas HTML); pueden insertarse manualmente desde Insertar > Firma o aplicarse automáticamente."
+    },
+    "correcta": "D",
+    "explicacion": "Las firmas de correo en Outlook: (1) Configuración: Archivo > Opciones > Correo > Firmas, o desde la ventana de nuevo mensaje: Insertar > Firma > Firmas. (2) Múltiples firmas: se pueden crear tantas firmas como se necesite (p. ej., una formal con logo de la empresa, una abreviada para respuestas internas, una personal). (3) Asignación automática: para cada cuenta de correo se puede especificar qué firma se aplica automáticamente a los mensajes nuevos y cuál a las respuestas/reenvíos (puede ser diferente o ninguna). (4) Editor de firmas: admite formato enriquecido: fuentes y colores de texto, imágenes (logos, fotos), hipervínculos, tablas HTML para disposición en columnas; el editor es similar a Word con barra de herramientas de formato. (5) Inserción manual: desde la ventana de composición, Insertar > Firma > seleccionar la firma deseada; útil para usar una firma diferente ocasionalmente. (6) Sincronización: las firmas de Outlook de escritorio NO se sincronizan automáticamente con OWA (Outlook Web); hay que configurarlas por separado en OWA (Configuración > Correo > Redactar y responder); tampoco se sincronizan automáticamente entre equipos distintos.",
+    "why": "A se pueden crear múltiples firmas y asignar diferentes firmas para mensajes nuevos y para respuestas/reenvíos en cada cuenta. B el editor de firmas admite formato enriquecido: imágenes, logos, hipervínculos y tablas HTML. C las firmas de Outlook de escritorio NO se sincronizan automáticamente con OWA ni con otros equipos; deben configurarse por separado.",
+    "norma": "Microsoft Outlook 365/2021 — Opciones > Correo > Firmas",
+    "articulo": "Firmas de correo electrónico en Microsoft Outlook: configuración y uso"
+  },
+  {
+    "id": "B5T48-010",
+    "bloque": 5,
+    "tema": 48,
+    "test": 48,
+    "dificultad": "media",
+    "pregunta": "¿Cómo funciona la búsqueda de mensajes en Microsoft Outlook?",
+    "opciones": {
+      "A": "La búsqueda de Outlook se realiza con Ctrl+E; permite buscar en la carpeta actual, en todas las carpetas o en todos los buzones; los refinadores filtran por De, Asunto, Tiene datos adjuntos, Fecha, Tamaño y Categoría; Outlook indexa el contenido del buzón mediante el Índice de búsqueda de Windows para búsquedas rápidas; la Búsqueda avanzada (Ctrl+Mayús+F en versiones anteriores) permite combinar múltiples criterios.",
+      "B": "La búsqueda de Outlook no puede buscar en el contenido de los archivos adjuntos ni en el cuerpo de los mensajes; solo busca en el campo Asunto y en el remitente.",
+      "C": "La búsqueda de Outlook solo puede realizarse en la carpeta actualmente seleccionada; no existe la opción de buscar en todas las carpetas simultáneamente.",
+      "D": "Outlook no indexa el contenido del buzón; cada búsqueda realiza un análisis completo en tiempo real de todos los mensajes, lo que hace que las búsquedas sean siempre muy lentas."
+    },
+    "correcta": "A",
+    "explicacion": "La búsqueda de Outlook es una herramienta potente para encontrar mensajes, citas y contactos: (1) Activar: barra de búsqueda en la parte superior de la lista de elementos (clic) o Ctrl+E; aparece la pestaña contextual Búsqueda en la cinta. (2) Ámbito de búsqueda: Carpeta actual (predeterminado), Todas las carpetas de la cuenta, Todos los buzones (si hay varias cuentas). (3) Refinadores rápidos en la cinta: De, Asunto, Con datos adjuntos, Este mes / Esta semana, Por categoría, Marcado; se pueden combinar varios refinadores. (4) Búsqueda por palabras clave: busca en el asunto y en el cuerpo del mensaje (y en el contenido de archivos adjuntos indexados). (5) Sintaxis de búsqueda avanzada: operadores como de:'nombre', asunto:'texto', tiene:datos adjuntos, recibido:semana pasada, categoría:'Trabajo'. (6) Indexación: Outlook utiliza el Índice de búsqueda de Windows (SearchIndexer.exe) para almacenar un índice del contenido del buzón; las búsquedas en el índice son instantáneas; si el índice no está actualizado puede haber resultados incompletos (Panel de control > Opciones de indexación para forzar reindexación).",
+    "why": "B la búsqueda de Outlook busca en el asunto, el remitente, el cuerpo del mensaje y el contenido de archivos adjuntos indexados. C se puede ampliar el ámbito de búsqueda a todas las carpetas o a todos los buzones desde los controles de la cinta. D Outlook usa el Índice de búsqueda de Windows para búsquedas rápidas; el análisis completo en tiempo real solo ocurre si el índice no está disponible.",
+    "norma": "Microsoft Outlook 365/2021 — Búsqueda",
+    "articulo": "Búsqueda avanzada de mensajes en Microsoft Outlook"
+  },
+  {
+    "id": "B5T48-011",
+    "bloque": 5,
+    "tema": 48,
+    "test": 48,
+    "dificultad": "media",
+    "pregunta": "¿Qué tipos de cuenta de correo admite Outlook y cuáles son sus diferencias principales?",
+    "opciones": {
+      "A": "Outlook solo puede configurarse con cuentas de Microsoft (Outlook.com, Hotmail); no admite cuentas de correo IMAP, POP3 ni Gmail u otros proveedores.",
+      "B": "La diferencia entre IMAP y POP3 es que IMAP almacena los mensajes solo en el dispositivo local y POP3 los mantiene sincronizados en el servidor.",
+      "C": "Las cuentas Exchange en Outlook requieren que el usuario configure manualmente el servidor, el puerto y el protocolo de seguridad, igual que con IMAP/POP3.",
+      "D": "Outlook admite: Exchange/Microsoft 365 (configuración automática con solo el correo y la contraseña; los datos se almacenan en el servidor y se sincronizan en todos los dispositivos; admite calendario, contactos y tareas compartidos en el servidor), IMAP (mensajes se mantienen en el servidor y se sincronizan entre dispositivos; puerto 993 con SSL; recomendado para uso multidispositivo) y POP3 (descarga mensajes al dispositivo local y puede eliminarlos del servidor; puerto 995 con SSL; no sincroniza entre dispositivos)."
+    },
+    "correcta": "D",
+    "explicacion": "Tipos de cuenta de correo en Outlook: (1) Exchange / Microsoft 365: protocolo MAPI/EWS (Exchange Web Services); autodescubrimiento automático con solo la dirección de correo y la contraseña de organización; almacena correo, calendario, contactos y tareas en el servidor de Exchange; acceso desde cualquier dispositivo (Outlook, OWA, app móvil) con los mismos datos; funcionalidades adicionales: sala de reuniones, libre/ocupado, listas de distribución globales, delegación de buzón, directivas de retención. (2) IMAP (Internet Message Access Protocol): los mensajes residen en el servidor; Outlook descarga copias para mostrarlas localmente; las acciones (leer, mover, eliminar) se sincronizan con el servidor; varios dispositivos ven el mismo estado del buzón; ideal para Gmail, Yahoo, y cuentas de empresa que no usan Exchange. (3) POP3 (Post Office Protocol 3): descarga los mensajes del servidor al dispositivo local; según la configuración, puede dejar o eliminar los mensajes del servidor tras descargarlos; no sincroniza entre dispositivos; es un protocolo más antiguo y limitado; no recomendado para uso multidispositivo. (4) Añadir cuenta: Archivo > Agregar cuenta.",
+    "why": "A Outlook admite cualquier cuenta de correo con IMAP, POP3, Exchange y también Gmail, Yahoo y otros mediante IMAP. B en IMAP los mensajes se mantienen en el servidor (no solo local); en POP3 se descargan al dispositivo local y pueden eliminarse del servidor. C Exchange usa autodescubrimiento automático; el usuario solo necesita introducir correo y contraseña.",
+    "norma": "Microsoft Outlook 365/2021 — Configuración de cuentas",
+    "articulo": "Tipos de cuenta en Microsoft Outlook: Exchange, IMAP y POP3"
+  },
+  {
+    "id": "B5T48-012",
+    "bloque": 5,
+    "tema": 48,
+    "test": 48,
+    "dificultad": "media",
+    "pregunta": "¿Cómo se configuran las respuestas automáticas (fuera de la oficina) en Outlook?",
+    "opciones": {
+      "A": "Las respuestas automáticas de Outlook se envían a absolutamente todos los remitentes, incluidos los spammers y listas de correo masivo, sin ningún mecanismo de filtrado.",
+      "B": "Las respuestas automáticas (fuera de la oficina) se configuran en Archivo > Respuestas automáticas (cuentas Exchange/Microsoft 365); permiten: activar con intervalo de fechas de inicio y fin, configurar mensajes distintos para personas de dentro y fuera de la organización, y Outlook (o el servidor Exchange) envía solo una respuesta por remitente durante todo el período activo.",
+      "C": "Las respuestas automáticas de Outlook solo están disponibles para cuentas POP3; las cuentas IMAP y Exchange no las soportan.",
+      "D": "En Outlook, la respuesta automática se envía cada vez que llega un mensaje del mismo remitente durante el período activo; no existe ningún mecanismo para enviar una sola respuesta por remitente."
+    },
+    "correcta": "B",
+    "explicacion": "Respuestas automáticas (fuera de la oficina) en Outlook: (1) Acceso: Archivo > Respuestas automáticas (Fuera de la oficina); disponible directamente para cuentas Exchange/Microsoft 365. (2) Opciones: Activar solo durante este intervalo de tiempo: se establecen fecha y hora de inicio y fin; el servidor activa y desactiva la respuesta automáticamente. Texto diferente para dentro y fuera de la organización: el mensaje para compañeros puede ser más detallado (con teléfono, persona de contacto sustituta) que el mensaje para contactos externos. (3) Comportamiento: el servidor Exchange envía solo UNA respuesta por remitente durante todo el período activo (no responde a cada mensaje del mismo remitente). Por defecto no responde a listas de distribución ni a mensajes en los que el usuario está en CCO (para evitar revelar que está fuera). (4) Cuentas IMAP/POP3: la opción Respuestas automáticas no está disponible directamente en estas cuentas (no hay servidor que las gestione); se puede simular con una regla de Outlook que responda con una plantilla, pero requiere que Outlook esté abierto.",
+    "why": "A el servidor Exchange no envía respuestas automáticas a remitentes de listas de correo masivo (según la configuración por defecto) y solo envía una respuesta por remitente. C las respuestas automáticas con administración en el servidor están disponibles para cuentas Exchange/Microsoft 365; en IMAP/POP3 se simulan con reglas locales. D se envía solo una respuesta por remitente durante todo el período activo.",
+    "norma": "Microsoft Outlook 365/2021 — Archivo > Respuestas automáticas",
+    "articulo": "Respuestas automáticas (fuera de la oficina) en Microsoft Outlook"
+  },
+  {
+    "id": "B5T48-013",
+    "bloque": 5,
+    "tema": 48,
+    "test": 48,
+    "dificultad": "media",
+    "pregunta": "¿Cómo se gestionan los archivos adjuntos en Microsoft Outlook?",
+    "opciones": {
+      "A": "Outlook no permite previsualizar archivos adjuntos sin descargarlos primero; siempre es necesario abrir el archivo con la aplicación correspondiente.",
+      "B": "En Outlook, el tamaño máximo de los archivos adjuntos es de 5 MB para todos los servidores y configuraciones; no se pueden enviar archivos de mayor tamaño.",
+      "C": "Outlook permite adjuntar archivos desde el botón Adjuntar archivo (muestra los recientes de OneDrive), arrastrando y soltando, o copiando y pegando; en Microsoft 365 se pueden adjuntar como vínculos de OneDrive/SharePoint (en lugar de copias) para facilitar la colaboración; los adjuntos se pueden previsualizar en el panel de lectura sin descargar; el límite de tamaño varía según el servidor (Exchange Online por defecto: 35 MB).",
+      "D": "Los archivos adjuntos de Outlook deben guardarse siempre en el disco duro antes de poder visualizarlos; no es posible abrirlos directamente desde el panel de lectura."
+    },
+    "correcta": "C",
+    "explicacion": "Gestión de adjuntos en Outlook: (1) Adjuntar archivos: Insertar > Adjuntar archivo: muestra una lista de archivos usados recientemente (locales y de OneDrive) para adjuntar con un clic. Arrastrar y soltar desde el Explorador de archivos. Copiar y pegar un archivo copiado. (2) Adjuntar como vínculo (Microsoft 365): cuando el archivo está en OneDrive o SharePoint, Outlook ofrece la opción de adjuntarlo como vínculo (compartir desde la nube) en lugar de como copia adjunta; ventajas: el destinatario accede siempre a la versión más actualizada, no hay problemas de tamaño de adjunto, se puede controlar quién tiene acceso. (3) Vista previa de adjuntos: en el panel de lectura, al hacer clic sobre el adjunto, se puede previsualizar directamente (Word, Excel, PowerPoint, PDF, imágenes) sin abrirlo en la aplicación; botón Vista previa del adjunto. (4) Límite de tamaño: varía según el servidor: Exchange Online (Microsoft 365): 35 MB por defecto; Exchange local: configurable por el administrador; Gmail (vía IMAP): 25 MB. (5) Guardar adjuntos: clic derecho > Guardar como, o desde el banner del adjunto en el panel de lectura.",
+    "why": "A Outlook puede previsualizar adjuntos directamente en el panel de lectura haciendo clic sobre ellos. B el límite varía según el servidor; Exchange Online tiene 35 MB por defecto, no 5 MB. D los archivos adjuntos se pueden previsualizar y abrir directamente desde el panel de lectura sin guardarlos primero.",
+    "norma": "Microsoft Outlook 365/2021 — Archivos adjuntos",
+    "articulo": "Gestión de archivos adjuntos en Microsoft Outlook"
+  },
+  {
+    "id": "B5T48-014",
+    "bloque": 5,
+    "tema": 48,
+    "test": 48,
+    "dificultad": "media",
+    "pregunta": "¿Qué es la delegación de buzón en Outlook y cómo se configura?",
+    "opciones": {
+      "A": "La delegación en Outlook (Archivo > Configuración de la cuenta > Delegar acceso) permite a un usuario actuar en nombre de otro; los niveles de permiso son: Revisor (solo lectura), Autor (leer y crear) y Editor (leer, crear y modificar); el delegado puede enviar mensajes 'en nombre de' el delegante; es una función disponible en cuentas Exchange/Microsoft 365.",
+      "B": "La delegación de buzón en Outlook otorga al delegado acceso completo e irrestricto al buzón; no existen niveles de permiso diferenciados.",
+      "C": "La delegación de buzón en Outlook está disponible para cualquier tipo de cuenta incluyendo IMAP y POP3; no es exclusiva de cuentas Exchange.",
+      "D": "Al delegar acceso al buzón en Outlook, el delegante pierde temporalmente el acceso a su propio buzón mientras la delegación esté activa."
+    },
+    "correcta": "A",
+    "explicacion": "La delegación de buzón en Outlook (disponible en cuentas Exchange/Microsoft 365): (1) Configuración: Archivo > Configuración de la cuenta > Delegar acceso (o propiedades del buzón en el Centro de administración de Exchange). (2) Niveles de permiso en los diferentes componentes del buzón: Revisor: puede leer los elementos (solo lectura). Autor: puede leer y crear elementos, pero no modificar ni eliminar los creados por el delegante. Editor: puede leer, crear, modificar y eliminar cualquier elemento. (3) El delegante puede dar permisos distintos para el Calendario, Tareas, Bandeja de entrada, Contactos y Notas. (4) Envío de mensajes: el delegado puede enviar mensajes de dos formas: 'En nombre de [delegante]': el remitente aparece como 'Delegado en nombre de Delegante'. 'De parte de [delegante]': se necesita permiso de Acceso total al buzón (Full Access) configurado por el administrador de Exchange; el remitente aparece directamente como el delegante. (5) Acceso al buzón: el delegado agrega el buzón del delegante en Outlook (Archivo > Agregar cuenta > Manual > tipo Exchange > buzón adicional) y puede ver las carpetas con los permisos otorgados; el delegante no pierde su propio acceso.",
+    "why": "B existen niveles de permiso diferenciados: Revisor (solo lectura), Autor (leer y crear) y Editor (leer, crear y modificar). C la delegación de buzón es una función de Exchange/Microsoft 365; no está disponible para cuentas IMAP/POP3 que no tienen servidor Exchange. D el delegante mantiene acceso completo a su propio buzón; la delegación no lo revoca.",
+    "norma": "Microsoft Outlook 365/2021 — Delegación de buzón (Exchange)",
+    "articulo": "Delegación de buzón en Microsoft Outlook: permisos y configuración"
+  },
+  {
+    "id": "B5T48-015",
+    "bloque": 5,
+    "tema": 48,
+    "test": 48,
+    "dificultad": "media",
+    "pregunta": "¿Cómo se crean y usan los grupos de contactos (listas de distribución) en Outlook?",
+    "opciones": {
+      "A": "Los grupos de contactos de Outlook son listas estáticas que no se pueden actualizar una vez creados; para añadir un nuevo miembro hay que crear un grupo nuevo desde cero.",
+      "B": "En Outlook, los grupos de contactos tienen un máximo de 10 miembros; no se pueden crear grupos con más destinatarios.",
+      "C": "Los grupos de contactos de Outlook solo pueden contener direcciones de correo de miembros de la organización (Exchange); no admiten contactos externos con correos de otros dominios.",
+      "D": "Los grupos de contactos de Outlook (Personas > Nuevo grupo de contactos) agrupan múltiples direcciones de correo bajo un único nombre; se pueden añadir o eliminar miembros en cualquier momento; admiten contactos internos y externos; al componer un mensaje se introduce el nombre del grupo en el campo Para y Outlook lo expande automáticamente; son distintos de los Grupos de Microsoft 365, que tienen buzón compartido, calendario y área de SharePoint."
+    },
+    "correcta": "D",
+    "explicacion": "Los grupos de contactos (listas de distribución personales) en Outlook: (1) Crear: Personas > Inicio > Nuevo grupo de contactos (o Ctrl+Mayús+L); se asigna un nombre al grupo. (2) Añadir miembros: Agregar miembros > De la libreta de direcciones de Outlook (contactos existentes o del directorio global de Exchange), De los contactos de Outlook (contactos personales), o Escribir nueva dirección de correo electrónico (cualquier dirección, interna o externa). (3) Gestión: se pueden añadir o eliminar miembros en cualquier momento abriendo el grupo y modificando la lista. (4) Uso: al escribir el nombre del grupo en el campo Para de un nuevo mensaje, Outlook lo reconoce y al enviar distribuye el mensaje a todos los miembros; se puede expandir el grupo antes de enviar para ver y ajustar las direcciones individuales. (5) Distinción importante: Grupos de contactos (personales): residen en los contactos personales del usuario; solo ese usuario puede usarlos. Grupos de Microsoft 365 / Listas de distribución de Exchange: son grupos de toda la organización gestionados por el administrador; todos los usuarios de la organización pueden enviar a ellos.",
+    "why": "A los grupos de contactos se pueden editar en cualquier momento para añadir o eliminar miembros. B no existe ningún límite de miembros en los grupos de contactos de Outlook. C los grupos de contactos admiten cualquier dirección de correo, tanto interna (Exchange) como externa (Gmail, Yahoo, etc.).",
+    "norma": "Microsoft Outlook 365/2021 — Grupos de contactos",
+    "articulo": "Grupos de contactos (listas de distribución) en Microsoft Outlook"
+  },
+  {
+    "id": "B5T48-016",
+    "bloque": 5,
+    "tema": 48,
+    "test": 48,
+    "dificultad": "media",
+    "pregunta": "¿Cómo funciona el archivado de mensajes en Microsoft Outlook?",
+    "opciones": {
+      "A": "El archivado de Outlook elimina definitivamente los mensajes del buzón; no existe forma de recuperarlos una vez archivados.",
+      "B": "El archivado de mensajes en Outlook mueve los mensajes a una ubicación de almacenamiento separada para liberar espacio en el buzón principal: el Archivo automático mueve mensajes antiguos a un archivo .pst (configurable en Archivo > Opciones > Avanzado); el Archivo de Exchange Online (In-Place Archive) almacena los mensajes archivados en un buzón de archivo en la nube accesible desde Outlook; los mensajes archivados siguen siendo accesibles y buscables.",
+      "C": "En Outlook, los mensajes solo se pueden archivar manualmente uno a uno; no existe ninguna función de archivo automático.",
+      "D": "Los mensajes archivados en Outlook no pueden buscarse desde Outlook; para encontrar un mensaje archivado hay que acceder al archivo .pst con una aplicación externa."
+    },
+    "correcta": "B",
+    "explicacion": "El archivado de mensajes en Outlook permite gestionar el tamaño del buzón principal: (1) Archivo automático (AutoArchive): Archivo > Opciones > Avanzado > Configuración de Archivo automático; se ejecuta periódicamente (cada X días configurables); mueve mensajes más antiguos de X meses a un archivo .pst local; configurable por carpeta con distintas políticas (Carpeta > clic derecho > Propiedades > Archivo automático). (2) Archivar manualmente: Archivo > Herramientas > Limpiar buzón > Archivar, o clic derecho > Archivar sobre un elemento o carpeta; mueve los elementos al archivo .pst inmediatamente. (3) Archivado en un clic (Outlook 365): botón Archivar en la cinta (Inicio > Archivar) mueve el mensaje a la carpeta Archivo del buzón. (4) In-Place Archive (Microsoft 365 con Exchange Online): buzón de archivo en la nube gestionado por Exchange; las políticas de retención y de archivo mandan mensajes automáticamente al archivo según la antigüedad; accesible desde Outlook como una carpeta más 'Archivo en línea' en el panel de carpetas; buscable e indexado. (5) Recuperar: los mensajes archivados (en .pst o en el archivo en línea) son totalmente accesibles y buscables desde Outlook.",
+    "why": "A el archivado mueve los mensajes a una ubicación separada (local o en la nube) y siguen siendo accesibles; no los elimina. C existe el Archivo automático (AutoArchive) que archiva mensajes antigüos automáticamente según los criterios configurados. D los mensajes archivados en .pst o en el archive de Exchange Online son completamente buscables desde Outlook.",
+    "norma": "Microsoft Outlook 365/2021 — Archivo automático",
+    "articulo": "Archivado de mensajes en Microsoft Outlook: AutoArchive y Exchange Online Archive"
+  },
+  {
+    "id": "B5T48-017",
+    "bloque": 5,
+    "tema": 48,
+    "test": 48,
+    "dificultad": "dificil",
+    "pregunta": "¿Qué mecanismos de cifrado y seguridad de mensajes ofrece Microsoft Outlook?",
+    "opciones": {
+      "A": "El cifrado de mensajes en Outlook solo está disponible en la versión para macOS; la versión para Windows no admite cifrado de correo electrónico.",
+      "B": "El cifrado S/MIME en Outlook protege los mensajes únicamente durante el tránsito por la red; una vez entregados en el buzón del destinatario, el contenido ya no está cifrado.",
+      "C": "Outlook soporta dos mecanismos de seguridad: S/MIME (requiere certificados digitales de una CA instalados en remitente y destinatario; permite cifrar el contenido del mensaje y firmar digitalmente para garantizar autenticidad e integridad; se configura en Archivo > Opciones > Centro de confianza > Seguridad del correo electrónico) e IRM/Microsoft Purview Message Encryption (restringe el uso del mensaje: no reenviar, no imprimir, no copiar; requiere Azure Rights Management; el destinatario se autentica para leer el mensaje).",
+      "D": "La firma digital S/MIME en Outlook cifra el contenido del mensaje para que nadie excepto el destinatario pueda leerlo; no tiene ninguna función relacionada con la autenticación ni con la verificación de la identidad del remitente."
+    },
+    "correcta": "C",
+    "explicacion": "Mecanismos de seguridad de mensajes en Outlook: (1) S/MIME (Secure/Multipurpose Internet Mail Extensions): Cifrado del mensaje (Envelope): el remitente cifra el contenido con la clave pública del destinatario; solo el destinatario (con su clave privada) puede descifrar; requiere que el destinatario haya compartido previamente su certificado con el remitente. Firma digital: el remitente firma el mensaje con su clave privada; el destinatario verifica la firma con la clave pública del certificado del remitente; garantiza la autenticidad (el mensaje proviene de quien dice) y la integridad (el mensaje no fue alterado en tránsito). Requisito: certificados S/MIME emitidos por una CA (Autoridad de Certificación) instalados en los certificados personales del equipo; se configuran en Archivo > Opciones > Centro de confianza > Configuración del Centro de confianza > Seguridad del correo electrónico. (2) IRM (Information Rights Management) / Microsoft Purview Message Encryption: no cifra el transporte sino que controla lo que el destinatario puede hacer con el mensaje; opciones: No reenviar, No imprimir, No copiar al portapapeles, Solo ver, Personalizado; requiere Azure Rights Management (Azure AD + licencia Microsoft 365); el destinatario debe autenticarse con una cuenta Microsoft o de la organización para leer el mensaje.",
+    "why": "A S/MIME e IRM están disponibles en Outlook para Windows; S/MIME también en macOS. B S/MIME cifra el mensaje en reposo (en el buzón del destinatario también está cifrado hasta que este lo abre con su clave privada). D la firma digital S/MIME verifica la autenticidad del remitente e integridad del mensaje; el cifrado S/MIME es una función separada que oculta el contenido.",
+    "norma": "Microsoft Outlook 365/2021 — Seguridad del correo electrónico (S/MIME, IRM)",
+    "articulo": "Cifrado y seguridad de mensajes en Microsoft Outlook: S/MIME e IRM"
+  },
+  {
+    "id": "B5T48-018",
+    "bloque": 5,
+    "tema": 48,
+    "test": 48,
+    "dificultad": "dificil",
+    "pregunta": "¿Qué son las políticas de retención de mensajes en Outlook y cómo se aplican?",
+    "opciones": {
+      "A": "Las políticas de retención en Outlook (disponibles con Exchange Online/Microsoft 365) permiten definir durante cuánto tiempo se conservan o eliminan los mensajes automáticamente; se configuran desde el centro de cumplimiento de Microsoft Purview; las etiquetas de retención permiten aplicar una política específica a una carpeta o a un mensaje individual (clic derecho > Asignar directiva); las etiquetas pueden configurar: conservar durante X días y luego eliminar, conservar indefinidamente, o eliminar inmediatamente.",
+      "B": "Las políticas de retención de Outlook se aplican exclusivamente a los mensajes enviados por el usuario; los mensajes recibidos no están sujetos a ninguna política de retención.",
+      "C": "Las etiquetas de retención de Outlook solo pueden aplicarse a carpetas completas; no es posible asignar una política de retención a un mensaje individual.",
+      "D": "Las políticas de retención de Outlook solo están disponibles en versiones de Outlook 2010 y anteriores; en Microsoft 365 esta funcionalidad fue eliminada."
+    },
+    "correcta": "A",
+    "explicacion": "Las políticas de retención de mensajes en entornos Exchange Online/Microsoft 365: (1) Propósito: gestionar el ciclo de vida de los mensajes de correo para cumplir con requisitos legales, de cumplimiento normativo o de gestión de información; automatizan la retención y eliminación de mensajes sin intervención manual del usuario. (2) Configuración: el administrador define etiquetas de retención (Retention Tags) y políticas de retención (Retention Policies) en el Centro de administración de Exchange o en Microsoft Purview Compliance Portal; se asigna una política al buzón del usuario. (3) Tipos de etiquetas: Etiqueta de directiva predeterminada (DPT): se aplica a todos los elementos del buzón que no tienen etiqueta individual. Etiqueta de directiva de carpeta (RPT): se aplica a una carpeta específica (p. ej., Elementos eliminados). Etiqueta personal: el usuario puede aplicarlas a carpetas o mensajes individuales. (4) Acciones en Outlook: el usuario ve las etiquetas disponibles en Inicio > Asignar directiva o clic derecho > Asignar directiva; puede aplicar una etiqueta a un mensaje individual o a una carpeta completa para cambiar su política de retención. (5) Asistente de carpeta administrada (MFA): proceso del servidor que aplica las directivas periódicamente; cuando un mensaje supera el período de retención configurado, la acción definida (mover al archivo, mover a Elementos eliminados, eliminar permanentemente) se ejecuta automáticamente.",
+    "why": "B las políticas de retención se aplican a todos los mensajes del buzón (enviados y recibidos) según las reglas definidas. C las etiquetas personales se pueden aplicar tanto a carpetas enteras como a mensajes individuales. D las políticas de retención son una funcionalidad activa y fundamental en Microsoft 365; no fueron eliminadas.",
+    "norma": "Microsoft 365 / Exchange Online — Directivas de retención",
+    "articulo": "Políticas de retención de mensajes en Microsoft Outlook con Exchange Online"
+  },
+  {
+    "id": "B5T48-019",
+    "bloque": 5,
+    "tema": 48,
+    "test": 48,
+    "dificultad": "dificil",
+    "pregunta": "¿Cómo se integra Microsoft Outlook con Microsoft Teams, OneDrive y SharePoint?",
+    "opciones": {
+      "A": "Microsoft Outlook y Microsoft Teams son aplicaciones completamente independientes y no tienen ninguna integración; no es posible crear ni unirse a reuniones de Teams desde Outlook.",
+      "B": "En Outlook con Microsoft 365, los archivos de OneDrive solo se pueden compartir exportándolos a un archivo .zip y adjuntándolos al correo; no existe la opción de compartir como vínculo desde Outlook.",
+      "C": "Las reuniones de Teams programadas desde el calendario de Outlook no incluyen ningún vínculo de unión; los participantes deben buscar la reunión manualmente en la aplicación de Teams.",
+      "D": "Outlook se integra con Microsoft 365: el complemento de Teams en Outlook permite crear reuniones de Teams directamente desde el calendario (con vínculo de unión automático); al adjuntar archivos se muestran los de OneDrive recientes y se pueden compartir como vínculo (en lugar de copia); las tareas marcadas con bandera en Outlook se sincronizan con Microsoft To Do; desde Outlook se puede acceder a conversaciones de Teams relacionadas con un correo."
+    },
+    "correcta": "D",
+    "explicacion": "Integración de Outlook con el ecosistema Microsoft 365: (1) Microsoft Teams: el complemento de reunión de Teams se instala automáticamente al instalar Teams en el mismo equipo donde está Outlook; desde el Calendario de Outlook, Inicio > Nueva reunión de Teams crea una convocatoria con el vínculo de unión de Teams incluido; los participantes pueden unirse desde la invitación de correo sin necesidad de buscar la reunión en Teams; el vínculo funciona en el navegador, la app de Teams o la app móvil. (2) OneDrive y SharePoint: al adjuntar archivos (Insertar > Adjuntar archivo), Outlook muestra una lista de archivos recientes de OneDrive; se puede elegir adjuntar como copia (se envía el archivo) o como vínculo (el destinatario accede al archivo en la nube); se puede configurar el permiso del vínculo: solo lectura, editar, cualquiera con el vínculo. (3) Microsoft To Do: las tareas de Outlook y los mensajes marcados con bandera de seguimiento se sincronizan con Microsoft To Do, que unifica las tareas de Planner, Teams y To Do. (4) Microsoft Viva / My Analytics: estadísticas de uso del correo y reuniones directamente en Outlook.",
+    "why": "A el complemento de reunión de Teams instala automáticamente la integración en Outlook; es una de las integraciones más usadas de Microsoft 365. B al adjuntar archivos de OneDrive en Outlook, se puede elegir compartir como vínculo directamente sin exportar a .zip. C las reuniones de Teams creadas desde Outlook incluyen automáticamente el vínculo de unión de Teams en la invitación.",
+    "norma": "Microsoft Outlook 365 — Integración con Teams, OneDrive y SharePoint",
+    "articulo": "Integración de Microsoft Outlook con Teams, OneDrive y Microsoft To Do"
+  },
+  {
+    "id": "B5T48-020",
+    "bloque": 5,
+    "tema": 48,
+    "test": 48,
+    "dificultad": "dificil",
+    "pregunta": "¿Qué son las reglas avanzadas de Outlook y cómo se combinan condiciones, excepciones y múltiples acciones?",
+    "opciones": {
+      "A": "Las reglas avanzadas de Outlook no pueden basarse en el contenido del cuerpo del mensaje; solo pueden evaluarse el remitente, el asunto y los destinatarios.",
+      "B": "Las reglas avanzadas de Outlook permiten: condiciones combinadas (con 'y' y 'o' lógicos), excepciones (excepto si el asunto contiene, excepto si se envía solo a mí), múltiples acciones por regla (mover a carpeta Y marcar Y reproducir sonido); la opción 'Ejecutar esta regla ahora' aplica retroactivamente la regla a mensajes existentes; en cuentas Exchange las reglas del servidor se ejecutan aunque Outlook esté cerrado; las reglas solo del cliente requieren Outlook abierto.",
+      "C": "Las reglas avanzadas de Outlook solo pueden ejecutar una única acción por regla; para realizar varias acciones sobre el mismo mensaje deben crearse reglas separadas.",
+      "D": "Las reglas de Outlook nunca pueden aplicarse a mensajes ya existentes en la bandeja de entrada; solo procesan los mensajes nuevos que lleguen después de crear la regla."
+    },
+    "correcta": "B",
+    "explicacion": "Las reglas avanzadas de Outlook combinan múltiples condiciones, excepciones y acciones: (1) Múltiples condiciones: en el Asistente de reglas se pueden seleccionar varias condiciones que se combinan con lógica AND (el mensaje debe cumplir TODAS las condiciones seleccionadas); p. ej., de [persona] Y asunto contiene [texto] Y tiene datos adjuntos. (2) Excepciones: permiten excluir mensajes que de otra forma activarían la regla; p. ej., 'excepto si se envía solo a mí', 'excepto si el asunto contiene [texto]', 'excepto si es de [persona]'; se combinan también con AND. (3) Múltiples acciones: se pueden añadir varias acciones a una misma regla; p. ej., mover a la carpeta [X] Y asignar categoría [Y] Y reproducir sonido Z Y marcar como leído; se ejecutan todas cuando se activa la regla. (4) Ejecutar ahora: Administrar reglas y alertas > Ejecutar reglas ahora; se selecciona la regla, las carpetas a revisar y si se aplica a mensajes leídos y/o no leídos; permite aplicar retroactivamente la regla a mensajes existentes. (5) Tipos de regla según ubicación: Lado del servidor (Exchange): solo acciones que el servidor puede ejecutar (mover, eliminar, reenviar, responder automáticamente, asignar categoría); se ejecutan sin que Outlook esté abierto. Solo cliente: acciones que requieren Outlook abierto (reproducir sonido, mostrar alerta de escritorio personalizada, mover a carpeta de archivo .pst local).",
+    "why": "A las condiciones de las reglas también pueden evaluar el cuerpo del mensaje ('cuerpo o asunto contiene') además del remitente, asunto y destinatarios. C una regla puede tener múltiples acciones configuradas para ejecutarse todas cuando se cumplen las condiciones. D la opción 'Ejecutar reglas ahora' permite aplicar retroactivamente las reglas a mensajes existentes en cualquier carpeta.",
+    "norma": "Microsoft Outlook 365/2021 — Reglas avanzadas",
+    "articulo": "Reglas avanzadas en Microsoft Outlook: condiciones, excepciones y múltiples acciones"
+  }
+]
