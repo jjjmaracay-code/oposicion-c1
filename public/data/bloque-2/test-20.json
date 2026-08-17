@@ -1,0 +1,382 @@
+[
+  {
+    "id": "B2T20-001",
+    "bloque": 2,
+    "tema": 20,
+    "test": 20,
+    "dificultad": "facil",
+    "pregunta": "¿Cuáles son los principios generales que rigen la contratación del sector público según el art. 1 de la Ley 9/2017, de Contratos del Sector Público (LCSP)?",
+    "opciones": {
+      "A": "Eficiencia en el gasto, ahorro presupuestario, rapidez administrativa y simplificación de trámites.",
+      "B": "Publicidad, transparencia, libre concurrencia, igualdad de trato y no discriminación entre licitadores.",
+      "C": "Reserva de ley, autorización parlamentaria, control judicial y auditoría obligatoria del Tribunal de Cuentas.",
+      "D": "Competencia, innovación, sostenibilidad medioambiental y responsabilidad social corporativa."
+    },
+    "correcta": "B",
+    "explicacion": "El art. 1 LCSP establece como fines de la regulación garantizar que la contratación del sector público se ajuste a los principios de publicidad, transparencia, libre concurrencia e igualdad de trato, así como a los principios de no discriminación e integridad. Estos principios conectan directamente con las Directivas europeas 2014/23/UE y 2014/24/UE que la LCSP transpone.",
+    "why": "A enumera objetivos de gestión pero no los principios de la contratación pública fijados en el art. 1 LCSP. C son principios constitucionales generales, no específicos del derecho de contratos. D refleja criterios de política económica que la ley contempla como objetivos secundarios pero no como principios generales del art. 1.",
+    "norma": "Ley 9/2017, de Contratos del Sector Público",
+    "articulo": "1"
+  },
+  {
+    "id": "B2T20-002",
+    "bloque": 2,
+    "tema": 20,
+    "test": 20,
+    "dificultad": "facil",
+    "pregunta": "Según el art. 118 LCSP, ¿cuáles son los umbrales de valor estimado que permiten celebrar un contrato menor sin procedimiento de licitación?",
+    "opciones": {
+      "A": "Obras: valor estimado inferior a 50.000 euros; suministros y servicios: inferior a 18.000 euros.",
+      "B": "Obras: valor estimado inferior a 40.000 euros; suministros y servicios: inferior a 15.000 euros.",
+      "C": "Obras: valor estimado inferior a 30.000 euros; el resto de contratos: inferior a 10.000 euros.",
+      "D": "Cualquier contrato inferior a 25.000 euros puede tramitarse como contrato menor con independencia de su objeto."
+    },
+    "correcta": "B",
+    "explicacion": "El art. 118 LCSP fija los umbrales del contrato menor: para contratos de obras, el valor estimado debe ser inferior a 40.000 euros; para el resto de contratos (servicios, suministros, concesiones), el umbral es de 15.000 euros. El contrato menor está exento de procedimiento de licitación pero sujeto a la obligación de comprobar que el contratista no ha superado el límite que supone la fragmentación fraudulenta de contratos.",
+    "why": "A eleva los umbrales a 50.000 y 18.000 euros, cantidades que no corresponden al art. 118 LCSP vigente. C reduce los umbrales, también incorrecto. D unifica los umbrales en 25.000 euros para todo tipo de contrato, cuando la ley distingue según el objeto del contrato.",
+    "norma": "Ley 9/2017, de Contratos del Sector Público",
+    "articulo": "118"
+  },
+  {
+    "id": "B2T20-003",
+    "bloque": 2,
+    "tema": 20,
+    "test": 20,
+    "dificultad": "facil",
+    "pregunta": "¿Qué importe debe constituir el adjudicatario como garantía definitiva según el art. 107 LCSP?",
+    "opciones": {
+      "A": "El 2 % del precio de adjudicación, excluido el IVA.",
+      "B": "El 5 % del precio de adjudicación, excluido el IVA.",
+      "C": "El 10 % del presupuesto base de licitación, incluido el IVA.",
+      "D": "No existe garantía definitiva en la LCSP 2017; fue suprimida junto con la garantía provisional."
+    },
+    "correcta": "B",
+    "explicacion": "El art. 107 LCSP establece que el adjudicatario debe constituir, a disposición del órgano de contratación, una garantía equivalente al 5 % del precio de adjudicación, excluido el Impuesto sobre el Valor Añadido. Puede constituirse en efectivo, mediante valores de Deuda Pública, aval bancario o contrato de seguro de caución. El órgano de contratación puede elevar este porcentaje hasta el 10 % en los casos que justifiquen una garantía reforzada.",
+    "why": "A el porcentaje del 2 % no está previsto para la garantía definitiva ordinaria. C la garantía se calcula sobre el precio de adjudicación, no sobre el presupuesto base de licitación, y el IVA se excluye. D la garantía definitiva sí existe en la LCSP 2017; lo que se suprimió como obligación genérica fue la garantía provisional (que ahora es facultativa para el órgano de contratación).",
+    "norma": "Ley 9/2017, de Contratos del Sector Público",
+    "articulo": "107"
+  },
+  {
+    "id": "B2T20-004",
+    "bloque": 2,
+    "tema": 20,
+    "test": 20,
+    "dificultad": "facil",
+    "pregunta": "¿Cuáles son los contratos típicos o nominados que regula la LCSP?",
+    "opciones": {
+      "A": "Obras, arrendamiento de servicios, compraventa, concesión de uso de dominio público y servicios.",
+      "B": "Obras, concesión de obras, concesión de servicios, suministro y servicios.",
+      "C": "Obras públicas, contratos administrativos especiales, contratos privados de la Administración y convenios.",
+      "D": "Construcción, explotación, prestación, adquisición y arrendamiento de bienes de la Administración."
+    },
+    "correcta": "B",
+    "explicacion": "Los arts. 13 a 17 LCSP regulan los cinco tipos de contratos típicos: (1) contrato de obras (art. 13), (2) contrato de concesión de obras (art. 14), (3) contrato de concesión de servicios (art. 15), (4) contrato de suministro (art. 16) y (5) contrato de servicios (art. 17). Los contratos mixtos combinan elementos de varios tipos y se rigen por las reglas del tipo de prestación principal (art. 18).",
+    "why": "A mezcla contratos civiles (arrendamiento, compraventa) con los administrativos, sin ajustarse a la nomenclatura de la LCSP. C alude a la clasificación de la antigua LCAP 2007; la LCSP 2017 suprimió la categoría de 'contratos administrativos especiales' como tipo diferenciado. D utiliza denominaciones descriptivas sin valor jurídico propio en la ley.",
+    "norma": "Ley 9/2017, de Contratos del Sector Público",
+    "articulo": "13 a 17"
+  },
+  {
+    "id": "B2T20-005",
+    "bloque": 2,
+    "tema": 20,
+    "test": 20,
+    "dificultad": "facil",
+    "pregunta": "¿Cuál es la diferencia esencial entre el contrato de obras y el contrato de concesión de obras según la LCSP?",
+    "opciones": {
+      "A": "En el contrato de obras, el precio lo fija el mercado; en la concesión, lo fija la Administración por ley.",
+      "B": "En la concesión de obras, el contratista asume el riesgo operacional de la explotación de la obra construida, mientras que en el contrato de obras ordinario ese riesgo recae sobre la Administración.",
+      "C": "El contrato de obras es siempre de mayor cuantía que la concesión de obras.",
+      "D": "En la concesión de obras, la titularidad de la obra pasa al contratista al finalizar la construcción."
+    },
+    "correcta": "B",
+    "explicacion": "El art. 14 LCSP define el contrato de concesión de obras como aquel en que la contrapartida consiste, bien únicamente en el derecho a explotar la obra ejecutada, bien en dicho derecho acompañado de un precio. El rasgo definitorio es la transferencia del riesgo operacional al concesionario: este asume el riesgo de demanda o el riesgo de disponibilidad (o ambos). Si la Administración garantiza al contratista ingresos mínimos que cubren sustancialmente el riesgo, el contrato es de obras ordinario y no concesión.",
+    "why": "A el precio en ambos contratos puede ser negociado o licitado; no hay diferencia en quién 'fija' el precio de esa forma. C la cuantía no determina el tipo contractual; puede haber concesiones de obras de menor valor que contratos de obras ordinarios. D la titularidad de la obra sigue siendo pública durante la concesión; solo la gestión y explotación corresponden al concesionario.",
+    "norma": "Ley 9/2017, de Contratos del Sector Público",
+    "articulo": "14"
+  },
+  {
+    "id": "B2T20-006",
+    "bloque": 2,
+    "tema": 20,
+    "test": 20,
+    "dificultad": "facil",
+    "pregunta": "¿Qué es el perfil del contratante regulado en el art. 63 LCSP?",
+    "opciones": {
+      "A": "El historial de adjudicaciones y sanciones de una empresa inscrita en el Registro Oficial de Licitadores y Empresas Clasificadas.",
+      "B": "El espacio electrónico habilitado en la sede o página web del órgano de contratación donde se publican los anuncios de licitación, pliegos, adjudicaciones y demás información relevante de su actividad contractual.",
+      "C": "El expediente individual de cada contratista que acredita su solvencia técnica y económica ante la Administración.",
+      "D": "El documento que recoge los criterios de solvencia y clasificación exigibles para participar en los procedimientos de licitación."
+    },
+    "correcta": "B",
+    "explicacion": "El art. 63 LCSP obliga a los órganos de contratación a difundir su actividad contractual a través del perfil del contratante: un espacio electrónico de libre acceso, vinculado a su sede o web institucional, donde se publican anuncios de licitación, pliegos, resoluciones de adjudicación, contratos formalizados y otra información relevante. La publicación en el perfil del contratante tiene efectos jurídicos (computa plazos) y garantiza la transparencia del proceso.",
+    "why": "A el perfil del contratante es del órgano de contratación (la Administración), no del contratista. C y D describen documentos o registros relacionados con el contratista, cuando el perfil del contratante es una herramienta de publicidad de la Administración.",
+    "norma": "Ley 9/2017, de Contratos del Sector Público",
+    "articulo": "63"
+  },
+  {
+    "id": "B2T20-007",
+    "bloque": 2,
+    "tema": 20,
+    "test": 20,
+    "dificultad": "media",
+    "pregunta": "¿Qué caracteriza al procedimiento abierto de licitación regulado en la LCSP?",
+    "opciones": {
+      "A": "Solo pueden participar las empresas previamente invitadas por el órgano de contratación.",
+      "B": "Cualquier empresario interesado puede presentar una proposición; el número de licitadores no está limitado de antemano.",
+      "C": "Solo es aplicable a contratos de obras cuyo valor estimado supere los umbrales armonizados europeos.",
+      "D": "La Mesa de contratación selecciona a los participantes antes de que se presenten las ofertas."
+    },
+    "correcta": "B",
+    "explicacion": "El procedimiento abierto (art. 156 LCSP) es el procedimiento ordinario por excelencia: puede participar cualquier empresario que lo desee, sin selección previa de candidatos. El órgano de contratación publica el anuncio de licitación y los pliegos, y todos los interesados que acrediten la solvencia exigida pueden presentar oferta en el plazo establecido. No tiene umbral mínimo de cuantía; puede usarse para cualquier contrato.",
+    "why": "A describe el procedimiento restringido, en el que el órgano de contratación selecciona previamente a los candidatos que pueden presentar oferta. C el procedimiento abierto puede usarse para cualquier cuantía y cualquier tipo de contrato. D la selección previa de participantes es precisamente la característica del procedimiento restringido, no del abierto.",
+    "norma": "Ley 9/2017, de Contratos del Sector Público",
+    "articulo": "156"
+  },
+  {
+    "id": "B2T20-008",
+    "bloque": 2,
+    "tema": 20,
+    "test": 20,
+    "dificultad": "media",
+    "pregunta": "¿Cuál es la función de la Mesa de contratación en el procedimiento de licitación?",
+    "opciones": {
+      "A": "Aprobar el gasto y la financiación del contrato antes de que el órgano de contratación autorice el expediente.",
+      "B": "Calificar la documentación administrativa presentada por los licitadores, evaluar las ofertas y elevar propuesta de adjudicación al órgano de contratación.",
+      "C": "Firmar el contrato en nombre de la Administración una vez adoptada la resolución de adjudicación.",
+      "D": "Resolver los recursos especiales en materia de contratación que se interpongan contra los pliegos."
+    },
+    "correcta": "B",
+    "explicacion": "La Mesa de contratación (art. 326 LCSP) es un órgano colegiado que asiste al órgano de contratación sin poder decisorio propio. Sus funciones son: (1) calificar la documentación administrativa (acreditación de personalidad, solvencia, etc.) y abrir el sobre de documentación técnica y económica, (2) valorar las ofertas conforme a los criterios del pliego, y (3) formular propuesta de adjudicación motivada. La decisión final de adjudicar corresponde al órgano de contratación.",
+    "why": "A la aprobación del gasto corresponde al órgano de contratación (o al de control interno, en su caso), no a la Mesa. C el contrato lo firma el titular del órgano de contratación, no la Mesa. D el recurso especial se interpone ante el Tribunal Administrativo de Recursos Contractuales (TACRC o equivalente autonómico), no ante la Mesa.",
+    "norma": "Ley 9/2017, de Contratos del Sector Público",
+    "articulo": "326"
+  },
+  {
+    "id": "B2T20-009",
+    "bloque": 2,
+    "tema": 20,
+    "test": 20,
+    "dificultad": "media",
+    "pregunta": "Según el art. 145 LCSP, ¿sobre qué base deben adjudicarse los contratos del sector público?",
+    "opciones": {
+      "A": "Exclusivamente sobre el precio más bajo ofertado, para garantizar el ahorro del gasto público.",
+      "B": "Sobre la mejor relación calidad-precio, evaluada mediante una pluralidad de criterios cualitativos y económicos vinculados al objeto del contrato.",
+      "C": "Sobre el número de años de experiencia del licitador en contratos similares, como garantía de calidad de ejecución.",
+      "D": "Por orden de presentación de ofertas, cuando dos o más licitadores ofrezcan el mismo precio."
+    },
+    "correcta": "B",
+    "explicacion": "El art. 145 LCSP establece que los contratos se adjudican ordinariamente a la oferta que presente la mejor relación calidad-precio, evaluada mediante criterios que pueden incluir aspectos cualitativos (calidad técnica, experiencia de los equipos, metodología, criterios medioambientales o sociales) y económicos (precio o coste del ciclo de vida). La LCSP 2017 superó el sistema anterior de 'oferta económicamente más ventajosa' para imponer la consideración obligatoria de criterios cualitativos junto al precio.",
+    "why": "A usar solo el precio más bajo está limitado a supuestos específicos en los que el objeto esté perfectamente estandarizado y así se justifique expresamente; no es la regla general. C la experiencia del licitador es un criterio de solvencia para participar, no un criterio de adjudicación de la oferta. D el orden de presentación no es nunca un criterio de adjudicación.",
+    "norma": "Ley 9/2017, de Contratos del Sector Público",
+    "articulo": "145"
+  },
+  {
+    "id": "B2T20-010",
+    "bloque": 2,
+    "tema": 20,
+    "test": 20,
+    "dificultad": "media",
+    "pregunta": "¿Cuál es el plazo para interponer el recurso especial en materia de contratación y qué efecto produce su interposición sobre el procedimiento?",
+    "opciones": {
+      "A": "30 días naturales desde la notificación del acto impugnado; suspensión facultativa a discreción del tribunal.",
+      "B": "15 días hábiles desde la publicación o notificación del acto impugnado; suspensión automática de la adjudicación hasta que se resuelva el recurso.",
+      "C": "2 meses desde la publicación del anuncio de licitación; sin efecto suspensivo automático.",
+      "D": "10 días naturales desde la formalización del contrato; la formalización no queda suspendida en ningún caso."
+    },
+    "correcta": "B",
+    "explicacion": "El art. 50 LCSP fija en 15 días hábiles el plazo para interponer el recurso especial en materia de contratación, contados desde la publicación en el perfil del contratante (para el anuncio y los pliegos) o desde la notificación (para el acto de adjudicación y demás actos impugnables). El efecto suspensivo automático de la adjudicación (art. 53.3 LCSP) es una de las características más relevantes de este recurso: impide que el contrato se formalice mientras se tramita el recurso, evitando que la adjudicación devenga irreversible antes de que se resuelva la impugnación.",
+    "why": "A el plazo de 30 días corresponde al recurso contencioso-administrativo ordinario contra actos expresos, no al recurso especial. C el plazo de 2 meses y la ausencia de efecto suspensivo son los del recurso contencioso ordinario. D el recurso especial no cabe tras la formalización del contrato; precisamente se diseñó para actuar antes de que se formalice.",
+    "norma": "Ley 9/2017, de Contratos del Sector Público",
+    "articulo": "50 y 53"
+  },
+  {
+    "id": "B2T20-011",
+    "bloque": 2,
+    "tema": 20,
+    "test": 20,
+    "dificultad": "media",
+    "pregunta": "¿En cuál de los siguientes supuestos permite el art. 168 LCSP utilizar el procedimiento negociado sin publicidad?",
+    "opciones": {
+      "A": "Cuando el órgano de contratación considera que el procedimiento abierto generaría demasiada competencia y podría atraer empresas sin experiencia.",
+      "B": "Cuando en el procedimiento previo (abierto o restringido) no se haya presentado ninguna oferta o no se hayan presentado solicitudes de participación adecuadas.",
+      "C": "Cuando la cuantía del contrato supere los umbrales armonizados europeos y la urgencia lo requiera.",
+      "D": "Siempre que el objeto del contrato sea de carácter confidencial o afecte a la seguridad del Estado."
+    },
+    "correcta": "B",
+    "explicacion": "El art. 168.1.a LCSP permite acudir al procedimiento negociado sin publicidad cuando en el procedimiento precedente —abierto, restringido o mediante licitación con negociación— no se haya presentado ninguna oferta o ninguna solicitud de participación adecuada. También se admite en otros supuestos tasados: razones de exclusividad técnica o derechos exclusivos, extrema urgencia resultante de eventos imprevisibles, o contratos de cuantía inferior a determinados umbrales (obras < 1.000.000 euros; servicios y suministros < 100.000 euros).",
+    "why": "A el nivel de competencia no es causa tasada de negociado sin publicidad; el derecho de la UE exige maximizar la concurrencia. C para contratos sujetos a regulación armonizada, el negociado sin publicidad solo procede en los supuestos muy restrictivos del art. 168, no por la mera urgencia general. D la confidencialidad puede dar lugar a procedimientos restringidos con especial seguridad, pero no es causa autónoma del art. 168 LCSP.",
+    "norma": "Ley 9/2017, de Contratos del Sector Público",
+    "articulo": "168"
+  },
+  {
+    "id": "B2T20-012",
+    "bloque": 2,
+    "tema": 20,
+    "test": 20,
+    "dificultad": "media",
+    "pregunta": "¿Qué régimen establece la LCSP 2017 para la garantía provisional que debían constituir los licitadores antes de la adjudicación?",
+    "opciones": {
+      "A": "La garantía provisional es obligatoria para todos los contratos cuyo valor estimado supere 50.000 euros.",
+      "B": "La garantía provisional fue suprimida con carácter obligatorio; ahora el órgano de contratación puede exigirla con carácter facultativo cuando lo justifique en el pliego.",
+      "C": "La garantía provisional fue elevada al 3 % del presupuesto base de licitación y es siempre exigible.",
+      "D": "La garantía provisional desapareció completamente y fue sustituida por la clasificación empresarial obligatoria."
+    },
+    "correcta": "B",
+    "explicacion": "La LCSP 2017 eliminó la exigencia general de garantía provisional que establecía la legislación anterior. Conforme al art. 106 LCSP, el órgano de contratación puede exigirla de forma facultativa cuando, atendidas las circunstancias del contrato, lo considere necesario para garantizar la formalización del contrato por el adjudicatario. Si decide exigirla, debe justificar su importe en el pliego. Su cuantía no puede superar el 3 % del presupuesto base de licitación.",
+    "why": "A la obligatoriedad general fue suprimida; no hay umbral automático de 50.000 euros. C la garantía provisional no es obligatoria ni tiene un porcentaje fijo aplicable siempre. D la garantía provisional no desapareció por completo; sobrevive como herramienta facultativa del órgano de contratación.",
+    "norma": "Ley 9/2017, de Contratos del Sector Público",
+    "articulo": "106"
+  },
+  {
+    "id": "B2T20-013",
+    "bloque": 2,
+    "tema": 20,
+    "test": 20,
+    "dificultad": "media",
+    "pregunta": "¿Qué distingue el contrato de concesión de servicios del contrato de servicios según el art. 15 LCSP?",
+    "opciones": {
+      "A": "El importe económico del contrato: la concesión de servicios supera siempre los 5 millones de euros.",
+      "B": "En la concesión de servicios, el concesionario gestiona el servicio asumiendo el riesgo operacional, que puede ser riesgo de demanda, riesgo de disponibilidad o ambos; en el contrato de servicios, la Administración abona un precio cierto y asume el riesgo.",
+      "C": "En el contrato de servicios, el adjudicatario debe ser siempre una empresa española; en la concesión puede ser de cualquier nacionalidad.",
+      "D": "La concesión de servicios solo puede recaer sobre servicios esenciales declarados por ley; el contrato de servicios no tiene esa restricción."
+    },
+    "correcta": "B",
+    "explicacion": "La nota esencial que diferencia la concesión de servicios del contrato de servicios (arts. 15 y 17 LCSP) es la transferencia del riesgo operacional al concesionario. En la concesión, el concesionario gestiona el servicio y sus ingresos dependen de la demanda real (riesgo de demanda) o del cumplimiento de estándares de calidad con retribución variable (riesgo de disponibilidad). En el contrato de servicios ordinario, la Administración paga un precio cierto con independencia del resultado y soporta el riesgo de la utilización del servicio.",
+    "why": "A la cuantía no determina el tipo contractual; hay concesiones de servicios de menor valor y contratos de servicios de mayor valor. C la LCSP no impone restricciones de nacionalidad para los distintos tipos; las Directivas europeas garantizan la libertad de establecimiento. D no existe una lista de servicios 'esenciales' que reserven la figura de la concesión; el criterio es el riesgo operacional.",
+    "norma": "Ley 9/2017, de Contratos del Sector Público",
+    "articulo": "15"
+  },
+  {
+    "id": "B2T20-014",
+    "bloque": 2,
+    "tema": 20,
+    "test": 20,
+    "dificultad": "media",
+    "pregunta": "¿Cuáles son las causas de resolución del contrato que recoge el art. 211 LCSP?",
+    "opciones": {
+      "A": "Únicamente el mutuo acuerdo entre las partes y la declaración de quiebra del contratista.",
+      "B": "Demora en la ejecución imputable al contratista, incumplimiento de las condiciones esenciales, abandono del contrato, concurso de acreedores del contratista, mutuo acuerdo de las partes y las expresamente establecidas en el pliego.",
+      "C": "Únicamente causas objetivas ajenas a las partes: fuerza mayor, caso fortuito o destrucción del objeto del contrato.",
+      "D": "Resolución a instancia del contratista por impago de más de tres mensualidades; en el resto de supuestos la resolución corresponde exclusivamente a la Administración."
+    },
+    "correcta": "B",
+    "explicacion": "El art. 211 LCSP enumera un listado tasado de causas de resolución: la muerte o incapacidad sobrevenida del contratista individual; la extinción de la personalidad jurídica de la empresa; la declaración de concurso de acreedores; el mutuo acuerdo de las partes; la demora en el cumplimiento por causas imputables al contratista; la demora en el pago por parte de la Administración por período superior al doble del plazo previsto; el incumplimiento de la obligación de mantener la confidencialidad; el incumplimiento de las restantes obligaciones contractuales esenciales; y las previstas expresamente en el contrato.",
+    "why": "A el listado de causas es mucho más amplio que el mutuo acuerdo y la quiebra; también incluye demora, abandono e incumplimiento. C la fuerza mayor da derecho a indemnización o resolución en ciertos contratos, pero no es la única causa; las causas del art. 211 son principalmente imputables a las partes. D el contratista tiene derecho a resolver en caso de demora en el pago por parte de la Administración, pero también existe la resolución por causas imputables al propio contratista.",
+    "norma": "Ley 9/2017, de Contratos del Sector Público",
+    "articulo": "211"
+  },
+  {
+    "id": "B2T20-015",
+    "bloque": 2,
+    "tema": 20,
+    "test": 20,
+    "dificultad": "media",
+    "pregunta": "El art. 205 LCSP regula las modificaciones del contrato no previstas en la documentación contractual. ¿Qué límite fija la ley para el valor acumulado de estas modificaciones?",
+    "opciones": {
+      "A": "No existe límite porcentual; solo se exige que las modificaciones no alteren la naturaleza global del contrato.",
+      "B": "El valor acumulado de las modificaciones no previstas no puede superar el 20 % del precio de adjudicación inicial del contrato.",
+      "C": "Cada modificación no prevista puede suponer hasta el 50 % del precio inicial; no hay límite acumulado.",
+      "D": "El límite es el 10 % del precio de adjudicación, aplicable tanto a las modificaciones previstas como a las no previstas."
+    },
+    "correcta": "B",
+    "explicacion": "El art. 205 LCSP permite modificar el contrato por causas no previstas en el pliego únicamente cuando concurren circunstancias imprevisibles o razones técnicas sobrevenidas de estricta necesidad. El valor acumulado de todas las modificaciones no previstas no puede superar el 20 % del precio de adjudicación inicial, excluido IVA. Adicionalmente, la modificación no puede alterar la naturaleza global del contrato. Estas restricciones tienen por objeto evitar que la modificación del contrato encubra una adjudicación directa no concurrida.",
+    "why": "A la LCSP sí fija límite porcentual (20 %) para las no previstas; no basta con no alterar la naturaleza global. C el 50 % puede ser un umbral aplicable a necesidades sobrevenidas de prestaciones complementarias en sentido técnico, pero no es el límite general del art. 205 para las modificaciones acumuladas. D el 10 % no es el porcentaje del art. 205; el 5 % es la garantía definitiva y el 20 % es el límite de modificaciones no previstas.",
+    "norma": "Ley 9/2017, de Contratos del Sector Público",
+    "articulo": "205"
+  },
+  {
+    "id": "B2T20-016",
+    "bloque": 2,
+    "tema": 20,
+    "test": 20,
+    "dificultad": "media",
+    "pregunta": "¿En qué supuesto puede utilizarse el procedimiento abierto simplificado del art. 159 LCSP?",
+    "opciones": {
+      "A": "Para cualquier contrato, con independencia de su cuantía, cuando el órgano de contratación justifique la celeridad del procedimiento.",
+      "B": "Para contratos de obras cuyo valor estimado no supere 2.000.000 euros, y para contratos de servicios y suministros cuyo valor estimado no supere 100.000 euros.",
+      "C": "Para contratos de cuantía superior a los umbrales armonizados europeos, como procedimiento preferente ante el abierto ordinario.",
+      "D": "Exclusivamente para contratos de servicios de menos de 50.000 euros tramitados por entidades locales."
+    },
+    "correcta": "B",
+    "explicacion": "El art. 159 LCSP introdujo el procedimiento abierto simplificado para agilizar la contratación de cuantías intermedias: contratos de obras con valor estimado ≤ 2.000.000 euros, y contratos de servicios y suministros con valor estimado ≤ 100.000 euros. Está diseñado para reducir plazos y trámites respecto del procedimiento abierto ordinario: reduce los plazos de presentación de ofertas, permite prescindir de sobre de documentación administrativa general y permite la evaluación de ofertas en un único acto.",
+    "why": "A el procedimiento simplificado tiene umbrales máximos; no puede usarse para contratos de cualquier cuantía. C los contratos armonizados deben tramitarse por procedimientos con plazos mínimos europeos (que el simplificado no respeta); el procedimiento simplificado es precisamente para los NO armonizados. D el procedimiento no está limitado a entidades locales ni al umbral de 50.000 euros.",
+    "norma": "Ley 9/2017, de Contratos del Sector Público",
+    "articulo": "159"
+  },
+  {
+    "id": "B2T20-017",
+    "bloque": 2,
+    "tema": 20,
+    "test": 20,
+    "dificultad": "dificil",
+    "pregunta": "Según el art. 153 LCSP, ¿qué período de suspensión debe transcurrir obligatoriamente entre la notificación de la adjudicación y la formalización del contrato?",
+    "opciones": {
+      "A": "5 días hábiles, para que los licitadores puedan preparar su propuesta de recurso.",
+      "B": "15 días hábiles desde la notificación de la resolución de adjudicación a los licitadores; durante este período no puede formalizarse el contrato.",
+      "C": "30 días naturales desde la publicación de la adjudicación en el perfil del contratante.",
+      "D": "No existe período obligatorio de suspensión; el contrato puede formalizarse el mismo día en que se notifica la adjudicación."
+    },
+    "correcta": "B",
+    "explicacion": "El art. 153.3 LCSP establece un período de suspensión obligatorio (standstill period) de 15 días hábiles entre la notificación de la adjudicación a los candidatos y licitadores y la formalización del contrato. Durante este período, los licitadores que no hayan resultado adjudicatarios pueden interponer el recurso especial en materia de contratación (con efecto suspensivo automático) o acudir a otras vías de impugnación. Esta previsión transpone la Directiva 89/665/CEE de recursos (modificada) y es una garantía de control efectivo de la legalidad antes de que el contrato quede firmado.",
+    "why": "A 5 días es insuficiente para el ejercicio efectivo del derecho de impugnación; no es el plazo del art. 153. C el plazo de 30 días naturales no corresponde a este período; corresponde a plazos de otras notificaciones o al recurso contencioso. D la ausencia de período de suspensión obligatorio era el sistema anterior; la LCSP 2017 y las Directivas europeas exigen el standstill de 15 días.",
+    "norma": "Ley 9/2017, de Contratos del Sector Público",
+    "articulo": "153"
+  },
+  {
+    "id": "B2T20-018",
+    "bloque": 2,
+    "tema": 20,
+    "test": 20,
+    "dificultad": "dificil",
+    "pregunta": "Según el art. 77 LCSP, ¿en qué tipo de contratos es obligatoria la clasificación empresarial del contratista como requisito de solvencia?",
+    "opciones": {
+      "A": "En todos los contratos del sector público, con independencia de su tipo y cuantía.",
+      "B": "En los contratos de obras cuyo valor estimado sea igual o superior a 500.000 euros; para los de servicios, la clasificación es siempre facultativa.",
+      "C": "En los contratos de suministro de equipos informáticos por importe superior a 200.000 euros.",
+      "D": "En los contratos de concesión de servicios que afecten a más de 5.000 usuarios."
+    },
+    "correcta": "B",
+    "explicacion": "El art. 77.1 LCSP establece que para los contratos de obras cuyo valor estimado sea igual o superior a 500.000 euros, la empresa licitadora está obligada a acreditar su solvencia mediante la clasificación empresarial reconocida por el Registro Oficial de Licitadores. Para los contratos de servicios, la clasificación es voluntaria y el contratista puede sustituirla por la acreditación de solvencia mediante los medios previstos en los arts. 86-91 LCSP (experiencia profesional, certificados de calidad, etc.).",
+    "why": "A la clasificación obligatoria está restringida a contratos de obras por encima de 500.000 euros; no aplica a todos los contratos. C la clasificación empresarial no se exige para contratos de suministro informático como categoría específica; es una figura propia de obras. D la clasificación no se vincula al número de usuarios de una concesión de servicios.",
+    "norma": "Ley 9/2017, de Contratos del Sector Público",
+    "articulo": "77"
+  },
+  {
+    "id": "B2T20-019",
+    "bloque": 2,
+    "tema": 20,
+    "test": 20,
+    "dificultad": "dificil",
+    "pregunta": "¿Qué son las prohibiciones para contratar del art. 71 LCSP y qué efecto producen sobre el licitador que las incurre?",
+    "opciones": {
+      "A": "Son restricciones presupuestarias que impiden a la Administración contratar cuando no hay crédito disponible; no afectan a los licitadores.",
+      "B": "Son circunstancias que inhabilitan a una empresa o persona para contratar con el sector público; quien las incurre no puede ser adjudicatario de contratos ni mantener los ya formalizados.",
+      "C": "Son requisitos adicionales de solvencia que el órgano de contratación puede añadir discrecionalmente a los pliegos para contratos de alta complejidad.",
+      "D": "Son sanciones impuestas por el Tribunal de Cuentas a empresas que han ejecutado deficientemente contratos anteriores con la Administración."
+    },
+    "correcta": "B",
+    "explicacion": "Las prohibiciones para contratar (art. 71 LCSP) son circunstancias taxativamente enumeradas que inhabilitan a personas físicas o jurídicas para ser adjudicatarias de contratos del sector público. Incluyen, entre otras: haber sido condenadas por sentencia firme por delitos de terrorismo, corrupción, fraude, blanqueo de capitales u otros; estar en situación de concurso de acreedores; tener deudas tributarias o con la Seguridad Social; haber incumplido gravemente la normativa laboral o de igualdad. El licitador que incurre en una prohibición no puede contratar con el sector público mientras persista la causa, y los contratos adjudicados en tal situación son resoluble.",
+    "why": "A las restricciones presupuestarias son una situación de la Administración, no prohibiciones dirigidas a los contratistas. C las prohibiciones son condiciones negativas tasadas por ley, no criterios discrecionales del órgano de contratación. D las sanciones del Tribunal de Cuentas son las derivadas de responsabilidad contable; las prohibiciones para contratar tienen causas y procedimientos propios.",
+    "norma": "Ley 9/2017, de Contratos del Sector Público",
+    "articulo": "71"
+  },
+  {
+    "id": "B2T20-020",
+    "bloque": 2,
+    "tema": 20,
+    "test": 20,
+    "dificultad": "dificil",
+    "pregunta": "Según el art. 145 LCSP, ¿puede el precio ser el único criterio de adjudicación de un contrato del sector público?",
+    "opciones": {
+      "A": "Sí, siempre; el precio es el criterio objetivo por excelencia y la ley permite usarlo como único criterio en todos los contratos.",
+      "B": "No, nunca; la LCSP 2017 prohíbe expresamente que el precio sea el único criterio de adjudicación en ningún tipo de contrato.",
+      "C": "Sí, pero solo cuando las condiciones técnicas que definan la prestación estén perfectamente determinadas y el precio sea el único elemento de variación entre ofertas, debiendo justificarse expresamente en el pliego.",
+      "D": "Solo si todos los licitadores acreditan la misma clasificación empresarial y la misma antigüedad en el sector."
+    },
+    "correcta": "C",
+    "explicacion": "El art. 145.1 LCSP establece la regla general de la mejor relación calidad-precio como criterio de adjudicación, con criterios cualitativos y económicos. Sin embargo, el propio artículo admite que el precio sea el único criterio cuando la prestación esté perfectamente definida en sus aspectos técnicos (no hay margen para diferenciación cualitativa entre ofertas) y así se justifique motivadamente en el pliego. En ese caso, la competencia se produce únicamente en precio y el uso del criterio único no vulnera los principios de transparencia ni igualdad.",
+    "why": "A la ley no permite el precio como criterio único de forma general; la regla es la multi-criterio calidad-precio. B la ley sí contempla el precio único en casos específicos y justificados; la prohibición absoluta no existe. D la clasificación y antigüedad del licitador son criterios de selección y solvencia, no criterios de adjudicación de la oferta.",
+    "norma": "Ley 9/2017, de Contratos del Sector Público",
+    "articulo": "145"
+  }
+]
