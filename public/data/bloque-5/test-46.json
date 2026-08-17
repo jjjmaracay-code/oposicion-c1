@@ -1,0 +1,382 @@
+[
+  {
+    "id": "B5T46-001",
+    "bloque": 5,
+    "tema": 46,
+    "test": 46,
+    "dificultad": "facil",
+    "pregunta": "¿Cómo se organiza la interfaz de Microsoft Excel y cuáles son sus elementos principales?",
+    "opciones": {
+      "A": "Excel no usa el sistema de filas y columnas; organiza los datos en páginas numeradas, igual que un procesador de textos.",
+      "B": "La barra de fórmulas de Excel muestra solo el resultado de las fórmulas, nunca su contenido interno.",
+      "C": "La interfaz de Excel se organiza en un libro (archivo .xlsx) que contiene hojas de cálculo; cada hoja es una cuadrícula formada por columnas (identificadas con letras: A, B, C… Z, AA, AB…) y filas (numeradas 1, 2, 3…); la intersección de una columna y una fila es una celda, identificada por su referencia (p. ej., B3); la barra de fórmulas (sobre la cuadrícula) muestra el contenido real de la celda activa (texto, número o fórmula); el cuadro de nombres (a la izquierda de la barra de fórmulas) muestra la referencia de la celda activa o el nombre de un rango.",
+      "D": "En Excel cada hoja solo puede tener como máximo 256 filas y 256 columnas; si se necesitan más datos hay que crear un nuevo libro."
+    },
+    "correcta": "C",
+    "explicacion": "Microsoft Excel organiza los datos en una estructura de cuadrícula: (1) Libro (Workbook): el archivo .xlsx; puede contener múltiples hojas de cálculo; las pestañas de las hojas aparecen en la parte inferior de la ventana. (2) Hoja de cálculo (Worksheet): una cuadrícula de celdas; en Excel 365/2021 cada hoja tiene 1.048.576 filas (numeradas) y 16.384 columnas (etiquetadas A a XFD). (3) Celda: la intersección de una columna y una fila; se identifica por la combinación letra+número (A1, B3, XFD1048576); la celda activa tiene un borde verde/azul resaltado. (4) Barra de fórmulas (Formula Bar): muestra el contenido real de la celda activa; si la celda contiene una fórmula (p. ej., =SUMA(A1:A10)), muestra la fórmula, no el resultado; para ver el resultado hay que mirar la propia celda. (5) Cuadro de nombres (Name Box): a la izquierda de la barra de fórmulas; muestra la referencia de la celda activa (p. ej., «B3»); también se usa para navegar a una celda o rango escribiendo su referencia y pulsando Enter, o para asignar nombres a rangos. (6) Cinta de opciones (ribbon): organizada en pestañas temáticas (Inicio, Insertar, Diseño de página, Fórmulas, Datos, Revisar, Vista). (7) Barra de estado (inferior): muestra información contextual de las celdas seleccionadas (suma, promedio, recuento, mínimo, máximo) y controles de zoom y de vista.",
+    "why": "A Excel usa columnas (letras) y filas (números) formando una cuadrícula de celdas; no organiza datos en páginas como un procesador de textos. B la barra de fórmulas muestra el contenido real de la celda activa: si es una fórmula, muestra la fórmula; el resultado se ve en la propia celda de la hoja. D Excel 365/2021 tiene 1.048.576 filas y 16.384 columnas por hoja; no se limita a 256×256.",
+    "norma": "Microsoft Excel 365/2021 — Interfaz",
+    "articulo": "Interfaz de Microsoft Excel: libro, hoja, celdas, barra de fórmulas"
+  },
+  {
+    "id": "B5T46-002",
+    "bloque": 5,
+    "tema": 46,
+    "test": 46,
+    "dificultad": "facil",
+    "pregunta": "¿Qué tipos de datos puede contener una celda de Excel y cómo los distingue el programa?",
+    "opciones": {
+      "A": "En Excel, las celdas pueden contener cuatro tipos de datos: texto (cadenas de caracteres, alineadas a la izquierda por defecto), números (enteros y decimales, alineados a la derecha), fechas y horas (almacenadas internamente como números, con el 1 = 1 enero 1900) y valores lógicos (VERDADERO/FALSO); también pueden contener fórmulas (que comienzan con el signo =) que calculan y devuelven un valor de cualquiera de los tipos anteriores; las celdas con error muestran códigos como #DIV/0!, #VALOR!, #REF!, #NOMBRE? o #N/A.",
+      "B": "Excel solo admite números y texto; no tiene tipos de datos para fechas, valores lógicos ni resultados de fórmulas.",
+      "C": "Los valores lógicos en Excel se introducen como 1 (verdadero) y 0 (falso); las palabras VERDADERO y FALSO no son tipos de datos válidos en Excel.",
+      "D": "Las fechas en Excel se almacenan siempre como texto en formato dd/mm/aaaa; no se pueden realizar operaciones matemáticas con ellas."
+    },
+    "correcta": "A",
+    "explicacion": "Excel distingue varios tipos de datos: (1) Texto (strings): cualquier combinación de caracteres que no sea reconocida como número, fecha o valor lógico; se alinea a la izquierda por defecto; para forzar que un número se trate como texto, se antepone un apóstrofo (') o se formatea la celda como Texto antes de escribir. (2) Números: enteros y decimales; se alinean a la derecha; el separador decimal depende de la configuración regional (coma en España, punto en inglés); también incluyen porcentajes y fracciones. (3) Fechas y horas: Excel las almacena internamente como números seriales (1 = 1 de enero de 1900 en el sistema predeterminado de Windows; 0 = 0 de enero de 1900, es decir, 31 de diciembre de 1899); esto permite realizar operaciones matemáticas con fechas (diferencia de días, suma de días). (4) Valores lógicos: VERDADERO (TRUE) y FALSO (FALSE); se muestran en mayúsculas y centrados en la celda. (5) Fórmulas: comienzan con «=» y calculan un resultado que puede ser de cualquier tipo (número, texto, fecha, lógico o error). (6) Errores: #DIV/0! (división entre cero), #VALOR! (tipo de argumento incorrecto), #REF! (referencia no válida), #NOMBRE? (nombre no reconocido), #N/A (valor no disponible, muy frecuente en BUSCARV cuando no encuentra el valor), #NUM! (número inválido), #NULO! (intersección nula).",
+    "why": "B Excel tiene tipos de datos para fechas (almacenadas como números seriales), valores lógicos (VERDADERO/FALSO) y fórmulas que devuelven cualquier tipo. C los valores lógicos se escriben en Excel como VERDADERO y FALSO (o TRUE y FALSE en inglés); también pueden ser resultado de fórmulas condicionales. D las fechas se almacenan como números seriales (no como texto), lo que permite operaciones matemáticas como calcular diferencias en días.",
+    "norma": "Microsoft Excel 365/2021 — Tipos de datos",
+    "articulo": "Tipos de datos en celdas de Excel: texto, números, fechas, lógicos y errores"
+  },
+  {
+    "id": "B5T46-003",
+    "bloque": 5,
+    "tema": 46,
+    "test": 46,
+    "dificultad": "facil",
+    "pregunta": "¿Cómo se seleccionan rangos de celdas en Excel y cómo se nombran los rangos?",
+    "opciones": {
+      "A": "En Excel solo es posible seleccionar una celda a la vez; para operar con varias celdas hay que hacerlo de una en una.",
+      "B": "La selección de un rango rectangular en Excel siempre se indica con punto y coma (A1;B3); el uso de dos puntos para separar el inicio y el fin del rango no es válido.",
+      "C": "Los nombres de rango en Excel pueden contener espacios; por ejemplo, «ventas enero» es un nombre de rango válido.",
+      "D": "Un rango es un conjunto de una o más celdas; los rangos rectangulares se indican con dos puntos entre la celda inicial y la final (A1:C5 = todas las celdas de A1 a C5); los rangos no contiguos se indican con punto y coma (A1:A5;C1:C5); se pueden seleccionar con: clic + arrastrar, Mayús+clic (amplía hasta la celda pulsada), Ctrl+clic o Ctrl+arrastrar (selección múltiple no contigua), Ctrl+Mayús+Fin (hasta la última celda usada), Ctrl+A (toda la hoja); los rangos pueden nombrarse desde el cuadro de nombres o desde Fórmulas > Administrador de nombres y usarse en fórmulas por su nombre."
+    },
+    "correcta": "D",
+    "explicacion": "Los rangos son la unidad básica de trabajo en Excel: (1) Notación de rango: dos puntos (:) separan la celda inicial de la final en un rango rectangular: A1:C5 incluye todas las celdas desde A1 hasta C5 (15 celdas); punto y coma (;) une rangos no contiguos: A1:A5;C1:C5 incluye las columnas A y C de las filas 1 a 5. (2) Métodos de selección: clic en celda: selecciona una celda. Clic + arrastrar: selecciona el rango arrastrado. Mayús+clic: amplía la selección hasta la celda pulsada (rango rectangular). Ctrl+clic o Ctrl+arrastrar: añade celdas no contiguas a la selección. Ctrl+Mayús+Fin: amplía la selección hasta la última celda usada de la hoja. Ctrl+Mayús+Inicio: amplía hasta A1. Ctrl+A: selecciona toda la hoja (o la tabla si el cursor está dentro de una). (3) Nombres de rango: cualquier rango puede tener un nombre descriptivo (p. ej., «Ventas», «DatosEmpleados»); reglas: sin espacios (se usa guion bajo en su lugar), no puede comenzar con número, máximo 255 caracteres; se definen en el cuadro de nombres (escribir el nombre y pulsar Enter con el rango seleccionado) o en Fórmulas > Definir nombre; se usan en fórmulas: =SUMA(Ventas) es equivalente a =SUMA(B2:B50).",
+    "why": "A es perfectamente posible seleccionar múltiples celdas a la vez en Excel usando arrastre, Mayús+clic, Ctrl+clic, etc. B los rangos rectangulares se indican con dos puntos (A1:C5), no con punto y coma; el punto y coma une rangos no contiguos. C los nombres de rango en Excel no pueden contener espacios; se usan guiones bajos en su lugar (ventas_enero).",
+    "norma": "Microsoft Excel 365/2021 — Rangos y nombres",
+    "articulo": "Selección y nomenclatura de rangos en Excel"
+  },
+  {
+    "id": "B5T46-004",
+    "bloque": 5,
+    "tema": 46,
+    "test": 46,
+    "dificultad": "facil",
+    "pregunta": "¿Cómo se da formato a las celdas en Excel y qué opciones incluye el cuadro de diálogo Formato de celdas?",
+    "opciones": {
+      "A": "El formato de celdas en Excel solo afecta al aspecto visual; nunca modifica el valor subyacente almacenado en la celda ni cambia cómo lo interpretan las fórmulas.",
+      "B": "El cuadro de diálogo Formato de celdas (Ctrl+1 o clic derecho > Formato de celdas) tiene seis pestañas: Número (categorías: General, Número, Moneda, Contabilidad, Fecha, Hora, Porcentaje, Fracción, Científico, Texto, Especial, Personalizada), Alineación (horizontal, vertical, orientación del texto, ajuste de texto, combinar celdas), Fuente (tipo, estilo, tamaño, color, efectos), Borde (estilo y color de los bordes de las celdas), Relleno (color de fondo, tramas) y Protección (bloqueada, oculta).",
+      "C": "El formato de número en Excel solo tiene dos opciones: Número y Texto; no existen categorías para fecha, porcentaje, moneda ni formatos científicos.",
+      "D": "Para combinar celdas en Excel hay que usar exclusivamente la opción de la pestaña Insertar; no existe ninguna opción de combinación en el cuadro de diálogo Formato de celdas."
+    },
+    "correcta": "B",
+    "explicacion": "El formato de celdas en Excel permite controlar cómo se visualizan y organizan los datos sin cambiar el valor subyacente: (1) Acceso: Ctrl+1, o clic derecho > Formato de celdas, o desde la cinta pestaña Inicio > grupo Celdas > Formato > Formato de celdas. El cuadro de diálogo tiene seis pestañas: (2) Número: categorías de formato: General (sin formato específico), Número (decimales, separador de miles), Moneda (símbolo de moneda), Contabilidad (alineación decimal en columna), Fecha y Hora (formatos de fecha y hora), Porcentaje (multiplica el valor por 100 y añade %), Fracción, Científico, Texto (el valor se trata como texto), Especial (códigos postales, teléfonos), Personalizada (formato definido por el usuario con códigos como #.##0,00 o dd/mm/aaaa). (3) Alineación: alineación horizontal (izquierda, centrada, derecha, justificada, centrada en la selección), vertical (superior, centrada, inferior), orientación del texto (ángulo en grados), ajuste de texto (texto en varias líneas dentro de la celda), combinar celdas (une varias celdas en una), reducir hasta ajustar. (4) Fuente: tipo de letra, estilo (negrita, cursiva), tamaño, color, efectos (tachado, superíndice, subíndice). (5) Borde: estilos y colores de borde (izquierdo, derecho, superior, inferior, diagonal). (6) Relleno: color de fondo de la celda, tramas. (7) Protección: bloqueada (impide edición cuando la hoja está protegida), oculta (oculta la fórmula en la barra de fórmulas cuando la hoja está protegida).",
+    "why": "A aunque el formato no cambia el valor numérico almacenado, aplicar el formato «Texto» antes de escribir un número hace que Excel lo trate como texto en operaciones posteriores; el formato sí puede afectar a la interpretación. C el cuadro de diálogo Número tiene muchas categorías: General, Número, Moneda, Contabilidad, Fecha, Hora, Porcentaje, Fracción, Científico, Texto, Especial y Personalizada. D la opción de combinar celdas está en la pestaña Alineación del cuadro de diálogo Formato de celdas (Ctrl+1), así como en el botón «Combinar y centrar» de la pestaña Inicio.",
+    "norma": "Microsoft Excel 365/2021 — Inicio > Formato de celdas",
+    "articulo": "Formato de celdas en Excel: cuadro de diálogo y opciones"
+  },
+  {
+    "id": "B5T46-005",
+    "bloque": 5,
+    "tema": 46,
+    "test": 46,
+    "dificultad": "facil",
+    "pregunta": "¿Cuáles son las funciones estadísticas básicas de Excel y cómo se usan?",
+    "opciones": {
+      "A": "=SUMA() en Excel solo puede sumar celdas individuales listadas una a una; no puede sumar rangos completos como A1:A100.",
+      "B": "=PROMEDIO() en Excel calcula la suma de los valores dividida entre el número total de celdas del rango, incluidas las celdas vacías en el denominador.",
+      "C": "Las funciones estadísticas básicas de Excel son: =SUMA(rango) — suma todos los valores numéricos del rango; =PROMEDIO(rango) — media aritmética (suma entre número de celdas no vacías con valor numérico); =MAX(rango) — valor máximo; =MIN(rango) — valor mínimo; =CONTAR(rango) — cuenta las celdas con valores numéricos; =CONTARA(rango) — cuenta las celdas no vacías; =CONTAR.BLANCO(rango) — cuenta las celdas vacías; se puede usar autosuma (Alt+=) para insertar =SUMA() sobre el rango contiguo superior o izquierdo.",
+      "D": "=MAX() devuelve la posición de la celda con el valor máximo dentro del rango, no el valor máximo en sí."
+    },
+    "correcta": "C",
+    "explicacion": "Las funciones básicas de estadística descriptiva en Excel son las más utilizadas en hojas de cálculo: (1) =SUMA(rango): suma todos los valores numéricos del rango; ignora texto y celdas vacías; admite múltiples rangos: =SUMA(A1:A10;C1:C10). Atajo: Alt+= inserta =SUMA() con el rango contiguo detectado automáticamente. (2) =PROMEDIO(rango): calcula la media aritmética; divide la suma entre el número de celdas con valor numérico (ignora vacías y texto en el denominador); si el rango está vacío devuelve el error #DIV/0!. (3) =MAX(rango): devuelve el valor máximo numérico del rango; ignora texto y celdas vacías. (4) =MIN(rango): devuelve el valor mínimo numérico. (5) =CONTAR(rango) / COUNT: cuenta las celdas que contienen valores numéricos (ignora texto y vacías). (6) =CONTARA(rango) / COUNTA: cuenta las celdas no vacías (incluye texto, números, fechas). (7) =CONTAR.BLANCO(rango) / COUNTBLANK: cuenta las celdas vacías. (8) =MEDIANA(rango): valor central de los datos ordenados. (9) =MODA(rango) / MODA.UNO: valor más frecuente. (10) =DESVEST(rango) / DESVEST.M: desviación estándar muestral. Todas estas funciones aceptan múltiples rangos separados por punto y coma como argumentos.",
+    "why": "A =SUMA() acepta rangos completos (A1:A100) además de celdas individuales; es uno de sus usos más habituales. B =PROMEDIO() divide la suma entre el número de celdas con valor numérico, ignorando las celdas vacías en el denominador; incluirlas cambiaría el resultado incorrectamente. D =MAX() devuelve el valor máximo, no la posición; para encontrar la posición se usa =COINCIDIR() o =BUSCARV().",
+    "norma": "Microsoft Excel 365/2021 — Fórmulas > Función",
+    "articulo": "Funciones estadísticas básicas en Excel: SUMA, PROMEDIO, MAX, MIN, CONTAR"
+  },
+  {
+    "id": "B5T46-006",
+    "bloque": 5,
+    "tema": 46,
+    "test": 46,
+    "dificultad": "facil",
+    "pregunta": "¿Qué son las referencias relativas, absolutas y mixtas en Excel y cómo se comportan al copiar fórmulas?",
+    "opciones": {
+      "A": "Las referencias relativas (A1) se ajustan automáticamente al copiar la fórmula: si se copia una fila hacia abajo, el número de fila aumenta; si se copia hacia la derecha, la letra de columna avanza; las referencias absolutas ($A$1) no se modifican al copiar; las mixtas bloquean solo la columna ($A1) o solo la fila (A$1); el signo $ se inserta manualmente o pulsando F4 sobre la referencia en la barra de fórmulas (cicla entre los cuatro modos: A1, $A$1, A$1, $A1).",
+      "B": "Las referencias absolutas ($A$1) y las relativas (A1) son equivalentes en Excel; el signo $ no tiene ningún efecto sobre el comportamiento al copiar fórmulas.",
+      "C": "Al copiar una fórmula en Excel, todas las referencias siempre se ajustan automáticamente independientemente de si llevan el signo $ o no.",
+      "D": "El signo $ en una referencia de Excel indica que la celda contiene un valor monetario en euros; no tiene relación con el comportamiento de las referencias al copiar fórmulas."
+    },
+    "correcta": "A",
+    "explicacion": "Las referencias de celda determinan cómo se comporta una fórmula al copiarse a otra posición: (1) Referencias relativas (A1): la referencia es relativa a la posición de la fórmula; al copiar, Excel ajusta la referencia según el desplazamiento: si la fórmula está en C1 y referencia A1 (2 columnas a la izquierda, misma fila), al copiar a D2 referenciará B2 (2 columnas a la izquierda, misma fila relativa). Son el tipo predeterminado. (2) Referencias absolutas ($A$1): ni la columna ni la fila cambian al copiar; la fórmula siempre apunta a la misma celda; muy útiles para factores fijos (tipos de IVA, tasas, etc.): =B2*$D$1 multiplicará siempre por la misma celda D1 aunque la fórmula se copie a otras filas. (3) Referencias mixtas: $A1 (columna A fija, fila relativa) o A$1 (columna relativa, fila 1 fija); útiles para tablas de multiplicar o matrices de cálculo donde se quiere fijar solo una dimensión. (4) Insertar $: se puede teclear manualmente o pulsar F4 en la barra de fórmulas mientras el cursor está sobre la referencia: cicla entre A1 → $A$1 → A$1 → $A1 → A1.",
+    "why": "B el signo $ tiene un efecto fundamental: bloquea la columna, la fila o ambas al copiar la fórmula; relativa y absoluta se comportan de forma completamente diferente. C al copiar fórmulas, solo las referencias relativas (sin $) se ajustan; las absolutas ($A$1) permanecen fijas. D el signo $ en una referencia de Excel es el operador de anclaje de referencia, no un indicador de moneda; la moneda se configura en el formato de número de la celda.",
+    "norma": "Microsoft Excel 365/2021 — Fórmulas > Referencias",
+    "articulo": "Referencias relativas, absolutas y mixtas en Excel"
+  },
+  {
+    "id": "B5T46-007",
+    "bloque": 5,
+    "tema": 46,
+    "test": 46,
+    "dificultad": "media",
+    "pregunta": "¿Cómo funciona la función SI() en Excel y cómo se combina con Y() y O() para condiciones múltiples?",
+    "opciones": {
+      "A": "=SI() en Excel solo acepta un argumento (la condición); no puede devolver valores diferentes según si la condición es verdadera o falsa.",
+      "B": "=SI() en Excel puede anidarse un máximo de 2 niveles; para condiciones más complejas hay que usar macros VBA.",
+      "C": "=Y() en Excel devuelve la suma de sus argumentos lógicos, no un valor VERDADERO o FALSO.",
+      "D": "=SI(condición; valor_si_verdadero; valor_si_falso) evalúa la condición y devuelve el primer valor si es VERDADERO o el segundo si es FALSO; =Y(cond1;cond2;…) devuelve VERDADERO solo si TODAS las condiciones son verdaderas; =O(cond1;cond2;…) devuelve VERDADERO si AL MENOS UNA condición es verdadera; se anidan: =SI(Y(A1>0;B1>0);\"Ambos positivos\";\"Alguno negativo\"); =CONTAR.SI(rango;criterio) cuenta las celdas que cumplen el criterio; =SUMAR.SI(rango;criterio;rango_suma) suma las celdas del rango_suma correspondientes a las celdas del rango que cumplen el criterio."
+    },
+    "correcta": "D",
+    "explicacion": "Las funciones condicionales son fundamentales en Excel: (1) =SI(prueba_lógica; valor_si_verdadero; valor_si_falso): evalúa una condición y devuelve un valor u otro; los valores pueden ser texto (entre comillas), números, referencias a celdas u otras fórmulas; el tercer argumento (valor_si_falso) es opcional y vale FALSO si se omite. (2) =Y(lógico1; lógico2; …) / AND: devuelve VERDADERO solo si TODOS los argumentos son verdaderos; equivale al operador lógico AND. (3) =O(lógico1; lógico2; …) / OR: devuelve VERDADERO si AL MENOS UNO de los argumentos es verdadero; equivale al operador lógico OR. (4) =NO(lógico) / NOT: invierte el valor lógico. (5) Anidamiento: =SI(Y(A1>5; B1>5); «Aprobado»; «Suspenso») devuelve «Aprobado» solo si tanto A1 como B1 son mayores que 5. =SI(O(A1>5; B1>5); «Al menos uno aprobado»; «Ambos suspensos»). En Excel 365, =SI() puede anidarse hasta 64 niveles, pero para muchas condiciones conviene usar =SI.CONJUNTO() o =CAMBIAR(). (6) =CONTAR.SI(rango; criterio) / COUNTIF: cuenta las celdas del rango que coinciden con el criterio («>5», «=Sí», «Madrid»). (7) =SUMAR.SI(rango; criterio; [rango_suma]) / SUMIF: suma los valores de rango_suma donde el rango cumple el criterio. (8) =CONTAR.SI.CONJUNTO() y =SUMAR.SI.CONJUNTO() aceptan múltiples pares rango/criterio.",
+    "why": "A =SI() tiene tres argumentos: la condición, el valor si verdadero y el valor si falso; devuelve uno de los dos valores posibles. B =SI() puede anidarse hasta 64 niveles en Excel 365; para muchas condiciones se usa =SI.CONJUNTO(). C =Y() devuelve VERDADERO o FALSO según si todas las condiciones son verdaderas; no realiza ninguna suma.",
+    "norma": "Microsoft Excel 365/2021 — Fórmulas > Lógicas",
+    "articulo": "Funciones SI(), Y(), O(), CONTAR.SI() y SUMAR.SI() en Excel"
+  },
+  {
+    "id": "B5T46-008",
+    "bloque": 5,
+    "tema": 46,
+    "test": 46,
+    "dificultad": "media",
+    "pregunta": "¿Cómo se ordenan y filtran datos en Excel?",
+    "opciones": {
+      "A": "En Excel, ordenar datos reordena físicamente las filas según los valores de la columna elegida; solo es posible ordenar por una columna a la vez.",
+      "B": "La ordenación de datos en Excel (Datos > Ordenar o los botones A→Z y Z→A) puede realizarse por una o varias columnas (hasta 64 niveles) con criterios de orden ascendente o descendente, por valor, color de celda, color de fuente o icono; el filtro automático (Datos > Filtro o Ctrl+Mayús+L) añade flechas desplegables en los encabezados para filtrar por valor, color o condición personalizada (mayor que, entre, contiene texto…) sin eliminar los datos, solo ocultando las filas que no cumplen el criterio; el filtro avanzado permite criterios más complejos y copiar los resultados a otra ubicación.",
+      "C": "El filtro automático de Excel elimina permanentemente las filas que no cumplen el criterio de filtrado; para recuperarlas hay que deshacer la operación.",
+      "D": "Al ordenar una tabla en Excel con múltiples columnas, solo se puede usar la columna A como criterio de ordenación principal."
+    },
+    "correcta": "B",
+    "explicacion": "Ordenar y filtrar son las operaciones de gestión de datos más frecuentes en Excel: (1) Ordenar (Datos > Ordenar o botones A→Z / Z→A en la cinta): ordena las filas de la tabla según los valores de las columnas elegidas; orden ascendente (A→Z, menor a mayor, más antiguo a más reciente) o descendente; permite ordenar por múltiples columnas (hasta 64 niveles de ordenación): el primer nivel es el criterio principal; si hay empate, se aplica el segundo nivel, etc.; criterios de ordenación: por Valor de celda, Color de celda, Color de fuente o Icono de conjunto de iconos; respeta o no la distinción entre mayúsculas y minúsculas (opción avanzada). (2) Filtro automático (Datos > Filtro, o Ctrl+Mayús+L con el cursor en la tabla): añade flechas «▼» en los encabezados de columna; al pulsar la flecha: lista de valores únicos para marcar/desmarcar, filtros de número (mayor que, menor que, entre, 10 mejores, por encima del promedio, etc.), filtros de texto (comienza por, termina en, contiene, no contiene…), filtros de fecha (ayer, esta semana, este mes, etc.); las filas que no cumplen el criterio se ocultan (no se eliminan); las filas ocultas tienen el número en azul; para quitar el filtro: botón «Borrar» de la cinta o volver a Datos > Filtro. (3) Filtro avanzado (Datos > Avanzado): permite definir criterios en un rango de celdas de la hoja y copiar los resultados filtrados a otra ubicación.",
+    "why": "A la ordenación puede realizarse por múltiples columnas (hasta 64 niveles) simultáneamente usando Datos > Ordenar. C el filtro automático oculta las filas que no cumplen el criterio pero no las elimina; para quitar el filtro y mostrar todas las filas, basta con borrar el filtro. D se puede usar cualquier columna como criterio principal de ordenación, no solo la columna A.",
+    "norma": "Microsoft Excel 365/2021 — Datos > Ordenar; Datos > Filtro",
+    "articulo": "Ordenar y filtrar datos en Excel"
+  },
+  {
+    "id": "B5T46-009",
+    "bloque": 5,
+    "tema": 46,
+    "test": 46,
+    "dificultad": "media",
+    "pregunta": "¿Cómo se crean gráficos en Excel y cuáles son los tipos principales disponibles?",
+    "opciones": {
+      "A": "Los gráficos en Excel solo pueden crearse a partir de datos en una única columna; no se admiten rangos de varias columnas como datos de origen.",
+      "B": "Excel no permite cambiar el tipo de gráfico una vez creado; hay que eliminar el gráfico y crear uno nuevo si se quiere un tipo diferente.",
+      "C": "Los gráficos en Excel se crean seleccionando el rango de datos y usando Insertar > grupo Gráficos (o Alt+F1 para insertar rápidamente un gráfico en la hoja activa, F11 para crearlo en hoja aparte); los tipos principales son: Columnas/Barras (comparación de categorías), Líneas (tendencias a lo largo del tiempo), Circular/Anillo (proporciones de un total), Dispersión/XY (correlación entre dos variables numéricas), Área (tendencia con énfasis en el volumen), Radar, Histograma, Combinado (dos tipos en un mismo gráfico); los gráficos se vinculan a los datos de origen y se actualizan automáticamente cuando los datos cambian.",
+      "D": "Los gráficos circulares (de tarta) de Excel pueden representar varias series de datos a la vez; no están limitados a una sola serie."
+    },
+    "correcta": "C",
+    "explicacion": "Los gráficos son la herramienta de visualización de datos integrada en Excel: (1) Crear un gráfico: seleccionar el rango de datos (incluyendo los encabezados) > Insertar > grupo Gráficos > elegir el tipo; atajo: Alt+F1 inserta el gráfico recomendado en la hoja activa como objeto flotante; F11 crea el gráfico en una hoja aparte (Chart Sheet). (2) Tipos principales: Columnas (barras verticales): comparar valores entre categorías. Barras (barras horizontales): igual que columnas pero horizontal; útil cuando las etiquetas son largas. Líneas: mostrar tendencias a lo largo del tiempo. Circular (tarta/pie): mostrar la proporción de cada categoría respecto al total; solo admite una serie de datos. Anillo (dona): similar al circular pero admite múltiples series. Dispersión (XY): correlación entre dos variables numéricas. Área: tendencias con énfasis en el volumen acumulado. Radar: comparar múltiples variables en un patrón radial. Histograma: distribución de frecuencias. Combinado: usa dos tipos de gráfico en uno (p. ej., columnas + líneas con eje secundario). (3) Edición: al seleccionar el gráfico aparecen las pestañas contextuales Diseño de gráfico y Formato; Diseño > Cambiar tipo de gráfico permite modificarlo en cualquier momento. (4) Actualización: los gráficos están vinculados a sus datos; al modificar los datos, el gráfico se actualiza automáticamente.",
+    "why": "A los gráficos pueden crearse a partir de rangos con múltiples columnas y filas. B Excel permite cambiar el tipo de gráfico en cualquier momento desde Diseño > Cambiar tipo de gráfico sin necesidad de eliminarlo. D los gráficos circulares (tarta) solo admiten UNA serie de datos; para múltiples series hay que usar gráficos de barras, columnas, líneas o el tipo anillo.",
+    "norma": "Microsoft Excel 365/2021 — Insertar > Gráficos",
+    "articulo": "Gráficos en Excel: tipos y creación"
+  },
+  {
+    "id": "B5T46-010",
+    "bloque": 5,
+    "tema": 46,
+    "test": 46,
+    "dificultad": "media",
+    "pregunta": "¿Qué son las tablas de datos en Excel y qué ventajas ofrecen frente a un rango normal?",
+    "opciones": {
+      "A": "Las tablas de datos en Excel (Insertar > Tabla o Ctrl+T) convierten un rango en una estructura estructurada con encabezados, filtros automáticos integrados, bandas de color alternadas, referenciación estructurada ([@Ventas] en lugar de B2) y expansión automática al añadir filas o columnas; las fórmulas dentro de la tabla se copian automáticamente a toda la columna cuando se introducen en una celda; se pueden convertir a rango con clic derecho > Tabla > Convertir en rango.",
+      "B": "Las tablas de datos de Excel solo pueden tener una columna; para múltiples columnas hay que usar una base de datos Access externa.",
+      "C": "Las tablas de Excel no admiten filtros; los filtros automáticos solo funcionan en rangos sin formato de tabla.",
+      "D": "Las tablas de Excel no pueden contener fórmulas; solo admiten datos estáticos sin cálculos."
+    },
+    "correcta": "A",
+    "explicacion": "Las tablas de datos (Table) son una función de Excel que añade capacidades avanzadas a los rangos de datos: (1) Crear: seleccionar el rango de datos (con encabezados) > Insertar > Tabla (Ctrl+T) > confirmar el rango y si tiene encabezados. (2) Características: Encabezados con filtros automáticos: cada columna tiene una flecha «▼» para filtrar y ordenar. Estilo visual: bandas de color alternadas (filas pares/impares) y fila de totales opcional. Expansión automática: al escribir en la celda contigua a la derecha o abajo de la tabla, esta se expande automáticamente. Referencias estructuradas: en lugar de referencias de celda tradicionales (B2:B100), las fórmulas dentro de una tabla usan nombres descriptivos: =SUMA(Tabla1[Ventas]) o =[@Precio]*[@Cantidad]; esto hace las fórmulas más legibles y se adaptan automáticamente al tamaño de la tabla. Fórmulas automáticas: al introducir una fórmula en una celda de columna, se copia automáticamente a todas las filas de esa columna. Fila de totales: pestaña Diseño de tabla > marcar «Fila de totales»; muestra funciones de resumen (suma, promedio, recuento, etc.) seleccionables en cada columna. (3) Nombres de tabla: las tablas tienen nombres automáticos (Tabla1, Tabla2…) que se pueden cambiar desde la pestaña Diseño de tabla; se usan en fórmulas y tablas dinámicas. (4) Convertir a rango: clic derecho > Tabla > Convertir en rango; elimina la estructura de tabla manteniendo el estilo visual.",
+    "why": "B las tablas de Excel pueden tener cualquier número de columnas y filas; no hay ninguna limitación de una sola columna ni necesidad de Access. C las tablas incluyen filtros automáticos integrados en los encabezados de cada columna. D las tablas admiten fórmulas en cualquier columna; de hecho, cuando se introduce una fórmula en una celda de tabla, esta se replica automáticamente en toda la columna.",
+    "norma": "Microsoft Excel 365/2021 — Insertar > Tabla",
+    "articulo": "Tablas de datos en Excel: referencias estructuradas y ventajas"
+  },
+  {
+    "id": "B5T46-011",
+    "bloque": 5,
+    "tema": 46,
+    "test": 46,
+    "dificultad": "media",
+    "pregunta": "¿Qué son las tablas dinámicas (pivot tables) en Excel y para qué se usan?",
+    "opciones": {
+      "A": "Las tablas dinámicas de Excel son gráficos tridimensionales; no tienen relación con el análisis o resumen de datos en formato de tabla.",
+      "B": "Las tablas dinámicas solo pueden crearse a partir de datos en Access; no admiten datos almacenados directamente en una hoja de cálculo Excel.",
+      "C": "Las tablas dinámicas no pueden agrupar datos por fecha; solo agrupan por texto y por valores numéricos.",
+      "D": "Las tablas dinámicas (Insertar > Tabla dinámica) son herramientas de análisis que resumen, agrupan, cuentan y calculan grandes conjuntos de datos de forma interactiva; se configuran arrastrando campos a las áreas: Filtros (filtro global), Columnas (encabezados de columna), Filas (encabezados de fila) y Valores (el dato que se agrega: suma, recuento, promedio, máximo, mínimo…); permiten agrupar datos por fecha (año, trimestre, mes), segmentar con segmentaciones de datos (Slicers) y crear gráficos dinámicos vinculados; al cambiar los datos de origen, la tabla dinámica se actualiza con el botón Actualizar."
+    },
+    "correcta": "D",
+    "explicacion": "Las tablas dinámicas (Pivot Tables) son la herramienta de análisis de datos más potente de Excel: (1) Crear: Insertar > Tabla dinámica; se elige el rango de datos de origen o una tabla con nombre; se selecciona la ubicación (nueva hoja o hoja existente). (2) Panel de campos: lista todos los campos (columnas) del origen; se arrastran a cuatro áreas: Filtros: filtra todos los datos de la tabla dinámica según el valor elegido. Columnas: los valores únicos de este campo se convierten en encabezados de columna. Filas: los valores únicos de este campo se muestran en las filas (agrupando los datos). Valores: el campo numérico que se agrega; la función de agregación predeterminada es SUMA para números y CONTAR para texto; se puede cambiar a Promedio, Máximo, Mínimo, Recuento de números, % del total, etc. (3) Agrupación: clic derecho sobre una celda de fecha > Agrupar > seleccionar por Años, Trimestres, Meses, Días; también agrupa números en intervalos. (4) Segmentaciones de datos (Slicers): botones visuales para filtrar la tabla dinámica interactivamente; se insertan desde Insertar > Segmentación de datos (con la tabla dinámica seleccionada). (5) Escalas de tiempo (Timeline): filtros interactivos específicos para fechas. (6) Gráfico dinámico: Insertar > Gráfico dinámico; vinculado a la tabla dinámica; se actualiza al cambiar la tabla. (7) Actualizar: clic derecho en la tabla dinámica > Actualizar (o pestaña Analizar > Actualizar).",
+    "why": "A las tablas dinámicas son tablas de resumen y análisis de datos, no gráficos tridimensionales. B las tablas dinámicas pueden crearse a partir de datos en la propia hoja Excel, en una tabla con nombre, en un modelo de datos de Power Pivot, en Access, en una fuente ODBC y otras fuentes. C las tablas dinámicas agrupan datos por fecha (año, trimestre, mes, día, hora) con la función «Agrupar»; es una de sus capacidades más útiles.",
+    "norma": "Microsoft Excel 365/2021 — Insertar > Tabla dinámica",
+    "articulo": "Tablas dinámicas (Pivot Tables) en Excel"
+  },
+  {
+    "id": "B5T46-012",
+    "bloque": 5,
+    "tema": 46,
+    "test": 46,
+    "dificultad": "media",
+    "pregunta": "¿Cómo funcionan las funciones BUSCARV, BUSCARH y BUSCARX en Excel?",
+    "opciones": {
+      "A": "=BUSCARV() busca un valor en la primera fila de un rango (búsqueda horizontal) y devuelve el valor de la fila indicada.",
+      "B": "=BUSCARV(valor_buscado; rango_tabla; núm_columna_índice; [orden]) busca el valor_buscado en la primera columna del rango_tabla y devuelve el valor de la columna núm_columna_índice de la misma fila; el cuarto argumento: FALSO = coincidencia exacta (la más segura), VERDADERO = coincidencia aproximada (requiere datos ordenados); =BUSCARH() funciona igual pero busca en la primera FILA y devuelve el valor de la fila indicada (búsqueda horizontal); =BUSCARX(valor_buscado; rango_búsqueda; rango_retorno; [si_no_encuentra]; [modo_coincidencia]; [modo_búsqueda]) es más flexible y moderno: busca en cualquier columna o fila, devuelve cualquier rango y maneja los «no encontrado» de forma nativa.",
+      "C": "=BUSCARV() puede buscar en cualquier columna del rango, no solo en la primera columna.",
+      "D": "=BUSCARV() con el cuarto argumento VERDADERO realiza siempre una coincidencia exacta; el argumento FALSO realiza una búsqueda aproximada en datos ordenados."
+    },
+    "correcta": "B",
+    "explicacion": "Las funciones de búsqueda son esenciales para relacionar datos de distintas tablas: (1) =BUSCARV(valor_buscado; rango_tabla; núm_columna_índice; [exacta]) / VLOOKUP: Busca el valor_buscado en la PRIMERA COLUMNA del rango_tabla; devuelve el valor de la columna núm_columna_índice de la misma fila; cuarto argumento: FALSO (o 0) = coincidencia exacta; si no encuentra, devuelve #N/A; VERDADERO (o 1) = coincidencia aproximada (el rango debe estar ordenado ascendentemente; útil para tablas de rangos como tarifas de IRPF); limitaciones: solo busca en la primera columna; el valor devuelto debe estar a la derecha de la columna de búsqueda; si se insertan/eliminan columnas, el número de índice queda obsoleto. (2) =BUSCARH(valor_buscado; rango_tabla; núm_fila_índice; [exacta]) / HLOOKUP: igual que BUSCARV pero busca en la primera FILA y devuelve el valor de la fila indicada (búsqueda horizontal). (3) =BUSCARX(valor_buscado; rango_búsqueda; rango_retorno; [si_no_encuentra]; [modo_coincidencia]; [modo_búsqueda]) / XLOOKUP: disponible en Excel 365 y Excel 2021; ventajas sobre BUSCARV: busca en cualquier columna (no solo la primera), devuelve el rango a la izquierda o derecha, el argumento «si_no_encuentra» reemplaza el error #N/A con un texto personalizado, puede buscar desde el final, admite búsqueda exacta, aproximada y con comodines.",
+    "why": "A =BUSCARV() busca en la primera COLUMNA (búsqueda vertical); =BUSCARH() es quien busca en la primera FILA (búsqueda horizontal). C =BUSCARV() solo puede buscar en la PRIMERA columna del rango_tabla; si hay que buscar en otra columna, hay que reorganizar los datos o usar =BUSCARX(). D es al contrario: FALSO en el cuarto argumento de =BUSCARV() indica coincidencia EXACTA; VERDADERO indica coincidencia APROXIMADA (requiere datos ordenados).",
+    "norma": "Microsoft Excel 365/2021 — Fórmulas > Búsqueda y referencia",
+    "articulo": "BUSCARV, BUSCARH y BUSCARX en Excel"
+  },
+  {
+    "id": "B5T46-013",
+    "bloque": 5,
+    "tema": 46,
+    "test": 46,
+    "dificultad": "media",
+    "pregunta": "¿Qué es la validación de datos en Excel y cómo se configura?",
+    "opciones": {
+      "A": "La validación de datos de Excel solo permite rechazar valores numéricos fuera de un rango; no puede validar listas desplegables ni fechas.",
+      "B": "La validación de datos de Excel elimina automáticamente los datos inválidos ya introducidos en las celdas cuando se activa la regla de validación.",
+      "C": "La validación de datos (Datos > Validación de datos) permite restringir qué valores se pueden introducir en una celda: cualquier valor, número entero, decimal, lista (desplegable con las opciones permitidas), fecha, hora, longitud de texto o fórmula personalizada; se puede configurar un mensaje de entrada (se muestra al seleccionar la celda) y un mensaje de error (al introducir un valor inválido: Detener, Advertencia o Información); las listas desplegables mejoran la consistencia de los datos y evitan errores tipográficos.",
+      "D": "La validación de datos en Excel solo se puede aplicar a celdas que estén vacías; si la celda ya contiene datos no es posible aplicar validación."
+    },
+    "correcta": "C",
+    "explicacion": "La validación de datos es una herramienta de control de calidad que restringe los datos que se pueden introducir en una celda: (1) Acceso: Datos > Herramientas de datos > Validación de datos. (2) Tipos de criterio de validación: Cualquier valor (sin restricción, pero permite añadir mensaje de entrada). Número entero (dentro de un rango, mayor que, menor que, etc.). Decimal. Lista: los valores permitidos se toman de un rango de celdas o se escriben directamente separados por punto y coma; crea un menú desplegable en la celda. Fecha (dentro de un rango de fechas). Hora. Longitud del texto (mínimo, máximo, igual a N caracteres). Personalizada: una fórmula que devuelva VERDADERO/FALSO; p. ej., =ESNUMERO(A1) para que solo acepte números. (3) Pestaña Mensaje de entrada: texto que aparece como información cuando el usuario selecciona la celda (como guía de qué introducir). (4) Pestaña Mensaje de error: acción cuando el usuario introduce un dato inválido: Detener (rechaza el valor y muestra un error; el usuario debe corregirlo), Advertencia (avisa pero permite aceptar el valor inválido), Información (solo informa; acepta siempre el valor). (5) Circular datos no válidos: Datos > Validación de datos > Rodear con un círculo los datos no válidos; marca en rojo los datos ya existentes que no cumplen la nueva regla. (6) La validación de datos puede aplicarse a celdas con o sin datos existentes.",
+    "why": "A la validación admite listas desplegables, fechas, horas, longitud de texto y fórmulas personalizadas, además de valores numéricos. B la validación no elimina datos inválidos existentes; la opción «Rodear con un círculo los datos no válidos» los marca visualmente, pero no los borra. D la validación de datos puede aplicarse a cualquier celda, tenga o no datos previos; la opción «Rodear» ayuda a identificar los datos ya existentes que no cumplen la nueva regla.",
+    "norma": "Microsoft Excel 365/2021 — Datos > Validación de datos",
+    "articulo": "Validación de datos en Excel: listas, rangos y mensajes de error"
+  },
+  {
+    "id": "B5T46-014",
+    "bloque": 5,
+    "tema": 46,
+    "test": 46,
+    "dificultad": "media",
+    "pregunta": "¿Cómo funciona el formato condicional en Excel?",
+    "opciones": {
+      "A": "El formato condicional (Inicio > Formato condicional) aplica automáticamente formato a las celdas (color de relleno, color de fuente, borde, iconos, barras de datos, escalas de color) según reglas basadas en el valor de la celda o en fórmulas; permite resaltar celdas que cumplen condiciones (mayor que un valor, entre dos valores, igual a un texto, fechas del mes actual…), aplicar escalas de color que degradan de un color a otro según el valor relativo, barras de datos proporcionales al valor, conjuntos de iconos (semáforos, flechas, estrellas); se pueden crear reglas personalizadas con fórmulas.",
+      "B": "El formato condicional de Excel solo puede aplicar color de relleno; no admite cambios de color de fuente, iconos ni barras de datos.",
+      "C": "Las reglas de formato condicional en Excel se aplican permanentemente a las celdas y no pueden eliminarse ni modificarse una vez creadas.",
+      "D": "El formato condicional de Excel solo funciona con valores numéricos; no puede usarse con texto ni con fechas."
+    },
+    "correcta": "A",
+    "explicacion": "El formato condicional (Conditional Formatting) permite que la apariencia de las celdas cambie dinámicamente según sus valores o fórmulas: (1) Acceso: Inicio > grupo Estilos > Formato condicional. (2) Tipos de regla predefinidas: Resaltar reglas de celdas: Mayor que, Menor que, Entre, Igual a, Texto que contiene, Una fecha que ocurre (ayer, esta semana, etc.), Valores duplicados. Reglas superiores/inferiores: Los 10 elementos superiores, el 10 % superior, por encima/debajo del promedio. (3) Tipos de formato visual: Escalas de color: gradiente de 2 o 3 colores según el valor relativo de cada celda (p. ej., rojo=mínimo, amarillo=medio, verde=máximo). Barras de datos: barra proporcional al valor de la celda (como un mini gráfico de barras dentro de la celda). Conjuntos de iconos: icono de semáforo, flecha, estrella o símbolo según el valor (p. ej., verde/amarillo/rojo). (4) Nueva regla: permite definir reglas personalizadas, incluyendo fórmulas: p. ej., =MOD(FILA();2)=0 colorea las filas pares. (5) Administrar reglas: Inicio > Formato condicional > Administrar reglas: muestra, edita y elimina las reglas existentes; permite cambiar el orden de prioridad de las reglas (la primera regla que se cumpla tiene prioridad). (6) Borrar reglas: Inicio > Formato condicional > Borrar reglas > De las celdas seleccionadas / De toda la hoja.",
+    "why": "B el formato condicional puede cambiar el color de relleno, el color de fuente, los bordes, añadir iconos, barras de datos y escalas de color. C las reglas de formato condicional pueden editarse y eliminarse en cualquier momento desde Inicio > Formato condicional > Administrar reglas. D el formato condicional funciona con valores numéricos, texto (contiene, comienza por, etc.) y fechas.",
+    "norma": "Microsoft Excel 365/2021 — Inicio > Formato condicional",
+    "articulo": "Formato condicional en Excel: reglas, escalas, barras e iconos"
+  },
+  {
+    "id": "B5T46-015",
+    "bloque": 5,
+    "tema": 46,
+    "test": 46,
+    "dificultad": "media",
+    "pregunta": "¿Cómo se protegen las hojas de cálculo y los libros en Excel?",
+    "opciones": {
+      "A": "La protección de hoja en Excel bloquea permanentemente el libro completo; no es posible desproteger solo una hoja mientras el resto del libro permanece editable.",
+      "B": "Al proteger una hoja de Excel, todas las celdas quedan bloqueadas por igual; no es posible dejar algunas celdas editables mientras el resto están protegidas.",
+      "C": "La protección de libro en Excel solo impide añadir nuevas hojas; no protege la estructura del libro contra eliminar, mover o renombrar hojas existentes.",
+      "D": "La protección de hoja (Revisar > Proteger hoja) bloquea las celdas marcadas como «Bloqueadas» en su formato (Ctrl+1 > Protección) e impide editarlas salvo que el usuario introduzca la contraseña; las celdas con formato «No bloqueada» permanecen editables aunque la hoja esté protegida (esto permite crear formularios con celdas de entrada libres y celdas de fórmula bloqueadas); la protección de libro (Revisar > Proteger libro) protege la estructura del libro: impide añadir, eliminar, mover, ocultar o renombrar hojas."
+    },
+    "correcta": "D",
+    "explicacion": "Excel ofrece dos niveles de protección: hoja y libro: (1) Protección de hoja (Revisar > Proteger hoja): bloquea solo las celdas que tienen el atributo «Bloqueada» activo en su formato (pestaña Protección del cuadro Formato de celdas, Ctrl+1); por defecto, TODAS las celdas de una hoja nueva tienen el atributo «Bloqueada» activo, pero esta protección no surte efecto hasta que se activa «Proteger hoja»; el flujo habitual para crear formularios: (a) Seleccionar las celdas que el usuario podrá editar > Ctrl+1 > pestaña Protección > desmarcar «Bloqueada». (b) Revisar > Proteger hoja > establecer contraseña (opcional) y elegir qué pueden hacer los usuarios sin contraseña (seleccionar celdas bloqueadas/desbloqueadas, dar formato, ordenar, filtrar, etc.). (c) Para desproteger: Revisar > Desproteger hoja > introducir contraseña. (2) Protección de libro (Revisar > Proteger libro): protege la ESTRUCTURA del libro: impide insertar, eliminar, mover, copiar, ocultar, mostrar o renombrar hojas; también impide cambiar el tamaño o posición de las ventanas del libro; no bloquea la edición del contenido de las celdas. (3) Contraseña de apertura del archivo: Archivo > Información > Proteger libro > Cifrar con contraseña; cifrado AES que impide abrir el archivo sin la contraseña.",
+    "why": "A se puede proteger cada hoja de forma independiente; proteger una hoja no afecta a las demás hojas del libro. B las celdas con el atributo «Bloqueada» desmarcado (Ctrl+1 > Protección) permanecen editables aunque la hoja esté protegida; esto es el mecanismo estándar para crear formularios interactivos. C la protección de libro protege la estructura completa: impide añadir, eliminar, mover, ocultar, mostrar y renombrar hojas.",
+    "norma": "Microsoft Excel 365/2021 — Revisar > Proteger hoja; Proteger libro",
+    "articulo": "Protección de hojas y libros en Excel"
+  },
+  {
+    "id": "B5T46-016",
+    "bloque": 5,
+    "tema": 46,
+    "test": 46,
+    "dificultad": "media",
+    "pregunta": "¿Cómo se inmoviliza paneles en Excel y para qué sirve esta función?",
+    "opciones": {
+      "A": "Inmovilizar paneles en Excel (Vista > Inmovilizar paneles) mantiene visibles las filas superiores y/o las columnas izquierdas mientras se desplaza por el resto de la hoja; Inmovilizar fila superior mantiene visible solo la fila 1; Inmovilizar primera columna mantiene visible solo la columna A; para inmovilizar filas y columnas a la vez, hay que posicionar el cursor en la celda que queda debajo y a la derecha de lo que se quiere inmovilizar y luego usar Inmovilizar paneles; para liberar, Vista > Movilizar paneles.",
+      "B": "Inmovilizar paneles en Excel fija el zoom de la hoja para que no cambie al desplazarse; no tiene relación con mantener visible un encabezado de fila o columna.",
+      "C": "Inmovilizar la fila superior en Excel solo funciona si la hoja tiene menos de 100 filas; en hojas más grandes la opción aparece desactivada.",
+      "D": "Inmovilizar paneles en Excel solo está disponible para hojas de cálculo que estén en modo de pantalla completa; en la vista normal no existe esta opción."
+    },
+    "correcta": "A",
+    "explicacion": "Inmovilizar paneles es esencial para trabajar con tablas grandes: (1) Acceso: Vista > grupo Ventana > Inmovilizar paneles. (2) Opciones: Inmovilizar fila superior: mantiene siempre visible la fila 1 (los encabezados de columna) al desplazarse verticalmente; equivale a posicionarse en A2 y usar «Inmovilizar paneles». Inmovilizar primera columna: mantiene siempre visible la columna A al desplazarse horizontalmente; equivale a posicionarse en B1 y usar «Inmovilizar paneles». Inmovilizar paneles: inmoviliza todo lo que está encima y a la izquierda de la celda activa; si el cursor está en C3, se inmovilizarán las filas 1 y 2 y las columnas A y B; así se pueden inmovilizar simultáneamente varios encabezados de fila y de columna. (3) Indicador visual: una línea más gruesa o de diferente color separa las celdas inmovilizadas del resto de la hoja. (4) Liberar: Vista > Inmovilizar paneles > Movilizar paneles (la opción cambia de nombre cuando hay paneles inmovilizados). (5) División de ventanas: Vista > Dividir (Split): divide la hoja en 2 o 4 paneles independientes que se pueden desplazar por separado; se elimina con Vista > Dividir de nuevo.",
+    "why": "B inmovilizar paneles mantiene visibles filas o columnas al desplazarse por la hoja; no tiene relación con el zoom. C inmovilizar paneles funciona en cualquier hoja independientemente de su tamaño. D inmovilizar paneles está disponible en la vista normal del Explorador sin necesidad de pantalla completa.",
+    "norma": "Microsoft Excel 365/2021 — Vista > Inmovilizar paneles",
+    "articulo": "Inmovilizar paneles en Excel para trabajar con tablas grandes"
+  },
+  {
+    "id": "B5T46-017",
+    "bloque": 5,
+    "tema": 46,
+    "test": 46,
+    "dificultad": "dificil",
+    "pregunta": "¿Cómo funcionan las principales funciones de texto en Excel?",
+    "opciones": {
+      "A": "=IZQUIERDA() en Excel devuelve los caracteres del lado derecho de la cadena de texto.",
+      "B": "=LARGO() en Excel devuelve el número de palabras de un texto, no el número de caracteres.",
+      "C": "Las principales funciones de texto en Excel son: =IZQUIERDA(texto;núm_chars) — extrae los primeros N caracteres por la izquierda; =DERECHA(texto;núm_chars) — extrae los últimos N caracteres por la derecha; =EXTRAE(texto;posición_inicial;núm_chars) — extrae N caracteres a partir de una posición; =LARGO(texto) / LEN — devuelve el número de caracteres de la cadena; =MAYUSC(texto) / UPPER y =MINUSC(texto) / LOWER — convierten a mayúsculas/minúsculas; =NOMPROPIO(texto) / PROPER — convierte la inicial de cada palabra a mayúscula; =CONCATENAR() o el operador & o =CONCAT() — une cadenas; =TEXTO(valor;formato) — convierte un número al formato de texto indicado; =HALLAR() y =ENCONTRAR() — buscan una subcadena; =SUSTITUIR() y =REEMPLAZAR() — sustituyen texto.",
+      "D": "La función =CONCATENAR() de Excel puede unir un máximo de 2 textos; para unir más cadenas hay que usar fórmulas matriciales especiales."
+    },
+    "correcta": "C",
+    "explicacion": "Las funciones de texto permiten manipular y transformar cadenas de caracteres en Excel: (1) Extracción: =IZQUIERDA(texto; núm_chars) / LEFT: devuelve los primeros N caracteres por la izquierda. =DERECHA(texto; núm_chars) / RIGHT: devuelve los últimos N caracteres. =EXTRAE(texto; posición_inicial; núm_chars) / MID: extrae N caracteres a partir de la posición indicada (posición 1 = primer carácter). (2) Longitud: =LARGO(texto) / LEN: devuelve el número de caracteres (incluyendo espacios). (3) Conversión de mayúsculas: =MAYUSC(texto) / UPPER: todo en mayúsculas. =MINUSC(texto) / LOWER: todo en minúsculas. =NOMPROPIO(texto) / PROPER: inicial de cada palabra en mayúscula. (4) Concatenación: operador &: «Hola» & \" \" & «Mundo» → «Hola Mundo». =CONCATENAR(texto1; texto2; …): admite múltiples argumentos. =CONCAT(texto1; texto2; …): versión moderna equivalente. =UNIRCADENAS(separador; ignorar_vacías; texto1; …) / TEXTJOIN: une textos con un separador y opcionalmente ignora las celdas vacías. (5) Búsqueda y sustitución: =HALLAR(texto_buscado; dentro_del_texto; [inicio]) / SEARCH: busca una subcadena (no distingue mayúsculas/minúsculas). =ENCONTRAR(texto_buscado; dentro_del_texto; [inicio]) / FIND: igual pero distingue mayúsculas/minúsculas. =SUSTITUIR(texto; texto_original; texto_nuevo; [núm_instancia]) / SUBSTITUTE: reemplaza el texto indicado. =REEMPLAZAR(texto; posición_inicial; núm_chars; texto_nuevo) / REPLACE: reemplaza por posición. (6) =TEXTO(valor; formato_num) / TEXT: convierte un número al formato de texto indicado: =TEXTO(HOY();\"dd/mm/aaaa\").",
+    "why": "A =IZQUIERDA() devuelve los primeros N caracteres por la IZQUIERDA; =DERECHA() devuelve los últimos N por la derecha. B =LARGO() / LEN devuelve el número de CARACTERES (incluidos espacios), no el número de palabras. D =CONCATENAR() admite hasta 255 argumentos de texto; también se pueden unir cadenas con el operador & sin ningún límite práctico.",
+    "norma": "Microsoft Excel 365/2021 — Fórmulas > Texto",
+    "articulo": "Funciones de texto en Excel: IZQUIERDA, DERECHA, EXTRAE, LARGO, CONCATENAR"
+  },
+  {
+    "id": "B5T46-018",
+    "bloque": 5,
+    "tema": 46,
+    "test": 46,
+    "dificultad": "dificil",
+    "pregunta": "¿Cómo funcionan las principales funciones de fecha y hora en Excel?",
+    "opciones": {
+      "A": "Las funciones de fecha más importantes son: =HOY() — devuelve la fecha actual (sin hora) como número serial; se actualiza automáticamente cada vez que se recalcula la hoja; =AHORA() — devuelve la fecha y hora actuales; =FECHA(año;mes;día) — construye una fecha a partir de sus componentes numéricos; =AÑO(fecha), =MES(fecha), =DIA(fecha) — extraen el año, mes o día de una fecha; =DIAS(fecha_final;fecha_inicial) / DAYS — devuelve el número de días entre dos fechas; =DIASEM(fecha;tipo) / WEEKDAY — devuelve el día de la semana; =SIFECHA(inicio;fin;\"D\"/\"M\"/\"Y\") — calcula diferencias en días, meses o años (función no documentada en la ayuda oficial).",
+      "B": "=HOY() en Excel devuelve la hora actual del sistema operativo, no la fecha.",
+      "C": "Las fechas en Excel no son números seriales; son cadenas de texto con formato dd/mm/aaaa y no se pueden usar en operaciones matemáticas.",
+      "D": "=FECHA(año;mes;día) en Excel devuelve una cadena de texto con la fecha formateada, no un número serial que pueda usarse en cálculos."
+    },
+    "correcta": "A",
+    "explicacion": "Las funciones de fecha en Excel son posibles gracias al sistema de fechas numéricas (números seriales): (1) =HOY() / TODAY(): devuelve la fecha actual como número serial (sin hora); se recalcula automáticamente al abrir el libro o recalcular; útil para calcular días transcurridos: =HOY()-FECHA(2025;1;1). (2) =AHORA() / NOW(): devuelve la fecha y hora actuales como número serial con decimales (la parte entera es la fecha, la parte decimal es la fracción del día); se recalcula constantemente. (3) =FECHA(año;mes;día) / DATE: construye una fecha a partir de sus componentes numéricos; muy útil para crear fechas a partir de datos en celdas separadas; el resultado es un número serial que puede usarse en cálculos. (4) =AÑO(fecha) / YEAR, =MES(fecha) / MONTH, =DIA(fecha) / DAY: extraen el componente correspondiente de una fecha. (5) =DIAS(fecha_final; fecha_inicial) / DAYS: diferencia en días; equivale a fecha_final - fecha_inicial. (6) =DIASEM(fecha; tipo) / WEEKDAY: devuelve el número del día de la semana (1-7, con configuración del primer día según el argumento tipo). (7) =SIFECHA(inicio; fin; intervalo): función heredada no documentada en la interfaz de Excel pero funcional; intervalo: «D» (días), «M» (meses completos), «Y» (años completos), «MD» (días ignorando meses y años), «YM» (meses ignorando días y años), «YD» (días ignorando años). (8) =DIAS.LAB(inicio; fin; [festivos]) / WORKDAY: días laborables entre dos fechas. (9) =FIN.MES(fecha; meses) / EOMONTH: último día del mes que resulta de añadir N meses a la fecha.",
+    "why": "B =HOY() devuelve la fecha actual (sin hora); =AHORA() devuelve fecha y hora. C las fechas en Excel se almacenan como números seriales, no como texto; esto permite calcular diferencias en días, sumar/restar días, etc. D =FECHA() devuelve un número serial (una fecha) que puede usarse en cálculos; el formato visual es independiente del valor subyacente.",
+    "norma": "Microsoft Excel 365/2021 — Fórmulas > Fecha y hora",
+    "articulo": "Funciones de fecha y hora en Excel: HOY, AHORA, FECHA, AÑO, MES, DIA, DIAS"
+  },
+  {
+    "id": "B5T46-019",
+    "bloque": 5,
+    "tema": 46,
+    "test": 46,
+    "dificultad": "dificil",
+    "pregunta": "¿Cómo se graban y ejecutan macros en Excel y qué consideraciones de seguridad son relevantes?",
+    "opciones": {
+      "A": "Las macros de Excel solo pueden ejecutarse desde el menú Herramientas; no es posible asignarles atajos de teclado ni botones en la hoja.",
+      "B": "Los archivos Excel con macros (.xlsm) son idénticos en seguridad a los archivos .xlsx; el formato del archivo no influye en si las macros se ejecutan o no.",
+      "C": "Al grabar una macro en Excel, todas las referencias a celdas son siempre absolutas ($A$1); no es posible grabar macros con referencias relativas.",
+      "D": "Las macros de Excel se graban desde Vista > Macros > Grabar macro o desde la pestaña Desarrollador (si está activada); se les puede asignar un atajo de teclado y elegir dónde guardarlas (libro personal de macros para todas las sesiones, libro nuevo o el libro actual); los archivos con macros deben guardarse como .xlsm (Libro habilitado para macros); la seguridad de macros se configura en Archivo > Opciones > Centro de confianza > Configuración de macros con los mismos niveles que en Word: Deshabilitar sin notificación, Deshabilitar con notificación (recomendada), Solo firmadas digitalmente y Habilitar todas (no recomendada); el Libro personal de macros (PERSONAL.XLSB) se abre automáticamente y oculto en cada sesión de Excel."
+    },
+    "correcta": "D",
+    "explicacion": "Las macros en Excel funcionan de forma similar a Word mediante VBA (Visual Basic for Applications): (1) Grabar una macro: Vista > Macros > Grabar macro (o Desarrollador > Grabar macro si la pestaña está visible); se configura: nombre de la macro (sin espacios), atajo de teclado (Ctrl+letra o Ctrl+Mayús+letra), ubicación de almacenamiento, descripción. (2) Ubicaciones de almacenamiento: Libro personal de macros (PERSONAL.XLSB): archivo oculto que se abre en cada sesión de Excel; las macros guardadas aquí están disponibles siempre. Libro nuevo: un libro .xlsm nuevo. Este libro: el libro actual. (3) Referencia relativa vs absoluta durante la grabación: por defecto se graban referencias absolutas; para grabar referencias relativas (que se adaptan a la celda activa), activar Vista > Macros > Usar referencias relativas antes de grabar. (4) Editar el código: Vista > Macros > Ver macros > Modificar, o Alt+F11; abre el editor de VBA. (5) Ejecutar: Vista > Macros > Ver macros > Ejecutar, atajo de teclado asignado, botón en la hoja (Desarrollador > Insertar > Botón de formulario) o desde la QAT. (6) Formato de archivo: los libros con macros deben guardarse como .xlsm; el formato .xlsx no puede contener macros por razones de seguridad (si se intenta guardar, Excel avisa). (7) Seguridad: Archivo > Opciones > Centro de confianza > Configuración de macros: los niveles son iguales que en Word; el nivel recomendado es «Deshabilitar con notificación».",
+    "why": "A las macros pueden ejecutarse con atajos de teclado asignados, botones en la hoja, desde la QAT y desde el panel de macros. B los archivos .xlsm están explícitamente marcados como «habilitados para macros»; cuando Excel abre un .xlsx (aunque hubiera tenido macros antes de guardar), no ejecuta macros porque no pueden guardarse en ese formato. C durante la grabación de macros se puede alternar entre referencias absolutas (predeterminado) y relativas activando «Usar referencias relativas» en el menú Vista > Macros.",
+    "norma": "Microsoft Excel 365/2021 — Vista > Macros; Centro de confianza",
+    "articulo": "Macros en Excel: grabación, VBA, PERSONAL.XLSB y seguridad"
+  },
+  {
+    "id": "B5T46-020",
+    "bloque": 5,
+    "tema": 46,
+    "test": 46,
+    "dificultad": "dificil",
+    "pregunta": "¿Cómo funcionan las funciones INDICE y COINCIDIR en Excel y cuándo son preferibles a BUSCARV?",
+    "opciones": {
+      "A": "=INDICE() en Excel devuelve la posición de un valor dentro de un rango; =COINCIDIR() devuelve el valor de la celda en la posición indicada.",
+      "B": "La combinación =INDICE(rango_retorno; COINCIDIR(valor_buscado; rango_búsqueda; tipo_coincidencia)) es una alternativa más flexible a BUSCARV: =COINCIDIR(valor_buscado; rango; tipo) devuelve la POSICIÓN relativa del valor en el rango (1 para coincidencia exacta de menor a mayor); =INDICE(rango; núm_fila; [núm_columna]) devuelve el valor de la celda en la posición indicada dentro del rango; la combinación permite buscar en cualquier columna (no solo la primera), devolver valores a la izquierda de la columna de búsqueda, no romperse si se insertan columnas y ser eficiente con rangos grandes.",
+      "C": "=COINCIDIR() en Excel devuelve el valor de la celda encontrada, igual que BUSCARV; no hay diferencia funcional entre ambas funciones.",
+      "D": "=INDICE() en Excel solo puede usarse con rangos de una sola fila o columna; no funciona con matrices de dos dimensiones."
+    },
+    "correcta": "B",
+    "explicacion": "La combinación INDICE+COINCIDIR es la alternativa clásica y más potente a BUSCARV: (1) =COINCIDIR(valor_buscado; rango_buscado; tipo_coincidencia) / MATCH: devuelve la POSICIÓN relativa (número) del valor_buscado dentro del rango_buscado; tipo_coincidencia: 0 = coincidencia exacta (el más usado), 1 = menor o igual (requiere orden ascendente), -1 = mayor o igual (requiere orden descendente); devuelve #N/A si no encuentra. (2) =INDICE(rango; núm_fila; [núm_columna]) / INDEX: devuelve el VALOR de la celda en la posición especificada dentro del rango; para una columna: =INDICE(A1:A100; 5) devuelve el valor de la quinta celda del rango. (3) Combinación: =INDICE(C1:C100; COINCIDIR(E1; A1:A100; 0)): busca el valor de E1 en el rango A1:A100 (COINCIDIR devuelve la posición), luego extrae el valor de esa posición de C1:C100 (INDICE); VENTAJAS sobre BUSCARV: el rango de retorno (C1:C100) puede estar a la izquierda del rango de búsqueda (A1:A100); no es necesario contar el número de columna; si se insertan columnas, la fórmula no se rompe; puede devolver datos de cualquier columna. (4) En Excel 365, =BUSCARX() (XLOOKUP) incorpora de forma nativa las ventajas de INDICE+COINCIDIR con una sintaxis más sencilla, haciendo que en muchos casos sea la función preferida.",
+    "why": "A es al contrario: =COINCIDIR() devuelve la POSICIÓN e =INDICE() devuelve el VALOR en esa posición. C =COINCIDIR() devuelve la posición (un número), no el valor de la celda encontrada; es =INDICE() quien devuelve el valor dado una posición. D =INDICE() funciona con matrices unidimensionales (una fila o columna) y bidimensionales (múltiples filas y columnas); en el caso bidimensional se especifican núm_fila y núm_columna.",
+    "norma": "Microsoft Excel 365/2021 — Fórmulas > Búsqueda y referencia",
+    "articulo": "INDICE y COINCIDIR en Excel: alternativa flexible a BUSCARV"
+  }
+]
