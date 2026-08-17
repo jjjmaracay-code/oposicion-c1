@@ -1,0 +1,382 @@
+[
+  {
+    "id": "B5T42-001",
+    "bloque": 5,
+    "tema": 42,
+    "test": 42,
+    "dificultad": "facil",
+    "pregunta": "¿Qué es un bit y un byte y cuál es la relación entre ellos?",
+    "opciones": {
+      "A": "Un bit es la unidad básica de almacenamiento equivalente a 8 bytes; un byte es la unidad mínima de procesamiento equivalente a un carácter.",
+      "B": "Un bit y un byte son sinónimos; ambos representan un solo dígito binario (0 ó 1) sin diferencia entre ellos.",
+      "C": "Un bit (binary digit) es la unidad mínima de información en sistemas digitales y solo puede tomar dos valores: 0 ó 1; un byte es un conjunto de 8 bits y es la unidad básica de medida de la información; representa un carácter (letra, número o símbolo); las unidades superiores son kilobyte (1.024 bytes), megabyte (1.024 KB), gigabyte (1.024 MB) y terabyte (1.024 GB).",
+      "D": "Un bit equivale a 1.000 bytes; el sistema de medida de la información usa múltiplos decimales (kilo = 1.000, mega = 1.000.000)."
+    },
+    "correcta": "C",
+    "explicacion": "La información digital se representa mediante el sistema binario (base 2), que solo admite dos estados posibles: 0 y 1. Cada uno de esos estados se llama bit (contracción de binary digit). El bit es la unidad mínima de información. Para representar un carácter alfanumérico (letra, cifra, símbolo) se necesitan 8 bits, que forman un byte. Las unidades de medida de la información siguen la escala binaria: 1 kilobyte (KB) = 1.024 bytes (2¹⁰ = 1.024); 1 megabyte (MB) = 1.024 KB; 1 gigabyte (GB) = 1.024 MB; 1 terabyte (TB) = 1.024 GB; 1 petabyte (PB) = 1.024 TB. En telecomunicaciones, la velocidad de transmisión se expresa en bits por segundo (bps, Kbps, Mbps, Gbps).",
+    "why": "A la relación está invertida: 1 byte = 8 bits, no al revés. B bit y byte son unidades distintas: el bit es el dígito binario (0 ó 1) y el byte son 8 bits. D el byte no equivale a 1.000 bits; las unidades informáticas usan base binaria (potencias de 2), no decimal.",
+    "norma": "Conceptos básicos de informática",
+    "articulo": "Bit, byte y unidades de medida"
+  },
+  {
+    "id": "B5T42-002",
+    "bloque": 5,
+    "tema": 42,
+    "test": 42,
+    "dificultad": "facil",
+    "pregunta": "¿Qué diferencia existe entre hardware y software en un sistema informático?",
+    "opciones": {
+      "A": "El hardware es el conjunto de componentes físicos y tangibles de un sistema informático (procesador, memoria, disco duro, monitor, teclado, etc.); el software es el conjunto de programas, instrucciones y datos que dirigen el funcionamiento del hardware; el hardware no puede funcionar sin software y el software no puede ejecutarse sin hardware; ambos son componentes imprescindibles de cualquier sistema informático.",
+      "B": "El hardware son los programas y aplicaciones que se instalan en el ordenador; el software son los componentes físicos como la pantalla, el teclado y el ratón.",
+      "C": "El hardware y el software son términos equivalentes; ambos describen el conjunto total de recursos de un sistema informático sin distinción.",
+      "D": "El hardware es el sistema operativo del ordenador; el software es el resto de programas de aplicación que se ejecutan sobre el sistema operativo."
+    },
+    "correcta": "A",
+    "explicacion": "La distinción hardware/software es fundamental en informática: (1) Hardware: todo lo que tiene existencia física, que se puede tocar; incluye los componentes internos del ordenador (placa base, procesador o CPU, memoria RAM, disco duro o SSD, tarjeta gráfica, fuente de alimentación) y los periféricos externos (teclado, ratón, monitor, impresora, escáner). (2) Software: el conjunto de programas, instrucciones, datos y documentación que posibilitan el funcionamiento del hardware; se clasifica en: (a) Software de sistema: el sistema operativo (Windows, macOS, Linux) que gestiona los recursos del hardware y proporciona la plataforma para ejecutar el resto del software; (b) Software de aplicación: los programas que realizan tareas específicas para el usuario (procesador de textos, hoja de cálculo, navegador web, correo electrónico); (c) Software de programación: herramientas para desarrollar nuevos programas (compiladores, entornos de desarrollo integrado). El software es intangible (no se puede tocar) y se distribuye en forma de código ejecutable.",
+    "why": "B la definición está completamente invertida: el hardware son los componentes físicos y el software son los programas. C hardware y software son conceptos distintos y complementarios, no equivalentes. D el sistema operativo es una parte del software (software de sistema), no del hardware.",
+    "norma": "Conceptos básicos de informática",
+    "articulo": "Hardware y software"
+  },
+  {
+    "id": "B5T42-003",
+    "bloque": 5,
+    "tema": 42,
+    "test": 42,
+    "dificultad": "facil",
+    "pregunta": "¿Qué es la CPU y cuál es su función dentro del ordenador?",
+    "opciones": {
+      "A": "La CPU es el disco duro del ordenador; almacena permanentemente todos los programas y datos del sistema.",
+      "B": "La CPU (Central Processing Unit o Unidad Central de Procesamiento) es el componente principal del ordenador encargado de ejecutar las instrucciones de los programas; realiza operaciones aritméticas, lógicas y de control; su velocidad se mide en gigahercios (GHz) y su capacidad de procesamiento paralelo se expresa en número de núcleos (cores); una CPU moderna puede tener entre 4 y 64 núcleos o más; trabaja en estrecha colaboración con la memoria RAM.",
+      "C": "La CPU es la tarjeta de red del ordenador; gestiona todas las comunicaciones entre el ordenador y la red de área local o Internet.",
+      "D": "La CPU es la memoria de acceso aleatorio del ordenador; almacena temporalmente los datos de los programas en ejecución."
+    },
+    "correcta": "B",
+    "explicacion": "La CPU (Central Processing Unit, Unidad Central de Procesamiento) es el «cerebro» del ordenador. Sus funciones principales son: (1) Ejecutar instrucciones: lee las instrucciones de los programas almacenados en la memoria RAM y las ejecuta secuencialmente (o en paralelo en los procesadores multinúcleo). (2) Operaciones aritméticas y lógicas: realiza sumas, restas, comparaciones y operaciones lógicas (AND, OR, NOT). (3) Control del resto del sistema: coordina el funcionamiento del resto de componentes (memoria, almacenamiento, periféricos). La velocidad de la CPU se mide en gigahercios (GHz): 1 GHz = 1.000 millones de ciclos por segundo; cuanto mayor la frecuencia, más instrucciones puede ejecutar por segundo. Los procesadores actuales son multinúcleo (dual-core, quad-core, octa-core, etc.), lo que permite ejecutar múltiples tareas en paralelo. La CPU se conecta a la placa base (motherboard) y accede a los datos e instrucciones a través de la memoria RAM.",
+    "why": "A la CPU no es el disco duro; el disco duro es el dispositivo de almacenamiento permanente; la CPU es el procesador. C la tarjeta de red es un componente distinto de la CPU; gestiona la conectividad pero no el procesamiento de instrucciones. D la memoria RAM es un componente distinto de la CPU; la RAM almacena temporalmente los datos en uso, mientras la CPU los procesa.",
+    "norma": "Conceptos básicos de informática — hardware",
+    "articulo": "CPU — Unidad Central de Procesamiento"
+  },
+  {
+    "id": "B5T42-004",
+    "bloque": 5,
+    "tema": 42,
+    "test": 42,
+    "dificultad": "facil",
+    "pregunta": "¿Qué es la memoria RAM y cuáles son sus características principales?",
+    "opciones": {
+      "A": "La RAM (Random Access Memory, memoria de acceso aleatorio) es una memoria volátil que almacena temporalmente los datos y programas en uso mientras el ordenador está encendido; cuando se apaga el ordenador, su contenido se pierde; es de alta velocidad y permite acceder a cualquier posición de forma directa (de ahí el término «acceso aleatorio»; su capacidad típica en ordenadores actuales oscila entre 8 GB y 64 GB o más; determina cuántos programas pueden ejecutarse simultáneamente y con qué fluidez.",
+      "B": "La RAM es una memoria no volátil que conserva su contenido aunque se apague el ordenador; almacena el sistema operativo de forma permanente y no puede modificarse por el usuario.",
+      "C": "La RAM es el disco duro del ordenador; almacena todos los datos permanentemente y tiene una capacidad típica de varios terabytes.",
+      "D": "La RAM es la memoria de solo lectura del ordenador; contiene la BIOS del sistema y no puede escribirse ni borrarse por el usuario."
+    },
+    "correcta": "A",
+    "explicacion": "La RAM (Random Access Memory, Memoria de Acceso Aleatorio) tiene las siguientes características clave: (1) Volatilidad: es una memoria temporal que pierde su contenido cuando se corta el suministro eléctrico; por eso, antes de apagar el ordenador hay que guardar los archivos en un dispositivo de almacenamiento permanente (disco duro, SSD). (2) Acceso aleatorio: puede accederse a cualquier posición de memoria directamente, sin recorrer secuencialmente las posiciones anteriores; esto la hace muy rápida. (3) Función: almacena temporalmente el sistema operativo en ejecución, los programas abiertos y los datos en proceso de trabajo; actúa de intermediario entre la CPU (rapidísima) y el disco duro (más lento). (4) Capacidad: en los ordenadores actuales, la RAM típica oscila entre 8 GB y 64 GB; más RAM permite abrir más programas simultáneamente y trabajar con archivos de mayor tamaño. (5) Velocidad: se mide en MHz o GHz y en tipo de tecnología (DDR4, DDR5).",
+    "why": "B la RAM es volátil (pierde el contenido al apagarse); la descripción de «no volátil» corresponde a la memoria ROM o al almacenamiento en disco. C el disco duro (HDD o SSD) es el dispositivo de almacenamiento permanente; la RAM es la memoria temporal; tienen funciones y capacidades distintas. D la descripción de «solo lectura» y «BIOS» corresponde a la ROM (Read Only Memory), no a la RAM.",
+    "norma": "Conceptos básicos de informática — memoria",
+    "articulo": "Memoria RAM"
+  },
+  {
+    "id": "B5T42-005",
+    "bloque": 5,
+    "tema": 42,
+    "test": 42,
+    "dificultad": "facil",
+    "pregunta": "¿Qué es el sistema operativo y cuáles son sus funciones principales?",
+    "opciones": {
+      "A": "El sistema operativo es un programa de aplicación como Word o Excel; no tiene ninguna función especial respecto al resto del software.",
+      "B": "El sistema operativo solo gestiona el almacenamiento en disco; el resto de recursos del ordenador (CPU, red, pantalla) son gestionados directamente por cada aplicación.",
+      "C": "El sistema operativo es el software de sistema que actúa de intermediario entre el hardware del ordenador y las aplicaciones del usuario; sus funciones principales son: gestionar los recursos del hardware (CPU, memoria, almacenamiento, dispositivos de entrada/salida y red), proporcionar una interfaz de usuario (gráfica o de línea de comandos), gestionar ficheros y directorios, controlar la ejecución de procesos y gestionar la seguridad y los permisos de acceso; los sistemas operativos más extendidos son Windows, macOS y Linux.",
+      "D": "El sistema operativo es el antivirus del ordenador; su función principal es detectar y eliminar malware para proteger el equipo."
+    },
+    "correcta": "C",
+    "explicacion": "El sistema operativo (SO) es el software fundamental de cualquier ordenador. Sus funciones principales son: (1) Gestión de procesos: crea, ejecuta, suspende y termina procesos (programas en ejecución); distribuye el tiempo de CPU entre los procesos activos. (2) Gestión de memoria: asigna y libera bloques de memoria RAM a los procesos; implementa la memoria virtual (usa espacio del disco como extensión de la RAM). (3) Gestión de almacenamiento: organiza los datos en sistemas de ficheros (NTFS, FAT32, ext4); gestiona directorios, ficheros, permisos y cuotas de disco. (4) Gestión de dispositivos: proporciona controladores (drivers) para comunicarse con los periféricos (impresora, tarjeta gráfica, teclado). (5) Interfaz de usuario: proporciona una interfaz gráfica (GUI, Graphical User Interface) o de línea de comandos (CLI) para que el usuario interactúe con el equipo. (6) Seguridad: gestiona cuentas de usuario, permisos de acceso y autenticación. Los SSOO más comunes en el contexto de la CM son Windows (escritorio) y Linux (servidores).",
+    "why": "A el sistema operativo no es una aplicación de usuario como Word; es el software de sistema que hace posible la ejecución de las aplicaciones. B el sistema operativo gestiona todos los recursos del hardware (CPU, memoria, red, disco, periféricos), no solo el almacenamiento. D el antivirus es una aplicación de seguridad que se ejecuta sobre el sistema operativo; no es el propio sistema operativo.",
+    "norma": "Conceptos básicos de informática — software",
+    "articulo": "Sistema operativo"
+  },
+  {
+    "id": "B5T42-006",
+    "bloque": 5,
+    "tema": 42,
+    "test": 42,
+    "dificultad": "facil",
+    "pregunta": "¿Qué tipos de almacenamiento masivo existen en un ordenador y en qué se diferencian?",
+    "opciones": {
+      "A": "Los principales dispositivos de almacenamiento masivo son el disco duro mecánico (HDD), el disco de estado sólido (SSD) y los dispositivos extraíbles (USB, DVD); el HDD usa platos magnéticos giratorios para almacenar datos de forma permanente y es más económico por GB pero más lento y frágil mecánicamente; el SSD usa memoria flash sin piezas móviles, es mucho más rápido, silencioso y resistente a golpes, pero históricamente más caro por GB; ambos son no volátiles (conservan los datos sin alimentación eléctrica).",
+      "B": "El único tipo de almacenamiento masivo en los ordenadores actuales es la memoria RAM; los HDD y SSD son tipos de procesadores, no dispositivos de almacenamiento.",
+      "C": "El HDD y el SSD son tipos de memoria RAM; la diferencia es solo de velocidad: el HDD es más rápido y el SSD más lento y con menor capacidad.",
+      "D": "El almacenamiento masivo permanente no existe en los ordenadores; toda la información se almacena en la nube y desaparece al apagar el equipo."
+    },
+    "correcta": "A",
+    "explicacion": "Los dispositivos de almacenamiento masivo permanente son distintos de la memoria RAM (que es temporal) y de la CPU (que procesa). Los principales tipos son: (1) HDD (Hard Disk Drive, disco duro mecánico): almacena los datos en platos magnéticos giratorios mediante cabezas de lectura/escritura; capacidades típicas: 500 GB – 20 TB; velocidad de lectura/escritura: 100-200 MB/s; vulnerable a golpes por sus partes móviles; más económico por GB. (2) SSD (Solid State Drive, disco de estado sólido): usa chips de memoria flash (NAND) sin piezas móviles; capacidades típicas: 256 GB – 8 TB; velocidad de lectura/escritura: 500 MB/s – 7.000 MB/s (en NVMe); resistente a golpes; silencioso; más caro por GB aunque la brecha se ha reducido mucho. (3) Dispositivos extraíbles: memorias USB (pendrives), tarjetas SD, discos ópticos (CD, DVD, Blu-ray). (4) Almacenamiento en red: NAS (Network Attached Storage), servidores de ficheros. Todos los anteriores son no volátiles: conservan los datos sin alimentación eléctrica, a diferencia de la RAM.",
+    "why": "B la RAM no es almacenamiento masivo; es memoria temporal y volátil; los HDD y SSD son dispositivos de almacenamiento permanente. C la definición está invertida; el SSD es más rápido que el HDD, no al revés; además no son tipos de RAM sino de almacenamiento permanente. D el almacenamiento local permanente (HDD/SSD) existe y es el medio principal de almacenamiento; la nube es complementaria, no sustituta.",
+    "norma": "Conceptos básicos de informática — hardware",
+    "articulo": "HDD y SSD — almacenamiento masivo"
+  },
+  {
+    "id": "B5T42-007",
+    "bloque": 5,
+    "tema": 42,
+    "test": 42,
+    "dificultad": "media",
+    "pregunta": "¿Qué es el sistema binario y cómo representa la información en un ordenador?",
+    "opciones": {
+      "A": "El sistema binario usa base 16 (hexadecimal); los caracteres se representan con los dígitos 0-9 y las letras A-F.",
+      "B": "El sistema binario usa base 10 (decimal); los ordenadores realizan operaciones en el mismo sistema de numeración que los humanos.",
+      "C": "El sistema binario es el sistema de numeración de base 8 (octal); cada dígito puede tomar 8 valores distintos (0 a 7).",
+      "D": "El sistema binario usa solo dos dígitos (0 y 1) para representar cualquier dato; se usa en los ordenadores porque los transistores solo tienen dos estados eléctricos estables (apagado/encendido, bajo voltaje/alto voltaje); cualquier número decimal puede convertirse a binario usando potencias de 2 (p. ej., el número 10 en decimal es 1010 en binario: 1×2³ + 0×2² + 1×2¹ + 0×2⁰ = 8+0+2+0 = 10); los textos se representan mediante tablas de codificación como ASCII o Unicode que asignan un código binario a cada carácter."
+    },
+    "correcta": "D",
+    "explicacion": "El sistema binario (base 2) es la base de toda la informática digital por una razón física: los transistores, elemento fundamental de los circuitos integrados (chips), solo tienen dos estados eléctricos estables: conducción (1) y corte (0). Estos dos estados representan los dígitos 0 y 1. Con combinaciones de bits pueden representarse: (1) Números: cualquier número decimal tiene su equivalente binario (p. ej., 5 = 101 en binario, 255 = 11111111). (2) Texto: se usan tablas de codificación; ASCII (American Standard Code for Information Interchange) usa 7 bits para representar 128 caracteres básicos (letras inglesas, números, símbolos); Unicode (UTF-8, UTF-16) usa hasta 4 bytes por carácter y puede representar más de 1 millón de caracteres de todos los idiomas del mundo. (3) Imágenes: cada píxel se describe con bits que indican su color. (4) Sonido: se muestrea la señal analógica y se digitaliza en valores binarios. Además del binario, en informática se usan el octal (base 8) y el hexadecimal (base 16) como notaciones abreviadas del binario.",
+    "why": "A el sistema hexadecimal (base 16) es un sistema de numeración distinto del binario, aunque se relaciona con él; el binario es base 2. B los ordenadores no usan base 10 internamente; el procesamiento interno es siempre binario. C el octal es base 8, no el binario; el binario es base 2.",
+    "norma": "Conceptos básicos de informática — sistema binario",
+    "articulo": "Sistema binario y representación de la información"
+  },
+  {
+    "id": "B5T42-008",
+    "bloque": 5,
+    "tema": 42,
+    "test": 42,
+    "dificultad": "media",
+    "pregunta": "¿Cuáles son los tipos de memoria de un ordenador y en qué se diferencian?",
+    "opciones": {
+      "A": "Los ordenadores tienen un único tipo de memoria llamada «disco duro»; toda la información, temporal y permanente, se almacena en el mismo dispositivo.",
+      "B": "Los ordenadores tienen varios niveles de memoria con distintas características: (1) Registros y memoria caché (L1, L2, L3): integrados en la CPU; muy rápidos (nanosegundos) y pequeños (KB a MB); almacenan temporalmente datos e instrucciones en proceso; (2) Memoria RAM: volátil, media-alta velocidad, capacidad de GB; almacena programas y datos en uso; (3) Memoria ROM/BIOS: no volátil, contiene el firmware básico de arranque del sistema; (4) Almacenamiento masivo (HDD, SSD): no volátil, grande (GB-TB), más lento; almacenamiento permanente.",
+      "C": "Los dos únicos tipos de memoria de un ordenador son la RAM y el disco duro; no existe ningún nivel intermedio de caché entre ellos.",
+      "D": "Todos los tipos de memoria de un ordenador son volátiles; ninguno conserva los datos cuando se apaga el equipo; por eso todos los datos se pierden al apagarlo."
+    },
+    "correcta": "B",
+    "explicacion": "La jerarquía de memoria de un ordenador ordena los distintos tipos por velocidad y capacidad: (1) Registros: dentro de la propia CPU; los más rápidos (acceso en un ciclo de reloj) y los más pequeños (decenas de bytes); almacenan los operandos e instrucciones que la CPU está procesando en ese momento. (2) Memoria caché (L1, L2, L3): también dentro o muy cerca de la CPU; más lenta que los registros pero mucho más rápida que la RAM; almacena copias de los datos de la RAM que la CPU usa con frecuencia; organizada en niveles (L1 más rápida pero menor capacidad, L3 más grande pero más lenta). (3) RAM (Random Access Memory): volátil, velocidad de decenas de nanosegundos; capacidad de varios GB; almacena el sistema operativo y los programas en ejecución. (4) ROM (Read Only Memory): no volátil; contiene el firmware (BIOS/UEFI) necesario para el arranque del sistema; no se pierde al apagar el equipo. (5) Almacenamiento masivo (HDD, SSD): no volátil; el más lento de los niveles principales; capacidad de cientos de GB o TB; almacenamiento permanente de ficheros y programas instalados. Existe una relación inversa entre velocidad y capacidad: a mayor velocidad, menor capacidad y mayor coste por GB.",
+    "why": "A el disco duro es solo uno de los tipos de memoria; no almacena la memoria temporal (eso es la RAM). C existen múltiples niveles intermedios de memoria: registros, caché L1/L2/L3 y ROM, además de la RAM y el disco. D el almacenamiento masivo (HDD, SSD) y la ROM son no volátiles; solo la RAM y la caché son volátiles.",
+    "norma": "Conceptos básicos de informática — hardware",
+    "articulo": "Jerarquía de memoria del ordenador"
+  },
+  {
+    "id": "B5T42-009",
+    "bloque": 5,
+    "tema": 42,
+    "test": 42,
+    "dificultad": "media",
+    "pregunta": "¿Qué tipos de redes de ordenadores existen según su cobertura geográfica y cuáles son sus características?",
+    "opciones": {
+      "A": "Solo existe un tipo de red de ordenadores: Internet; las redes locales y metropolitanas son conceptos obsoletos que ya no se usan.",
+      "B": "Las redes se clasifican por protocolo (TCP/IP o UDP); la cobertura geográfica no es un criterio de clasificación.",
+      "C": "Las redes de ordenadores se clasifican por cobertura geográfica en: (1) PAN (Personal Area Network): área personal de pocos metros, p. ej. Bluetooth entre teléfono y auriculares; (2) LAN (Local Area Network, red de área local): edificio o campus; alta velocidad (100 Mbps-10 Gbps); usa Ethernet (cableada) o Wi-Fi (inalámbrica); es la red típica de una oficina o sede administrativa; (3) MAN (Metropolitan Area Network): una ciudad o área metropolitana; (4) WAN (Wide Area Network, red de área extensa): cubre grandes distancias (países o continentes); Internet es la mayor WAN pública del mundo.",
+      "D": "Las redes de ordenadores se clasifican únicamente en dos tipos: internas (dentro de un mismo ordenador, como la comunicación entre la CPU y la RAM) y externas (entre distintos ordenadores a través de cable o Wi-Fi)."
+    },
+    "correcta": "C",
+    "explicacion": "La clasificación de redes por cobertura geográfica es uno de los criterios fundamentales: (1) PAN (Personal Area Network): red personal de radio muy corto (1-10 metros); tecnologías: Bluetooth, USB, NFC; ejemplo: conectar un teléfono a unos auriculares inalámbricos o a un teclado. (2) LAN (Local Area Network): red local de un edificio, planta u oficina; velocidades: desde 100 Mbps (Fast Ethernet) hasta 10 Gbps (10 Gigabit Ethernet) en cableada; Wi-Fi (802.11 a/b/g/n/ac/ax) en inalámbrica; permite compartir ficheros, impresoras y acceso a Internet; es la red estándar de cualquier sede de la Administración pública. (3) MAN (Metropolitan Area Network): red que cubre una ciudad o área metropolitana; puede conectar varias LAN de la misma organización en distintos edificios de una ciudad. (4) WAN (Wide Area Network): redes de gran extensión territorial (países, continentes); usan infraestructuras de telecomunicaciones (fibra óptica, satélite, líneas arrendadas); Internet es la WAN pública global que interconecta millones de redes. Las intranets son redes privadas con tecnología de Internet pero restringidas a una organización.",
+    "why": "A Internet es solo una WAN, la más grande del mundo, pero existen otros tipos de red (LAN, MAN, PAN); los otros tipos siguen siendo plenamente vigentes. B aunque los protocolos son otro criterio de clasificación, la cobertura geográfica es el criterio principal y más utilizado para clasificar los tipos de red. D la clasificación propuesta (interna/externa al ordenador) no corresponde a la taxonomía estándar de redes; los conceptos PAN/LAN/MAN/WAN son los reconocidos internacionalmente.",
+    "norma": "Conceptos básicos de informática — redes",
+    "articulo": "Tipos de redes: PAN, LAN, MAN, WAN"
+  },
+  {
+    "id": "B5T42-010",
+    "bloque": 5,
+    "tema": 42,
+    "test": 42,
+    "dificultad": "media",
+    "pregunta": "¿Qué es el protocolo TCP/IP y qué son las direcciones IP?",
+    "opciones": {
+      "A": "TCP/IP es la suite de protocolos que constituye la base técnica de Internet y de cualquier red de ordenadores moderna; TCP (Transmission Control Protocol) garantiza la entrega ordenada y sin errores de los datos, dividiendo la información en paquetes y reensamblándola en el destino; IP (Internet Protocol) se encarga del direccionamiento y el enrutamiento de los paquetes entre redes; cada dispositivo conectado a una red IP tiene asignada una dirección IP que lo identifica de forma única: IPv4 usa 32 bits (ej. 192.168.1.1) e IPv6 usa 128 bits para ampliar el espacio de direcciones.",
+      "B": "TCP/IP es el nombre del sistema operativo que usa Internet; todos los servidores de Internet deben ejecutar TCP/IP como sistema operativo.",
+      "C": "Una dirección IP es el nombre de dominio de un sitio web (como www.comunidad.madrid); no tiene nada que ver con números.",
+      "D": "TCP es el único protocolo de Internet; IP es el nombre del estándar de cifrado de las comunicaciones en Internet, no un protocolo de red."
+    },
+    "correcta": "A",
+    "explicacion": "La suite TCP/IP es el conjunto de protocolos de comunicación sobre el que se construye Internet. Sus dos protocolos principales son: (1) IP (Internet Protocol): asigna a cada dispositivo una dirección única (dirección IP) y se encarga de enrutar los paquetes de datos de origen a destino a través de los routers; es un protocolo no orientado a conexión (no garantiza la entrega). Existen dos versiones: IPv4 (32 bits = aprox. 4.300 millones de direcciones; formato: cuatro grupos de 0-255 separados por puntos, ej. 192.168.1.100) e IPv6 (128 bits = 340 sextillones de direcciones; formato hexadecimal con dos puntos, ej. 2001:db8::1); la escasez de direcciones IPv4 impulsó la adopción de IPv6. (2) TCP (Transmission Control Protocol): protocolo orientado a conexión que garantiza la entrega ordenada y sin errores de los datos; divide los datos en segmentos, los numera, los envía y solicita reenvío si alguno se pierde; usa el modelo cliente-servidor con establecimiento de conexión (handshake de tres vías). UDP (User Datagram Protocol) es un protocolo más ligero y rápido que no garantiza la entrega; se usa para streaming y videojuegos en línea.",
+    "why": "B TCP/IP no es un sistema operativo; es un conjunto de protocolos de red que puede usarse sobre cualquier sistema operativo. C la dirección IP es un identificador numérico (32 bits en IPv4 o 128 bits en IPv6), no un nombre de dominio; el Sistema de Nombres de Dominio (DNS) traduce los nombres de dominio en direcciones IP. D TCP e IP son dos protocolos distintos con funciones diferentes; IP no es un estándar de cifrado (el cifrado lo proporciona TLS/SSL).",
+    "norma": "Conceptos básicos de informática — redes e Internet",
+    "articulo": "TCP/IP e direcciones IP"
+  },
+  {
+    "id": "B5T42-011",
+    "bloque": 5,
+    "tema": 42,
+    "test": 42,
+    "dificultad": "media",
+    "pregunta": "¿Cuáles son los principales tipos de malware y en qué se diferencian?",
+    "opciones": {
+      "A": "El malware solo existe en ordenadores de escritorio; los smartphones y tablets no pueden ser infectados por ningún tipo de software malicioso.",
+      "B": "El único tipo de malware son los virus; todos los demás términos (troyano, ransomware, spyware) son sinónimos de «virus» y no implican distintas técnicas de ataque.",
+      "C": "El malware engloba todos los tipos de software diseñado para causar daño o acceder sin autorización a sistemas informáticos; los principales tipos son: (1) Virus: se auto-replica adjuntándose a ficheros legítimos; se propaga cuando el usuario ejecuta el fichero infectado; (2) Gusano (worm): se propaga automáticamente por la red sin necesitar la intervención del usuario; (3) Troyano: se disfraza de programa legítimo pero ejecuta código malicioso en segundo plano; (4) Ransomware: cifra los ficheros del usuario y exige un rescate para descifrarlos; (5) Spyware: recopila información del usuario sin su consentimiento; (6) Adware: muestra publicidad no deseada.",
+      "D": "El malware es un tipo de hardware que se instala físicamente en los ordenadores; solo puede eliminarse sustituyendo los componentes infectados."
+    },
+    "correcta": "C",
+    "explicacion": "El malware (contracción de malicious software) es un término genérico para cualquier software diseñado con fines maliciosos. Los principales tipos son: (1) Virus: requiere intervención del usuario (abrir un fichero infectado) para propagarse; se adjunta a ficheros ejecutables, documentos con macros, etc.; puede dañar el sistema o los ficheros. (2) Gusano (worm): se propaga autónomamente explotando vulnerabilidades de red sin intervención del usuario; puede saturar redes y sistemas. (3) Troyano: aparenta ser software legítimo (juego, utilidad, adjunto de correo) pero contiene código malicioso oculto; no se replica; puede abrir puertas traseras (backdoors) o robar credenciales. (4) Ransomware: tipo de malware especialmente peligroso que cifra los ficheros del usuario y exige un rescate (normalmente en criptomonedas) para proporcionar la clave de descifrado; muy relevante para la ciberseguridad de las AAPP. (5) Spyware: registra la actividad del usuario (contraseñas, datos bancarios) sin su conocimiento; los keyloggers son un tipo específico que captura las pulsaciones del teclado. (6) Adware: muestra anuncios no deseados; generalmente menos dañino pero intrusivo. (7) Phishing: aunque técnicamente no es malware, es un ataque de ingeniería social para robar credenciales mediante correos o webs fraudulentas.",
+    "why": "A los smartphones y tablets también pueden ser infectados por malware; existen versiones para Android e iOS. B cada tipo de malware usa técnicas distintas y tiene objetivos diferentes; no son sinónimos. D el malware es software (intangible), no hardware; puede instalarse a través de internet, correo electrónico o dispositivos USB, sin acceso físico.",
+    "norma": "Conceptos básicos de informática — seguridad",
+    "articulo": "Tipos de malware"
+  },
+  {
+    "id": "B5T42-012",
+    "bloque": 5,
+    "tema": 42,
+    "test": 42,
+    "dificultad": "media",
+    "pregunta": "¿Qué es el cloud computing y qué modelos de servicio ofrece?",
+    "opciones": {
+      "A": "El cloud computing (computación en la nube) es la prestación de servicios informáticos (almacenamiento, procesamiento, software, redes) a través de Internet bajo demanda; los tres modelos de servicio principales son: IaaS (Infrastructure as a Service: la nube proporciona infraestructura —servidores virtuales, almacenamiento, redes—; el cliente instala y gestiona el resto), PaaS (Platform as a Service: además de infraestructura, ofrece un entorno de desarrollo y ejecución de aplicaciones; el cliente solo gestiona sus aplicaciones) y SaaS (Software as a Service: el proveedor ofrece la aplicación completa accesible desde el navegador; el cliente solo la usa, sin gestionar nada; ej. Microsoft 365, Google Workspace).",
+      "B": "El cloud computing es el nombre técnico del almacenamiento USB; consiste en guardar ficheros en una memoria flash portátil que se conecta al ordenador mediante el puerto USB.",
+      "C": "El cloud computing es una tecnología que solo usan las grandes empresas tecnológicas; las Administraciones Públicas no pueden usar servicios en la nube por razones de seguridad y soberanía de los datos.",
+      "D": "El cloud computing es la misma tecnología que Wi-Fi; ambos términos describen las conexiones inalámbricas entre ordenadores y la red de área local."
+    },
+    "correcta": "A",
+    "explicacion": "El cloud computing es el modelo de provisión de servicios informáticos a través de Internet con las siguientes características: (1) Bajo demanda: el usuario accede a los recursos cuando los necesita sin inversión previa en hardware. (2) Escalabilidad: los recursos pueden aumentarse o reducirse según las necesidades. (3) Pago por uso: se paga solo por los recursos consumidos. (4) Modelos de servicio: (a) IaaS (Infrastructure as a Service): el proveedor ofrece virtualización de hardware (servidores, almacenamiento, redes); el cliente instala el SO y las aplicaciones; ejemplos: Amazon EC2, Microsoft Azure VMs. (b) PaaS (Platform as a Service): el proveedor ofrece la infraestructura + el SO + el entorno de ejecución; el cliente desarrolla y despliega sus aplicaciones; ejemplos: Azure App Service, Google App Engine. (c) SaaS (Software as a Service): el proveedor ofrece la aplicación completa; el usuario la usa desde el navegador; ejemplos: Microsoft 365, Salesforce, Google Workspace. (5) Modelos de despliegue: nube pública (proveedores como AWS, Azure, Google Cloud), nube privada (infraestructura propia de la organización), nube híbrida (combinación). Las AAPP españolas pueden usar cloud bajo las condiciones del ENS (Esquema Nacional de Seguridad).",
+    "why": "B el cloud computing no tiene nada que ver con memorias USB; es un paradigma de servicios informáticos a través de Internet. C las AAPP sí pueden usar cloud computing; el ENS (Real Decreto 311/2022) regula las condiciones de seguridad para el uso de servicios en la nube por las AAPP españolas. D el cloud computing y el Wi-Fi son tecnologías completamente distintas; el Wi-Fi es una tecnología de red local inalámbrica, no de servicios en la nube.",
+    "norma": "Conceptos básicos de informática — cloud computing; ENS (RD 311/2022)",
+    "articulo": "Cloud computing: IaaS, PaaS, SaaS"
+  },
+  {
+    "id": "B5T42-013",
+    "bloque": 5,
+    "tema": 42,
+    "test": 42,
+    "dificultad": "media",
+    "pregunta": "¿Qué es el protocolo HTTPS y por qué es importante para la seguridad de las comunicaciones web?",
+    "opciones": {
+      "A": "HTTPS es un protocolo que garantiza que las páginas web se carguen el doble de rápido que con HTTP; no tiene ninguna relación con la seguridad de los datos.",
+      "B": "HTTPS es idéntico a HTTP; la «S» final solo indica que el servidor tiene un dominio registrado, sin implicar ningún cifrado de la comunicación.",
+      "C": "HTTPS (Hypertext Transfer Protocol Secure) es la versión segura del protocolo HTTP que se usa para navegar por la web; usa el protocolo TLS (Transport Layer Security) para cifrar las comunicaciones entre el navegador y el servidor, garantizando: (1) confidencialidad (los datos no pueden ser leídos por terceros interceptores); (2) integridad (los datos no pueden modificarse en tránsito); (3) autenticación (el certificado digital del servidor garantiza que el usuario está conectado al servidor legítimo, no a uno fraudulento); se identifica por el candado en la barra del navegador y la URL que comienza por «https://».",
+      "D": "HTTPS solo funciona en redes Wi-Fi; en conexiones de cable Ethernet no puede usarse y se sustituye por el protocolo FTP."
+    },
+    "correcta": "C",
+    "explicacion": "HTTP (Hypertext Transfer Protocol) es el protocolo base de la web que permite transferir páginas web entre servidores y navegadores. Su problema es que transmite los datos en texto claro, pudiendo ser interceptados (ataque man-in-the-middle). HTTPS resuelve este problema añadiendo una capa de cifrado TLS (Transport Layer Security, sucesor de SSL): (1) Establecimiento de conexión segura: el servidor presenta un certificado digital (emitido por una Autoridad de Certificación —CA— reconocida) que contiene su clave pública; el navegador verifica el certificado y establece una clave de sesión compartida usando criptografía asimétrica. (2) Cifrado: a partir de ese momento, toda la comunicación se cifra con esa clave de sesión (criptografía simétrica, más rápida); nadie que intercepte el tráfico puede leerlo. (3) Integridad: TLS incluye códigos de autenticación de mensajes (MAC) para detectar cualquier modificación en tránsito. (4) Autenticación: el certificado del servidor prueba que es quien dice ser; esto protege contra phishing mediante sitios web falsos. Para las AAPP, HTTPS es obligatorio en las sedes electrónicas (art. 38 ENI). El candado verde en la barra del navegador indica conexión HTTPS activa.",
+    "why": "A HTTPS mejora la seguridad mediante cifrado; la velocidad no es su objetivo principal (aunque TLS moderno es muy eficiente). B la «S» de HTTPS implica cifrado TLS, no solo registro del dominio; la diferencia es fundamental para la seguridad. D HTTPS funciona tanto en Wi-Fi como en Ethernet; es un protocolo de la capa de aplicación, independiente de la tecnología de red física.",
+    "norma": "Conceptos básicos de informática — seguridad; ENI (RD 4/2010) art. 38",
+    "articulo": "HTTPS y protocolo TLS"
+  },
+  {
+    "id": "B5T42-014",
+    "bloque": 5,
+    "tema": 42,
+    "test": 42,
+    "dificultad": "media",
+    "pregunta": "¿Qué es el RGPD y qué derechos reconoce a los ciudadanos respecto al tratamiento de sus datos personales?",
+    "opciones": {
+      "A": "El RGPD (Reglamento General de Protección de Datos, Reglamento UE 2016/679), de aplicación en toda la UE desde mayo de 2018, regula el tratamiento de datos personales; reconoce a los ciudadanos los siguientes derechos: acceso (saber qué datos se tienen), rectificación (corregir datos inexactos), supresión o «derecho al olvido» (eliminar datos cuando ya no sean necesarios o se retire el consentimiento), portabilidad (recibir los datos en formato estructurado para trasladarlos a otro responsable), limitación del tratamiento, oposición (incluida la oposición a la elaboración de perfiles) y a no ser objeto de decisiones automatizadas que le afecten significativamente.",
+      "B": "El RGPD solo es aplicable a las empresas privadas; las Administraciones Públicas están exentas de su cumplimiento cuando tratan datos personales de los ciudadanos.",
+      "C": "El RGPD no reconoce ningún derecho a los ciudadanos; solo establece obligaciones para las empresas que tratan datos.",
+      "D": "El RGPD es una directiva de la UE; como directiva, no es directamente aplicable en España y necesita ser transpuesta mediante ley orgánica antes de poder invocarse."
+    },
+    "correcta": "A",
+    "explicacion": "El RGPD (Reglamento General de Protección de Datos, Reglamento UE 2016/679, de 27 de abril de 2016) es el marco principal de protección de datos en la UE, directamente aplicable en todos los Estados miembros desde el 25 de mayo de 2018. En España lo complementa la LOPDGDD (Ley Orgánica 3/2018, de 5 de diciembre). Los derechos que reconoce a los ciudadanos (también llamados «derechos ARSOPOLI») son: (1) Derecho de Acceso: el ciudadano puede pedir información sobre sus datos tratados. (2) Derecho de Rectificación: corregir datos inexactos o incompletos. (3) Derecho de Supresión o «derecho al olvido»: solicitar la eliminación de los datos cuando ya no sean necesarios o se haya retirado el consentimiento. (4) Derecho de Oposición: oponerse al tratamiento, incluido el marketing directo y la elaboración de perfiles. (5) Derecho de Portabilidad: recibir los datos en formato estructurado, legible por máquina, para transferirlos a otro responsable. (6) Derecho a la Limitación del tratamiento: solicitar que se restrinja el tratamiento en determinadas circunstancias. (7) Derecho a no ser objeto de decisiones automatizadas con efectos jurídicos o significativos. El RGPD aplica también a las AAPP cuando tratan datos personales.",
+    "why": "B el RGPD se aplica a todos los responsables del tratamiento de datos personales, incluidas las AAPP; no existe exención general para el sector público. C el RGPD sí reconoce un amplio catálogo de derechos a los ciudadanos (arts. 15-22 RGPD). D el RGPD es un Reglamento UE, no una Directiva; los Reglamentos son directamente aplicables en todos los Estados miembros sin necesidad de transposición.",
+    "norma": "Reglamento UE 2016/679 (RGPD); LOPDGDD (LO 3/2018)",
+    "articulo": "RGPD arts. 15-22; LOPDGDD"
+  },
+  {
+    "id": "B5T42-015",
+    "bloque": 5,
+    "tema": 42,
+    "test": 42,
+    "dificultad": "media",
+    "pregunta": "¿Qué es el phishing y qué otras técnicas de ingeniería social se usan para atacar a los usuarios?",
+    "opciones": {
+      "A": "El phishing es un tipo de virus que infecta los ordenadores; se propaga a través de redes Wi-Fi públicas y no existe ninguna forma de protegerse de él.",
+      "B": "El phishing es el término técnico para las copias ilegales de software; no tiene relación con el robo de contraseñas o datos personales.",
+      "C": "El phishing es una técnica de ingeniería social en la que el atacante suplanta la identidad de una entidad legítima (banco, Administración, empresa de mensajería) mediante correos electrónicos, SMS o páginas web falsas para engañar a la víctima y obtener sus credenciales, datos bancarios o información personal; variantes incluyen: spear phishing (dirigido a un individuo concreto con información personalizada), vishing (phishing por llamada telefónica), smishing (por SMS) y pharming (redirección del tráfico DNS a un sitio web falso); la prevención requiere verificar remitentes, no hacer clic en enlaces sospechosos y usar autenticación multifactor.",
+      "D": "El phishing es un mecanismo técnico que instala automáticamente software espía en el ordenador sin que el usuario realice ninguna acción; es imposible de detectar sin software especializado."
+    },
+    "correcta": "C",
+    "explicacion": "La ingeniería social explota la psicología humana (confianza, urgencia, miedo) para engañar a las personas y obtener información o acceso a sistemas. Las técnicas más comunes son: (1) Phishing: el más frecuente; correos que imitan comunicaciones legítimas de bancos, la AEAT, Correos, etc.; contienen enlaces a webs fraudulentas donde se capturan las credenciales de la víctima. (2) Spear phishing: phishing dirigido; el atacante investiga previamente a la víctima (nombre, cargo, empresa, contactos) y personaliza el mensaje para hacerlo más creíble; especialmente peligroso para funcionarios con acceso a sistemas sensibles. (3) Vishing (voice phishing): llamadas telefónicas fraudulentas que suplantan a técnicos de soporte, bancos o Hacienda. (4) Smishing (SMS phishing): mensajes de texto con enlaces maliciosos; muy frecuente con suplantación de entidades de mensajería. (5) Pharming: manipulación del DNS para redirigir al usuario a un sitio web falso aunque escriba la URL correcta. (6) Baiting: dejar un dispositivo USB infectado en un lugar visible para que alguien lo conecte a un ordenador. La concienciación y formación del personal es la medida preventiva más eficaz.",
+    "why": "A el phishing no es un virus que se propaga por Wi-Fi; es un ataque de engaño (ingeniería social) que busca que la propia víctima facilite sus datos. B el phishing no tiene nada que ver con las copias ilegales de software (piratería); el término viene de «fishing» (pesca), aludiendo al engaño para «pescar» credenciales. D el phishing siempre requiere alguna acción de la víctima (hacer clic, rellenar un formulario, llamar a un número); es un ataque basado en el engaño, no en exploits técnicos automáticos.",
+    "norma": "Conceptos básicos de informática — seguridad; INCIBE; CCN-CERT",
+    "articulo": "Phishing e ingeniería social"
+  },
+  {
+    "id": "B5T42-016",
+    "bloque": 5,
+    "tema": 42,
+    "test": 42,
+    "dificultad": "media",
+    "pregunta": "¿Qué son las cookies en el ámbito de Internet y qué normativa las regula en España?",
+    "opciones": {
+      "A": "Las cookies son archivos de texto que un sitio web almacena en el navegador del usuario para guardar información (preferencias de idioma, sesión iniciada, carrito de compra, historial de navegación); se clasifican en propias (del mismo dominio visitado) y de terceros (de dominios de anunciantes); por su función, pueden ser técnicas o necesarias (imprescindibles para el funcionamiento), de preferencias (recuerdan configuraciones), analíticas (miden el tráfico) o de publicidad comportamental; en España se rigen por el RGPD (UE 2016/679) y la LSSI-CE (Ley 34/2002); las no esenciales requieren consentimiento previo e informado del usuario.",
+      "B": "Las cookies son archivos de imagen que los sitios web descargan en el ordenador del usuario para mostrar publicidad; no contienen ningún tipo de información personal ni seguimiento.",
+      "C": "Las cookies son virus informáticos que los sitios web maliciosos instalan en los ordenadores de los usuarios sin su conocimiento ni consentimiento.",
+      "D": "Las cookies son un componente del hardware del ordenador; se encuentran físicamente integradas en la placa base y no pueden ser eliminadas por el usuario."
+    },
+    "correcta": "A",
+    "explicacion": "Las cookies (del inglés «galletas») son pequeños archivos de texto que el servidor web envía al navegador del usuario y que este almacena localmente. Sus funciones y características son: (1) Tipos por propietario: cookies propias (del dominio que visita el usuario) y de terceros (de dominios externos, típicamente redes publicitarias, que rastrean al usuario entre varios sitios). (2) Tipos por función: (a) Técnicas/necesarias: imprescindibles para el funcionamiento del sitio (mantener la sesión iniciada, el carrito de compra); no requieren consentimiento. (b) De preferencias: recuerdan configuraciones del usuario (idioma, tamaño de letra). (c) Analíticas: recopilan estadísticas de uso del sitio (Google Analytics). (d) De publicidad comportamental: crean perfiles de usuario para mostrar publicidad personalizada. (3) Marco normativo: el RGPD (Reglamento UE 2016/679) regula el tratamiento de datos personales, incluido el que hacen las cookies; la LSSI-CE (Ley 34/2002, de servicios de la sociedad de la información) establece la obligación de informar sobre las cookies y obtener el consentimiento para las no esenciales; la AEPD ha publicado guías específicas sobre la gestión del consentimiento de cookies. (4) Consentimiento: las cookies no esenciales (analíticas, publicitarias) requieren consentimiento explícito del usuario (el famoso «banner de cookies»).",
+    "why": "B las cookies no son imágenes; son archivos de texto y pueden contener información personal (identificadores de sesión, preferencias, seguimiento comportamental). C las cookies legítimas no son virus; son una tecnología web estándar; las cookies de terceros pueden ser intrusivas pero no son malware. D las cookies son software (datos almacenados en el navegador), no hardware; el usuario puede eliminarlas desde la configuración del navegador.",
+    "norma": "RGPD (Reglamento UE 2016/679); LSSI-CE (Ley 34/2002); guía AEPD sobre cookies",
+    "articulo": "Cookies — RGPD y LSSI-CE"
+  },
+  {
+    "id": "B5T42-017",
+    "bloque": 5,
+    "tema": 42,
+    "test": 42,
+    "dificultad": "dificil",
+    "pregunta": "¿Qué es el cifrado de datos y cuáles son sus tipos principales en el ámbito de la seguridad informática?",
+    "opciones": {
+      "A": "El cifrado de datos es el proceso de convertir información legible en un formato ilegible (texto cifrado) para que solo puedan acceder a ella las personas autorizadas; existen dos tipos principales: (1) cifrado simétrico: usa la misma clave para cifrar y descifrar (p. ej., AES); es muy rápido pero requiere compartir la clave de forma segura; (2) cifrado asimétrico o de clave pública: usa un par de claves matemáticamente relacionadas (clave pública para cifrar y clave privada para descifrar); la clave pública puede distribuirse libremente; la clave privada nunca se comparte; se usa en HTTPS, firma electrónica y certificados digitales (p. ej., RSA, ECC); en la práctica, TLS combina ambos tipos.",
+      "B": "El cifrado de datos consiste en comprimir los ficheros con una contraseña mediante herramientas como WinZip o 7-Zip; no existen otros tipos de cifrado en informática.",
+      "C": "El cifrado solo existe en las redes militares y gubernamentales clasificadas; en el uso civil de Internet, los datos siempre viajan sin cifrar.",
+      "D": "El cifrado simétrico usa una clave pública para cifrar y una privada para descifrar; el cifrado asimétrico usa la misma clave para ambas operaciones; los términos «simétrico» y «asimétrico» se refieren al número de usuarios, no al número de claves."
+    },
+    "correcta": "A",
+    "explicacion": "El cifrado (o encriptado) es la técnica fundamental de la criptografía aplicada a la seguridad informática. Sus dos grandes categorías son: (1) Cifrado simétrico: una única clave secreta compartida entre emisor y receptor; la misma clave cifra y descifra; ventaja: muy rápido y eficiente para grandes volúmenes de datos; desventaja: el problema del intercambio seguro de la clave; algoritmos comunes: AES (Advanced Encryption Standard, estándar actual para información clasificada y uso civil), DES (obsoleto), 3DES; es el tipo usado para cifrar el contenido una vez establecida la sesión TLS. (2) Cifrado asimétrico o de clave pública (PKI): cada parte tiene un par de claves matemáticamente relacionadas; lo que cifra la clave pública solo puede descifrarlo la clave privada (y viceversa); la clave pública se distribuye libremente; la clave privada nunca abandona el propietario; permite el intercambio seguro de claves sin necesidad de un canal previo seguro; algoritmos: RSA, ECC (Elliptic Curve Cryptography); es el fundamento de HTTPS, la firma electrónica y los certificados digitales. (3) En la práctica, los protocolos como TLS combinan ambos: el cifrado asimétrico se usa para el handshake inicial (intercambio de la clave de sesión) y el simétrico para la transferencia de datos (por su mayor velocidad).",
+    "why": "B la compresión con contraseña (WinZip, 7-Zip) no es lo mismo que el cifrado criptográfico; aunque usa una contraseña, no emplea los algoritmos de cifrado estándar (AES, RSA); el cifrado real es matemáticamente mucho más robusto. C el cifrado es ubicuo en Internet: HTTPS, el correo electrónico con TLS, las VPN, las aplicaciones de mensajería (WhatsApp, Signal) y el almacenamiento en nube usan cifrado de forma cotidiana. D la definición está invertida: en el cifrado simétrico, la misma clave sirve para cifrar y descifrar; en el asimétrico, se usan dos claves distintas (pública para cifrar, privada para descifrar).",
+    "norma": "Conceptos básicos de informática — criptografía y seguridad; ENS (RD 311/2022)",
+    "articulo": "Cifrado simétrico y asimétrico; TLS"
+  },
+  {
+    "id": "B5T42-018",
+    "bloque": 5,
+    "tema": 42,
+    "test": 42,
+    "dificultad": "dificil",
+    "pregunta": "¿Qué es el Esquema Nacional de Seguridad (ENS) y qué obligaciones impone a las Administraciones Públicas españolas?",
+    "opciones": {
+      "A": "El Esquema Nacional de Seguridad (ENS), regulado por el Real Decreto 311/2022, de 3 de mayo, establece los principios básicos y los requisitos mínimos de seguridad para los sistemas de información de las AAPP; obliga a todas las entidades del sector público a categorizar sus sistemas según el impacto potencial de un incidente de seguridad (categorías BÁSICA, MEDIA, ALTA); a aplicar las medidas de seguridad correspondientes a cada categoría; a declarar la conformidad con el ENS; y a notificar los incidentes de seguridad relevantes al CCN-CERT (Centro Criptológico Nacional).",
+      "B": "El ENS es una norma voluntaria que las AAPP pueden optar por aplicar o no; su incumplimiento no conlleva ninguna consecuencia jurídica.",
+      "C": "El ENS solo se aplica a los sistemas de información del Ministerio de Defensa; las CCAA como la CM y los entes locales no están obligados a cumplirlo.",
+      "D": "El ENS es el nombre del programa antivirus oficial del Gobierno de España; todas las AAPP deben instalar ese programa en sus ordenadores para cumplir la normativa de seguridad."
+    },
+    "correcta": "A",
+    "explicacion": "El Esquema Nacional de Seguridad (ENS) es el marco normativo de ciberseguridad para las AAPP españolas. Datos clave: (1) Base legal: aprobado inicialmente por RD 3/2010; actualizado y derogado por el Real Decreto 311/2022, de 3 de mayo (vigente), que moderniza el ENS para adaptarlo al panorama actual de ciberamenazas y alinearlos con marcos internacionales (ISO 27001, NIS2). (2) Ámbito de aplicación: todas las AAPP (Estado, CCAA, Entidades Locales, universidades públicas y demás organismos) que traten datos o presten servicios electrónicos. (3) Categorización de sistemas: las entidades deben identificar y categorizar sus sistemas según las dimensiones de seguridad afectadas (confidencialidad, integridad, disponibilidad, autenticidad, trazabilidad) y el impacto de su compromiso; tres categorías: BÁSICA, MEDIA, ALTA. (4) Medidas de seguridad: el Anexo II del ENS establece medidas organizativas (políticas, gestión de riesgos), operacionales (control de acceso, gestión de incidentes, copias de seguridad) y de protección (perímetro, equipos, comunicaciones); las medidas exigibles varían según la categoría. (5) Declaración de conformidad: las entidades deben acreditar el cumplimiento mediante autoevaluación (categoría BÁSICA), auditoría interna o externa (MEDIA y ALTA). (6) CCN-CERT: el Centro Criptológico Nacional gestiona los incidentes de ciberseguridad de las AAPP.",
+    "why": "B el ENS es de cumplimiento obligatorio para todas las AAPP; su incumplimiento puede tener consecuencias jurídicas y administrativas. C el ENS se aplica a todas las AAPP (Estado, CCAA, Entidades Locales), no solo al Ministerio de Defensa. D el ENS no es un programa antivirus; es un marco normativo de principios, requisitos y medidas de seguridad.",
+    "norma": "Real Decreto 311/2022, de 3 de mayo (ENS)",
+    "articulo": "RD 311/2022 — Esquema Nacional de Seguridad"
+  },
+  {
+    "id": "B5T42-019",
+    "bloque": 5,
+    "tema": 42,
+    "test": 42,
+    "dificultad": "dificil",
+    "pregunta": "¿Qué es la firma electrónica y qué valor jurídico tiene en los procedimientos administrativos?",
+    "opciones": {
+      "A": "La firma electrónica es el escaneo de la firma manuscrita del ciudadano; no tiene ningún valor jurídico en los procedimientos administrativos.",
+      "B": "La firma electrónica es solo válida para los trámites de organismos privados; la Administración Pública exige siempre la firma manuscrita en papel para cualquier procedimiento.",
+      "C": "El Reglamento UE 910/2014 (eIDAS) define tres tipos de firma electrónica con distintos niveles de seguridad jurídica: (1) firma electrónica simple: datos asociados a un documento que identifican al firmante (ej. insertar una imagen de firma en un PDF); (2) firma electrónica avanzada: vinculada de forma única al firmante y capaz de detectar cambios posteriores; (3) firma electrónica cualificada: basada en un certificado cualificado emitido por un prestador de servicios de confianza (en España, la FNMT emite el Certificado de Ciudadano); tiene el mismo efecto jurídico que la firma manuscrita en todos los EEMM de la UE; la Ley 39/2015 reconoce la firma electrónica para las relaciones entre ciudadanos y AAPP.",
+      "D": "La firma electrónica solo puede ser emitida por el Estado español; los certificados extranjeros no tienen validez en los procedimientos de la Comunidad de Madrid."
+    },
+    "correcta": "C",
+    "explicacion": "La firma electrónica es un mecanismo tecnológico que garantiza la autenticidad e integridad de los documentos electrónicos. El marco legal es el Reglamento eIDAS (Reglamento UE 910/2014): (1) Firma electrónica simple: el nivel más básico; puede ser tan simple como escribir el nombre al final de un correo o insertar una imagen de firma; no ofrece garantías técnicas de autenticidad. (2) Firma electrónica avanzada: basada en criptografía asimétrica; está vinculada de forma única al firmante, permite su identificación, ha sido creada con datos bajo el control exclusivo del firmante y detecta cualquier modificación del documento firmado. (3) Firma electrónica cualificada: firma avanzada que usa un dispositivo cualificado de creación de firma y se basa en un certificado cualificado emitido por un prestador de servicios de confianza de la lista de confianza de la UE; tiene el mismo efecto jurídico que la firma manuscrita en toda la UE (art. 25.2 eIDAS); en España, la FNMT (Fábrica Nacional de Moneda y Timbre) emite certificados cualificados para ciudadanos, entidades y empleados públicos. La Ley 39/2015 (art. 10) reconoce la firma electrónica en los procedimientos administrativos y admite el DNI electrónico y los certificados de la FNMT para identificarse y firmar ante las AAPP. El sello electrónico es el equivalente para personas jurídicas.",
+    "why": "A la firma electrónica cualificada tiene el mismo valor jurídico que la firma manuscrita (art. 25.2 eIDAS y Ley 39/2015); el escaneo de la firma manuscrita sería una firma simple sin garantías técnicas. B la Ley 39/2015 reconoce y promueve la firma electrónica para los procedimientos administrativos; la Administración no puede exigir firma manuscrita cuando el trámite puede hacerse electrónicamente. D el Reglamento eIDAS garantiza el reconocimiento mutuo de las firmas electrónicas cualificadas entre todos los Estados miembros de la UE.",
+    "norma": "Reglamento UE 910/2014 (eIDAS); Ley 39/2015 art. 10",
+    "articulo": "eIDAS art. 25; Ley 39/2015 art. 10 — firma electrónica"
+  },
+  {
+    "id": "B5T42-020",
+    "bloque": 5,
+    "tema": 42,
+    "test": 42,
+    "dificultad": "dificil",
+    "pregunta": "¿Qué es el Esquema Nacional de Interoperabilidad (ENI) y cómo facilita la comunicación entre Administraciones?",
+    "opciones": {
+      "A": "El ENI (Esquema Nacional de Interoperabilidad), regulado por el Real Decreto 4/2010, de 8 de enero, establece los principios y estándares que deben respetar los sistemas de información de las AAPP para garantizar la interoperabilidad (la capacidad de compartir información e interactuar entre sí y con los ciudadanos); establece condiciones sobre formatos de documentos y expedientes, estándares de comunicación, sistemas de firma electrónica y elementos comunes de infraestructura (Red SARA, @firma, etc.); su objetivo es que un documento electrónico generado por una Administración sea reconocido y utilizable por cualquier otra.",
+      "B": "El ENI es el nombre del estándar de codificación de caracteres usado por todas las AAPP; equivale a lo que en el sector privado se denomina Unicode.",
+      "C": "El ENI solo regula la interoperabilidad con Administraciones de otros países de la UE; la interoperabilidad entre Administraciones españolas se regula en la Ley 39/2015.",
+      "D": "El ENI no existe como norma; la interoperabilidad entre Administraciones se logra automáticamente porque todas usan el mismo sistema operativo (Windows) y los mismos programas ofimáticos."
+    },
+    "correcta": "A",
+    "explicacion": "El Esquema Nacional de Interoperabilidad (ENI) y el Esquema Nacional de Seguridad (ENS) son los dos pilares técnicos de la administración electrónica española. El ENI (RD 4/2010, de 8 de enero; actualizado por RD 4/2010 modificado) establece: (1) Principios de interoperabilidad: interoperabilidad técnica (capacidad de intercambiar datos), semántica (los datos se interpretan del mismo modo en distintos sistemas), organizativa (coordinación de procesos entre AAPP). (2) Estándares técnicos obligatorios: formatos de fichero preferentes (PDF/A para documentos; XML para datos estructurados; PNG/TIFF para imágenes), protocolos de comunicación, esquemas de metadatos para documentos electrónicos, normas de firma electrónica interoperable. (3) Infraestructuras comunes: la Red SARA (Sistema de Aplicaciones y Redes para las Administraciones, la red troncal que interconecta las AAPP españolas), la plataforma @firma (firma electrónica), Cl@ve (identificación y autenticación), el Registro Electrónico General (REGAGE), ORVE (registro electrónico de entrada/salida). (4) Política de Gestión de Documentos Electrónicos: guía para la gestión, archivo y conservación de documentos electrónicos a largo plazo. La interoperabilidad es fundamental para que el ciudadano no tenga que aportar documentos que ya obran en poder de otra Administración (art. 28 Ley 39/2015).",
+    "why": "B el ENI no es un estándar de codificación de caracteres; es un marco de interoperabilidad para los sistemas de información de las AAPP; Unicode es el estándar de codificación de caracteres. C el ENI regula la interoperabilidad entre todas las AAPP españolas (y también con otros EEMM de la UE a través del eIDAS); no se limita a la interoperabilidad internacional. D la interoperabilidad no es automática por usar el mismo SO; requiere estándares técnicos y semánticos definidos; el ENI establece esos estándares.",
+    "norma": "Real Decreto 4/2010, de 8 de enero (ENI); Ley 39/2015 art. 28",
+    "articulo": "RD 4/2010 — Esquema Nacional de Interoperabilidad"
+  }
+]
