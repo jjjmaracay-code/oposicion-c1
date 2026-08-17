@@ -1,0 +1,382 @@
+[
+  {
+    "id": "B5T49-001",
+    "bloque": 5,
+    "tema": 49,
+    "test": 49,
+    "dificultad": "facil",
+    "pregunta": "¿Qué es Microsoft 365 y qué aplicaciones y servicios incluye?",
+    "opciones": {
+      "A": "Microsoft 365 es solo la suite Office (Word, Excel, PowerPoint, Outlook); no incluye ningún servicio en la nube como Teams, SharePoint ni OneDrive.",
+      "B": "Microsoft 365 es una licencia perpetua que se compra una sola vez; no es un servicio de suscripción y no incluye actualizaciones de por vida.",
+      "C": "Microsoft 365 es la suite de productividad y colaboración de Microsoft en la nube; incluye las aplicaciones de Office (Word, Excel, PowerPoint, Outlook, Access, OneNote), Teams, SharePoint, OneDrive for Business, Exchange Online, Forms, Planner, Power Automate, Power BI, Stream y Viva Engage; se accede mediante suscripción mensual o anual por usuario; las licencias empresariales más comunes son Business Basic, Business Standard, Business Premium y Enterprise E1/E3/E5.",
+      "D": "Microsoft 365 y Office 365 son exactamente el mismo servicio; el cambio de nombre fue solo estético y no implicó ninguna adición de servicios ni nuevas funcionalidades."
+    },
+    "correcta": "C",
+    "explicacion": "Microsoft 365 es la evolución de Office 365, lanzada en 2020, y va más allá de la suite Office: (1) Aplicaciones de productividad: Word, Excel, PowerPoint, Outlook, OneNote, Access (Business/Enterprise), Publisher (Business). (2) Servicios de colaboración: Microsoft Teams (comunicación y reuniones), SharePoint (intranet y gestión de contenido), OneDrive for Business (almacenamiento personal en la nube). (3) Comunicación: Exchange Online (correo electrónico corporativo), Viva Engage (red social corporativa). (4) Automatización e inteligencia: Power Automate (flujos de trabajo), Power BI (Business Intelligence), Power Apps (aplicaciones sin código), Forms (encuestas y cuestionarios), Stream (vídeo corporativo). (5) Gestión: Microsoft Intune (gestión de dispositivos), Azure AD (identidad y acceso). (6) Diferencia con Office 365: Microsoft 365 añade funcionalidades de IA (Microsoft Copilot), seguridad avanzada (Microsoft Defender) y características de Windows para algunos planes. (7) Modelo de suscripción: pago mensual o anual por usuario; asegura actualizaciones continuas y acceso a las últimas versiones.",
+    "why": "A Microsoft 365 incluye muchas más aplicaciones y servicios en la nube además de la suite Office: Teams, SharePoint, OneDrive, Power Platform, etc. B Microsoft 365 es un servicio de suscripción, no una licencia perpetua; el modelo de pago es mensual o anual por usuario. D el cambio de Office 365 a Microsoft 365 sí implicó adición de nuevas funcionalidades y servicios (IA, seguridad avanzada, Windows 365…).",
+    "norma": "Microsoft 365 — Introducción y licenciamiento",
+    "articulo": "Microsoft 365: suite de productividad y colaboración en la nube"
+  },
+  {
+    "id": "B5T49-002",
+    "bloque": 5,
+    "tema": 49,
+    "test": 49,
+    "dificultad": "facil",
+    "pregunta": "¿Qué es Microsoft SharePoint y cuál es su función en la colaboración corporativa?",
+    "opciones": {
+      "A": "SharePoint es la plataforma de gestión de contenido e intranet corporativa de Microsoft integrada en Microsoft 365; permite crear sitios de equipo y sitios de comunicación, almacenar y compartir documentos en bibliotecas con control de versiones y metadatos, crear listas de datos estructurados, publicar noticias y páginas de intranet; cada equipo de Teams tiene un sitio de SharePoint asociado para almacenar sus archivos.",
+      "B": "SharePoint es exclusivamente un sistema de gestión de documentos; no puede usarse para crear intranets, publicar noticias ni gestionar listas de datos estructurados.",
+      "C": "SharePoint solo puede ser utilizado por administradores del sistema; los usuarios finales de la organización no tienen acceso para crear sitios ni subir documentos.",
+      "D": "Los sitios de SharePoint y los equipos de Teams son sistemas completamente independientes; crear un equipo de Teams no crea automáticamente ningún sitio de SharePoint ni ningún recurso compartido."
+    },
+    "correcta": "A",
+    "explicacion": "Microsoft SharePoint es la plataforma de gestión de contenido e intranet de Microsoft 365: (1) Tipos de sitios: Sitios de equipo (Team sites): conectados a un Grupo de Microsoft 365 y a un equipo de Teams; para proyectos y colaboración de equipos. Sitios de comunicación (Communication sites): para publicar noticias, información y recursos a toda la organización o a un grupo amplio. (2) Bibliotecas de documentos: almacenamiento estructurado de archivos con: control de versiones (historial completo), metadatos personalizados (columnas de tipo texto, fecha, persona, opción…), permisos granulares, previsualización y edición sin descargar. (3) Listas: tablas de datos estructurados similares a una base de datos; con formularios personalizados, flujos de automatización (Power Automate) y vistas filtradas. (4) Páginas y noticias: páginas web dentro del sitio con web parts (bloques de contenido); noticias que se distribuyen por correo, Teams y la app de SharePoint. (5) Relación con Teams: al crear un equipo de Teams, SharePoint crea automáticamente un sitio de equipo asociado; los archivos de los canales se almacenan en la biblioteca de documentos de ese sitio.",
+    "why": "B SharePoint es una plataforma completa para intranets, listas de datos, páginas web y noticias corporativas, además de gestión de documentos. C cualquier usuario de la organización con las licencias adecuadas puede acceder a SharePoint; los propietarios de sitios pueden crear y gestionar sus propios sitios. D cada equipo de Teams tiene automáticamente un sitio de SharePoint asociado; los archivos de canales se almacenan en SharePoint.",
+    "norma": "Microsoft SharePoint Online — Introducción",
+    "articulo": "Microsoft SharePoint: intranet corporativa y gestión de contenido en Microsoft 365"
+  },
+  {
+    "id": "B5T49-003",
+    "bloque": 5,
+    "tema": 49,
+    "test": 49,
+    "dificultad": "facil",
+    "pregunta": "¿Qué es OneDrive for Business y en qué se diferencia del OneDrive personal?",
+    "opciones": {
+      "A": "OneDrive for Business y OneDrive personal son exactamente el mismo servicio; no existe ninguna diferencia en capacidad, gobernanza ni integración con otras aplicaciones.",
+      "B": "OneDrive for Business no está integrado en Microsoft 365; es un servicio independiente que debe contratarse por separado con un proveedor diferente.",
+      "C": "Los archivos almacenados en OneDrive for Business no pueden compartirse con personas de fuera de la organización; el servicio está restringido al uso exclusivamente interno.",
+      "D": "OneDrive for Business es el almacenamiento personal en la nube de cada usuario dentro de Microsoft 365; se diferencia del OneDrive personal en: capacidad mayor (generalmente 1 TB por usuario), gobernanza corporativa (el administrador puede gestionar permisos y aplicar políticas de retención), integración con SharePoint, Teams y el resto de Microsoft 365, y compartir archivos con personas internas y externas (con permisos controlados); la sincronización con el equipo local se realiza con el cliente de sincronización de OneDrive."
+    },
+    "correcta": "D",
+    "explicacion": "OneDrive for Business es el espacio de almacenamiento personal en la nube de cada usuario en Microsoft 365: (1) Características: capacidad de almacenamiento: 1 TB por usuario en la mayoría de planes Microsoft 365 (ampliable). Sincronización: el cliente de OneDrive (integrado en Windows 10/11) sincroniza los archivos entre la nube y el equipo local; acceso sin conexión. Files On-Demand: los archivos solo se descargan al equipo cuando se abren; el resto aparecen como iconos de nube en el Explorador de archivos. (2) Diferencias con OneDrive personal (para consumidores): Gobernanza: el administrador puede acceder al OneDrive de empleados si es necesario (con proceso de auditoría), aplicar políticas de retención y DLP, y recuperar datos de empleados que abandonan la organización. Capacidad: generalmente mayor que los 5 GB gratuitos del OneDrive personal. Integración: totalmente integrado con SharePoint, Teams, Office 365 y Microsoft Purview. (3) Compartir: clic derecho en el Explorador > Compartir, o desde onedrive.com; se puede compartir con personas de la organización, personas externas (con vínculo con o sin contraseña) o con cualquiera que tenga el vínculo; se puede establecer fecha de expiración y permisos (ver, editar).",
+    "why": "A OneDrive for Business y OneDrive personal son servicios distintos: diferente capacidad, gobernanza corporativa y nivel de integración con Microsoft 365. B OneDrive for Business es parte integral de Microsoft 365; no requiere contratación separada. C OneDrive for Business permite compartir archivos con usuarios externos fuera de la organización (según las políticas del administrador).",
+    "norma": "Microsoft OneDrive for Business — Introducción",
+    "articulo": "OneDrive for Business: almacenamiento personal en la nube en Microsoft 365"
+  },
+  {
+    "id": "B5T49-004",
+    "bloque": 5,
+    "tema": 49,
+    "test": 49,
+    "dificultad": "facil",
+    "pregunta": "¿Qué es Microsoft Teams y cuáles son sus funcionalidades principales?",
+    "opciones": {
+      "A": "Microsoft Teams es exclusivamente una herramienta de videoconferencia; no incluye chat de texto, canales de equipo ni almacenamiento de archivos.",
+      "B": "Microsoft Teams es la plataforma de comunicación y colaboración de Microsoft 365; incluye: chat (conversaciones individuales y grupales), equipos y canales (espacios de trabajo organizados por proyecto o área), reuniones en línea (audio, vídeo, pantalla compartida), colaboración en archivos (integrado con SharePoint y OneDrive), integración de aplicaciones, Planner para tareas y pestaña de OneNote.",
+      "C": "Los archivos compartidos en un canal de Microsoft Teams se almacenan en el buzón de correo de Exchange del equipo; no tienen ninguna relación con SharePoint.",
+      "D": "Microsoft Teams solo puede usarse dentro de la red corporativa local; no permite reuniones con usuarios externos de otras organizaciones ni con invitados sin cuenta de Microsoft 365."
+    },
+    "correcta": "B",
+    "explicacion": "Microsoft Teams es el hub de colaboración de Microsoft 365: (1) Chat: mensajes individuales (1:1) y conversaciones grupales (varios participantes); mensajes, imágenes, GIFs, stickers y archivos adjuntos; historial de conversaciones persistente. (2) Equipos y canales: los equipos agrupan personas que trabajan en un área o proyecto; cada equipo tiene canales (estándar, privados, compartidos); cada canal tiene conversaciones en hilo, archivos (almacenados en SharePoint) y pestañas con aplicaciones. (3) Reuniones: audio, vídeo y pantalla compartida; hasta 1.000 participantes; grabación (almacenada en OneDrive/Stream); Sala de espera (admitir/rechazar participantes externos); transcripción automática; notas de reunión. (4) Llamadas: con licencia adicional Phone System, Teams puede sustituir a la centralita telefónica. (5) Colaboración en archivos: los archivos de canales se almacenan en SharePoint; los archivos de chat privado en el OneDrive del remitente; se pueden editar en coautoría en tiempo real desde Teams. (6) Integración: más de 750 aplicaciones en el marketplace de Teams (Planner, Forms, Power BI, Approvals, Stream…).",
+    "why": "A Teams incluye chat de texto, canales de equipo, colaboración en archivos, reuniones y muchas más funcionalidades más allá de la videoconferencia. C los archivos de canales de Teams se almacenan en la biblioteca de documentos del sitio de SharePoint asociado al equipo. D Teams permite reuniones con participantes externos (invitados) y con usuarios anónimos (con el vínculo de reunión).",
+    "norma": "Microsoft Teams — Introducción",
+    "articulo": "Microsoft Teams: plataforma de comunicación y colaboración en Microsoft 365"
+  },
+  {
+    "id": "B5T49-005",
+    "bloque": 5,
+    "tema": 49,
+    "test": 49,
+    "dificultad": "facil",
+    "pregunta": "¿Qué es la coautoría en tiempo real en Microsoft 365 y cómo funciona?",
+    "opciones": {
+      "A": "La coautoría en tiempo real en Microsoft 365 solo está disponible en Word; Excel y PowerPoint no soportan edición simultánea por varios usuarios.",
+      "B": "Para usar la coautoría en documentos de Microsoft 365, todos los colaboradores deben tener el mismo sistema operativo; un usuario en Mac y otro en Windows no pueden editar el mismo documento simultáneamente.",
+      "C": "La coautoría en tiempo real permite que varios usuarios editen simultáneamente el mismo documento (Word, Excel, PowerPoint) almacenado en OneDrive o SharePoint; los cambios de cada usuario se ven en tiempo real identificados con un cursor de color y el nombre del colaborador; basta con que el documento esté en la nube y se haya compartido; también funciona desde el navegador con Office en la web.",
+      "D": "En la coautoría de Microsoft 365, cuando dos usuarios editan la misma celda de Excel simultáneamente, el documento se bloquea y ninguno puede guardar hasta que el conflicto se resuelva manualmente."
+    },
+    "correcta": "C",
+    "explicacion": "La coautoría en tiempo real es una de las características de colaboración más importantes de Microsoft 365: (1) Aplicaciones compatibles: Word, Excel, PowerPoint, OneNote; tanto en las aplicaciones de escritorio como en Office en la web (navegador). (2) Requisito: el documento debe estar almacenado en OneDrive for Business o en una biblioteca de SharePoint (no en el equipo local); y debe haberse compartido con los demás colaboradores con permisos de edición. (3) Funcionamiento: cuando varios usuarios abren el mismo documento, cada uno ve el cursor de los demás con un color distinto y el nombre del colaborador sobre el cursor; los cambios de cada usuario aparecen en el documento de todos los demás en tiempo real (o casi en tiempo real según la aplicación). (4) Gestión de conflictos en Excel: si dos usuarios editan la misma celda, Excel muestra un indicador de edición en la celda ocupada; al finalizar, si hay conflicto, el sistema gestiona la fusión de cambios o pide al último usuario qué versión conservar. (5) Historial de versiones: cada cambio se registra en el historial de versiones del documento (ver Historial de versiones en el menú del documento).",
+    "why": "A la coautoría funciona en Word, Excel, PowerPoint y OneNote; no solo en Word. B la coautoría funciona entre usuarios en cualquier combinación de sistemas operativos (Windows, Mac, iOS, Android) y desde el navegador. D Excel gestiona los conflictos de edición simultánea; el documento no se bloquea.",
+    "norma": "Microsoft 365 — Coautoría en tiempo real",
+    "articulo": "Coautoría en tiempo real en Microsoft 365: Word, Excel y PowerPoint"
+  },
+  {
+    "id": "B5T49-006",
+    "bloque": 5,
+    "tema": 49,
+    "test": 49,
+    "dificultad": "facil",
+    "pregunta": "¿Qué es Microsoft Planner y cómo apoya la gestión de tareas en equipo?",
+    "opciones": {
+      "A": "Microsoft Planner es la herramienta de gestión de tareas orientada a equipos de Microsoft 365; permite crear planes con tableros estilo Kanban en cubos (columnas); cada tarea puede tener asignados, fecha de vencimiento, prioridad, etiquetas, lista de comprobación, adjuntos y comentarios; se integra con Teams (pestaña Planner) y con Microsoft To Do; se accede en planner.microsoft.com o desde Teams.",
+      "B": "Microsoft Planner usa metodología de tipo Gantt con líneas de tiempo; no tiene ninguna vista de tipo Kanban ni tableros con columnas.",
+      "C": "Las tareas de Planner no pueden asignarse a más de un usuario; cada tarea solo admite un único responsable.",
+      "D": "Microsoft Planner es una aplicación independiente que no tiene ninguna integración con Microsoft Teams ni con Microsoft To Do."
+    },
+    "correcta": "A",
+    "explicacion": "Microsoft Planner es la herramienta de gestión visual de tareas de Microsoft 365: (1) Tablero Kanban: cada plan tiene un tablero con cubos (columnas) que representan etapas del trabajo (p. ej., Por hacer, En curso, Completado); las tareas son tarjetas que se arrastran entre cubos; vista de tabla (lista de todas las tareas), vista de gráficos (progreso del plan) y vista de programación (calendario con las fechas de vencimiento). (2) Tareas: Asignados (uno o varios miembros del equipo), Fecha de inicio y vencimiento, Prioridad (Urgente, Alta, Media, Baja), Etiquetas de color (hasta 25 etiquetas por plan), Lista de comprobación (subtareas), Adjuntos (archivos desde el equipo o desde SharePoint), Comentarios, Porcentaje completado. (3) Integración con Teams: la pestaña Tareas de Teams (que agrupa Planner y To Do) permite gestionar las tareas directamente en un canal de Teams. (4) Microsoft To Do: las tareas asignadas al usuario en Planner aparecen también en la vista 'Asignadas a mí' de Microsoft To Do. (5) Diferencia con Project: Planner es para equipos pequeños y planes sencillos; Microsoft Project es para gestión de proyectos complejos con dependencias, recursos y diagramas de Gantt.",
+    "why": "B Planner tiene vista de tablero Kanban (cubos y tarjetas) como vista principal; también tiene vista de programación similar a un Gantt simple, pero no es la metodología principal. C las tareas de Planner pueden asignarse a varios miembros del equipo simultáneamente. D Planner está profundamente integrado en Teams (pestaña Tareas) y en Microsoft To Do.",
+    "norma": "Microsoft Planner — Introducción",
+    "articulo": "Microsoft Planner: gestión de tareas con tableros Kanban en Microsoft 365"
+  },
+  {
+    "id": "B5T49-007",
+    "bloque": 5,
+    "tema": 49,
+    "test": 49,
+    "dificultad": "media",
+    "pregunta": "¿Qué son las bibliotecas de documentos y las listas de SharePoint y para qué se usan?",
+    "opciones": {
+      "A": "Las bibliotecas de documentos de SharePoint no admiten ningún tipo de metadatos adicionales; solo almacenan el archivo y su nombre.",
+      "B": "El control de versiones en las bibliotecas de SharePoint solo guarda la versión final del documento; no existe historial de versiones anteriores.",
+      "C": "Las listas de SharePoint son exclusivamente para uso interno de administradores; los usuarios finales no pueden ver ni editar listas en SharePoint.",
+      "D": "Las bibliotecas de documentos de SharePoint permiten: almacenamiento de archivos con control de versiones (historial completo con posibilidad de restaurar versiones anteriores), metadatos personalizados (columnas de tipo texto, fecha, persona, opción, número…), vistas filtradas y ordenadas, protección de documentos (check-out/check-in), y permisos a nivel de carpeta o archivo; las listas de SharePoint son tablas de datos estructurados (como una base de datos en la web) con formularios personalizados, flujos de automatización y vistas adaptadas."
+    },
+    "correcta": "D",
+    "explicacion": "Las bibliotecas de documentos y las listas son los dos tipos principales de contenido en SharePoint: (1) Biblioteca de documentos: Almacenamiento de archivos: admite cualquier tipo de archivo; se organiza en carpetas. Control de versiones: cada vez que se guarda el archivo se crea una nueva versión; el historial permite ver, comparar y restaurar versiones anteriores (configurable: mayores/menores, número máximo de versiones). Metadatos: columnas adicionales al nombre del archivo (p. ej., Departamento, Estado, Fecha de aprobación) que permiten filtrar, ordenar y agrupar documentos sin depender de carpetas. Check-out/Check-in: bloquea el documento para edición exclusiva por un usuario; otros usuarios solo pueden leer la versión anterior hasta que se hace check-in. Edición en coautoría: varios usuarios pueden editar simultáneamente sin check-out. (2) Lista de SharePoint: Similar a una tabla de base de datos o una hoja de Excel en la web; tipos de columnas: texto, número, fecha, persona, opción, sí/no, hipervínculo, búsqueda (relacionar con otra lista), etc.; Formularios: formulario automático para añadir o editar elementos; Power Apps permite personalizar el formulario completamente; Vistas: diferentes vistas de la misma lista (filtradas, agrupadas, ordenadas); Power Automate: automatizar acciones cuando se crea o modifica un elemento.",
+    "why": "A las bibliotecas de documentos admiten columnas de metadatos personalizados (texto, fecha, persona, opción, número) que enriquecen la clasificación de los archivos. B el control de versiones de SharePoint guarda todas las versiones (configurables en número) y permite restaurar cualquier versión anterior. C las listas de SharePoint son accesibles por cualquier usuario con permisos de lectura o contribución en el sitio; son una herramienta para todos los usuarios.",
+    "norma": "Microsoft SharePoint Online — Bibliotecas y listas",
+    "articulo": "Bibliotecas de documentos y listas en Microsoft SharePoint"
+  },
+  {
+    "id": "B5T49-008",
+    "bloque": 5,
+    "tema": 49,
+    "test": 49,
+    "dificultad": "media",
+    "pregunta": "¿Cómo se organizan los equipos y canales en Microsoft Teams?",
+    "opciones": {
+      "A": "En Microsoft Teams los canales privados no existen; todos los canales de un equipo son públicos y visibles para todos los miembros del equipo.",
+      "B": "Microsoft Teams organiza el trabajo en equipos y canales: los canales estándar son visibles para todos los miembros del equipo; los canales privados son accesibles solo para los miembros invitados (tienen su propio sitio de SharePoint separado); los canales compartidos permiten colaborar con personas de otras organizaciones sin añadirlas al equipo; cada canal tiene pestañas para añadir aplicaciones, archivos y conversaciones en hilo.",
+      "C": "Las reuniones de Microsoft Teams no pueden grabarse; para registrar el contenido de una reunión es necesario usar una aplicación de grabación de pantalla de terceros.",
+      "D": "Los archivos compartidos en un canal de Teams se almacenan en el buzón de correo de Exchange del equipo; no tienen ninguna relación con SharePoint."
+    },
+    "correcta": "B",
+    "explicacion": "Organización de equipos y canales en Teams: (1) Equipos: espacios de trabajo de un grupo de personas; pueden ser públicos (cualquier miembro de la organización puede unirse) o privados (solo por invitación). (2) Tipos de canales: Canal estándar: visible y accesible para todos los miembros del equipo; los archivos se guardan en el sitio de SharePoint del equipo. Canal privado: solo ven y acceden los miembros invitados al canal (subconjunto del equipo); tiene su propio sitio de SharePoint separado con una biblioteca de documentos independiente. Canal compartido (Shared Channel): permite añadir miembros de otras organizaciones Teams (federación B2B directa) sin necesidad de añadirlos como invitados al equipo; también tiene su propio sitio de SharePoint. (3) Conversaciones: las conversaciones de canal son públicas para todos los miembros del canal y están organizadas en hilos (responder a un mensaje específico). (4) Pestañas de canal: cada canal puede tener pestañas personalizadas: archivos (biblioteca de SharePoint), wiki (notas), Planner, Forms, Power BI, un sitio web, OneNote, Stream, etc. (5) Grabación de reuniones: las reuniones de Teams pueden grabarse (botón Más opciones > Iniciar grabación); se almacenan en OneDrive (reuniones ad hoc o privadas) o en la biblioteca de SharePoint del canal (reuniones de canal); incluyen transcripción automática.",
+    "why": "A existen tres tipos de canales en Teams: estándar, privado y compartido; los privados son accesibles solo para un subconjunto de miembros. C las reuniones de Teams sí pueden grabarse (con transcripción automática); la grabación se almacena en OneDrive o SharePoint. D los archivos de canales de Teams se almacenan en la biblioteca de documentos del sitio de SharePoint del equipo.",
+    "norma": "Microsoft Teams — Equipos y canales",
+    "articulo": "Equipos y canales en Microsoft Teams: estándar, privado y compartido"
+  },
+  {
+    "id": "B5T49-009",
+    "bloque": 5,
+    "tema": 49,
+    "test": 49,
+    "dificultad": "media",
+    "pregunta": "¿Qué es Microsoft Forms y para qué se utiliza en el entorno de Microsoft 365?",
+    "opciones": {
+      "A": "Microsoft Forms solo puede usarse para crear exámenes con corrección automática; no permite crear encuestas ni formularios de recopilación de datos sin respuesta correcta.",
+      "B": "Los resultados de Microsoft Forms solo pueden consultarse en la propia aplicación; no se pueden exportar a Excel ni conectar con Power Automate.",
+      "C": "Microsoft Forms es la herramienta de Microsoft 365 para crear encuestas, cuestionarios y sondeos; permite añadir preguntas de: opción múltiple, texto libre, puntuación (1-10), escala de Likert, carga de archivos, fecha, clasificación y sección de formulario; los cuestionarios pueden tener respuestas correctas con puntuación automática; los resultados se visualizan en gráficos en tiempo real y se exportan a Excel; se puede insertar en Teams, SharePoint y OneNote; admite respuestas de usuarios externos.",
+      "D": "Los formularios de Microsoft Forms solo pueden ser respondidos por usuarios con cuenta de Microsoft 365 de la misma organización; no admiten respuestas de usuarios externos ni anónimos."
+    },
+    "correcta": "C",
+    "explicacion": "Microsoft Forms es la herramienta de formularios y encuestas de Microsoft 365: (1) Tipos de elementos disponibles: Opción múltiple: una o varias respuestas correctas; opción aleatoria del orden. Texto: respuesta corta o párrafo. Puntuación (Rating): estrellas del 1 al 5 (o 1 al 10). Escala de Likert: matriz de afirmaciones con escala de acuerdo. Fecha: selector de fecha. Clasificación (Ranking): ordenar opciones por preferencia. Sección: divide el formulario en partes. Carga de archivos: el respondente adjunta un archivo. (2) Cuestionarios: versión de Forms con respuestas correctas; puntuación automática; retroalimentación por respuesta; se usa en Teams Educación para exámenes. (3) Resultados: visualización gráfica en tiempo real en la pestaña Respuestas; exportar todas las respuestas a Excel con un clic; conectar con Power Automate para procesar respuestas automáticamente. (4) Compartir: vínculo para cualquiera (externo o anónimo), para la organización, o solo para personas concretas; se puede insertar en una página de SharePoint, en Teams como pestaña o en OneNote. (5) Ramificación: mostrar u ocultar preguntas según las respuestas anteriores.",
+    "why": "A Forms permite crear tanto encuestas (sin respuestas correctas) como cuestionarios (con corrección automática). B los resultados se exportan a Excel con un clic y se conectan con Power Automate para automatizar procesos. D Forms puede configurarse para admitir respuestas de usuarios externos y anónimos (sin cuenta de Microsoft 365).",
+    "norma": "Microsoft Forms — Microsoft 365",
+    "articulo": "Microsoft Forms: encuestas, cuestionarios y sondeos en Microsoft 365"
+  },
+  {
+    "id": "B5T49-010",
+    "bloque": 5,
+    "tema": 49,
+    "test": 49,
+    "dificultad": "media",
+    "pregunta": "¿Cómo funciona la sincronización y el uso compartido de archivos en OneDrive for Business?",
+    "opciones": {
+      "A": "La sincronización de OneDrive for Business se realiza con el cliente de OneDrive (incluido en Windows 10/11); permite acceder a los archivos desde el Explorador de archivos; con Files On-Demand, los archivos solo se descargan cuando se abren (icono de nube); compartir: clic derecho > Compartir, con permisos de ver o editar, fecha de expiración y contraseña opcionales; se puede compartir con personas internas y con usuarios externos.",
+      "B": "La sincronización de OneDrive requiere descargar manualmente todos los archivos al equipo; no existe ninguna funcionalidad de Files On-Demand que permita mantener archivos solo en la nube.",
+      "C": "En OneDrive for Business, todos los archivos compartidos se dan con permisos de edición completa; no existe la opción de compartir como solo lectura.",
+      "D": "Los archivos de OneDrive for Business no pueden compartirse con personas fuera de la organización; el uso externo está bloqueado de forma permanente."
+    },
+    "correcta": "A",
+    "explicacion": "Sincronización y uso compartido de OneDrive for Business: (1) Sincronización local: el cliente de OneDrive (OneDrive.exe, integrado en Windows 10/11 y disponible para macOS) sincroniza los archivos entre onedrive.com y el equipo local; los archivos sincronizados aparecen en el Explorador de archivos bajo 'OneDrive - [Nombre organización]'. Files On-Demand: los archivos pueden estar en tres estados: Solo en la nube (icono de nube): no ocupan espacio en disco; se descargan al hacer doble clic. Disponible localmente (icono de marca verde): se ha abierto o descargado; se descargan según necesidad. Siempre disponible (icono de marca verde sólida): se ha marcado para disponibilidad sin conexión; siempre está en el disco. (2) Compartir archivos: Clic derecho en el archivo > Compartir (desde el Explorador o desde onedrive.com). Opciones de vínculo: Personas de [organización] con el vínculo, Personas específicas, Cualquiera con el vínculo (incluso externos). Permisos: Puede editar o Solo puede ver. Configuración adicional: fecha de expiración del vínculo, contraseña de acceso, bloquear descarga.",
+    "why": "B Files On-Demand es precisamente la funcionalidad que permite mantener los archivos solo en la nube y descargarlos bajo demanda; no es necesario descargar todo. C los archivos de OneDrive se pueden compartir con permisos de solo ver (lectura) o con permisos de edición; el propietario elige. D el administrador puede configurar el uso compartido externo (habilitarlo o deshabilitarlo); por defecto en Microsoft 365 está habilitado.",
+    "norma": "Microsoft OneDrive for Business — Sincronización y uso compartido",
+    "articulo": "Sincronización y uso compartido en OneDrive for Business"
+  },
+  {
+    "id": "B5T49-011",
+    "bloque": 5,
+    "tema": 49,
+    "test": 49,
+    "dificultad": "media",
+    "pregunta": "¿Qué es Microsoft OneNote y cómo se usa de forma colaborativa en Microsoft 365?",
+    "opciones": {
+      "A": "OneNote solo permite crear cuadernos de texto sin formato; no admite imágenes, tablas, archivos adjuntos, dibujos a mano ni grabaciones de audio.",
+      "B": "Los cuadernos de OneNote no pueden compartirse con otras personas; son exclusivamente privados para el usuario que los crea.",
+      "C": "OneNote en Microsoft 365 solo funciona en la aplicación de escritorio de Windows; no está disponible en dispositivos móviles, Mac ni desde el navegador web.",
+      "D": "OneNote es el bloc de notas digital de Microsoft 365; organiza el contenido en cuadernos, secciones y páginas; admite texto, imágenes, tablas, archivos adjuntos, dibujos a mano (con lápiz táctil), grabaciones de audio/vídeo y clips de pantalla; los cuadernos almacenados en OneDrive o SharePoint se editan en colaboración en tiempo real; se integra en Teams como pestaña en canales y está disponible en Windows, Mac, iOS, Android y navegador web."
+    },
+    "correcta": "D",
+    "explicacion": "Microsoft OneNote es el bloc de notas digital de Microsoft 365: (1) Estructura: Cuaderno (Notebook): el contenedor principal, guardado en OneDrive o SharePoint. Sección (Section): divisiones del cuaderno, con pestañas de colores. Página (Page): unidad básica de contenido; puede tener subpáginas. (2) Tipos de contenido: Texto con formato libre (el texto puede colocarse en cualquier lugar de la página sin límites de campos). Imágenes y capturas de pantalla. Tablas. Archivos adjuntos incrustados (el archivo se guarda dentro del cuaderno). Dibujos a mano (especialmente con lápiz táctil o pantalla táctil). Grabaciones de audio y vídeo. Ecuaciones matemáticas. Etiquetas (To Do, Importante, Pregunta…). (3) Colaboración: los cuadernos almacenados en OneDrive o SharePoint se pueden compartir con otros usuarios; varios usuarios pueden editar el mismo cuaderno simultáneamente (los cambios se sincronizan); se muestra el nombre del autor de cada modificación. (4) Integración con Teams: la pestaña OneNote en un canal de Teams añade el cuaderno compartido del equipo directamente en Teams; en Teams Educación existe el Class Notebook con sección privada por alumno. (5) Disponibilidad: aplicación de escritorio (Windows, Mac), app móvil (iOS, Android), OneNote en la web (navegador).",
+    "why": "A OneNote admite una gran variedad de tipos de contenido: imágenes, tablas, archivos adjuntos, dibujos a mano, grabaciones de audio y vídeo, capturas de pantalla. B los cuadernos guardados en OneDrive o SharePoint se pueden compartir con otros usuarios para edición colaborativa. C OneNote está disponible en Windows, macOS, iOS, Android y en el navegador web.",
+    "norma": "Microsoft OneNote — Microsoft 365",
+    "articulo": "Microsoft OneNote: bloc de notas digital y colaborativo en Microsoft 365"
+  },
+  {
+    "id": "B5T49-012",
+    "bloque": 5,
+    "tema": 49,
+    "test": 49,
+    "dificultad": "media",
+    "pregunta": "¿Qué es Microsoft Power Automate y cuáles son sus principales casos de uso?",
+    "opciones": {
+      "A": "Power Automate es una herramienta exclusiva para programadores; requiere conocimientos avanzados de programación en Python o JavaScript para crear cualquier tipo de flujo de trabajo.",
+      "B": "Power Automate es la herramienta de automatización de flujos de trabajo de Microsoft 365; permite crear flujos automatizados (desencadenados por un evento como recibir un correo o crear un elemento en una lista de SharePoint), flujos instantáneos (lanzados manualmente) y flujos programados (ejecutados periódicamente); se conecta con más de 400 conectores (SharePoint, Outlook, Teams, Excel, Forms, servicios de terceros como Salesforce o Twitter); no requiere programación para los flujos básicos.",
+      "C": "Power Automate solo puede automatizar procesos entre aplicaciones de Microsoft; no existen conectores para servicios de terceros como Salesforce, Twitter, Gmail ni Google Sheets.",
+      "D": "Power Automate solo puede crear flujos que se ejecutan manualmente cuando el usuario los lanza; no existen flujos que se disparen automáticamente por un evento ni de forma programada."
+    },
+    "correcta": "B",
+    "explicacion": "Microsoft Power Automate (antes llamado Microsoft Flow) es la herramienta de automatización de procesos de Microsoft 365: (1) Tipos de flujos: Automated flow (flujo automatizado): se dispara automáticamente cuando ocurre un evento (trigger); p. ej., cuando llega un correo de un remitente específico, cuando se añade un elemento a una lista de SharePoint, cuando se responde a un formulario de Forms. Instant flow (flujo instantáneo): el usuario lo lanza manualmente desde una app, un botón en Teams o el móvil; útil para procesos que el usuario inicia bajo demanda. Scheduled flow (flujo programado): se ejecuta en momentos predefinidos (cada día a las 8:00, cada semana, el primer lunes de mes). (2) Conectores: más de 400 conectores estándar y premium; estándar incluidos en Microsoft 365: SharePoint, Outlook, Teams, Excel Online, Forms, Planner, OneDrive, Approvals; premium (requieren licencia adicional): SQL Server, Salesforce, SAP, Oracle, servicios HTTP/REST personalizados. (3) Sin código (Low-code/No-code): el diseñador gráfico permite construir flujos arrastrando y conectando acciones sin programar; el lenguaje Power Fx permite añadir lógica condicional y expresiones. (4) Casos de uso frecuentes: aprobaciones de documentos, notificaciones automáticas, sincronización de datos entre sistemas, procesamiento de respuestas de formularios, copias de seguridad automatizadas.",
+    "why": "A Power Automate está diseñado para usuarios no técnicos (low-code/no-code); los flujos básicos se crean con un diseñador gráfico sin necesidad de programar. C Power Automate tiene más de 400 conectores incluyendo muchos servicios de terceros (Salesforce, Twitter, Gmail, Google Sheets, Slack, Jira y muchos más). D existen tres tipos de flujos: automatizados (por evento), instantáneos (manual) y programados (periódicos).",
+    "norma": "Microsoft Power Automate — Microsoft 365",
+    "articulo": "Microsoft Power Automate: automatización de flujos de trabajo en Microsoft 365"
+  },
+  {
+    "id": "B5T49-013",
+    "bloque": 5,
+    "tema": 49,
+    "test": 49,
+    "dificultad": "media",
+    "pregunta": "¿Cómo funciona el modelo de permisos en SharePoint Online?",
+    "opciones": {
+      "A": "Los permisos en SharePoint solo pueden gestionarse a nivel del sitio completo; no es posible asignar permisos diferentes a bibliotecas, carpetas o archivos individuales dentro del sitio.",
+      "B": "En SharePoint, los permisos de los archivos y carpetas siempre se heredan del sitio padre y no pueden modificarse de forma independiente.",
+      "C": "SharePoint tiene un modelo de permisos jerárquico: los permisos se definen en el sitio y se heredan por defecto a bibliotecas, carpetas y archivos; se puede interrumpir la herencia en cualquier nivel para asignar permisos únicos; los niveles predefinidos son: Control total, Diseño, Edición, Contribuir (subir y editar), Leer y Solo lectura; se gestionan mediante Grupos de SharePoint; también se puede compartir directamente con personas o grupos de seguridad de Azure AD.",
+      "D": "En SharePoint solo existen dos niveles de permisos posibles: acceso total al sitio o ningún acceso; no existen permisos intermedios como solo lectura o edición sin eliminación."
+    },
+    "correcta": "C",
+    "explicacion": "El modelo de permisos de SharePoint Online es jerárquico y granular: (1) Herencia: los permisos fluyen hacia abajo desde el sitio > colección > biblioteca > carpeta > archivo; por defecto, cada nivel hereda los permisos del nivel superior. (2) Interrumpir herencia: se puede interrumpir la herencia en cualquier nivel (biblioteca, carpeta o archivo) para asignar permisos únicos; a partir de ese punto, los cambios en el nivel superior no afectan al elemento con herencia interrumpida. (3) Niveles de permisos predefinidos: Control total: administración completa del sitio. Diseño: editar páginas y estructura. Edición: añadir, editar y eliminar listas y elementos. Contribuir: añadir y editar elementos; NO puede eliminar listas ni crear bibliotecas. Leer: ver y descargar archivos (sin editar). Solo lectura: ver sin descargar. (4) Grupos de SharePoint: Propietarios del sitio (Control total), Miembros del sitio (Edición o Contribuir), Visitantes del sitio (Leer). Se pueden crear grupos personalizados con cualquier nivel. (5) Compartir directamente: se puede compartir una biblioteca, carpeta o archivo directamente con un usuario de Azure AD, un grupo de Microsoft 365 o un grupo de seguridad; o con un vínculo (igual que en OneDrive).",
+    "why": "A se pueden asignar permisos distintos a nivel de biblioteca, carpeta y archivo individual interrumpiendo la herencia. B la herencia puede interrumpirse en cualquier nivel; los permisos individuales son posibles y frecuentes. D SharePoint tiene múltiples niveles de permisos predefinidos (Control total, Diseño, Edición, Contribuir, Leer, Solo lectura) y permite crear niveles personalizados.",
+    "norma": "Microsoft SharePoint Online — Permisos",
+    "articulo": "Modelo de permisos en Microsoft SharePoint: herencia, niveles y grupos"
+  },
+  {
+    "id": "B5T49-014",
+    "bloque": 5,
+    "tema": 49,
+    "test": 49,
+    "dificultad": "media",
+    "pregunta": "¿Qué son los Grupos de Microsoft 365 y qué recursos crean automáticamente?",
+    "opciones": {
+      "A": "Al crear un Grupo de Microsoft 365 se aprovisiona automáticamente: un buzón compartido en Exchange, un calendario de grupo, una biblioteca de documentos en SharePoint, un cuaderno de OneNote compartido y opcionalmente un equipo de Teams; los grupos pueden ser privados o públicos; los miembros tienen acceso a todos los recursos del grupo.",
+      "B": "Los Grupos de Microsoft 365 solo contienen un buzón de correo compartido; no crean automáticamente ningún recurso de SharePoint, OneNote ni Teams.",
+      "C": "Los Grupos de Microsoft 365 no pueden tener miembros de fuera de la organización; solo admiten usuarios internos con cuentas de la misma organización.",
+      "D": "Al crear un equipo de Microsoft Teams no se crea ningún Grupo de Microsoft 365; Teams y los Grupos de Microsoft 365 son sistemas completamente independientes."
+    },
+    "correcta": "A",
+    "explicacion": "Los Grupos de Microsoft 365 (antes llamados Grupos de Office 365) son la unidad de identidad de colaboración del ecosistema: (1) Recursos aprovisionados automáticamente: Buzón de grupo en Exchange Online: todos los miembros pueden enviar y recibir correos en el buzón del grupo; el historial de conversaciones es accesible para todos. Calendario de grupo: calendario compartido visible por todos los miembros; las reuniones de Teams del equipo aparecen aquí. Sitio de SharePoint: biblioteca de documentos y otras listas para el grupo. Cuaderno de OneNote: bloc de notas compartido para el grupo. Área de trabajo de Power BI (si el administrador lo configura). Planner: plan de tareas asociado. Teams: se puede añadir Microsoft Teams al grupo para habilitar la funcionalidad completa de Teams. (2) Tipos de grupos: Público: cualquier usuario de la organización puede ver el contenido y unirse. Privado: solo los miembros pueden ver el contenido; hay que ser invitado por el propietario. (3) Invitados externos: se pueden añadir usuarios externos (cuentas de invitado de Azure AD B2B) como miembros de un grupo, según las políticas del administrador. (4) Al crear un equipo de Teams: se crea automáticamente un Grupo de Microsoft 365 subyacente; si ya existe un grupo, se puede 'conectar' a Teams.",
+    "why": "B al crear un Grupo de Microsoft 365 se provisionan múltiples recursos: buzón, calendario, SharePoint, OneNote y opcionalmente Teams. C los grupos pueden tener miembros externos (invitados de Azure AD B2B) si el administrador lo permite. D al crear un equipo de Teams se crea automáticamente un Grupo de Microsoft 365 subyacente que es la entidad base de identidad.",
+    "norma": "Microsoft 365 — Grupos de Microsoft 365",
+    "articulo": "Grupos de Microsoft 365: unidad base de colaboración y recursos asociados"
+  },
+  {
+    "id": "B5T49-015",
+    "bloque": 5,
+    "tema": 49,
+    "test": 49,
+    "dificultad": "media",
+    "pregunta": "¿Qué es Microsoft Stream y cómo se integra en el ecosistema Microsoft 365?",
+    "opciones": {
+      "A": "Microsoft Stream es la herramienta de gestión de proyectos de Microsoft 365; sustituye a Microsoft Planner para proyectos complejos.",
+      "B": "Los vídeos subidos a Microsoft Stream no pueden compartirse con otros usuarios de la organización; son siempre privados para quien los sube.",
+      "C": "Microsoft Stream no tiene ninguna integración con Microsoft Teams; los vídeos de reuniones de Teams no se almacenan en Stream ni en ninguna otra plataforma de la organización.",
+      "D": "Microsoft Stream (on SharePoint) es la plataforma de vídeo corporativa de Microsoft 365; permite subir, organizar y compartir vídeos dentro de la organización; las grabaciones de reuniones de Teams se almacenan en Stream (on SharePoint) o en OneDrive; incluye transcripción automática con IA, subtítulos y búsqueda en el contenido hablado del vídeo; se integra con SharePoint como web part en páginas y está disponible en Teams."
+    },
+    "correcta": "D",
+    "explicacion": "Microsoft Stream es la plataforma de vídeo corporativo de Microsoft 365: (1) Versiones: Stream (Classic): la versión original, basada en un portal de vídeo independiente; se está migrando a Stream (on SharePoint). Stream (on SharePoint): la versión actual; los vídeos se almacenan en bibliotecas de SharePoint y OneDrive, utilizando la infraestructura de SharePoint para almacenamiento, permisos y búsqueda. (2) Grabaciones de Teams: las grabaciones de reuniones de Teams ad hoc se guardan en el OneDrive del organizador; las grabaciones de reuniones de canal se guardan en la biblioteca de SharePoint del canal; ambas son accesibles y reproducibles desde Stream (on SharePoint). (3) Transcripción automática: cuando se sube o graba un vídeo, Stream genera automáticamente una transcripción de texto mediante IA; los espectadores pueden buscar palabras concretas dentro del vídeo y el vídeo salta al momento exacto en que se dice esa palabra; los subtítulos se pueden activar para accesibilidad. (4) Integración con SharePoint y Teams: Web part de Stream: se puede insertar un vídeo de Stream en una página de SharePoint. Canal de Teams: los vídeos de Stream son accesibles desde la app Stream en Teams; los vídeos pueden añadirse como pestañas en canales.",
+    "why": "A Microsoft Stream es la plataforma de vídeo corporativo; la gestión de proyectos y tareas es función de Planner y Project. B los vídeos de Stream se comparten con personas específicas, con toda la organización o con grupos; no son privados por defecto. C las grabaciones de reuniones de Teams se almacenan precisamente en OneDrive/SharePoint y se reproducen a través de Stream (on SharePoint).",
+    "norma": "Microsoft Stream (on SharePoint) — Microsoft 365",
+    "articulo": "Microsoft Stream: plataforma de vídeo corporativo integrada en Microsoft 365"
+  },
+  {
+    "id": "B5T49-016",
+    "bloque": 5,
+    "tema": 49,
+    "test": 49,
+    "dificultad": "media",
+    "pregunta": "¿Qué es Viva Engage (anteriormente Yammer) y cuál es su función en Microsoft 365?",
+    "opciones": {
+      "A": "Viva Engage (Yammer) es la herramienta de gestión de documentos de Microsoft 365; permite almacenar y versionar archivos de la organización de forma centralizada.",
+      "B": "Viva Engage (antes Yammer) es la red social corporativa de Microsoft 365; permite conversaciones en comunidades abiertas (toda la organización puede participar) y comunidades privadas, preguntas y respuestas con respuesta marcada como destacada, encuestas y elogios, y conversaciones de liderazgo; complementa a Teams con comunicación a escala de toda la organización; se integra en Teams y SharePoint.",
+      "C": "Viva Engage solo puede usarse desde el navegador web; no tiene aplicación integrada en Microsoft Teams ni en SharePoint.",
+      "D": "En Viva Engage, todas las comunidades son privadas y requieren invitación del administrador; no existen comunidades abiertas en las que cualquier empleado pueda participar libremente."
+    },
+    "correcta": "B",
+    "explicacion": "Viva Engage (renombrado desde Yammer en 2022 como parte del ecosistema Microsoft Viva) es la red social corporativa: (1) Propósito: comunicación a escala de toda la organización (para mensajes del liderazgo, comunidades de interés, anuncios de toda la empresa); complementa a Teams (para equipos pequeños y proyectos) y Outlook (correo electrónico). (2) Comunidades: Comunidades abiertas: cualquier empleado puede ver las publicaciones y unirse; ideales para temas transversales (innovación, bienestar, sostenibilidad). Comunidades privadas: solo los miembros invitados pueden ver y participar. Comunidad de toda la organización: comunidad predeterminada que incluye a todos los empleados. (3) Funcionalidades: Publicaciones, preguntas y respuestas (la respuesta marcada como mejor respuesta aparece destacada), elogios (reconocimiento entre compañeros), encuestas, eventos (sesiones de vídeo en directo con liderazgo), hilos de conversación. (4) Integración: App Viva Engage en Teams: acceso completo a Viva Engage sin salir de Teams. Web part de conversaciones de Viva Engage en SharePoint: muestra conversaciones relevantes en páginas de intranet. (5) Viva: forma parte de la suite Microsoft Viva (plataforma de experiencia del empleado) junto con Viva Connections, Viva Learning, Viva Insights y Viva Topics.",
+    "why": "A Viva Engage es una red social corporativa para conversaciones y comunicación organizativa; SharePoint y OneDrive son las plataformas de gestión de documentos. C Viva Engage está disponible como app integrada en Teams y como web part en SharePoint. D existen comunidades abiertas en Viva Engage donde cualquier empleado puede unirse y participar libremente.",
+    "norma": "Microsoft Viva Engage (Yammer) — Microsoft 365",
+    "articulo": "Viva Engage: red social corporativa en Microsoft 365"
+  },
+  {
+    "id": "B5T49-017",
+    "bloque": 5,
+    "tema": 49,
+    "test": 49,
+    "dificultad": "dificil",
+    "pregunta": "¿Cuándo se recomienda usar SharePoint, OneDrive o Teams para almacenar archivos en Microsoft 365?",
+    "opciones": {
+      "A": "SharePoint y OneDrive son técnicamente el mismo servicio; la única diferencia es la interfaz de usuario; se recomienda usar siempre OneDrive para simplificar la gestión.",
+      "B": "Los archivos de OneDrive for Business pertenecen a toda la organización; el administrador puede acceder a todos ellos en cualquier momento sin restricciones ni notificación al propietario.",
+      "C": "OneDrive for Business es para archivos personales del trabajo del usuario individual (borradores, trabajo en curso personal); se puede compartir puntualmente, pero el propietario es el usuario. SharePoint es para archivos de equipos o proyectos que pertenecen a la organización; el propietario es el sitio o equipo. Los archivos de canales de Teams se guardan en SharePoint del equipo; los archivos de chats privados de Teams se guardan en el OneDrive del remitente.",
+      "D": "Microsoft recomienda guardar todos los archivos de trabajo en OneDrive personal para centralizar el almacenamiento; SharePoint y Teams son redundantes y no deben usarse para almacenar archivos de equipo."
+    },
+    "correcta": "C",
+    "explicacion": "La guía de cuándo usar cada servicio para archivos en Microsoft 365: (1) OneDrive for Business — archivos personales del trabajo: Borradores y trabajo en curso personal que aún no se comparte con el equipo. Archivos que el usuario crea de forma individual y usa principalmente él/ella. Archivos que se comparten puntualmente (compartir un documento con una o dos personas para revisión). Si el usuario deja la organización, el administrador tiene un período de gracia para recuperar sus archivos de OneDrive antes de eliminarlos. (2) SharePoint — archivos del equipo o proyecto: Archivos que pertenecen al equipo (no a un individuo); deben estar accesibles aunque el empleado que los creó abandone la organización. Bibliotecas de documentos de departamento, proyectos, procesos. Archivos que requieren metadatos avanzados, control de versiones robusto y flujos de aprobación. Sitios de intranet y páginas de comunicación. (3) Microsoft Teams — interfaz de colaboración: Los archivos de los canales de Teams se almacenan automáticamente en la biblioteca de SharePoint del sitio del equipo (no en OneDrive). Los archivos enviados en chats privados de Teams se almacenan en el OneDrive del remitente (carpeta Microsoft Teams Chat Files). Usar Teams como interfaz de trabajo diaria para acceder a los archivos de SharePoint sin necesitar ir a sharepoint.com.",
+    "why": "A SharePoint y OneDrive son servicios distintos con infraestructuras complementarias; SharePoint es para archivos de equipo/organización y OneDrive para archivos personales de trabajo. B OneDrive for Business es el espacio personal del usuario; el administrador puede acceder pero con un proceso auditado, no sin restricciones. D Microsoft recomienda usar SharePoint para archivos de equipo y OneDrive para archivos personales; no son redundantes sino complementarios.",
+    "norma": "Microsoft 365 — Guía de uso de SharePoint vs OneDrive vs Teams",
+    "articulo": "SharePoint vs OneDrive vs Teams: cuándo usar cada servicio para archivos"
+  },
+  {
+    "id": "B5T49-018",
+    "bloque": 5,
+    "tema": 49,
+    "test": 49,
+    "dificultad": "dificil",
+    "pregunta": "¿Qué abarca la gobernanza de Microsoft 365 y cuáles son sus herramientas principales?",
+    "opciones": {
+      "A": "La gobernanza en Microsoft 365 abarca las políticas y controles que el administrador establece para gestionar la creación de grupos y Teams (con convenciones de nomenclatura y políticas de expiración), DLP (prevención de pérdida de datos sensibles), etiquetas de confidencialidad (clasificar y proteger documentos), políticas de retención, eDiscovery y gestión de dispositivos con Intune.",
+      "B": "La gobernanza en Microsoft 365 hace referencia exclusivamente a las políticas de facturación y licenciamiento; no tiene ninguna relación con la seguridad ni la gestión de datos.",
+      "C": "Las etiquetas de confidencialidad (Sensitivity Labels) de Microsoft Purview son solo marcas visuales en los documentos; no aplican ninguna protección técnica como cifrado ni restricción de acceso.",
+      "D": "La gestión de dispositivos con Microsoft Intune requiere reemplazar el sistema operativo del dispositivo; no puede coexistir con el sistema operativo instalado por el usuario."
+    },
+    "correcta": "A",
+    "explicacion": "La gobernanza de Microsoft 365 engloba todas las políticas, controles y herramientas que garantizan el uso adecuado, seguro y conforme de los servicios: (1) Gobernanza de grupos y Teams: Quién puede crear grupos de Microsoft 365 y equipos de Teams (se puede restringir a administradores o a grupos de usuarios). Convenciones de nomenclatura (prefijos/sufijos obligatorios: [DPT]-NombreEquipo). Políticas de expiración: los grupos inactivos durante X meses se eliminan automáticamente (salvo que el propietario los renueve). (2) Microsoft Purview — Protección de información: Etiquetas de confidencialidad (Sensitivity Labels): clasifican los documentos (Público, Interno, Confidencial, Altamente confidencial); pueden aplicar protección automática: cifrado con Azure RMS, marca de agua, encabezado/pie de página, restricción de acceso. DLP (Data Loss Prevention): detecta y bloquea el envío de información sensible (números de tarjeta, datos personales, información sanitaria) fuera de la organización. Políticas de retención y etiquetas de retención: definen cuánto tiempo se conservan los datos. eDiscovery: búsqueda y conservación de contenido para investigaciones legales y auditorías. (3) Microsoft Intune: gestión de dispositivos móviles (MDM) y aplicaciones (MAM); puede coexistir con el sistema operativo existente del dispositivo; permite aplicar políticas de seguridad (cifrado, PIN, borrado remoto) sin reemplazar el SO.",
+    "why": "B la gobernanza cubre la seguridad, el cumplimiento normativo, la gestión del ciclo de vida de datos y la gestión de dispositivos; no solo la facturación. C las etiquetas de confidencialidad de Microsoft Purview sí aplican protección técnica real: cifrado con Azure RMS, restricción de acceso y acciones de marca visual. D Microsoft Intune gestiona dispositivos sin reemplazar el SO; aplica políticas de seguridad que coexisten con el sistema operativo del usuario.",
+    "norma": "Microsoft 365 — Gobernanza y cumplimiento (Microsoft Purview, Intune)",
+    "articulo": "Gobernanza en Microsoft 365: herramientas, políticas y cumplimiento normativo"
+  },
+  {
+    "id": "B5T49-019",
+    "bloque": 5,
+    "tema": 49,
+    "test": 49,
+    "dificultad": "dificil",
+    "pregunta": "¿Cómo funcionan los flujos de aprobación y los conectores premium en Power Automate?",
+    "opciones": {
+      "A": "Power Automate no puede integrarse con sistemas externos fuera de Microsoft 365; todos los flujos solo pueden conectarse entre aplicaciones del ecosistema Microsoft.",
+      "B": "Los flujos de aprobación de Power Automate requieren que el aprobador tenga conocimientos de programación para configurar su interfaz de aprobación.",
+      "C": "En Power Automate, un flujo solo puede tener un único paso de aprobación; no es posible crear cadenas de aprobación con varios aprobadores secuenciales.",
+      "D": "Los flujos de aprobación de Power Automate envían solicitudes a uno o varios aprobadores (secuencial o en paralelo); el aprobador recibe un correo o notificación de Teams con botones Aprobar/Rechazar; el flujo continúa o se detiene según la respuesta; los conectores premium permiten conectar con SQL Server, Salesforce, SAP y servicios REST personalizados; las expresiones y funciones con Power Fx añaden lógica condicional y transformación de datos avanzada."
+    },
+    "correcta": "D",
+    "explicacion": "Flujos avanzados en Microsoft Power Automate: (1) Flujos de aprobación (Approval flows): el conector Approvals de Power Automate genera una solicitud de aprobación; el aprobador la recibe por: correo electrónico (con botones Aprobar/Rechazar incrustados), notificación en Teams (tarjeta adaptativa con los botones), app Power Automate móvil. Tipos de aprobación: Aprobar/Rechazar — Primero en responder (cualquier aprobador puede responder). Aprobar/Rechazar — Todos deben aprobar (todos deben dar su aprobación). Aprobaciones secuenciales: el flujo pasa al segundo aprobador solo si el primero aprueba. Aprobaciones con plazo: si el aprobador no responde en X horas, se puede tomar una acción alternativa. (2) Conectores premium: requieren licencia Power Automate Premium (o add-on); incluyen: SQL Server, Salesforce, SAP, Oracle, ServiceNow, Adobe Sign, DocuSign, HTTP (REST personalizado), Common Data Service (Dataverse), etc. (3) Expresiones y Power Fx: lógica condicional: if(condition, value_if_true, value_if_false). Manipulación de texto, fechas, JSON. Bucles: Apply to each (iterar sobre una colección). Condición múltiple: Switch. Variables para almacenar valores entre pasos. (4) Business Process Flows: guían al usuario a través de un proceso de negocio paso a paso; se usan con Dataverse y Power Apps.",
+    "why": "A Power Automate tiene más de 400 conectores incluyendo servicios externos como Salesforce, Twitter, Gmail, Slack, Jira, SAP y muchos más. B los aprobadores no necesitan conocimientos técnicos; reciben una notificación con botones Aprobar/Rechazar en el correo o en Teams. C se pueden crear flujos con múltiples aprobadores secuenciales (el siguiente recibe la solicitud cuando el anterior aprueba) o en paralelo.",
+    "norma": "Microsoft Power Automate — Aprobaciones y conectores premium",
+    "articulo": "Flujos de aprobación y conectores premium en Microsoft Power Automate"
+  },
+  {
+    "id": "B5T49-020",
+    "bloque": 5,
+    "tema": 49,
+    "test": 49,
+    "dificultad": "dificil",
+    "pregunta": "¿Qué es Microsoft Copilot en Microsoft 365 y cómo se integra en las aplicaciones?",
+    "opciones": {
+      "A": "Microsoft Copilot en Microsoft 365 es una función de corrección ortográfica avanzada; solo mejora la gramática y el estilo de escritura en los documentos de Word.",
+      "B": "Microsoft Copilot en Microsoft 365 es el asistente de inteligencia artificial integrado en las aplicaciones de Microsoft 365 (Word, Excel, PowerPoint, Outlook, Teams…); está impulsado por modelos de lenguaje de gran escala (LLM) de OpenAI combinados con Microsoft Graph (que aporta contexto de los datos de la organización: correos, documentos, reuniones, chats); permite generar documentos, analizar datos en Excel, crear presentaciones, redactar correos, resumir reuniones de Teams y buscar información en la organización mediante lenguaje natural; requiere licencia adicional Microsoft 365 Copilot.",
+      "C": "Microsoft Copilot en Microsoft 365 almacena permanentemente todas las conversaciones del usuario en una base de datos pública accesible para todos los usuarios de la organización.",
+      "D": "Microsoft Copilot en Microsoft 365 solo está disponible en la versión web de las aplicaciones; no funciona en las aplicaciones de escritorio de Word, Excel ni PowerPoint instaladas en Windows."
+    },
+    "correcta": "B",
+    "explicacion": "Microsoft Copilot para Microsoft 365 es el asistente de IA integrado en el ecosistema: (1) Tecnología: combina los modelos de lenguaje de gran escala (LLM) de OpenAI (GPT-4 y modelos posteriores) con Microsoft Graph (que aporta datos de la organización del usuario: correos, documentos, conversaciones de Teams, reuniones, contactos) y las aplicaciones de Microsoft 365. (2) Capacidades por aplicación: Word: generar borradores de documentos, resumir documentos existentes, reescribir párrafos, sugerir cambios de tono. Excel: analizar datos en lenguaje natural, generar fórmulas, identificar patrones, crear gráficos. PowerPoint: crear presentaciones completas desde un tema o desde un documento de Word, resumir presentaciones, añadir diapositivas. Outlook: resumir hilos de correo, redactar respuestas, preparar para reuniones basándose en el correo. Teams: resumir reuniones (si están grabadas o transcritas), sugerir elementos de acción, resumir hilos de conversación de canales. (3) Microsoft Graph: el 'sistema nervioso' que conecta Copilot con los datos del usuario; garantiza que Copilot solo accede a datos para los que el usuario tiene permiso (respeta los permisos de SharePoint, Teams, etc.). (4) Privacidad: las conversaciones con Copilot no se usan para entrenar los modelos de IA de Microsoft; los datos se procesan según el contrato de servicio y las políticas de privacidad de Microsoft 365. (5) Licencia: se requiere la licencia adicional Microsoft 365 Copilot (además de la licencia base de Microsoft 365).",
+    "why": "A Copilot es un asistente de IA completo para generar contenido, analizar datos, resumir documentos y mucho más; no es solo corrección ortográfica. C las conversaciones con Copilot son privadas y no se almacenan en bases de datos públicas; la privacidad está garantizada por el contrato de servicio de Microsoft. D Copilot está disponible tanto en las aplicaciones de escritorio (Word, Excel, PowerPoint, Outlook en Windows y Mac) como en la versión web y en Teams.",
+    "norma": "Microsoft 365 Copilot — Introducción",
+    "articulo": "Microsoft Copilot en Microsoft 365: asistente de IA integrado en las aplicaciones"
+  }
+]
