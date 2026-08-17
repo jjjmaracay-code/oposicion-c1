@@ -1,0 +1,382 @@
+[
+  {
+    "id": "B3T30-001",
+    "bloque": 3,
+    "tema": 30,
+    "test": 30,
+    "dificultad": "facil",
+    "pregunta": "¿Cuál es la situación administrativa ordinaria de un funcionario de carrera que presta servicios en su Administración de origen según el art. 86 del TREBEP?",
+    "opciones": {
+      "A": "Excedencia voluntaria por interés particular.",
+      "B": "Servicios especiales.",
+      "C": "Servicio activo.",
+      "D": "Servicio en otras Administraciones Públicas."
+    },
+    "correcta": "C",
+    "explicacion": "El art. 86 TREBEP define el servicio activo como la situación ordinaria de los funcionarios de carrera que prestan servicios en los puestos de trabajo correspondientes a los cuerpos o escalas a que pertenezcan en su Administración de origen. En esta situación el funcionario tiene pleno ejercicio de todos sus derechos y está sujeto al cumplimiento de todas sus obligaciones. Los funcionarios en comisión de servicios, los adscritos provisionalmente y los que se encuentran en redistribución de efectivos permanecen en situación de servicio activo en su Administración. Es la posición de referencia respecto a la que se definen todas las demás situaciones administrativas.",
+    "why": "A la excedencia implica la interrupción temporal de la prestación de servicios, no su continuación ordinaria. B los servicios especiales se declaran cuando el funcionario pasa a ocupar un cargo de naturaleza política o electiva fuera de su puesto habitual. D el servicio en otras AAPP se produce cuando el funcionario pasa a prestar servicios en una Administración distinta a la de origen mediante un instrumento de movilidad.",
+    "norma": "Real Decreto Legislativo 5/2015, Texto Refundido del Estatuto Básico del Empleado Público (TREBEP)",
+    "articulo": "86"
+  },
+  {
+    "id": "B3T30-002",
+    "bloque": 3,
+    "tema": 30,
+    "test": 30,
+    "dificultad": "facil",
+    "pregunta": "¿Qué tiempo mínimo de servicios efectivos inmediatamente anteriores se exige para poder solicitar la excedencia voluntaria por interés particular según el art. 89.a del TREBEP?",
+    "opciones": {
+      "A": "Dos años de servicios efectivos.",
+      "B": "Tres años de servicios efectivos.",
+      "C": "Cinco años de servicios efectivos.",
+      "D": "No se exige ningún tiempo mínimo de servicios previos."
+    },
+    "correcta": "C",
+    "explicacion": "El art. 89.a TREBEP exige que el funcionario haya prestado servicios efectivos durante los cinco años inmediatamente anteriores a la solicitud para poder acceder a la excedencia voluntaria por interés particular. Esta condición tiene como finalidad evitar que la excedencia se utilice de forma inmediata al ingreso como funcionario, antes de que el empleado público haya consolidado su posición en la carrera. La excedencia voluntaria por interés particular tiene además una duración mínima de dos años, no puede ser inferior a ese plazo, y no genera derecho al cómputo del tiempo a efectos de trienios, carrera profesional ni derechos pasivos.",
+    "why": "A, B dos años y tres años son inferiores al plazo de cinco años que exige el art. 89.a TREBEP. D la excedencia voluntaria por agrupación familiar (art. 89.b) sí puede solicitarse sin tiempo mínimo de servicios previos; pero la voluntaria por interés particular siempre exige los cinco años previos.",
+    "norma": "Real Decreto Legislativo 5/2015, Texto Refundido del Estatuto Básico del Empleado Público (TREBEP)",
+    "articulo": "89.a"
+  },
+  {
+    "id": "B3T30-003",
+    "bloque": 3,
+    "tema": 30,
+    "test": 30,
+    "dificultad": "facil",
+    "pregunta": "¿Cuál es la duración máxima de la excedencia por cuidado de cada hijo (natural, adoptado o en acogimiento) según el art. 89.c del TREBEP?",
+    "opciones": {
+      "A": "Un año.",
+      "B": "Dos años.",
+      "C": "Tres años.",
+      "D": "Cinco años."
+    },
+    "correcta": "C",
+    "explicacion": "El art. 89.c TREBEP establece que los funcionarios tienen derecho a un período de excedencia de duración no superior a tres años para atender el cuidado de cada hijo, tanto cuando lo sea por naturaleza, como por adopción o acogimiento, a contar desde la fecha de nacimiento, o en su caso, de la resolución judicial o administrativa. Cuando el sujeto causante sea un familiar hasta el segundo grado de consanguinidad o afinidad que no pueda valerse por sí mismo y no desempeñe actividad retribuida, la excedencia podrá declararse por un período inicial que no supere los dos años. Este tipo de excedencia sí computa a efectos de trienios, carrera profesional y derechos pasivos.",
+    "why": "A y B un año y dos años son plazos insuficientes; el TREBEP fija tres años como máximo para el cuidado de cada hijo. D cinco años excede el máximo del art. 89.c para el cuidado de hijos; la excedencia voluntaria por interés particular tiene su propia regulación con plazos diferentes.",
+    "norma": "Real Decreto Legislativo 5/2015, Texto Refundido del Estatuto Básico del Empleado Público (TREBEP)",
+    "articulo": "89.c"
+  },
+  {
+    "id": "B3T30-004",
+    "bloque": 3,
+    "tema": 30,
+    "test": 30,
+    "dificultad": "facil",
+    "pregunta": "¿Qué derechos conserva el funcionario en situación de servicios especiales según el art. 87 del TREBEP?",
+    "opciones": {
+      "A": "Percibe íntegramente las retribuciones de su puesto de origen, además de las del cargo que desempeña.",
+      "B": "Tiene reserva del puesto de trabajo y el tiempo en esta situación computa a efectos de ascensos, trienios y derechos pasivos; percibe las retribuciones del cargo desempeñado, no las del puesto de origen.",
+      "C": "Solo conserva el derecho a reintegrarse a su cuerpo o escala al término del cargo, pero sin reserva de puesto concreto.",
+      "D": "No conserva ningún derecho específico; al término del cargo político debe superar un nuevo proceso selectivo."
+    },
+    "correcta": "B",
+    "explicacion": "El art. 87 TREBEP establece el régimen de los servicios especiales: el funcionario conserva su condición de funcionario de carrera, tiene derecho a la reserva del puesto de trabajo que ocupaba antes de pasar a esta situación, y el tiempo que permanezca en ella computa a efectos de ascensos, reconocimiento de trienios y derechos en el régimen de Seguridad Social o de clases pasivas que sea aplicable. Sin embargo, durante los servicios especiales el funcionario percibe las retribuciones correspondientes al cargo que desempeña (político, parlamentario, etc.), no las de su puesto funcionarial de origen, ya que ambos cargos serían incompatibles.",
+    "why": "A la percepción simultánea de retribuciones del puesto y del cargo sería una acumulación incompatible; el funcionario percibe solo las del cargo. C la reserva del puesto de trabajo concreto sí existe en la situación de servicios especiales; es uno de sus rasgos más favorables. D los servicios especiales son precisamente la situación que garantiza el regreso a la Administración sin necesidad de un nuevo proceso selectivo.",
+    "norma": "Real Decreto Legislativo 5/2015, Texto Refundido del Estatuto Básico del Empleado Público (TREBEP)",
+    "articulo": "87"
+  },
+  {
+    "id": "B3T30-005",
+    "bloque": 3,
+    "tema": 30,
+    "test": 30,
+    "dificultad": "facil",
+    "pregunta": "¿Cuál es la duración mínima de la excedencia voluntaria por interés particular según el art. 89.a del TREBEP?",
+    "opciones": {
+      "A": "Seis meses.",
+      "B": "Un año.",
+      "C": "Dos años.",
+      "D": "No tiene duración mínima; puede solicitarse por el tiempo que desee el funcionario."
+    },
+    "correcta": "C",
+    "explicacion": "El art. 89.a TREBEP establece que la excedencia voluntaria por interés particular no podrá declararse por un tiempo inferior a dos años. Este mínimo de duración tiene como finalidad evitar que la excedencia se utilice como un mecanismo de ausencia breve para asuntos particulares, situación que se atendería mediante permisos o licencias de otra naturaleza. La fijación de un mínimo de dos años garantiza que esta situación administrativa responde a una decisión real del funcionario de alejarse temporalmente de la función pública por motivos personales de cierta entidad. No existe un máximo legal de duración, si bien la normativa de desarrollo puede establecer límites.",
+    "why": "A y B seis meses y un año son inferiores a la duración mínima de dos años que exige el TREBEP para la excedencia voluntaria por interés particular. D la ausencia de duración mínima es la situación de la excedencia por cuidado de familiares (art. 89.c), que puede declararse desde el primer día; la voluntaria por interés particular sí tiene un mínimo de dos años.",
+    "norma": "Real Decreto Legislativo 5/2015, Texto Refundido del Estatuto Básico del Empleado Público (TREBEP)",
+    "articulo": "89.a"
+  },
+  {
+    "id": "B3T30-006",
+    "bloque": 3,
+    "tema": 30,
+    "test": 30,
+    "dificultad": "facil",
+    "pregunta": "¿En qué situación administrativa queda el funcionario de carrera que pasa a prestar servicios en otra Administración Pública mediante los mecanismos de movilidad previstos en el TREBEP?",
+    "opciones": {
+      "A": "En excedencia voluntaria por interés particular en su Administración de origen.",
+      "B": "En servicios especiales en la Administración de origen y en servicio activo en la Administración de destino.",
+      "C": "En servicio en otras Administraciones Públicas en la Administración de origen y en servicio activo en la Administración de destino.",
+      "D": "Pierde la condición de funcionario en la Administración de origen y adquiere una nueva en la de destino."
+    },
+    "correcta": "C",
+    "explicacion": "El art. 88 TREBEP regula la situación de servicio en otras Administraciones Públicas. Cuando el funcionario pasa a prestar servicios en otra Administración (por ejemplo, un funcionario de la AGE que pasa a una comunidad autónoma mediante un convenio de movilidad), queda en la situación de «servicio en otras Administraciones Públicas» en su Administración de origen, y en situación de servicio activo en la Administración de destino. En la Administración de destino se integra plenamente en su organización y queda sometido a su normativa. La reserva del puesto de trabajo en la Administración de origen depende de lo que establezca el instrumento de movilidad.",
+    "why": "A la excedencia voluntaria por interés particular implica alejarse completamente del servicio activo; el art. 88 crea una situación específica diferente para la movilidad entre AAPP. B los servicios especiales corresponden al desempeño de cargos políticos o electivos, no a la simple prestación de servicios en otra Administración. D la movilidad del art. 88 no extingue la relación con la Administración de origen; el funcionario mantiene su condición y puede regresar.",
+    "norma": "Real Decreto Legislativo 5/2015, Texto Refundido del Estatuto Básico del Empleado Público (TREBEP)",
+    "articulo": "88"
+  },
+  {
+    "id": "B3T30-007",
+    "bloque": 3,
+    "tema": 30,
+    "test": 30,
+    "dificultad": "media",
+    "pregunta": "¿Cuál es la duración máxima de la excedencia por cuidado de un familiar hasta el segundo grado de consanguinidad o afinidad que no pueda valerse por sí mismo, según el art. 89.c del TREBEP?",
+    "opciones": {
+      "A": "Un año.",
+      "B": "Dos años.",
+      "C": "Tres años.",
+      "D": "Cuatro años."
+    },
+    "correcta": "B",
+    "explicacion": "El art. 89.c TREBEP distingue dos supuestos dentro de la excedencia por cuidado de familiares: (1) por cuidado de cada hijo (natural, adoptado o en acogimiento): duración máxima de tres años desde el nacimiento, resolución judicial o administrativa; (2) por cuidado de familiar hasta el segundo grado de consanguinidad o afinidad que no pueda valerse por sí mismo y no desempeñe actividad retribuida: la duración máxima es de dos años. En ambos casos, la excedencia computa a efectos de trienios, carrera profesional y derechos pasivos, y puede disfrutarse de forma fraccionada. La diferencia entre ambos supuestos radica en el plazo máximo: tres años para los hijos y dos años para los familiares.",
+    "why": "A un año es la duración que tiene la reserva del puesto de trabajo concreto dentro de la excedencia por cuidado de hijo, no el límite de la excedencia por familiares. C tres años es el máximo de la excedencia por cuidado de hijo, no por familiar. D cuatro años excede ambos máximos que establece el art. 89.c.",
+    "norma": "Real Decreto Legislativo 5/2015, Texto Refundido del Estatuto Básico del Empleado Público (TREBEP)",
+    "articulo": "89.c"
+  },
+  {
+    "id": "B3T30-008",
+    "bloque": 3,
+    "tema": 30,
+    "test": 30,
+    "dificultad": "media",
+    "pregunta": "¿Computa la excedencia por cuidado de familiares a efectos de trienios, carrera profesional y derechos pasivos, y cómo se gestiona la reserva del puesto durante este período?",
+    "opciones": {
+      "A": "No computa a ningún efecto; el funcionario pierde el puesto desde el primer día.",
+      "B": "Computa a efectos de trienios, carrera profesional y derechos pasivos durante todo el período; el primer año el funcionario tiene reserva del puesto de trabajo concreto y, a partir del segundo año, la reserva es de un puesto del mismo municipio, grupo y nivel.",
+      "C": "Solo computa el primer año a efectos de trienios; el resto del período se trata como excedencia voluntaria.",
+      "D": "Computa íntegramente pero sin reserva de puesto; el funcionario debe participar en concurso de méritos para reintegrarse."
+    },
+    "correcta": "B",
+    "explicacion": "El art. 89.c TREBEP establece que la excedencia por cuidado de familiares computa a efectos de trienios, de carrera profesional y de derechos pasivos durante toda su duración, lo que la distingue favorablemente de la excedencia voluntaria por interés particular. Respecto a la reserva del puesto: el primer año el funcionario tiene derecho a la reserva del puesto de trabajo concreto que venía desempeñando. Transcurrido ese año, la reserva se extiende a un puesto de trabajo del mismo grupo de clasificación y nivel en el mismo municipio. Este sistema de reserva decreciente equilibra la necesidad de conciliación del funcionario con las necesidades de cobertura del puesto por parte de la Administración.",
+    "why": "A la excedencia por cuidado de familiares sí computa a efectos de trienios y carrera, a diferencia de la voluntaria por interés particular; y el primer año sí existe reserva del puesto. C el cómputo a efectos de trienios se extiende a todo el período, no solo al primero. D la reserva del puesto sí existe: durante el primer año, del puesto concreto; desde el segundo, de un puesto del mismo grupo en el mismo municipio.",
+    "norma": "Real Decreto Legislativo 5/2015, Texto Refundido del Estatuto Básico del Empleado Público (TREBEP)",
+    "articulo": "89.c"
+  },
+  {
+    "id": "B3T30-009",
+    "bloque": 3,
+    "tema": 30,
+    "test": 30,
+    "dificultad": "media",
+    "pregunta": "¿En qué casos puede declararse la situación de servicios especiales según el art. 87 del TREBEP?",
+    "opciones": {
+      "A": "Solo cuando el funcionario sea designado Ministro o Secretario de Estado del Gobierno de España.",
+      "B": "Entre otros supuestos: cuando sea designado miembro del Gobierno o de los Consejos de Gobierno de las CCAA, cuando sea elegido miembro de las Cortes Generales o de las asambleas legislativas autonómicas percibiendo retribuciones, cuando sea nombrado cargo asimilado en organismos internacionales, o cuando sea designado para ocupar puestos de alta dirección en organismos públicos.",
+      "C": "Solo cuando el funcionario pase a prestar servicios en otra Administración Pública mediante convenio de movilidad.",
+      "D": "La situación de servicios especiales puede ser declarada discrecionalmente por el órgano de personal competente en cualquier caso que lo justifique."
+    },
+    "correcta": "B",
+    "explicacion": "El art. 87 TREBEP enumera los supuestos tasados que dan lugar a la situación de servicios especiales. Los más relevantes son: designación como miembro del Gobierno de la Nación o de los Consejos de Gobierno de las Comunidades Autónomas; designación como Secretario de Estado u órgano asimilado de las CCAA; designación como representante electo de las Cortes Generales, las asambleas legislativas autonómicas o de las corporaciones locales que perciban retribuciones; nombramiento como Defensor del Pueblo, Tribunal Constitucional u organismos equivalentes; nombramiento para cargos en organismos internacionales o supranacionales; y designación en determinados altos cargos de la Administración. La situación de servicios especiales es excepcional y solo procede en los casos expresamente previstos en la ley.",
+    "why": "A los servicios especiales no se limitan al Gobierno central; incluyen cargos autonómicos, parlamentarios, organismos internacionales y otros. C el paso a otra Administración mediante convenio de movilidad da lugar a la situación de «servicio en otras AAPP» (art. 88), no a servicios especiales. D los servicios especiales solo pueden declararse en los supuestos taxativamente enumerados en el art. 87; no es una situación de libre declaración discrecional.",
+    "norma": "Real Decreto Legislativo 5/2015, Texto Refundido del Estatuto Básico del Empleado Público (TREBEP)",
+    "articulo": "87"
+  },
+  {
+    "id": "B3T30-010",
+    "bloque": 3,
+    "tema": 30,
+    "test": 30,
+    "dificultad": "media",
+    "pregunta": "¿Cuál es la diferencia principal entre la excedencia voluntaria por agrupación familiar y la excedencia voluntaria por interés particular en cuanto a los requisitos previos para solicitarla?",
+    "opciones": {
+      "A": "La excedencia por agrupación familiar requiere 10 años de servicios previos; la voluntaria por interés particular no tiene ningún requisito.",
+      "B": "La excedencia por agrupación familiar no exige tiempo mínimo de servicios previos y puede solicitarse desde el primer día de la relación funcionarial; la excedencia por interés particular exige 5 años de servicios efectivos inmediatamente anteriores.",
+      "C": "Ambas excedencias exigen 5 años de servicios previos, pero la agrupación familiar tiene duración mínima menor.",
+      "D": "La excedencia por agrupación familiar solo puede solicitarse si el funcionario lleva más de 3 años en el mismo puesto de destino."
+    },
+    "correcta": "B",
+    "explicacion": "La excedencia voluntaria por agrupación familiar (art. 89.b TREBEP) puede solicitarse sin acreditar ningún tiempo mínimo de servicios previos, lo que la diferencia de la excedencia voluntaria por interés particular (art. 89.a), que exige cinco años de servicios efectivos inmediatamente anteriores. La agrupación familiar se concede cuando el cónyuge o pareja de hecho del funcionario, por haber obtenido y estar desempeñando un puesto de trabajo de carácter definitivo como funcionario de carrera o como laboral fijo en cualquier Administración, organismo, agencia o entidad pública, resida en un municipio distinto a aquel en que presta servicios el funcionario. Al igual que la voluntaria por interés particular, tiene una duración mínima de dos años.",
+    "why": "A los requisitos de tiempo previo son exactamente los contrarios: la agrupación familiar no los exige; la voluntaria por interés particular sí (5 años). C la excedencia por agrupación familiar no exige servicios previos; solo la por interés particular. D no existe un requisito de permanencia en el puesto de destino para solicitar la excedencia por agrupación familiar.",
+    "norma": "Real Decreto Legislativo 5/2015, Texto Refundido del Estatuto Básico del Empleado Público (TREBEP)",
+    "articulo": "89.a y 89.b"
+  },
+  {
+    "id": "B3T30-011",
+    "bloque": 3,
+    "tema": 30,
+    "test": 30,
+    "dificultad": "media",
+    "pregunta": "¿Cuál es la duración máxima de la sanción disciplinaria de suspensión firme de funciones que puede imponerse a un funcionario según el TREBEP?",
+    "opciones": {
+      "A": "Tres años.",
+      "B": "Cuatro años.",
+      "C": "Seis años.",
+      "D": "No tiene límite máximo; depende de la gravedad de la falta."
+    },
+    "correcta": "C",
+    "explicacion": "El art. 96.1.c TREBEP incluye la suspensión firme de funciones entre las sanciones disciplinarias aplicables a los funcionarios de carrera. El art. 96.2 TREBEP establece que la suspensión firme no podrá exceder de seis años. La suspensión firme es una de las sanciones más graves, por debajo solo de la separación del servicio: el funcionario sancionado queda apartado de sus funciones y no puede desempeñar ningún puesto de trabajo en ninguna Administración durante el período de la sanción. Si la suspensión firme es inferior a seis meses, el funcionario conserva el puesto; si es superior, pierde el puesto y debe solicitar reingreso al servicio activo al cumplirla.",
+    "why": "A y B tres años y cuatro años son inferiores al límite que fija el TREBEP; la suspensión firme puede llegar hasta seis años en los casos más graves. D el TREBEP sí establece un límite máximo de seis años para la suspensión firme; sin ese límite se vulneraría el principio de proporcionalidad de las sanciones.",
+    "norma": "Real Decreto Legislativo 5/2015, Texto Refundido del Estatuto Básico del Empleado Público (TREBEP)",
+    "articulo": "96.2"
+  },
+  {
+    "id": "B3T30-012",
+    "bloque": 3,
+    "tema": 30,
+    "test": 30,
+    "dificultad": "media",
+    "pregunta": "¿Cómo evoluciona la reserva de puesto durante la excedencia por cuidado de hijo (art. 89.c TREBEP) a lo largo del período de excedencia?",
+    "opciones": {
+      "A": "La reserva del puesto concreto se mantiene durante toda la excedencia, con independencia de su duración.",
+      "B": "El primer año de excedencia el funcionario tiene derecho a la reserva del puesto de trabajo concreto; a partir del primer año y hasta el máximo de tres años, la reserva se extiende a un puesto del mismo grupo de clasificación y nivel en el mismo municipio.",
+      "C": "No existe reserva de puesto durante la excedencia por cuidado de hijo; el funcionario debe participar en concurso al reincorporarse.",
+      "D": "La reserva de puesto solo existe durante los seis primeros meses; el resto del tiempo el funcionario queda sin reserva."
+    },
+    "correcta": "B",
+    "explicacion": "El art. 89.c TREBEP establece un sistema de reserva gradualmente decreciente durante la excedencia por cuidado de familiares: durante el primer año, el funcionario tiene derecho a la reserva del mismo puesto de trabajo que venía desempeñando con carácter definitivo. Transcurrido ese primer año, si continúa en excedencia, la reserva se extiende a un puesto de trabajo del mismo municipio con igual retribución. Esta reducción gradual de la garantía de reserva refleja el equilibrio entre el derecho del funcionario a la conciliación y la necesidad de la Administración de organizar sus servicios de forma eficiente, dado que el puesto de trabajo debe estar cubierto por otros medios (funcionario interino) durante la ausencia.",
+    "why": "A mantener la reserva del puesto concreto durante los tres años completos sería una carga excesiva para la organización del servicio; el TREBEP establece el primer año como único período de reserva del puesto específico. C la reserva del puesto sí existe en la excedencia por cuidado de familiares; esto la diferencia de la voluntaria por interés particular, que no tiene reserva de puesto. D seis meses no es el límite de la reserva del puesto concreto; la reserva del puesto específico dura un año completo.",
+    "norma": "Real Decreto Legislativo 5/2015, Texto Refundido del Estatuto Básico del Empleado Público (TREBEP)",
+    "articulo": "89.c"
+  },
+  {
+    "id": "B3T30-013",
+    "bloque": 3,
+    "tema": 30,
+    "test": 30,
+    "dificultad": "media",
+    "pregunta": "¿Qué efectos tiene la excedencia voluntaria por interés particular sobre el cómputo de trienios, la carrera profesional y la reserva del puesto de trabajo?",
+    "opciones": {
+      "A": "El tiempo en excedencia computa íntegramente a efectos de trienios y carrera, y se conserva la reserva del puesto durante toda la excedencia.",
+      "B": "El tiempo en excedencia no computa a efectos de trienios, carrera profesional ni derechos pasivos, y no hay reserva del puesto de trabajo durante este período.",
+      "C": "El tiempo computa solo a efectos de trienios, pero no de carrera ni derechos pasivos; se conserva la reserva del puesto el primer año.",
+      "D": "El tiempo computa a efectos de trienios durante los dos primeros años y se conserva la reserva del puesto durante el primer año."
+    },
+    "correcta": "B",
+    "explicacion": "La excedencia voluntaria por interés particular (art. 89.a TREBEP) tiene un régimen claramente desfavorable en comparación con la excedencia por cuidado de familiares. El tiempo que el funcionario permanece en esta situación: (1) NO computa a efectos del reconocimiento de trienios; (2) NO computa a efectos de la carrera profesional; (3) NO computa a efectos de derechos pasivos ni de cotización a la Seguridad Social; y (4) no existe reserva del puesto de trabajo concreto ni de ningún otro puesto. Al solicitar el reingreso, el funcionario no tiene derecho preferente a ningún puesto específico y debe esperar a que exista una vacante disponible de su grupo y cuerpo, accediendo a ella en adscripción provisional.",
+    "why": "A y C el cómputo a efectos de trienios y la reserva del puesto son rasgos propios de la excedencia por cuidado de familiares (art. 89.c), no de la voluntaria por interés particular. D tampoco durante los primeros años computa para trienios en la excedencia voluntaria por interés particular; no existe ningún período de gracia a este efecto.",
+    "norma": "Real Decreto Legislativo 5/2015, Texto Refundido del Estatuto Básico del Empleado Público (TREBEP)",
+    "articulo": "89.a"
+  },
+  {
+    "id": "B3T30-014",
+    "bloque": 3,
+    "tema": 30,
+    "test": 30,
+    "dificultad": "media",
+    "pregunta": "¿Cuál es la duración inicial y las posibilidades de prórroga de la excedencia por razón de violencia de género reconocida en el art. 89.d del TREBEP?",
+    "opciones": {
+      "A": "Duración de un año, sin posibilidad de prórroga.",
+      "B": "Duración inicial de seis meses, prorrogable por períodos de tres meses y hasta un máximo de dieciocho meses.",
+      "C": "Duración de dos años, prorrogable por otros dos años adicionales.",
+      "D": "Duración indefinida; la funcionaria puede mantenerla mientras persista la situación de riesgo."
+    },
+    "correcta": "B",
+    "explicacion": "El art. 89.d TREBEP establece que las funcionarias víctimas de violencia de género tendrán derecho a solicitar la situación de excedencia sin necesidad de haber prestado un tiempo mínimo de servicios previos y con reserva del puesto de trabajo. Esta excedencia tiene una duración inicial de seis meses, que pueden prorrogarse por períodos de tres meses, con un máximo total de dieciocho meses, cuando las actuaciones judiciales lo exigiesen. Durante la excedencia por razón de violencia de género, el período de permanencia en esta situación computa a efectos de trienios, de carrera profesional y de derechos pasivos. Esta figura busca facilitar la protección de la funcionaria víctima dándole tiempo para alejarse de la situación de riesgo sin perder su estabilidad laboral.",
+    "why": "A un año sin prórroga es insuficiente respecto al máximo de dieciocho meses que permite el art. 89.d con sus prórrogas. C dos años más dos años exceden el máximo legal; el TREBEP limita la excedencia a dieciocho meses en total. D la excedencia no es indefinida; tiene un máximo de dieciocho meses para garantizar la previsibilidad organizativa de la Administración.",
+    "norma": "Real Decreto Legislativo 5/2015, Texto Refundido del Estatuto Básico del Empleado Público (TREBEP)",
+    "articulo": "89.d"
+  },
+  {
+    "id": "B3T30-015",
+    "bloque": 3,
+    "tema": 30,
+    "test": 30,
+    "dificultad": "media",
+    "pregunta": "¿Cómo se reincorpora al servicio activo el funcionario que ha estado en excedencia voluntaria por interés particular y qué derechos tiene en cuanto a la asignación de puesto?",
+    "opciones": {
+      "A": "Al término de la excedencia voluntaria recupera automáticamente el mismo puesto que ocupaba antes de la excedencia.",
+      "B": "Debe solicitar el reingreso al servicio activo; no tiene derecho a un puesto concreto, sino a que se le asigne un puesto vacante de su cuerpo y grupo mediante adscripción provisional, a la espera de participar en los concursos de provisión.",
+      "C": "Al reincorporarse se le reconoce prioridad absoluta en el siguiente concurso de méritos frente a cualquier otro candidato.",
+      "D": "Si no existe vacante disponible al solicitar el reingreso, el funcionario puede exigir la creación de una plaza nueva en su cuerpo."
+    },
+    "correcta": "B",
+    "explicacion": "Al término (o a petición de levantamiento) de la excedencia voluntaria por interés particular, el funcionario debe solicitar formalmente el reingreso al servicio activo. Dado que durante la excedencia voluntaria no existe reserva de puesto, el funcionario no tiene derecho a recuperar su puesto anterior ni ningún otro puesto concreto. La Administración le asignará, en adscripción provisional, el primer puesto vacante de su cuerpo o escala y grupo de clasificación que esté disponible. A partir de ese momento, el funcionario debe participar en los concursos de méritos convocados para obtener un destino definitivo. La ausencia de reserva de puesto es el elemento que más penaliza esta excedencia respecto a otras.",
+    "why": "A la recuperación automática del puesto anterior es el privilegio de la situación de servicios especiales (art. 87) o de la excedencia por cuidado de familiares (primer año); en la voluntaria por interés particular no existe esa reserva. C el funcionario que regresa de excedencia voluntaria no tiene prioridad absoluta sobre el resto de participantes en el concurso de méritos; participa en igualdad de condiciones. D la Administración no está obligada a crear plazas para acomodar al excedente; el funcionario debe esperar a que haya vacante disponible.",
+    "norma": "Real Decreto Legislativo 5/2015, Texto Refundido del Estatuto Básico del Empleado Público (TREBEP)",
+    "articulo": "89.a"
+  },
+  {
+    "id": "B3T30-016",
+    "bloque": 3,
+    "tema": 30,
+    "test": 30,
+    "dificultad": "media",
+    "pregunta": "¿Cuáles son las situaciones administrativas en que puede encontrarse un funcionario de carrera según el art. 85 del TREBEP?",
+    "opciones": {
+      "A": "Solo el servicio activo y la excedencia; el resto de situaciones son reguladas exclusivamente por la normativa autonómica.",
+      "B": "Servicio activo, servicios especiales, servicio en otras Administraciones Públicas, excedencia (en sus distintas modalidades) y suspensión de funciones.",
+      "C": "Servicio activo, excedencia voluntaria, excedencia forzosa y jubilación anticipada.",
+      "D": "Servicio activo, comisión de servicios y excedencia voluntaria; no hay más situaciones reconocidas en el TREBEP."
+    },
+    "correcta": "B",
+    "explicacion": "El art. 85 TREBEP establece que los funcionarios de carrera pueden encontrarse en las siguientes situaciones administrativas: (1) servicio activo (art. 86): situación ordinaria de prestación de servicios; (2) servicios especiales (art. 87): desempeño de cargos políticos o representativos; (3) servicio en otras Administraciones Públicas (art. 88): movilidad interadministrativa; (4) excedencia (art. 89): en sus modalidades de voluntaria por interés particular, voluntaria por agrupación familiar, por cuidado de familiares, por razón de violencia de género y por razón de violencia terrorista; y (5) suspensión de funciones (art. 90): provisional o firme como consecuencia de procedimiento disciplinario o penal.",
+    "why": "A las situaciones administrativas son una materia básica del TREBEP que vincula a todas las AAPP, no solo a las autonómicas. C la jubilación no es una situación administrativa en el sentido del art. 85 TREBEP; es una causa de pérdida de la condición de funcionario (art. 63). D la comisión de servicios no es una situación administrativa autónoma; el funcionario en comisión de servicios permanece en servicio activo.",
+    "norma": "Real Decreto Legislativo 5/2015, Texto Refundido del Estatuto Básico del Empleado Público (TREBEP)",
+    "articulo": "85"
+  },
+  {
+    "id": "B3T30-017",
+    "bloque": 3,
+    "tema": 30,
+    "test": 30,
+    "dificultad": "dificil",
+    "pregunta": "¿Cuáles son las diferencias clave entre la excedencia por cuidado de familiares (art. 89.c) y la excedencia voluntaria por interés particular (art. 89.a) en cuanto a trienios, carrera y reserva del puesto?",
+    "opciones": {
+      "A": "No existen diferencias relevantes; ambas excedencias tienen el mismo régimen de derechos.",
+      "B": "La excedencia por cuidado de familiares computa íntegramente a efectos de trienios, carrera y derechos pasivos, y el primer año se reserva el puesto concreto; la voluntaria por interés particular no computa a ningún efecto y no hay reserva del puesto en ningún momento.",
+      "C": "La excedencia voluntaria por interés particular tiene mejores condiciones porque no requiere justificación; la excedencia por cuidado de familiares penaliza al funcionario con la pérdida de trienios.",
+      "D": "Ambas excedencias generan reserva del puesto durante el primer año, pero solo la voluntaria por interés particular computa a efectos de trienios."
+    },
+    "correcta": "B",
+    "explicacion": "La diferencia entre ambas excedencias es sustancial: (1) Cómputo de trienios y carrera: la excedencia por cuidado de familiares (art. 89.c) computa íntegramente a efectos de trienios, carrera profesional y derechos pasivos durante todo su período; la excedencia voluntaria por interés particular (art. 89.a) no computa a ninguno de esos efectos, de modo que el tiempo en esta excedencia es tiempo «perdido» a efectos retributivos y de carrera. (2) Reserva del puesto: en la excedencia por cuidado de familiares, el primer año se reserva el puesto concreto y el período restante se reserva un puesto en el mismo municipio y grupo; en la voluntaria por interés particular no existe reserva de ningún tipo desde el primer día. Esta diferencia de régimen refleja la distinta valoración que el TREBEP hace de ambas causas de excedencia.",
+    "why": "A las diferencias son radicalmente opuestas; afirmar que son iguales es incorrecto. C la excedencia por cuidado de familiares es la que mejores condiciones reconoce; la voluntaria por interés particular es la que penaliza más al funcionario. D la reserva del puesto en el primer año y el cómputo de trienios son propios de la excedencia por cuidado de familiares, no de la voluntaria por interés particular.",
+    "norma": "Real Decreto Legislativo 5/2015, Texto Refundido del Estatuto Básico del Empleado Público (TREBEP)",
+    "articulo": "89.a y 89.c"
+  },
+  {
+    "id": "B3T30-018",
+    "bloque": 3,
+    "tema": 30,
+    "test": 30,
+    "dificultad": "dificil",
+    "pregunta": "¿Qué derechos conserva el funcionario en situación de servicios especiales que no se reconocen en la excedencia voluntaria por interés particular?",
+    "opciones": {
+      "A": "No hay diferencias; ambas situaciones tienen el mismo régimen de derechos.",
+      "B": "En servicios especiales el funcionario tiene reserva del puesto de trabajo concreto, el tiempo computa a efectos de trienios y carrera profesional, y percibe las retribuciones del cargo que desempeña; en la excedencia voluntaria por interés particular no hay reserva del puesto, el tiempo no computa a efectos de trienios ni carrera, y el funcionario no percibe retribución de la Administración.",
+      "C": "La excedencia voluntaria por interés particular es más favorable porque el funcionario puede desarrollar actividades privadas libremente; en servicios especiales tiene restricciones de incompatibilidad.",
+      "D": "Ambas situaciones permiten el cómputo de trienios, pero solo los servicios especiales garantizan la reserva del puesto concreto."
+    },
+    "correcta": "B",
+    "explicacion": "La comparación entre servicios especiales (art. 87) y excedencia voluntaria por interés particular (art. 89.a) muestra diferencias radicales a favor de los servicios especiales. En servicios especiales: (1) el funcionario tiene reserva del puesto de trabajo concreto que venía desempeñando; (2) el tiempo en esta situación computa a todos los efectos: trienios, ascensos, carrera profesional y derechos pasivos; (3) el funcionario percibe retribuciones del cargo que ocupa (político, parlamentario, etc.). En la excedencia voluntaria por interés particular: (1) no hay reserva del puesto; (2) el tiempo no computa a efectos de trienios, carrera ni derechos pasivos; (3) el funcionario no percibe ninguna retribución de la Administración. Esta diferencia se justifica porque los servicios especiales responden a funciones de interés público, mientras que la excedencia voluntaria satisface intereses puramente personales.",
+    "why": "A las diferencias son muy relevantes y opuestas; los servicios especiales son la situación más favorable de todas. C si bien el funcionario en excedencia voluntaria puede desarrollar actividades privadas según la ley de incompatibilidades, esta mayor libertad no le reporta los beneficios en materia de trienios y reserva de puesto. D el cómputo de trienios es propio de los servicios especiales y de la excedencia por cuidado de familiares, no de la voluntaria por interés particular.",
+    "norma": "Real Decreto Legislativo 5/2015, Texto Refundido del Estatuto Básico del Empleado Público (TREBEP)",
+    "articulo": "87 y 89.a"
+  },
+  {
+    "id": "B3T30-019",
+    "bloque": 3,
+    "tema": 30,
+    "test": 30,
+    "dificultad": "dificil",
+    "pregunta": "¿Cuáles son los efectos de la suspensión firme de funciones sobre la percepción de retribuciones y sobre el puesto de trabajo del funcionario sancionado?",
+    "opciones": {
+      "A": "El funcionario mantiene sus retribuciones durante la suspensión firme para no causarle un perjuicio económico irreparable.",
+      "B": "Durante la suspensión firme el funcionario no puede desempeñar funciones ni percibir retribuciones de ninguna Administración; si la suspensión es inferior a seis meses, el funcionario conserva el puesto de trabajo; si es igual o superior a seis meses, pierde el puesto y al cumplir la sanción debe solicitar reingreso.",
+      "C": "El funcionario mantiene el puesto en todos los casos, pero no puede desempeñar funciones ni percibir retribuciones durante el período de suspensión.",
+      "D": "La suspensión firme solo impide al funcionario desempeñar el puesto concreto que originó el expediente disciplinario; puede solicitar traslado a otro puesto durante la suspensión."
+    },
+    "correcta": "B",
+    "explicacion": "La suspensión firme de funciones (art. 90 TREBEP y arts. 93-98 TREBEP sobre régimen disciplinario) tiene efectos tanto retributivos como sobre el puesto de trabajo. Durante la suspensión firme: (1) el funcionario no puede desempeñar funciones en ninguna Administración Pública; (2) no percibe retribuciones por parte de la Administración. En cuanto al puesto de trabajo: si la suspensión firme es inferior a seis meses, el funcionario tiene derecho a reincorporarse al puesto de trabajo que venía desempeñando; si la suspensión firme es de duración igual o superior a seis meses, el funcionario pierde el puesto de trabajo concreto y, al cumplir la sanción, debe solicitar el reingreso al servicio activo y se le asignará un puesto mediante adscripción provisional.",
+    "why": "A durante la suspensión firme el funcionario no percibe retribuciones; mantenerlas vaciaría de contenido la sanción como medida punitiva. C la conservación del puesto depende de la duración de la suspensión: solo se conserva si es inferior a seis meses; si es igual o superior, se pierde el puesto. D la suspensión firme impide al funcionario prestar servicios en cualquier Administración, no solo en el puesto concreto que originó el expediente.",
+    "norma": "Real Decreto Legislativo 5/2015, Texto Refundido del Estatuto Básico del Empleado Público (TREBEP)",
+    "articulo": "90 y 96"
+  },
+  {
+    "id": "B3T30-020",
+    "bloque": 3,
+    "tema": 30,
+    "test": 30,
+    "dificultad": "dificil",
+    "pregunta": "¿Qué efectos tiene la suspensión provisional de funciones adoptada durante la tramitación de un expediente disciplinario cuando finalmente este no concluye con sanción de suspensión?",
+    "opciones": {
+      "A": "Si el expediente no concluye con sanción de suspensión, el período de suspensión provisional se considera inexistente y no genera ningún efecto ni derecho.",
+      "B": "Si la suspensión provisional no se convierte en sanción firme de suspensión, el funcionario tiene derecho a recuperar las retribuciones dejadas de percibir durante el período de suspensión provisional.",
+      "C": "El funcionario pierde igualmente el puesto de trabajo aunque no haya sanción; la suspensión provisional ya produce ese efecto irreversible.",
+      "D": "Si el expediente no concluye con sanción, el tiempo de suspensión provisional computa doble a efectos de trienios como compensación al funcionario."
+    },
+    "correcta": "B",
+    "explicacion": "El TREBEP establece que la suspensión provisional como medida cautelar durante la tramitación del expediente disciplinario o de un proceso penal se justifica por la presunción de que puede concluir en una sanción de suspensión. Si el expediente o el proceso judicial termina sin que se imponga sanción de suspensión, el período de suspensión provisional se revierte en favor del funcionario: este tiene derecho a recuperar las retribuciones dejadas de percibir durante el período en que estuvo provisionalmente suspendido. Esta solución equilibra el principio de presunción de inocencia con la necesidad de apartar provisionalmente al funcionario de sus funciones cuando hay indicios de infracción grave.",
+    "why": "A afirmar que la suspensión provisional no genera efecto ni derecho cuando no hay sanción es incorrecto; el funcionario tiene derecho a recuperar las retribuciones no percibidas. C si el expediente no concluye con sanción, el funcionario recupera su puesto íntegramente; no hay pérdida irreversible del puesto. D el cómputo doble de trienios como compensación no está previsto en el TREBEP; la compensación consiste en la restitución de las retribuciones no percibidas.",
+    "norma": "Real Decreto Legislativo 5/2015, Texto Refundido del Estatuto Básico del Empleado Público (TREBEP)",
+    "articulo": "90"
+  }
+]
