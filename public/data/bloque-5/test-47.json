@@ -1,0 +1,382 @@
+[
+  {
+    "id": "B5T47-001",
+    "bloque": 5,
+    "tema": 47,
+    "test": 47,
+    "dificultad": "facil",
+    "pregunta": "¿Qué es Microsoft Access y para qué se utiliza en el entorno ofimático?",
+    "opciones": {
+      "A": "Microsoft Access es un procesador de textos especializado en la elaboración de informes; no tiene ninguna relación con el almacenamiento de datos estructurados.",
+      "B": "Microsoft Access es una aplicación de presentaciones similar a PowerPoint; permite crear diapositivas con tablas de datos.",
+      "C": "Microsoft Access es el sistema gestor de bases de datos relacionales (SGBDR) de Microsoft incluido en algunas ediciones de Office; permite crear y gestionar bases de datos con tablas relacionadas, consultas (SQL y QBE), formularios de entrada de datos e informes para presentar la información; es adecuado para bases de datos de escritorio de pequeña y mediana escala.",
+      "D": "Microsoft Access es un sistema de gestión de correo electrónico corporativo; su función principal es centralizar y organizar los mensajes de correo de una organización."
+    },
+    "correcta": "C",
+    "explicacion": "Microsoft Access es el SGBDR de escritorio de Microsoft, incluido en algunas ediciones de Microsoft 365 (Business y superiores) y en Office Professional. Sus características principales: (1) Modelo relacional: organiza los datos en tablas (entidades) relacionadas entre sí mediante claves primarias y claves foráneas. (2) Componentes principales: Tablas (almacenan los datos), Consultas (extraen y filtran datos en modo QBE o SQL), Formularios (interfaces gráficas para introducir y visualizar datos), Informes (presentación formateada para impresión o PDF). (3) Limitaciones: el archivo .accdb admite hasta 2 GB; está diseñado para uso monopuesto o con pocos usuarios simultáneos; para entornos multiusuario de gran escala se conecta a SQL Server como back-end.",
+    "why": "A Access no es un procesador de textos; es un SGBDR para gestionar datos estructurados en tablas relacionadas. B Access no es una aplicación de presentaciones; PowerPoint es la aplicación de presentaciones de Microsoft. D la gestión de correo es función de Microsoft Outlook; Access es para bases de datos relacionales.",
+    "norma": "Microsoft Access 365/2021 — Introducción",
+    "articulo": "Microsoft Access: sistema gestor de bases de datos relacionales de escritorio"
+  },
+  {
+    "id": "B5T47-002",
+    "bloque": 5,
+    "tema": 47,
+    "test": 47,
+    "dificultad": "facil",
+    "pregunta": "¿Cómo se organizan los datos en una base de datos relacional de Access?",
+    "opciones": {
+      "A": "En una base de datos relacional de Access, los datos se organizan en tablas (filas = registros, columnas = campos); cada tabla tiene una clave primaria que identifica de forma única cada registro; las tablas se relacionan mediante claves foráneas; las relaciones pueden ser uno a uno, uno a varios (la más frecuente) o varios a varios (requiere tabla intermedia); la ventana Relaciones (Herramientas de base de datos > Relaciones) visualiza y gestiona estas relaciones.",
+      "B": "En Access, los datos se almacenan en una única tabla que contiene todos los campos; no se permite tener más de una tabla en la misma base de datos.",
+      "C": "Las relaciones entre tablas en Access solo pueden ser del tipo uno a uno; las relaciones uno a varios y varios a varios no son soportadas.",
+      "D": "La clave primaria en Access es un campo opcional; las tablas funcionan correctamente sin clave primaria y Access no requiere que los registros sean únicos."
+    },
+    "correcta": "A",
+    "explicacion": "El modelo relacional es la base de Access: (1) Tabla: estructura de filas (registros) y columnas (campos); cada registro es una instancia de la entidad; cada campo es un atributo. (2) Clave primaria (PK): campo o combinación de campos que identifica de forma única cada registro; no puede ser nulo; Access puede crear automáticamente un campo Autonumérico como PK. (3) Clave foránea (FK): campo que referencia la PK de otra tabla; establece la relación sin duplicar datos. (4) Tipos de relaciones: Uno a uno (1:1), Uno a varios (1:N, la más frecuente), Varios a varios (N:M, requiere tabla intermedia con ambas PK). (5) Integridad referencial: impide registros huérfanos; permite actualización y eliminación en cascada.",
+    "why": "B las bases de datos relacionales pueden y deben tener múltiples tablas relacionadas. C Access soporta relaciones uno a uno, uno a varios y varios a varios. D la clave primaria es fundamental; garantiza la unicidad y permite establecer relaciones.",
+    "norma": "Microsoft Access 365/2021 — Modelo relacional",
+    "articulo": "Tablas, claves y relaciones en Microsoft Access"
+  },
+  {
+    "id": "B5T47-003",
+    "bloque": 5,
+    "tema": 47,
+    "test": 47,
+    "dificultad": "facil",
+    "pregunta": "¿Qué son las consultas en Access y qué tipos principales existen?",
+    "opciones": {
+      "A": "Las consultas de Access solo pueden diseñarse escribiendo código SQL directamente; no existe ninguna herramienta gráfica para crearlas.",
+      "B": "Las consultas de Access solo sirven para mostrar datos de una única tabla; no pueden combinar varias tablas ni realizar consultas de acción.",
+      "C": "Las consultas de Access solo pueden mostrar los campos existentes en las tablas; no pueden calcular nuevos campos mediante expresiones.",
+      "D": "Las consultas son objetos de Access que recuperan, filtran, ordenan y calculan datos de una o varias tablas; se pueden diseñar en QBE (modo gráfico, arrastrando campos) o en SQL; los tipos principales son: Selección (muestra datos que cumplen criterios), Parámetros (solicita valor al usuario en tiempo de ejecución), Referencias cruzadas (TRANSFORM/PIVOT: formato matricial) y las cuatro de acción: Creación de tabla, Datos anexados, Actualización y Eliminación."
+    },
+    "correcta": "D",
+    "explicacion": "Las consultas (Queries) son el mecanismo principal para interrogar y manipular datos en Access: (1) Vista QBE (Query By Example): diseño gráfico en cuadrícula; se arrastran campos de las tablas; se establecen criterios, orden y visibilidad; Access traduce el diseño a SQL automáticamente. (2) Vista SQL: permite escribir sentencias SELECT, INSERT, UPDATE, DELETE directamente. (3) Tipos: Selección (recupera registros que cumplen criterios). Parámetros (pide al usuario un valor entre corchetes [...]). Referencias cruzadas (TRANSFORM…PIVOT: formato matricial). Creación de tabla (INTO: nueva tabla permanente). Datos anexados (INSERT INTO: añade a tabla existente). Actualización (UPDATE…SET: modifica valores). Eliminación (DELETE: borra registros). Paso a través (SQL directo al servidor). (4) Combinación de tablas: las consultas pueden combinar múltiples tablas mediante JOIN en la vista de diseño.",
+    "why": "A Access ofrece la vista de diseño QBE (gráfica) como alternativa al SQL; no es obligatorio escribir SQL. B las consultas pueden combinar datos de múltiples tablas mediante JOIN y existen 4 tipos de consultas de acción. C las consultas pueden incluir campos calculados escribiendo Alias: [Campo1]+[Campo2] en la fila Campo de la cuadrícula.",
+    "norma": "Microsoft Access 365/2021 — Consultas",
+    "articulo": "Consultas en Access: tipos, QBE y SQL"
+  },
+  {
+    "id": "B5T47-004",
+    "bloque": 5,
+    "tema": 47,
+    "test": 47,
+    "dificultad": "facil",
+    "pregunta": "¿Qué son los formularios e informes en Access y cuál es su función?",
+    "opciones": {
+      "A": "Los formularios de Access se usan exclusivamente para imprimir datos; no pueden usarse para introducir ni modificar datos en las tablas.",
+      "B": "Los formularios permiten crear interfaces amigables para introducir, ver y modificar registros de las tablas o consultas; los informes están diseñados para presentar datos en formato impreso o PDF con agrupaciones, subtotales, encabezados y pies de grupo; ambos se crean con asistentes o desde la vista Diseño; los informes son de solo lectura: no permiten editar los datos.",
+      "C": "Los informes de Access son idénticos a los formularios; la única diferencia es el nombre que se les da en la interfaz.",
+      "D": "Los formularios de Access solo pueden mostrar datos de una única tabla; no pueden basarse en consultas ni en varias tablas relacionadas."
+    },
+    "correcta": "B",
+    "explicacion": "Formularios e informes son los objetos de interfaz de Access: (1) Formularios: interfaces gráficas para interacción; usos: introducir nuevos registros, modificar existentes, buscar y navegar; permiten botones, cuadros combinados, validaciones, imágenes; pueden basarse en tablas, consultas o subformularios. Tipos: formulario simple (un registro), continuo (varios), hoja de datos, formulario dividido. (2) Informes: presentación de datos en formato impreso o PDF; características: agrupación por campos, subtotales y totales de grupo, encabezados y pies de página e informe; son de solo lectura (no permiten editar datos); se abren en Vista preliminar. (3) Creación: Asistentes (paso a paso), Vista Diseño (control total) o Vista Presentación (ajustes con datos reales visibles).",
+    "why": "A los formularios son la interfaz principal de Access para la entrada y edición de datos. C formularios (interacción) e informes (presentación/impresión) tienen propósitos distintos. D los formularios pueden basarse en consultas que combinan múltiples tablas y en subformularios anidados.",
+    "norma": "Microsoft Access 365/2021 — Formularios e informes",
+    "articulo": "Formularios e informes en Microsoft Access"
+  },
+  {
+    "id": "B5T47-005",
+    "bloque": 5,
+    "tema": 47,
+    "test": 47,
+    "dificultad": "facil",
+    "pregunta": "¿Cuáles son los tipos de datos principales que puede tener un campo en una tabla de Access?",
+    "opciones": {
+      "A": "Access solo admite dos tipos de datos para los campos: Texto y Número; no existen tipos para fechas, valores lógicos, archivos adjuntos ni objetos OLE.",
+      "B": "El tipo Autonumérico en Access genera un número aleatorio distinto cada vez que se abre la base de datos; no es adecuado como clave primaria.",
+      "C": "Los tipos de datos principales en Access son: Texto corto (hasta 255 caracteres), Texto largo/Memo, Número (entero, doble, decimal…), Fecha/Hora, Moneda (sin errores de redondeo de punto flotante), Autonumérico (entero autoincremental, ideal como clave primaria), Sí/No (valor lógico binario), Objeto OLE, Hipervínculo, Datos adjuntos (archivos comprimidos por registro), Calculado (expresión basada en otros campos) y Asistente para búsquedas (lista desplegable basada en otra tabla o en valores fijos).",
+      "D": "El tipo Sí/No en Access almacena cadenas de texto 'Sí' y 'No'; no es un tipo de dato lógico binario."
+    },
+    "correcta": "C",
+    "explicacion": "Access ofrece una amplia variedad de tipos de datos: (1) Texto corto: hasta 255 caracteres; para nombres, códigos, descripciones. (2) Texto largo (Memo): texto de longitud arbitraria para comentarios. (3) Número: Byte, Entero, Entero largo, Simple, Doble, Decimal. (4) Fecha/Hora: almacena fechas y horas como número decimal. (5) Moneda: punto fijo con 4 decimales; evita errores de redondeo. (6) Autonumérico: entero que se incrementa en 1 con cada nuevo registro; no editable; ideal como PK. (7) Sí/No: valor lógico binario (-1 para Sí/Verdadero, 0 para No/Falso); se muestra como casilla de verificación. (8) Objeto OLE: imágenes o documentos incrustados. (9) Hipervínculo: URL o ruta. (10) Datos adjuntos: archivos comprimidos por registro. (11) Calculado: resultado de una expresión. (12) Asistente para búsquedas: lista desplegable.",
+    "why": "A Access tiene muchos tipos de datos además de Texto y Número: Fecha/Hora, Moneda, Autonumérico, Sí/No, OLE, Hipervínculo, Datos adjuntos y Calculado. B el tipo Autonumérico genera un entero que se incrementa en 1 con cada nuevo registro; es el estándar para claves primarias numéricas. D el tipo Sí/No almacena un valor lógico binario (-1 o 0), no texto.",
+    "norma": "Microsoft Access 365/2021 — Diseño de tabla > Tipos de datos",
+    "articulo": "Tipos de datos en campos de tablas de Microsoft Access"
+  },
+  {
+    "id": "B5T47-006",
+    "bloque": 5,
+    "tema": 47,
+    "test": 47,
+    "dificultad": "facil",
+    "pregunta": "¿Qué es Microsoft Power BI y cuál es su función en el análisis de datos?",
+    "opciones": {
+      "A": "Microsoft Power BI es una herramienta de análisis de datos e inteligencia empresarial (Business Intelligence) que permite conectar a múltiples orígenes de datos, transformarlos con Power Query, modelarlos con relaciones y medidas DAX, y crear informes interactivos con visualizaciones; los informes se publican en el servicio Power BI (nube) para compartirlos con la organización.",
+      "B": "Microsoft Power BI es la nueva versión de Microsoft Access; sustituye completamente a Access en todas las funciones de gestión de bases de datos relacionales.",
+      "C": "Microsoft Power BI es una extensión de Microsoft Word para insertar gráficos animados en documentos de texto.",
+      "D": "Microsoft Power BI es una aplicación de videoconferencia integrada en Microsoft 365; permite realizar reuniones de análisis de datos con pantalla compartida."
+    },
+    "correcta": "A",
+    "explicacion": "Microsoft Power BI es la plataforma de Business Intelligence de Microsoft: (1) Power BI Desktop: aplicación gratuita de escritorio; flujo: Obtener datos > Transformar con Power Query > Modelar (relaciones, medidas DAX) > Crear visualizaciones. (2) Servicio Power BI (app.powerbi.com): plataforma SaaS; se publican los informes del Desktop; funcionalidades: paneles, actualización programada, Row-Level Security (RLS). (3) Power BI Mobile: apps para iOS y Android. (4) Power Query: motor ETL integrado también en Excel; lenguaje M. (5) DAX: lenguaje de fórmulas para medidas y columnas calculadas. (6) Licencias: Desktop gratuito; Power BI Pro para publicar y compartir.",
+    "why": "B Power BI es una herramienta de BI y visualización, no un SGBDR como Access. C Power BI es una aplicación independiente de análisis, no una extensión de Word. D Teams y Skype son las aplicaciones de videoconferencia de Microsoft.",
+    "norma": "Microsoft Power BI — Introducción",
+    "articulo": "Microsoft Power BI: Business Intelligence y visualización de datos"
+  },
+  {
+    "id": "B5T47-007",
+    "bloque": 5,
+    "tema": 47,
+    "test": 47,
+    "dificultad": "media",
+    "pregunta": "¿Cómo se diseña una consulta de selección en Access y cuáles son sus elementos principales?",
+    "opciones": {
+      "A": "El diseño de consultas en Access se realiza exclusivamente escribiendo SQL; no existe ninguna vista gráfica de diseño.",
+      "B": "En una consulta de Access, el criterio de filtrado solo puede ser un valor fijo; no puede incluir expresiones, funciones ni referencias a parámetros.",
+      "C": "Las consultas de Access no pueden calcular campos nuevos; solo pueden mostrar los campos existentes en las tablas.",
+      "D": "La vista de diseño QBE de una consulta de selección tiene: zona superior con los objetos participantes y sus relaciones, y cuadrícula inferior con filas: Campo (nombre o expresión como Alias: [C1]+[C2]), Tabla (origen), Orden (Ascendente/Descendente), Mostrar (casilla de visibilidad), Criterios (condición: ='Madrid', >100, Entre #01/01/2025# Y #31/12/2025#, Como 'A*') y Or (condición OR alternativa); los parámetros se escriben como [¿Introduce el valor?] en la fila Criterios."
+    },
+    "correcta": "D",
+    "explicacion": "La vista de diseño QBE (Query By Example) es la forma gráfica de crear consultas en Access: (1) Zona superior: muestra las tablas/consultas participantes con sus relaciones; se arrastran campos a la cuadrícula. (2) Cuadrícula de diseño: Campo (nombre o Alias: expresión). Tabla (tabla de origen). Orden (Ascendente, Descendente, Sin ordenar). Mostrar (casilla; si no marcada, filtra sin mostrar). Criterios (='España', >100, Entre 50 Y 100, Como '[A-C]*', #01/01/2025#, Es Nulo, No Como '*test*'). Or (alternativas OR). (3) Expresiones calculadas: Alias: expresión; el Generador de expresiones ayuda a construirlas. (4) Parámetros: texto entre corchetes en Criterios: [¿Introduce el país?]; Access solicita el valor al ejecutar. (5) Vista SQL: se puede cambiar entre QBE y SQL.",
+    "why": "A Access ofrece la vista de diseño QBE (gráfica) como alternativa; no es obligatorio escribir SQL. B los criterios pueden incluir expresiones, funciones de Access, comparaciones y parámetros. C las consultas pueden incluir campos calculados escribiendo una expresión en la fila Campo.",
+    "norma": "Microsoft Access 365/2021 — Consultas > Vista Diseño",
+    "articulo": "Vista de diseño QBE de consultas en Microsoft Access"
+  },
+  {
+    "id": "B5T47-008",
+    "bloque": 5,
+    "tema": 47,
+    "test": 47,
+    "dificultad": "media",
+    "pregunta": "¿Qué es la integridad referencial en Access y cómo se aplica?",
+    "opciones": {
+      "A": "La integridad referencial en Access impide que existan registros en una tabla hija (con clave foránea) sin correspondencia en la tabla padre (con la clave primaria referenciada); se activa en Herramientas de base de datos > Relaciones al editar la relación; las opciones 'Actualizar en cascada' y 'Eliminar en cascada' propagan automáticamente los cambios a los registros hijos.",
+      "B": "La integridad referencial en Access solo se aplica cuando la base de datos se exporta a SQL Server; no tiene efecto mientras los datos están en el archivo .accdb.",
+      "C": "La integridad referencial permite duplicar libremente los valores de la clave primaria; su función es solo visual (colorear las tablas relacionadas en la ventana Relaciones).",
+      "D": "La integridad referencial en Access impide hacer cualquier modificación en las tablas relacionadas; las únicas operaciones permitidas son las consultas de solo lectura."
+    },
+    "correcta": "A",
+    "explicacion": "La integridad referencial garantiza la consistencia de los datos entre tablas relacionadas: (1) Definición: si Departamentos (PK: IdDepartamento) y Empleados (FK: IdDepartamento) están relacionados, impide: crear un empleado con IdDepartamento inexistente, eliminar un departamento con empleados asociados (sin cascada), cambiar el IdDepartamento de un departamento con empleados. (2) Activar: Herramientas de base de datos > Relaciones > doble clic sobre la línea > marcar 'Exigir integridad referencial'. (3) Opciones en cascada: Actualizar en cascada: si cambia la PK del padre, se actualiza la FK en todos los hijos. Eliminar en cascada: si se elimina el padre, se eliminan automáticamente todos los hijos. (4) La línea de relación muestra '1' en el lado padre y '∞' en el lado hijo. (5) Error: si una operación viola la integridad, Access la rechaza con mensaje de error.",
+    "why": "B la integridad referencial se aplica directamente en el .accdb mediante el motor Jet/ACE; no es exclusiva de SQL Server. C la integridad referencial garantiza la consistencia de datos (no permite registros huérfanos); no tiene que ver con permitir duplicados de PK. D la integridad referencial solo restringe las operaciones que violarían la consistencia; las operaciones válidas funcionan con normalidad.",
+    "norma": "Microsoft Access 365/2021 — Relaciones > Integridad referencial",
+    "articulo": "Integridad referencial y relaciones en Microsoft Access"
+  },
+  {
+    "id": "B5T47-009",
+    "bloque": 5,
+    "tema": 47,
+    "test": 47,
+    "dificultad": "media",
+    "pregunta": "¿Cuáles son los principales tipos de visualizaciones de Power BI y cuándo usar cada uno?",
+    "opciones": {
+      "A": "Power BI solo dispone de gráficos de barras y tablas de datos; no tiene visualizaciones de tipo mapa, tarjeta ni medidor.",
+      "B": "Los gráficos de líneas de Power BI solo pueden mostrar una serie de datos a la vez; no permiten comparar múltiples series en el mismo gráfico.",
+      "C": "Power BI incluye: Gráfico de barras/columnas (comparar categorías), Líneas (tendencias temporales), Circular y anillo (proporciones), Combinado barras+líneas (dos métricas), Mapa y mapa coroplético (datos geográficos; reconoce nombres de ciudades, regiones y países sin necesidad de coordenadas), Tarjeta (KPI en valor único), Medidor (valor actual vs objetivo), Tabla y Matriz (datos tabulares; la matriz expande/contrae jerarquías), Dispersión (correlación entre variables), Treemap (proporciones por tamaño de rectángulo), Cascada (variaciones acumuladas) y visualizaciones personalizadas del marketplace AppSource.",
+      "D": "Los mapas de Power BI solo funcionan con coordenadas geográficas (latitud/longitud); no pueden usar nombres de ciudades ni países como datos de ubicación."
+    },
+    "correcta": "C",
+    "explicacion": "Power BI Desktop ofrece una extensa colección de tipos de visualización: (1) Barras/columnas agrupadas y apiladas: comparar valores entre categorías. (2) Líneas y área: tendencias temporales; admiten múltiples series. (3) Circular y anillo: proporciones respecto al total. (4) Combinado (barras+líneas): dos métricas con ejes Y diferentes. (5) Mapa y mapa coroplético: Power BI reconoce nombres de países, regiones y ciudades mediante Bing Maps sin coordenadas; el coroplético colorea regiones según el valor. (6) Tarjeta: un único valor de KPI. (7) Medidor: valor actual en arco con mínimo, máximo y objetivo. (8) Tabla y Matriz: la matriz permite jerarquías expandibles (como tabla dinámica visual). (9) Dispersión: correlación entre dos o tres variables. (10) Treemap: proporciones en rectángulos anidados. (11) Cascada: variaciones acumuladas positivas y negativas. (12) Personalizado: AppSource con cientos de visualizaciones adicionales.",
+    "why": "A Power BI tiene más de 30 tipos de visualización integrados, incluyendo mapas, tarjetas, medidores, dispersión y treemaps. B los gráficos de líneas de Power BI pueden mostrar múltiples series de datos en el mismo gráfico. D Power BI reconoce automáticamente nombres de países, regiones y ciudades; las coordenadas son opcionales.",
+    "norma": "Microsoft Power BI Desktop — Visualizaciones",
+    "articulo": "Visualizaciones en Power BI: tipos y cuándo usarlos"
+  },
+  {
+    "id": "B5T47-010",
+    "bloque": 5,
+    "tema": 47,
+    "test": 47,
+    "dificultad": "media",
+    "pregunta": "¿Qué es Power Query en el contexto de Power BI y Excel y para qué sirve?",
+    "opciones": {
+      "A": "Power Query es el motor ETL (Extracción, Transformación, Carga) integrado en Power BI Desktop y en Excel (desde 2016, en la pestaña Datos > Obtener datos); permite conectar a múltiples orígenes (Excel, CSV, SQL Server, Web, API REST, SharePoint…), transformar los datos mediante pasos registrados (eliminar columnas, cambiar tipos, dividir columnas, combinar consultas, despivotar, agrupar…) sin modificar el origen; los pasos se pueden reordenar o eliminar; el código subyacente es el lenguaje M.",
+      "B": "Power Query solo puede conectarse a archivos Excel locales; no admite bases de datos SQL, páginas web ni servicios en la nube.",
+      "C": "Power Query modifica los datos del origen directamente; no mantiene los datos originales sino que los sobreescribe con las transformaciones aplicadas.",
+      "D": "Power Query es exclusivo de Power BI Desktop; no está disponible en Microsoft Excel."
+    },
+    "correcta": "A",
+    "explicacion": "Power Query es el motor ETL de Microsoft integrado en Power BI Desktop y en Excel: (1) Conectores: cientos de orígenes: Archivos (Excel, CSV, JSON, XML, PDF), Bases de datos (SQL Server, Access, Oracle, MySQL, PostgreSQL), Servicios en línea (SharePoint, Dynamics 365, Salesforce, Google Analytics, Azure), Web (tablas HTML), API REST y OData. (2) Editor de Power Query: cada acción se registra como un 'Paso aplicado' reversible y reordenable. (3) Transformaciones frecuentes: Cambiar tipo, Quitar filas/columnas, Filtrar, Dividir columna, Rellenar hacia abajo/arriba, Despivotar, Agrupar por, Combinar consultas (JOIN/UNION), Columna personalizada, Reemplazar valores, Quitar duplicados. (4) Lenguaje M: código subyacente; se puede ver y editar en la Vista avanzada. (5) Carga: los datos transformados se cargan en el modelo; el origen original NO se modifica.",
+    "why": "B Power Query admite cientos de orígenes: SQL Server, Web, SharePoint, REST APIs, JSON, XML, PDF y más. C Power Query NO modifica el origen; crea una vista transformada que se carga en el modelo. D Power Query está disponible en Power BI Desktop y en Excel desde 2016 (pestaña Datos > Obtener y transformar datos).",
+    "norma": "Microsoft Power BI Desktop; Microsoft Excel 365 — Power Query",
+    "articulo": "Power Query: transformación y limpieza de datos en Power BI y Excel"
+  },
+  {
+    "id": "B5T47-011",
+    "bloque": 5,
+    "tema": 47,
+    "test": 47,
+    "dificultad": "media",
+    "pregunta": "¿Qué es DAX en Power BI y para qué se usa?",
+    "opciones": {
+      "A": "DAX es el lenguaje de transformación de datos de Power Query; se usa para limpiar y combinar tablas antes de cargarlas en el modelo.",
+      "B": "DAX no puede realizar cálculos de inteligencia de tiempo como año anterior o acumulado anual; esas funciones requieren SQL externo.",
+      "C": "DAX solo puede usarse en Power BI Desktop; no está disponible en Excel ni en Analysis Services.",
+      "D": "DAX (Data Analysis Expressions) es el lenguaje de fórmulas de Power BI, Power Pivot (Excel) y Analysis Services; se usa para crear medidas (cálculos dinámicos que se recalculan según el contexto de filtro del informe), columnas calculadas (nuevos campos calculados fila a fila) y tablas calculadas; incluye funciones de inteligencia de tiempo (TOTALYTD, SAMEPERIODLASTYEAR, DATEADD…) y la función CALCULATE para modificar el contexto de filtro."
+    },
+    "correcta": "D",
+    "explicacion": "DAX (Data Analysis Expressions) es el lenguaje de análisis del ecosistema Microsoft: (1) Contexto de evaluación: las medidas se recalculan según los filtros activos (segmentaciones, filtros de visualización, interacciones entre gráficos); el contexto de fila se aplica a columnas calculadas. (2) Medidas: cálculo en tiempo de consulta; no ocupan espacio en el modelo. Columnas calculadas: se calculan al actualizar datos y se almacenan. (3) Funciones principales: Agregación: SUM, AVERAGE, COUNT, MAX, MIN; iteración: SUMX, AVERAGEX. Filtrado: CALCULATE (cambia el contexto de filtro), FILTER, ALL, ALLEXCEPT, RELATED. Inteligencia de tiempo: TOTALYTD, TOTALQTD, TOTALMTD, SAMEPERIODLASTYEAR, DATEADD, PREVIOUSMONTH (requieren tabla de fechas marcada). (4) Disponibilidad: Power BI Desktop, Power Pivot de Excel y SQL Server Analysis Services Tabular.",
+    "why": "A DAX no es el lenguaje de Power Query; Power Query usa el lenguaje M. DAX se usa para medidas y columnas calculadas en el modelo, no para transformaciones. B DAX tiene una categoría completa de funciones de inteligencia de tiempo (TOTALYTD, SAMEPERIODLASTYEAR, DATEADD…) nativas. C DAX está disponible en Power BI Desktop, Power Pivot de Excel y Analysis Services.",
+    "norma": "Microsoft Power BI — DAX",
+    "articulo": "DAX en Power BI: medidas, columnas calculadas e inteligencia de tiempo"
+  },
+  {
+    "id": "B5T47-012",
+    "bloque": 5,
+    "tema": 47,
+    "test": 47,
+    "dificultad": "media",
+    "pregunta": "¿Cómo se exportan e importan datos entre Access y Excel?",
+    "opciones": {
+      "A": "Access y Excel no pueden intercambiar datos directamente; para transferir datos entre ambas aplicaciones es necesario usar un formato intermediario de texto plano.",
+      "B": "Access permite importar datos desde Excel (Datos externos > Excel) para añadirlos a una tabla nueva o existente, o vincularlos (la tabla de Access se actualiza automáticamente cuando cambia el libro Excel sin copiar los datos al .accdb); también exporta tablas, consultas o informes a Excel, o a otros formatos como PDF, texto delimitado, XML, SharePoint o HTML; la integración es bidireccional y directa.",
+      "C": "Al exportar datos de Access a Excel, los nombres de los campos de la tabla se pierden y hay que añadir los encabezados manualmente en el archivo Excel.",
+      "D": "Al vincular una tabla de Excel en Access, los datos se copian al archivo .accdb y el vínculo con el Excel original se rompe; no existe actualización automática desde el Excel."
+    },
+    "correcta": "B",
+    "explicacion": "La integración entre Access y Excel es completa y bidireccional: (1) Importar desde Excel a Access (Datos externos > Nueva origen de datos > Desde archivo > Excel): Importar en tabla nueva: copia los datos; cambios posteriores en Excel no se reflejan. Anexar a tabla existente: añade los datos (campos deben ser compatibles). Vincular: tabla vinculada que lee directamente del Excel; cambios en Excel se reflejan automáticamente; icono de flecha en la tabla. (2) Exportar de Access a Excel (clic derecho > Exportar > Excel): genera .xlsx; los nombres de los campos se convierten en encabezados de columna; opción de exportar con o sin formato de Access. (3) Otros formatos: CSV, texto, XML, PDF/XPS, SharePoint, HTML.",
+    "why": "A Access y Excel intercambian datos directamente sin necesidad de archivos intermedios. C al exportar de Access a Excel, los nombres de los campos se convierten en encabezados de columna automáticamente. D la opción 'Vincular' crea una tabla vinculada que lee el Excel en tiempo real; los cambios en Excel se reflejan en Access sin reimportar.",
+    "norma": "Microsoft Access 365/2021 — Datos externos > Excel",
+    "articulo": "Importar y exportar datos entre Microsoft Access y Excel"
+  },
+  {
+    "id": "B5T47-013",
+    "bloque": 5,
+    "tema": 47,
+    "test": 47,
+    "dificultad": "media",
+    "pregunta": "¿Cómo funciona el servicio Power BI en la nube y qué permite hacer con los informes publicados?",
+    "opciones": {
+      "A": "El servicio Power BI no permite compartir informes con otros usuarios; los informes publicados solo pueden verlos quien los publicó.",
+      "B": "En el servicio Power BI no es posible programar actualizaciones automáticas de datos; los datos deben actualizarse manualmente cada vez.",
+      "C": "El servicio Power BI (app.powerbi.com) es la plataforma SaaS en la nube donde se publican los informes de Power BI Desktop; permite: compartir informes con usuarios de la organización (requieren licencia Pro o Premium), crear paneles (dashboards) anclando visualizaciones de distintos informes, programar actualizaciones automáticas (hasta 8 veces al día con Pro), configurar alertas sobre tarjetas de KPI cuando superan un umbral, controlar el acceso mediante áreas de trabajo y aplicar seguridad a nivel de fila (Row-Level Security, RLS).",
+      "D": "Power BI Desktop y el servicio Power BI en la nube son la misma aplicación; no existe diferencia entre publicar un informe y editarlo en local."
+    },
+    "correcta": "C",
+    "explicacion": "El servicio Power BI (Power BI Service) complementa Power BI Desktop: (1) Publicar: desde Desktop, Inicio > Publicar > seleccionar el área de trabajo destino; el informe queda en app.powerbi.com. (2) Áreas de trabajo: Mi área de trabajo (privada) y áreas compartidas (colaboración en equipo). (3) Paneles: lienzos con visualizaciones ancladas de uno o varios informes; monitoriza KPIs. (4) Actualización programada: hasta 8 veces al día con Pro; requiere puerta de enlace de datos (Data Gateway) para orígenes locales. (5) Compartir: por correo, publicar en web, integrar en SharePoint o Teams, crear Apps de Power BI. (6) RLS: define roles con filtros DAX para que cada usuario solo vea sus datos. (7) Alertas: notificaciones cuando el valor supera o baja de un umbral en tarjetas y medidores.",
+    "why": "A el servicio Power BI permite compartir informes con usuarios de la organización; es una de sus funciones principales. B el servicio permite programar actualizaciones automáticas hasta 8 veces al día con Pro. D Power BI Desktop (crear informes, escritorio) y el servicio (distribuir y colaborar, web) son aplicaciones distintas con funciones complementarias.",
+    "norma": "Microsoft Power BI Service (app.powerbi.com)",
+    "articulo": "Servicio Power BI en la nube: publicar, compartir y actualizar informes"
+  },
+  {
+    "id": "B5T47-014",
+    "bloque": 5,
+    "tema": 47,
+    "test": 47,
+    "dificultad": "media",
+    "pregunta": "¿Qué son las macros en Access y cómo automatizan la base de datos?",
+    "opciones": {
+      "A": "Las macros de Access son secuencias de acciones predefinidas (no código VBA) que automatizan tareas frecuentes: abrir formularios o informes, ejecutar consultas, mostrar mensajes, validar datos, navegar entre registros; se crean en el Generador de macros (Crear > Macro) seleccionando acciones de una lista; se asignan a botones de formulario, a eventos (Al hacer clic, Al abrir, Al cerrar) o se ejecutan al abrir la BD (macro AutoExec); para automatizaciones más complejas se usa VBA (Alt+F11).",
+      "B": "Las macros de Access son idénticas a las macros de Excel; el mismo archivo de macro funciona en ambas aplicaciones sin modificación.",
+      "C": "Las macros de Access solo pueden ejecutarse manualmente desde el menú; no es posible asociarlas a eventos de formulario como botones de clic o cambios de valor.",
+      "D": "Las macros de Access requieren programación en SQL; no existe ninguna interfaz gráfica para crearlas."
+    },
+    "correcta": "A",
+    "explicacion": "Las macros en Access son objetos de automatización gráficos distintos a las macros VBA: (1) Generador de macros: interfaz gráfica donde se seleccionan acciones de una lista sin programar; acciones más usadas: AbrirFormulario, AbrirInforme, EjecutarConsulta, CerrarVentana, MsgBox, EstablecerValor, IrAControl, BuscarRegistro, ActualizarDatos, SalirDeAplicación. (2) Estructura: lista de acciones con argumentos; puede incluir condiciones (If/Then/Else/End If) y bucles (ForEachRecord). (3) Eventos: las macros se adjuntan a eventos de objetos: botones de formulario (Al hacer clic), cuadros de texto (Al cambiar), formularios (Al abrir, Al cerrar, Al cargar), informes (Al abrir, Al imprimir). (4) AutoExec: macro con ese nombre exacto que se ejecuta automáticamente al abrir la BD; para mostrar un formulario de inicio. (5) VBA: para automatizaciones complejas (bucles, acceso al sistema de archivos, comunicación con otras apps de Office) se usa Alt+F11.",
+    "why": "B las macros de Access (Generador de macros) y las de Excel/Word (VBA) son objetos completamente distintos; no son intercambiables. C las macros de Access están diseñadas específicamente para asignarse a eventos de formularios e informes. D las macros de Access se crean con una interfaz gráfica seleccionando acciones de una lista; no requieren SQL.",
+    "norma": "Microsoft Access 365/2021 — Crear > Macro",
+    "articulo": "Macros en Microsoft Access: automatización con el Generador de macros"
+  },
+  {
+    "id": "B5T47-015",
+    "bloque": 5,
+    "tema": 47,
+    "test": 47,
+    "dificultad": "media",
+    "pregunta": "¿Qué diferencias hay entre Power BI Desktop, Power BI Pro y Power BI Premium?",
+    "opciones": {
+      "A": "Power BI Desktop, Pro y Premium tienen exactamente las mismas funcionalidades; la única diferencia es el precio.",
+      "B": "Power BI Pro no incluye actualización programada de datos; esa funcionalidad solo está disponible en Power BI Premium.",
+      "C": "Power BI Desktop requiere licencia Pro de pago para poder crear informes; sin ella no se puede usar la aplicación de escritorio.",
+      "D": "Power BI Desktop es la aplicación gratuita de escritorio para crear informes; Power BI Pro (aproximadamente 10 euros por usuario/mes, incluido en M365 E5) es necesario para publicar y compartir informes con otros usuarios en el servicio; Power BI Premium Per Capacity permite que los consumidores lean los informes sin licencia Pro individual; Power BI Premium Per User añade funcionalidades avanzadas (XMLA endpoint, IA Insights) por usuario."
+    },
+    "correcta": "D",
+    "explicacion": "Los niveles de licencia de Power BI tienen funcionalidades diferenciadas: (1) Power BI Desktop: aplicación gratuita de escritorio; cualquier usuario puede descargarla e instalarla; permite crear, editar y publicar informes en el servicio. (2) Power BI Free (cuenta gratuita del servicio): solo permite trabajar en 'Mi área de trabajo'; no puede compartir con otros usuarios. (3) Power BI Pro: compartir informes con otros usuarios Pro, crear y acceder a áreas de trabajo compartidas, programar hasta 8 actualizaciones de datos al día, publicar aplicaciones, incrustar en SharePoint/Teams. (4) Power BI Premium Per User (PPU): capacidad premium por usuario; funcionalidades avanzadas (XMLA endpoint, IA Insights, paginated reports, AutoML). (5) Power BI Premium Per Capacity: capacidad dedicada; los consumidores pueden leer informes sin licencia Pro individual; admite grandes volúmenes de datos; incluye Power BI Report Server para versión local.",
+    "why": "A Desktop, Pro y Premium tienen funcionalidades claramente diferenciadas; no solo varía el precio. B la actualización programada (hasta 8 veces/día) está incluida en Pro; Premium permite más frecuencia. C Power BI Desktop es completamente gratuito; no requiere ninguna licencia para crear informes.",
+    "norma": "Microsoft Power BI — Licenciamiento",
+    "articulo": "Licencias de Power BI: Desktop, Pro y Premium"
+  },
+  {
+    "id": "B5T47-016",
+    "bloque": 5,
+    "tema": 47,
+    "test": 47,
+    "dificultad": "media",
+    "pregunta": "¿Cómo se importan datos de distintos orígenes en Power BI Desktop?",
+    "opciones": {
+      "A": "Power BI Desktop solo puede importar datos de archivos Excel; no admite bases de datos SQL, páginas web ni servicios en la nube.",
+      "B": "En Power BI Desktop, los datos se importan desde Inicio > Obtener datos, que ofrece más de 100 conectores: Archivo (Excel, CSV, JSON, XML, PDF, carpeta), Base de datos (SQL Server, Access, Oracle, MySQL, PostgreSQL, Teradata, SAP), Power Platform (datasets, Dataflows), Azure (SQL, Cosmos DB, Data Lake), Servicios en línea (SharePoint, Dynamics 365, Salesforce, Google Analytics, GitHub) y Otros (Web, ODBC, OData, REST API); tras seleccionar el origen, Power Query permite previsualizar y transformar los datos antes de cargarlos.",
+      "C": "Al conectar a SQL Server en Power BI, es obligatorio escribir SQL directamente; no existe la opción de seleccionar las tablas desde una interfaz gráfica.",
+      "D": "Power BI Desktop importa automáticamente todos los datos del origen sin ninguna opción de filtrar o seleccionar solo las tablas o columnas necesarias."
+    },
+    "correcta": "B",
+    "explicacion": "Power BI Desktop tiene un sistema de conectores muy amplio: (1) Inicio > Obtener datos: cuadro de diálogo con todos los conectores agrupados por categoría. (2) Categorías principales: Archivo: Excel, CSV/Texto, JSON, XML, PDF, Carpeta. Base de datos: SQL Server, Access, Oracle, MySQL, PostgreSQL, Teradata, SAP HANA, Snowflake, IBM Db2. Power Platform: datasets de Power BI, flujos de datos (Dataflows). Azure: Azure SQL, Synapse, Data Lake, Cosmos DB. Servicios en línea: SharePoint, OneDrive, Dynamics 365, Salesforce, GitHub, Jira. Otros: Web (tablas HTML), ODBC, OData, REST API (consulta en blanco con M). (3) Flujo: selección gráfica de tablas/vistas del origen, previsualización en Power Query, transformaciones opcionales, carga en el modelo (modo Importar, DirectQuery o Dual).",
+    "why": "A Power BI tiene más de 100 conectores incluyendo SQL, páginas web y servicios en la nube. C al conectar a SQL Server, Power BI muestra las tablas y vistas en una lista gráfica; el SQL directo es opcional. D Power Query permite seleccionar solo las tablas, columnas y filas necesarias; no es obligatorio cargar todo el origen.",
+    "norma": "Microsoft Power BI Desktop — Inicio > Obtener datos",
+    "articulo": "Conectores y obtención de datos en Power BI Desktop"
+  },
+  {
+    "id": "B5T47-017",
+    "bloque": 5,
+    "tema": 47,
+    "test": 47,
+    "dificultad": "dificil",
+    "pregunta": "¿Qué son las consultas de acción en Access y cuáles son los cuatro tipos principales?",
+    "opciones": {
+      "A": "Las consultas de acción no existen en Access; toda modificación de datos debe realizarse manualmente registro a registro en la vista Hoja de datos.",
+      "B": "Las consultas de acción de Access solo pueden borrar registros; no existe ningún tipo que permita añadir ni modificar registros.",
+      "C": "Las cuatro consultas de acción de Access son: Creación de tabla (guarda los resultados en una nueva tabla permanente; SQL: SELECT…INTO), Datos anexados (añade registros a una tabla existente; SQL: INSERT INTO), Actualización (modifica valores de campos según criterios; SQL: UPDATE…SET) y Eliminación (borra registros que cumplen criterios; SQL: DELETE); se crean como consultas de selección y luego se cambia el tipo desde la pestaña Diseño; Access muestra advertencia de confirmación antes de ejecutarlas ya que NO se pueden deshacer.",
+      "D": "Las consultas de acción en Access se ejecutan automáticamente cada vez que se abre la base de datos; no existe ninguna forma de controlar cuándo se ejecutan."
+    },
+    "correcta": "C",
+    "explicacion": "Las consultas de acción modifican los datos de las tablas (a diferencia de las de selección que solo los muestran): (1) Creación de tabla: crea una nueva tabla permanente con los registros resultado; útil para instantáneas de datos o tablas de archivo. (2) Datos anexados: añade los registros resultado a una tabla existente (misma BD u otra); los campos deben ser compatibles en tipo. (3) Actualización: modifica valores de uno o varios campos en los registros que cumplen los criterios; admite expresiones en el nuevo valor (p. ej., [Precio]*1,21 para aplicar IVA). (4) Eliminación: borra permanentemente registros que cumplen los criterios; con integridad referencial activa, no puede eliminar padres con hijos salvo cascada. (5) Precauciones: Access muestra advertencia de confirmación; NO se puede deshacer; se recomienda ejecutar primero una consulta de selección con los mismos criterios para ver qué registros se verán afectados.",
+    "why": "A las consultas de acción son objetos de Access diseñados para modificar datos masivamente. B existen cuatro tipos: Creación de tabla, Datos anexados (añadir), Actualización (modificar) y Eliminación. D las consultas de acción se ejecutan solo cuando el usuario o una macro/VBA las ejecuta explícitamente; no se ejecutan al abrir la BD.",
+    "norma": "Microsoft Access 365/2021 — Consultas de acción",
+    "articulo": "Consultas de acción en Access: Creación de tabla, Datos anexados, Actualización y Eliminación"
+  },
+  {
+    "id": "B5T47-018",
+    "bloque": 5,
+    "tema": 47,
+    "test": 47,
+    "dificultad": "dificil",
+    "pregunta": "¿Qué es el modelo de datos en Power BI y cómo se gestionan las relaciones entre tablas?",
+    "opciones": {
+      "A": "El modelo de datos de Power BI (Vista Modelo) es el componente donde se definen las relaciones entre las tablas importadas, se crean medidas DAX y columnas calculadas, y se configura la cardinalidad y dirección de filtro cruzado; las relaciones pueden ser uno a varios (1:N, la más frecuente y recomendada), uno a uno (1:1) o varios a varios (N:M, soportado con advertencias); la dirección de filtro puede ser Única (de la dimensión hacia los hechos) o Ambas (bidireccional, con precaución por posible ambigüedad y menor rendimiento).",
+      "B": "En Power BI, las relaciones entre tablas solo pueden ser del tipo varios a varios; las relaciones uno a varios no están soportadas.",
+      "C": "Las relaciones en Power BI se crean automáticamente y no pueden modificarse ni eliminarse manualmente.",
+      "D": "Power BI no tiene un modelo de datos interno; los datos de todas las tablas deben combinarse en una única tabla plana antes de crear el informe."
+    },
+    "correcta": "A",
+    "explicacion": "El modelo de datos (Data Model) es el núcleo analítico de Power BI: (1) Vista Modelo: icono de modelo en la barra lateral de Power BI Desktop; muestra tablas como cajas y relaciones como líneas. (2) Crear relaciones: Power BI detecta automáticamente relaciones por nombre/tipo de columna; se pueden crear manualmente arrastrando un campo o desde Administrar relaciones. (3) Cardinalidad: Uno a varios (1:N): tabla del lado '1' tiene valores únicos; cardinalidad recomendada. Uno a uno (1:1): valores únicos en ambas tablas; sugiere posible fusión. Varios a varios (N:M): ninguna tabla tiene valores únicos; soportado desde 2018 pero puede causar ambigüedad. (4) Dirección de filtro: Única (estándar, de dimensión a hechos) o Ambas (bidireccional, puede reducir el rendimiento). (5) Esquemas: Estrella (una tabla de hechos + dimensiones directas, óptimo). Copo de nieve (dimensiones normalizadas en subtablas, más JOINs, menor rendimiento).",
+    "why": "B Power BI soporta todos los tipos de cardinalidad: 1:N (recomendada), 1:1 y N:M. C las relaciones detectadas automáticamente se pueden modificar (cardinalidad, dirección) o eliminar manualmente. D Power BI tiene un modelo de datos tabular interno que admite múltiples tablas relacionadas.",
+    "norma": "Microsoft Power BI Desktop — Vista Modelo",
+    "articulo": "Modelo de datos y relaciones entre tablas en Power BI"
+  },
+  {
+    "id": "B5T47-019",
+    "bloque": 5,
+    "tema": 47,
+    "test": 47,
+    "dificultad": "dificil",
+    "pregunta": "¿Cómo se normalizan las tablas en Access para reducir la redundancia de datos?",
+    "opciones": {
+      "A": "La normalización en Access solo se aplica a bases de datos con más de 100 tablas; para bases de datos pequeñas no es necesaria.",
+      "B": "La normalización aumenta siempre la redundancia de datos; su objetivo es duplicar la información en varias tablas para mejorar la velocidad de consulta.",
+      "C": "La normalización solo afecta a la forma en que se visualizan los datos; no cambia la estructura de las tablas ni la cantidad de tablas en la base de datos.",
+      "D": "La normalización es el proceso de organizar las tablas de una base de datos relacional para reducir la redundancia y mejorar la integridad; la 1FN exige valores atómicos y sin grupos repetitivos; la 2FN requiere que cada campo no clave dependa de la clave primaria completa (aplica a claves compuestas); la 3FN exige que no haya dependencias transitivas entre campos no clave; la normalización reduce la redundancia pero puede requerir más JOINs en las consultas."
+    },
+    "correcta": "D",
+    "explicacion": "La normalización elimina la redundancia y las anomalías de actualización: (1) Primera Forma Normal (1FN): valores atómicos (no listas ni grupos repetitivos), filas únicas, nombres de columna únicos. Ejemplo de violación: columna 'Teléfonos' con '666111222, 666333444'; solución: tabla separada 'Teléfonos' con FK. (2) Segunda Forma Normal (2FN): en 1FN y todos los atributos no clave dependen de la PK completa (relevante con PK compuesta). Ejemplo: tabla Pedidos_Productos con PK(IdPedido, IdProducto) y NombreProducto que depende solo de IdProducto; solución: mover NombreProducto a tabla Productos. (3) Tercera Forma Normal (3FN): en 2FN y ningún atributo no clave depende transitivamente de otro atributo no clave. Ejemplo: Empleados con IdDepartamento y NombreDepartamento (NombreDepartamento depende de IdDepartamento, no directamente de la PK); solución: tabla Departamentos separada. (4) Formas superiores (FNBC, 4FN, 5FN): para casos complejos; llegar a 3FN suele ser suficiente. (5) Desnormalización: en data warehouses se aplica intencionalmente para mejorar el rendimiento.",
+    "why": "A la normalización se aplica a cualquier base de datos relacional independientemente del tamaño. B la normalización REDUCE la redundancia distribuyendo los datos en tablas especializadas; no la aumenta. C la normalización cambia la estructura física de las tablas: crea tablas nuevas y establece relaciones.",
+    "norma": "Modelo relacional — Normalización (1FN, 2FN, 3FN)",
+    "articulo": "Normalización de bases de datos: 1FN, 2FN y 3FN en Microsoft Access"
+  },
+  {
+    "id": "B5T47-020",
+    "bloque": 5,
+    "tema": 47,
+    "test": 47,
+    "dificultad": "dificil",
+    "pregunta": "¿Qué es el esquema estrella en Power BI y por qué se recomienda para el modelado de datos?",
+    "opciones": {
+      "A": "El esquema estrella en Power BI es un diseño visual del lienzo de informe con las visualizaciones organizadas en forma de estrella; no tiene relación con la estructura del modelo de datos.",
+      "B": "El esquema estrella consiste en una tabla de hechos central (Fact Table) que contiene las métricas numéricas y las claves foráneas, rodeada de tablas de dimensiones (Dimension Tables) que describen el contexto de las métricas (tiempo, producto, cliente, geografía…); las dimensiones se relacionan con la tabla de hechos mediante relaciones uno a varios; este modelo optimiza el rendimiento del motor de Analysis Services de Power BI, simplifica las fórmulas DAX y facilita la navegación del modelo.",
+      "C": "En el esquema estrella, la tabla de hechos no puede contener columnas numéricas; solo puede tener claves foráneas que apunten a las dimensiones.",
+      "D": "El esquema estrella es menos eficiente que el esquema copo de nieve (Snowflake) en Power BI; Microsoft recomienda el copo de nieve para todos los modelos de Power BI."
+    },
+    "correcta": "B",
+    "explicacion": "El esquema estrella (Star Schema) es el modelo de datos recomendado para Power BI: (1) Tabla de hechos: contiene las métricas cuantitativas (ventas, costes, cantidades, importes) y las claves foráneas hacia las dimensiones; es la tabla más grande en número de filas; ejemplos: FactVentas, FactPedidos, FactMovimientos. (2) Tablas de dimensiones: atributos descriptivos que dan contexto a las métricas; tablas relativamente pequeñas con muchas columnas descriptivas; ejemplos: DimTiempo (fecha, año, trimestre, mes, semana, día de semana), DimProducto (nombre, categoría, subcategoría, marca), DimCliente (nombre, segmento, ciudad, país). (3) Relaciones: cada dimensión se relaciona con la tabla de hechos mediante 1:N; el filtro va de la dimensión (lado '1') hacia los hechos (lado 'N'). (4) Ventajas: menor número de relaciones, relaciones directas sin tablas intermedias (mejor rendimiento), fórmulas DAX más simples. (5) Diferencia con copo de nieve (Snowflake): las dimensiones están normalizadas en subtablas (DimProducto → DimCategoria); más normalizado pero con más JOINs y DAX más complejo; Microsoft recomienda aplanar las dimensiones en el esquema estrella.",
+    "why": "A el esquema estrella describe la estructura del modelo de datos (tablas de hechos y dimensiones), no la distribución visual de gráficos en el lienzo. C la tabla de hechos contiene TANTO las claves foráneas COMO las métricas numéricas (ventas, cantidades, costes); ambas son esenciales. D Microsoft recomienda el esquema estrella (no el copo de nieve) para Power BI por su mejor rendimiento y menor complejidad DAX.",
+    "norma": "Microsoft Power BI — Diseño de modelo: Esquema estrella",
+    "articulo": "Esquema estrella en Power BI: tablas de hechos y dimensiones"
+  }
+]
