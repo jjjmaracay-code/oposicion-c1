@@ -1,0 +1,382 @@
+[
+  {
+    "id": "B3T27-001",
+    "bloque": 3,
+    "tema": 27,
+    "test": 27,
+    "dificultad": "facil",
+    "pregunta": "¿Cuál es el objeto del Real Decreto Legislativo 5/2015, por el que se aprueba el Texto Refundido del Estatuto Básico del Empleado Público (TREBEP)?",
+    "opciones": {
+      "A": "Regular exclusivamente la carrera profesional de los funcionarios de carrera de la Administración General del Estado.",
+      "B": "Establecer las bases del régimen estatutario de los funcionarios públicos y de los laborales, así como los principios generales aplicables al conjunto de las relaciones de empleo público.",
+      "C": "Fijar el régimen disciplinario de todos los empleados públicos, incluyendo las faltas y sanciones aplicables.",
+      "D": "Desarrollar el derecho a la negociación colectiva exclusivamente en el ámbito de la Administración General del Estado."
+    },
+    "correcta": "B",
+    "explicacion": "El art. 1 TREBEP establece que el Estatuto tiene por objeto establecer las bases del régimen estatutario de los funcionarios de carrera y del personal laboral de las Administraciones Públicas, así como el régimen general aplicable al personal de empleo público. El TREBEP es legislación básica estatal que vincula a todas las AAPP (AGE, CCAA y EELL), que deben adaptar su normativa propia a estos principios. Además de la carrera y el régimen disciplinario, regula el acceso al empleo, los derechos, deberes, situaciones administrativas, retribuciones y negociación colectiva.",
+    "why": "A el TREBEP no se limita a la AGE; es legislación básica para todas las AAPP, e incluye tanto a los funcionarios de carrera como al personal laboral, interino y eventual. C el régimen disciplinario es una de las materias reguladas en el TREBEP, pero no su objeto exclusivo. D la negociación colectiva es solo uno de los bloques del TREBEP; el objeto es mucho más amplio.",
+    "norma": "Real Decreto Legislativo 5/2015, Texto Refundido del Estatuto Básico del Empleado Público (TREBEP)",
+    "articulo": "1"
+  },
+  {
+    "id": "B3T27-002",
+    "bloque": 3,
+    "tema": 27,
+    "test": 27,
+    "dificultad": "facil",
+    "pregunta": "¿Cuáles son las clases de personal al servicio de las Administraciones Públicas que reconoce el art. 8 del TREBEP?",
+    "opciones": {
+      "A": "Solo funcionarios de carrera y personal laboral fijo.",
+      "B": "Funcionarios de carrera, funcionarios interinos, personal laboral (fijo, por tiempo indefinido y temporal) y personal eventual.",
+      "C": "Funcionarios de carrera, funcionarios interinos, personal eventual y empleados de empresas públicas.",
+      "D": "Únicamente los funcionarios de carrera y los funcionarios interinos; el resto del personal se rige por el derecho privado sin vinculación con el TREBEP."
+    },
+    "correcta": "B",
+    "explicacion": "El art. 8 TREBEP enumera las clases de empleados públicos: (1) funcionarios de carrera, vinculados por relación estatutaria de Derecho Administrativo; (2) funcionarios interinos, nombrados temporalmente por razones de necesidad y urgencia; (3) personal laboral, vinculado por contrato de trabajo conforme al Estatuto de los Trabajadores, en la modalidad de fijo, por tiempo indefinido o temporal; y (4) personal eventual, que desempeña funciones de confianza o asesoramiento especial. Además, el art. 13 regula al personal directivo como una categoría con régimen específico de selección y evaluación del rendimiento.",
+    "why": "A el TREBEP reconoce cuatro categorías, no solo dos; el personal interino y el eventual tienen regímenes específicos. C los empleados de empresas públicas (sociedades mercantiles del sector público) se rigen por el Derecho laboral privado y no son «personal al servicio de las AAPP» en sentido estricto del art. 8. D el personal laboral y el eventual sí están comprendidos en el ámbito del TREBEP; el art. 8 los incluye expresamente.",
+    "norma": "Real Decreto Legislativo 5/2015, Texto Refundido del Estatuto Básico del Empleado Público (TREBEP)",
+    "articulo": "8"
+  },
+  {
+    "id": "B3T27-003",
+    "bloque": 3,
+    "tema": 27,
+    "test": 27,
+    "dificultad": "facil",
+    "pregunta": "¿Cómo define el art. 9 del TREBEP a los funcionarios de carrera?",
+    "opciones": {
+      "A": "Son los empleados públicos que prestan servicios retribuidos durante un período máximo de dos años, con posibilidad de prórroga.",
+      "B": "Son quienes, en virtud de nombramiento legal, están vinculados a una Administración Pública por una relación estatutaria regulada por el Derecho Administrativo para el desempeño de servicios profesionales retribuidos de carácter permanente.",
+      "C": "Son los empleados vinculados a la Administración mediante contrato de trabajo indefinido sujeto al Estatuto de los Trabajadores.",
+      "D": "Son los empleados que desempeñan funciones de confianza o asesoramiento especial y cuyo cese es discrecional de la autoridad que los nombró."
+    },
+    "correcta": "B",
+    "explicacion": "El art. 9.1 TREBEP define a los funcionarios de carrera como quienes, en virtud de nombramiento legal, están vinculados a una Administración Pública por una relación estatutaria regulada por el Derecho Administrativo para el desempeño de servicios profesionales retribuidos de carácter permanente. Los elementos definidores son: nombramiento (no contrato), relación estatutaria de Derecho Administrativo (no laboral), servicios de carácter permanente (a diferencia del interino) y retribución pública. El acceso se produce necesariamente mediante procesos selectivos que garantizan los principios de igualdad, mérito y capacidad.",
+    "why": "A la prestación de servicios durante un período máximo con prórroga describe al funcionario interino, no al de carrera; la permanencia es la característica definitoria del funcionario de carrera. C el vínculo por contrato de trabajo sujeto al ET define al personal laboral, no al funcionario de carrera. D las funciones de confianza y el cese discrecional definen al personal eventual del art. 12, no al funcionario de carrera.",
+    "norma": "Real Decreto Legislativo 5/2015, Texto Refundido del Estatuto Básico del Empleado Público (TREBEP)",
+    "articulo": "9"
+  },
+  {
+    "id": "B3T27-004",
+    "bloque": 3,
+    "tema": 27,
+    "test": 27,
+    "dificultad": "facil",
+    "pregunta": "¿Qué funciones puede desempeñar el personal eventual y qué ocurre con su nombramiento cuando cesa la autoridad que lo nombró, según el art. 12 del TREBEP?",
+    "opciones": {
+      "A": "El personal eventual puede desempeñar cualquier función administrativa y su nombramiento se mantiene aunque cambie la autoridad que lo nombró.",
+      "B": "El personal eventual solo puede desempeñar puestos de naturaleza eventual (funciones de confianza o asesoramiento especial); su nombramiento y separación son libres, y cesa automáticamente cuando cesa la autoridad a quien presta sus funciones.",
+      "C": "El personal eventual puede cubrir puestos de trabajo correspondientes a funcionarios de carrera cuando no haya candidatos disponibles.",
+      "D": "El personal eventual es inamovible y solo puede cesar por decisión del Consejo de Ministros o del Consejo de Gobierno autonómico."
+    },
+    "correcta": "B",
+    "explicacion": "El art. 12 TREBEP regula el personal eventual con tres características esenciales: (1) solo puede ocupar puestos de naturaleza eventual, esto es, puestos que desempeñan funciones de confianza o asesoramiento especial; (2) su nombramiento y separación son libres, sin necesidad de tramitar procedimiento disciplinario ni alegar causa; y (3) cesa automáticamente cuando cesa la autoridad a la que presta sus funciones de confianza, lo que vincula indisolublemente su permanencia a la de la autoridad a la que sirve. El TREBEP exige que cada Administración publique el número y las características de estos puestos.",
+    "why": "A el personal eventual no puede ocupar puestos propios de funcionarios de carrera; está limitado a funciones de confianza o asesoramiento, y su nombramiento cesa automáticamente con la autoridad que lo designó. C cubrir puestos propios de funcionarios de carrera corresponde, en caso de necesidad urgente, a los funcionarios interinos, no al personal eventual. D la inamovilidad y el cese solo por Consejo de Ministros describe al funcionario de carrera con plena estabilidad; el personal eventual es exactamente lo contrario: de libre nombramiento y cese.",
+    "norma": "Real Decreto Legislativo 5/2015, Texto Refundido del Estatuto Básico del Empleado Público (TREBEP)",
+    "articulo": "12"
+  },
+  {
+    "id": "B3T27-005",
+    "bloque": 3,
+    "tema": 27,
+    "test": 27,
+    "dificultad": "facil",
+    "pregunta": "¿Cómo clasifica el art. 76 del TREBEP a los funcionarios de carrera en función de la titulación exigida para el acceso?",
+    "opciones": {
+      "A": "En dos grupos: A (universitarios) y B (no universitarios), sin subdivisiones.",
+      "B": "En Grupo A (Subgrupos A1 y A2), Grupo B y Grupo C (Subgrupos C1 y C2); además, las leyes de desarrollo pueden establecer otras agrupaciones profesionales para puestos que no exijan titulación académica.",
+      "C": "Solo en tres grupos: funcionarios superiores, medios y de base, sin distinción por titulación.",
+      "D": "En cinco grupos iguales del A al E, cada uno con su titulación mínima de acceso sin posibilidad de subdivisiones."
+    },
+    "correcta": "B",
+    "explicacion": "El art. 76 TREBEP establece los grupos de clasificación de los funcionarios de carrera en función del título de acceso exigido: Grupo A, dividido en Subgrupo A1 (título universitario de grado; equivale a las antiguas licenciaturas, ingenierías o arquitecturas) y Subgrupo A2 (título universitario de grado; equivale a las antiguas diplomaturas, ingenierías técnicas o arquitecturas técnicas); Grupo B (título de técnico superior); Grupo C, dividido en Subgrupo C1 (título de bachiller o técnico) y Subgrupo C2 (título de graduado en educación secundaria obligatoria). Adicionalmente, las leyes de función pública pueden prever agrupaciones profesionales para puestos que no exijan titulación académica mínima.",
+    "why": "A el Grupo B existe independientemente y los Grupos C1 y C2 son subdivisiones del Grupo C; la clasificación no es solo en dos grupos. C la distinción por funciones (superiores/medios/de base) es criterial pero no es la clasificación oficial del art. 76 TREBEP, que usa titulaciones como criterio. D el sistema antiguo de cinco grupos A a E fue superado por el TREBEP, que eliminó el Grupo E sustituyéndolo por las agrupaciones profesionales sin titulación.",
+    "norma": "Real Decreto Legislativo 5/2015, Texto Refundido del Estatuto Básico del Empleado Público (TREBEP)",
+    "articulo": "76"
+  },
+  {
+    "id": "B3T27-006",
+    "bloque": 3,
+    "tema": 27,
+    "test": 27,
+    "dificultad": "facil",
+    "pregunta": "¿Qué principios rectores establece el art. 55 del TREBEP para el acceso al empleo público?",
+    "opciones": {
+      "A": "Solo el principio de mérito y capacidad; los demás aspectos son discrecionales de cada Administración.",
+      "B": "Igualdad, mérito, capacidad, publicidad y transparencia de las convocatorias, imparcialidad y profesionalidad de los órganos de selección, independencia y discrecionalidad técnica de los mismos, y adecuación del contenido de las pruebas a las funciones del puesto.",
+      "C": "La antigüedad en la categoría anterior y la formación específica son los únicos criterios válidos para el acceso.",
+      "D": "Libre designación de todos los puestos por la autoridad competente, con respeto de la proporcionalidad entre sexos."
+    },
+    "correcta": "B",
+    "explicacion": "El art. 55 TREBEP concreta el mandato del art. 103 CE en materia de acceso al empleo público: los principios que deben regir los procesos selectivos son igualdad (de condiciones para todos los aspirantes que reúnan los requisitos), mérito (valoración objetiva de los conocimientos y aptitudes), capacidad (aptitud para el ejercicio del puesto), publicidad y transparencia de las convocatorias, imparcialidad y profesionalidad de los miembros de los órganos de selección, independencia y discrecionalidad técnica de esos órganos en sus actuaciones, y adecuación entre el contenido de los procesos selectivos y las funciones o tareas a desarrollar.",
+    "why": "A el principio de mérito y capacidad es el núcleo constitucional (art. 103 CE), pero el TREBEP añade otros principios procesales (publicidad, transparencia, imparcialidad) igualmente obligatorios. C la antigüedad y la formación específica pueden ser criterios de valoración en determinados concursos de méritos, pero no son los principios rectores del acceso inicial al empleo público. D la libre designación es un procedimiento de provisión de puestos, no un principio general de acceso al empleo público; su aplicación es excepcional y condicionada.",
+    "norma": "Real Decreto Legislativo 5/2015, Texto Refundido del Estatuto Básico del Empleado Público (TREBEP)",
+    "articulo": "55"
+  },
+  {
+    "id": "B3T27-007",
+    "bloque": 3,
+    "tema": 27,
+    "test": 27,
+    "dificultad": "media",
+    "pregunta": "¿En qué supuestos puede nombrarse a un funcionario interino según el art. 10.1 del TREBEP?",
+    "opciones": {
+      "A": "En cualquier caso que la Administración considere conveniente, sin necesidad de justificar la necesidad.",
+      "B": "Cuando existan plazas vacantes que no puedan cubrirse por funcionarios de carrera, para la sustitución transitoria de titulares, para ejecutar programas de carácter temporal, o por exceso o acumulación de tareas.",
+      "C": "Solo para cubrir las bajas por enfermedad de funcionarios de carrera; ningún otro supuesto justifica el nombramiento de un interino.",
+      "D": "Únicamente cuando el organismo haya sido autorizado expresamente por el Ministerio de Hacienda para contratar personal temporal."
+    },
+    "correcta": "B",
+    "explicacion": "El art. 10.1 TREBEP enumera los supuestos tasados que justifican el nombramiento de funcionarios interinos, siempre con necesidad y urgencia explícita: (a) existencia de plazas vacantes cuando no sea posible su cobertura en tiempo adecuado por funcionarios de carrera; (b) sustitución transitoria de los titulares (baja médica, permiso, excedencia, etc.); (c) ejecución de programas de carácter temporal que no puedan ser atendidos por funcionarios de carrera; y (d) exceso o acumulación de tareas por plazo máximo de seis meses, dentro de un período de doce meses. El carácter tasado de estos supuestos responde a la jurisprudencia que limita la temporalidad en el empleo público.",
+    "why": "A el nombramiento libre sin justificación violaría los principios de mérito, capacidad y estabilidad en el empleo; la «necesidad y urgencia» deben estar expresamente justificadas. C la sustitución por baja médica es uno de los supuestos (b), pero no el único; el art. 10.1 reconoce cuatro supuestos distintos. D la autorización del Ministerio de Hacienda no es un requisito previo del TREBEP para el nombramiento de interinos; este es competencia del órgano administrativo correspondiente dentro de los supuestos legales.",
+    "norma": "Real Decreto Legislativo 5/2015, Texto Refundido del Estatuto Básico del Empleado Público (TREBEP)",
+    "articulo": "10.1"
+  },
+  {
+    "id": "B3T27-008",
+    "bloque": 3,
+    "tema": 27,
+    "test": 27,
+    "dificultad": "media",
+    "pregunta": "¿Cuáles son las modalidades de personal laboral al servicio de las Administraciones Públicas según el art. 11 del TREBEP?",
+    "opciones": {
+      "A": "Solo personal laboral fijo; el personal temporal en la Administración siempre debe ser funcionario interino.",
+      "B": "Personal laboral fijo, personal laboral por tiempo indefinido no fijo y personal laboral temporal.",
+      "C": "Personal laboral ordinario y personal laboral de alta dirección; no hay distinción por la duración del vínculo.",
+      "D": "Solo personal laboral temporal, ya que el personal fijo en la Administración es siempre funcionario de carrera."
+    },
+    "correcta": "B",
+    "explicacion": "El art. 11 TREBEP distingue tres modalidades de personal laboral: (1) personal laboral fijo, que ha superado un proceso selectivo con base en los principios de igualdad, mérito y capacidad; (2) personal laboral por tiempo indefinido no fijo (LTINE), figura creada por la jurisprudencia del Tribunal Supremo para el personal que, sin haber superado un proceso selectivo reglado, tiene vínculos prolongados con la Administración que impiden su cesión directa como temporal; y (3) personal laboral temporal, contratado por duración determinada conforme al ET. Todos ellos están sujetos a las negociaciones colectivas propias del sector público.",
+    "why": "A el personal temporal existe en el ámbito laboral de las AAPP bajo el régimen del ET; la interinidad es solo para los funcionarios, no para el personal laboral temporal. C la distinción por tipo de actividad (ordinario vs. alta dirección) no es el criterio del art. 11; lo determinante es la duración del vínculo y la forma de acceso. D el personal laboral fijo existe como categoría diferente al funcionario de carrera; ambas son vías de empleo permanente en la Administración.",
+    "norma": "Real Decreto Legislativo 5/2015, Texto Refundido del Estatuto Básico del Empleado Público (TREBEP)",
+    "articulo": "11"
+  },
+  {
+    "id": "B3T27-009",
+    "bloque": 3,
+    "tema": 27,
+    "test": 27,
+    "dificultad": "media",
+    "pregunta": "¿Qué características distinguen al personal directivo público según el art. 13 del TREBEP?",
+    "opciones": {
+      "A": "El personal directivo ocupa exclusivamente plazas de funcionarios de carrera del Subgrupo A1.",
+      "B": "El personal directivo es el que desarrolla funciones directivas profesionales; su selección ha de atender principios de mérito y capacidad y a criterios de idoneidad, y está sujeto a evaluación con arreglo a criterios de eficacia y eficiencia.",
+      "C": "El personal directivo se equipara al personal eventual y puede ser cesado libremente en cualquier momento sin evaluación previa.",
+      "D": "El personal directivo no tiene acceso a la negociación colectiva y sus condiciones de trabajo se fijan unilateralmente por el Gobierno."
+    },
+    "correcta": "B",
+    "explicacion": "El art. 13 TREBEP establece que el personal directivo es el que desarrolla funciones directivas profesionales en las Administraciones Públicas. Su régimen tiene dos características esenciales: (1) el proceso de selección debe atender a principios de mérito y capacidad y a criterios de idoneidad, y se realizará mediante procedimientos que garanticen la publicidad y concurrencia (no puede ser de libre designación pura); y (2) está sujeto a evaluación con arreglo a criterios de eficacia y eficiencia, responsabilidad por su gestión y control de resultados en relación con los objetivos que les hayan sido fijados. El TREBEP deja a las leyes de función pública de cada Administración el desarrollo concreto de su régimen.",
+    "why": "A el personal directivo no tiene por qué ser necesariamente funcionario de carrera del A1; puede serlo o no, y el TREBEP deja margen a las normas de desarrollo. C el personal directivo no se equipara al personal eventual; aunque comparte cierta movilidad en el ejercicio del cargo, el proceso de selección y la evaluación del rendimiento son rasgos diferenciales. D la negociación colectiva y las condiciones de trabajo del personal directivo se rigen por sus propias normas; no se excluyen por el TREBEP.",
+    "norma": "Real Decreto Legislativo 5/2015, Texto Refundido del Estatuto Básico del Empleado Público (TREBEP)",
+    "articulo": "13"
+  },
+  {
+    "id": "B3T27-010",
+    "bloque": 3,
+    "tema": 27,
+    "test": 27,
+    "dificultad": "media",
+    "pregunta": "¿Qué establece el Código de Conducta de los empleados públicos en el TREBEP respecto a los principios éticos y de conducta?",
+    "opciones": {
+      "A": "El código de conducta se aplica solo a los funcionarios de carrera, no al personal laboral ni al eventual.",
+      "B": "Los arts. 52-54 TREBEP recogen el código de conducta, que incluye principios éticos (actuar con objetividad, integridad, neutralidad, transparencia y servicio al interés general) y principios de conducta (tratar con atención al ciudadano, guardar secreto profesional, rechazar regalos, no discriminar, entre otros), siendo aplicable a todos los empleados públicos.",
+      "C": "El código de conducta solo tiene carácter orientativo y su incumplimiento no genera responsabilidad disciplinaria.",
+      "D": "Los principios éticos del TREBEP sustituyen a las normas disciplinarias específicas de cada Administración."
+    },
+    "correcta": "B",
+    "explicacion": "Los arts. 52-54 TREBEP recogen el Código de conducta de los empleados públicos. El art. 53 enumera los principios éticos: actuar con arreglo a la Constitución y al resto del ordenamiento; desempeñar las funciones con objetividad, integridad, neutralidad, responsabilidad, imparcialidad, confidencialidad y dedicación al servicio público; respetar a los ciudadanos y tratar con atención y respeto. El art. 54 recoge los principios de conducta: tratar al ciudadano con atención, resolver en plazo, guardar secreto, no aceptar regalos o favores, rechazar conductas discriminatorias y actuar conforme a los principios de sostenibilidad ambiental. Estos principios vinculan a todos los empleados públicos (funcionarios y personal laboral) y su incumplimiento puede dar lugar a responsabilidad disciplinaria.",
+    "why": "A el código de conducta de los arts. 52-54 se aplica a todos los empleados públicos conforme al propio art. 52. C el código de conducta no es meramente orientativo: su incumplimiento puede tipificarse como falta disciplinaria en las normas de desarrollo. D los principios éticos son la base deontológica, pero no sustituyen las normas disciplinarias específicas que cada Administración desarrolla.",
+    "norma": "Real Decreto Legislativo 5/2015, Texto Refundido del Estatuto Básico del Empleado Público (TREBEP)",
+    "articulo": "52 a 54"
+  },
+  {
+    "id": "B3T27-011",
+    "bloque": 3,
+    "tema": 27,
+    "test": 27,
+    "dificultad": "media",
+    "pregunta": "¿Qué materias son objeto de negociación colectiva entre las Administraciones Públicas y los representantes de los empleados públicos según el art. 37 del TREBEP?",
+    "opciones": {
+      "A": "Solo las retribuciones; las demás condiciones de trabajo no son negociables en el empleo público.",
+      "B": "Son objeto de negociación las retribuciones, la jornada, los horarios y vacaciones, los planes de empleo, las ofertas de empleo público, los sistemas de carrera y promoción, las medidas de conciliación, los planes de formación, la acción social, los criterios de selección y los derechos sindicales.",
+      "C": "Solo los derechos sindicales y la acción social; los demás aspectos son potestad exclusiva de la Administración.",
+      "D": "Todas las materias sin excepción son objeto de negociación; la Administración no puede adoptar ninguna medida de personal sin acuerdo sindical previo."
+    },
+    "correcta": "B",
+    "explicacion": "El art. 37 TREBEP enumera las materias objeto de negociación colectiva: las condiciones de trabajo y retribuciones, la jornada laboral, horarios y vacaciones, los planes y fondos de formación, los planes de empleo, las ofertas de empleo público, los criterios generales de acceso, carrera, provisión, sistemas de clasificación y retribución, las medidas de conciliación de la vida laboral, personal y familiar, los planes de igualdad, la acción social y los derechos sindicales y de participación. No obstante, el art. 38.10 establece que si no hay acuerdo, la Administración puede aprobar las condiciones de trabajo de forma unilateral, lo que matiza el poder vinculante de la negociación.",
+    "why": "A las retribuciones son una de las materias objeto de negociación, pero el art. 37 incluye un catálogo amplio que va mucho más allá de las retribuciones. C los derechos sindicales y la acción social son materias negociables, pero el catálogo del art. 37 es mucho más amplio. D la negociación no es omnipotente; el art. 38.10 TREBEP permite a la Administración aprobar unilateralmente las condiciones de trabajo si las partes no alcanzan un acuerdo.",
+    "norma": "Real Decreto Legislativo 5/2015, Texto Refundido del Estatuto Básico del Empleado Público (TREBEP)",
+    "articulo": "37"
+  },
+  {
+    "id": "B3T27-012",
+    "bloque": 3,
+    "tema": 27,
+    "test": 27,
+    "dificultad": "media",
+    "pregunta": "¿Qué establece el art. 20 del TREBEP sobre la evaluación del desempeño de los empleados públicos?",
+    "opciones": {
+      "A": "La evaluación del desempeño es potestativa para las AAPP; ninguna está obligada a implantarla.",
+      "B": "Las Administraciones Públicas deben establecer sistemas que permitan la evaluación del desempeño de sus empleados conforme a criterios de transparencia, objetividad, imparcialidad e independencia técnica, vinculando sus resultados a la carrera profesional horizontal, la formación, la provisión de puestos y las retribuciones complementarias.",
+      "C": "La evaluación del desempeño solo afecta al personal directivo; los funcionarios de carrera no pueden ser evaluados.",
+      "D": "La evaluación del desempeño es el único mecanismo para la carrera profesional de los empleados públicos, excluyendo la antigüedad como criterio."
+    },
+    "correcta": "B",
+    "explicacion": "El art. 20 TREBEP establece que las AAPP establecerán sistemas que permitan la evaluación del desempeño de sus empleados. Los principios rectores son la transparencia, objetividad, imparcialidad e independencia técnica. Los resultados de la evaluación pueden tener consecuencias directas en la carrera profesional horizontal (progresión de grado o categoría sin cambio de puesto), la formación, la provisión de puestos de trabajo y la percepción de retribuciones complementarias (complemento de productividad o equivalente). El TREBEP concibe la evaluación del desempeño como un instrumento central de modernización de la función pública.",
+    "why": "A el art. 20 no configura la evaluación como potestativa; las AAPP «establecerán» sistemas de evaluación (imperativo), aunque el marco básico deja margen a las normas de desarrollo. C la evaluación afecta a todos los empleados públicos, no solo al personal directivo; el art. 20 habla de «sus empleados» sin distinción. D la evaluación del desempeño convive con otros elementos de la carrera (horizontal, vertical, movilidad) y con la antigüedad como criterio complementario.",
+    "norma": "Real Decreto Legislativo 5/2015, Texto Refundido del Estatuto Básico del Empleado Público (TREBEP)",
+    "articulo": "20"
+  },
+  {
+    "id": "B3T27-013",
+    "bloque": 3,
+    "tema": 27,
+    "test": 27,
+    "dificultad": "media",
+    "pregunta": "¿Qué tipos de carrera profesional reconoce el art. 16 del TREBEP para los funcionarios de carrera?",
+    "opciones": {
+      "A": "Solo la carrera vertical, consistente en el ascenso a cuerpos o escalas de grupo superior.",
+      "B": "La carrera vertical (ascenso dentro del sistema de estructuración del empleo público), la carrera horizontal (progresión de grado, categoría o escalón sin necesidad de cambiar de puesto), la movilidad voluntaria entre Administraciones, y la evaluación del desempeño como elemento transversal.",
+      "C": "La carrera únicamente se realiza mediante la superación de concursos de méritos para puestos de nivel superior.",
+      "D": "El TREBEP no regula la carrera profesional; esta queda en manos de cada Administración Pública sin ningún marco básico estatal."
+    },
+    "correcta": "B",
+    "explicacion": "El art. 16 TREBEP reconoce distintas modalidades de carrera profesional de los funcionarios: (1) carrera vertical: ascenso en la estructura de puestos de trabajo, implica cambiar de puesto a otro de mayor nivel o subir de grupo de clasificación; (2) carrera horizontal: progresión de grado, categoría, escalón u otro equivalente sin necesidad de cambiar de puesto de trabajo ni de adquirir mayores funciones, recompensando la trayectoria del empleado a través del tiempo y la evaluación del desempeño; (3) movilidad voluntaria entre Administraciones Públicas. La evaluación del desempeño del art. 20 es transversal y condiciona la progresión en la carrera horizontal.",
+    "why": "A la carrera vertical es solo una de las modalidades; el art. 16 introduce expresamente la carrera horizontal como novedad respecto al modelo tradicional. C los concursos de méritos son el procedimiento de provisión de puestos (art. 78), no la carrera en sí; la carrera puede darse sin cambio de puesto en el caso de la carrera horizontal. D el TREBEP sí regula el marco básico de la carrera profesional; las leyes autonómicas deben respetar esos principios básicos.",
+    "norma": "Real Decreto Legislativo 5/2015, Texto Refundido del Estatuto Básico del Empleado Público (TREBEP)",
+    "articulo": "16"
+  },
+  {
+    "id": "B3T27-014",
+    "bloque": 3,
+    "tema": 27,
+    "test": 27,
+    "dificultad": "media",
+    "pregunta": "¿Cuál es la regla general de incompatibilidades de los empleados públicos según la Ley 53/1984, de Incompatibilidades?",
+    "opciones": {
+      "A": "Los empleados públicos pueden ejercer libremente cualquier actividad privada compatible con su horario laboral, sin necesidad de autorización.",
+      "B": "El personal al servicio de las AAPP no puede ejercer una segunda actividad pública o privada que sea incompatible con el desempeño del puesto; la segunda actividad requiere reconocimiento de compatibilidad por el órgano competente.",
+      "C": "Las incompatibilidades solo se aplican a los funcionarios de grupo A; el personal de grupos C y D puede ejercer cualquier actividad sin restricción.",
+      "D": "Los empleados públicos pueden combinar libremente hasta tres empleos simultáneos siempre que las jornadas sumadas no excedan de 48 horas semanales."
+    },
+    "correcta": "B",
+    "explicacion": "La Ley 53/1984, de 26 de diciembre, de Incompatibilidades del Personal al servicio de las Administraciones Públicas, establece como regla general que el personal al servicio de las AAPP no podrá percibir, simultáneamente, más de una remuneración con cargo a los presupuestos de las AAPP o de organismos y entes de ellas dependientes. El ejercicio de actividades privadas requiere autorización o reconocimiento de compatibilidad por el órgano competente, que lo deniega si la actividad puede comprometer la imparcialidad del empleado, si guarda relación directa con el puesto público, o si puede perjudicar el desempeño de las funciones. La actividad docente, de investigación o artística tiene un régimen más flexible.",
+    "why": "A el ejercicio libre sin autorización vulneraría la ley; el régimen de incompatibilidades exige que la segunda actividad sea reconocida como compatible. C la ley de incompatibilidades es aplicable a todos los empleados públicos con independencia del grupo de clasificación. D el límite de 48 horas es propio de la normativa laboral privada; la ley de incompatibilidades del sector público no establece ese umbral como criterio general de compatibilidad.",
+    "norma": "Ley 53/1984, de Incompatibilidades del Personal al servicio de las Administraciones Públicas",
+    "articulo": "1 y 3"
+  },
+  {
+    "id": "B3T27-015",
+    "bloque": 3,
+    "tema": 27,
+    "test": 27,
+    "dificultad": "media",
+    "pregunta": "¿Qué establece el art. 47 del TREBEP sobre la jornada de trabajo de los funcionarios públicos?",
+    "opciones": {
+      "A": "Fija una jornada única de 40 horas semanales de obligado cumplimiento para todas las AAPP.",
+      "B": "Las Administraciones Públicas establecerán la jornada general y las especiales de sus funcionarios, pudiendo acordarse jornadas inferiores a través de la negociación colectiva; en ningún caso la jornada semanal puede superar en cómputo anual a la de los trabajadores del sector privado.",
+      "C": "La jornada de trabajo de los funcionarios públicos es de 35 horas semanales, sin posibilidad de variación.",
+      "D": "Los funcionarios de carrera pueden autofijar su jornada de trabajo dentro de los límites presupuestarios de cada organismo."
+    },
+    "correcta": "B",
+    "explicacion": "El art. 47 TREBEP establece que las Administraciones Públicas establecerán la jornada general y las jornadas especiales de trabajo de sus funcionarios de carrera, que en ningún caso podrán ser superiores en cómputo anual a la prevista para los trabajadores del sector privado. La AGE aplica con carácter general una jornada de 37,5 horas semanales de promedio. Las jornadas especiales (reducidas, nocturnas, a turnos, etc.) pueden establecerse para determinados colectivos. Los acuerdos de negociación colectiva pueden establecer condiciones más favorables dentro de los límites legales y presupuestarios.",
+    "why": "A las 40 horas semanales son el máximo ordinario del ET para el sector privado; las AAPP pueden y han establecido jornadas inferiores (37,5 horas en la AGE). C las 35 horas semanales no están fijadas con carácter básico en el TREBEP para todas las AAPP; ha sido el resultado de acuerdos en algunas AAPP pero no es la regla general del TREBEP. D la autodeterminación de la jornada por el propio funcionario no está prevista; la jornada la establece la Administración con sujeción a la ley y la negociación colectiva.",
+    "norma": "Real Decreto Legislativo 5/2015, Texto Refundido del Estatuto Básico del Empleado Público (TREBEP)",
+    "articulo": "47"
+  },
+  {
+    "id": "B3T27-016",
+    "bloque": 3,
+    "tema": 27,
+    "test": 27,
+    "dificultad": "media",
+    "pregunta": "¿Qué es el Registro Central de Personal y quién lo gestiona según el art. 44 del TREBEP?",
+    "opciones": {
+      "A": "Es el archivo histórico de los expedientes de todos los ex-funcionarios, gestionado por el Ministerio de Cultura.",
+      "B": "Es el registro en el que se inscriben y anotan los actos que afectan a la vida administrativa de los funcionarios de la AGE; está gestionado por el Ministerio de Hacienda y Función Pública.",
+      "C": "Es el registro exclusivo de los funcionarios sancionados, gestionado por el Ministerio del Interior.",
+      "D": "Es el catálogo de puestos de trabajo de todas las AAPP que determina las retribuciones complementarias de cada puesto."
+    },
+    "correcta": "B",
+    "explicacion": "El art. 44 TREBEP regula el Registro Central de Personal de la AGE, instrumento en el que se inscriben y anotan todos los actos que afectan a la vida administrativa de los funcionarios de carrera de la Administración General del Estado: nombramientos, tomas de posesión, situaciones administrativas, sanciones, reconocimientos de trienios, retribuciones, comisiones de servicio, ceses, etc. Este registro está gestionado por el Ministerio de Hacienda y Función Pública y es la fuente primaria de información sobre el personal funcionario de la AGE. Cada Comunidad Autónoma tiene su propio registro de personal.",
+    "why": "A el Registro Central de Personal no es un archivo histórico ni es gestionado por Cultura; es un instrumento activo de gestión de los recursos humanos de la AGE. C el registro no es exclusivo de sancionados; registra toda la vida administrativa del funcionario, incluyendo actos positivos (nombramientos, ascensos, etc.). D el catálogo de puestos de trabajo y la RPT son instrumentos de ordenación de la estructura de puestos, distintos del Registro Central de Personal.",
+    "norma": "Real Decreto Legislativo 5/2015, Texto Refundido del Estatuto Básico del Empleado Público (TREBEP)",
+    "articulo": "44"
+  },
+  {
+    "id": "B3T27-017",
+    "bloque": 3,
+    "tema": 27,
+    "test": 27,
+    "dificultad": "dificil",
+    "pregunta": "¿Cuáles son los requisitos sucesivos para la adquisición de la condición de funcionario de carrera según el art. 62 del TREBEP?",
+    "opciones": {
+      "A": "La presentación de la solicitud, el pago de las tasas de inscripción y la superación de un examen médico.",
+      "B": "La superación del proceso selectivo, el nombramiento por el órgano o autoridad competente, el acatamiento de la Constitución y el ordenamiento jurídico, y la toma de posesión dentro del plazo establecido.",
+      "C": "La superación del proceso selectivo y la firma del contrato de trabajo con la Administración.",
+      "D": "El nombramiento por el órgano competente y la inscripción en el Registro Central de Personal; no es necesaria la toma de posesión."
+    },
+    "correcta": "B",
+    "explicacion": "El art. 62 TREBEP establece que la condición de funcionario de carrera se adquiere por el cumplimiento sucesivo de los siguientes requisitos: (1) superación del proceso selectivo correspondiente; (2) nombramiento por el órgano o autoridad competente, que se publica en el boletín oficial correspondiente; (3) acatamiento de la Constitución y, en su caso, del Estatuto de Autonomía correspondiente y del resto del ordenamiento jurídico, mediante la formalización de juramento o promesa; y (4) toma de posesión dentro del plazo establecido por las normas de aplicación. Si no se toman posesión en plazo, salvo causa justificada, se pierde el derecho al nombramiento.",
+    "why": "A la solicitud y las tasas son requisitos de admisión al proceso selectivo, no de adquisición de la condición de funcionario; el examen médico puede ser un requisito en algunos cuerpos específicos (policía, bomberos), pero no con carácter general. C la firma del contrato es el mecanismo de vinculación del personal laboral, no del funcionario; los funcionarios de carrera se vinculan mediante nombramiento y toma de posesión, no por contrato. D la toma de posesión es el cuarto y último requisito expresamente establecido en el art. 62; sin ella no se adquiere la condición de funcionario aunque haya nombramiento.",
+    "norma": "Real Decreto Legislativo 5/2015, Texto Refundido del Estatuto Básico del Empleado Público (TREBEP)",
+    "articulo": "62"
+  },
+  {
+    "id": "B3T27-018",
+    "bloque": 3,
+    "tema": 27,
+    "test": 27,
+    "dificultad": "dificil",
+    "pregunta": "¿Qué es la Relación de Puestos de Trabajo (RPT) y qué información debe contener según el art. 74 del TREBEP?",
+    "opciones": {
+      "A": "Es el documento de planificación presupuestaria que contiene el coste total de personal de la Administración.",
+      "B": "Es el instrumento técnico a través del cual las AAPP ordenan su estructura de empleo; debe incluir, al menos, la denominación de los puestos, los grupos de clasificación, los cuerpos o escalas, los sistemas de provisión y las retribuciones complementarias.",
+      "C": "Es la lista de los funcionarios ordenados por antigüedad y grupo de clasificación, que determina el orden de prelación para los concursos.",
+      "D": "Es el catálogo de competencias que cada funcionario debe tener para su puesto, elaborado por el Instituto Nacional de Administración Pública."
+    },
+    "correcta": "B",
+    "explicacion": "El art. 74 TREBEP establece que las AAPP estructurarán su organización a través de relaciones de puestos de trabajo u otros instrumentos organizativos similares. La RPT es el instrumento de ordenación del empleo público por excelencia y debe comprender, al menos: la denominación de los puestos, los grupos de clasificación profesional, los cuerpos o escalas a que estén adscritos (en su caso), los sistemas de provisión (concurso o libre designación) y las retribuciones complementarias. La RPT tiene carácter normativo y vincula a la Administración en su gestión de recursos humanos; cualquier modificación requiere el procedimiento establecido y su publicación.",
+    "why": "A el documento presupuestario de personal es la nómina o la memoria económica del anteproyecto de presupuestos, no la RPT. C la lista de funcionarios por antigüedad no es la RPT; es el escalafón o la relación de funcionarios, que es un instrumento diferente. D el catálogo de competencias es un instrumento de gestión de RRHH más moderno y específico; la RPT es el marco organizativo y retributivo básico.",
+    "norma": "Real Decreto Legislativo 5/2015, Texto Refundido del Estatuto Básico del Empleado Público (TREBEP)",
+    "articulo": "74"
+  },
+  {
+    "id": "B3T27-019",
+    "bloque": 3,
+    "tema": 27,
+    "test": 27,
+    "dificultad": "dificil",
+    "pregunta": "¿Cuál es la relación entre los cuerpos y escalas de funcionarios (art. 75 TREBEP) y los grupos de clasificación (art. 76)?",
+    "opciones": {
+      "A": "Los cuerpos y escalas son lo mismo que los grupos de clasificación; ambos términos son sinónimos.",
+      "B": "Los cuerpos y escalas agrupan funcionarios con idénticas funciones, titulación de acceso y criterios de carrera; los grupos de clasificación determinan el nivel académico exigido para el acceso y los cuerpos/escalas generalmente se adscriben al grupo correspondiente a su titulación de ingreso.",
+      "C": "Los grupos de clasificación son la agrupación básica y los cuerpos y escalas son divisiones internas de cada grupo sin relevancia práctica.",
+      "D": "Los cuerpos y escalas determinan la retribución de los funcionarios; los grupos de clasificación determinan el tipo de concurso de méritos aplicable."
+    },
+    "correcta": "B",
+    "explicacion": "El art. 75 TREBEP establece que los funcionarios de carrera se agrupan en cuerpos, escalas, especialidades u otros sistemas de agrupación que se crean por las leyes de función pública. Los cuerpos y escalas son las agrupaciones básicas de los funcionarios de carrera: reúnen a quienes tienen las mismas funciones, titulación de acceso y criterios de carrera. El art. 76 TREBEP fija los grupos de clasificación (A1, A2, B, C1, C2) en función de la titulación exigida para el acceso. La conexión entre ambos conceptos es que cada cuerpo o escala queda adscrito al grupo de clasificación que corresponde a su titulación de acceso, lo que determina el nivel retributivo básico y la exigencia de selección.",
+    "why": "A los cuerpos/escalas y los grupos de clasificación son conceptos distintos: los cuerpos/escalas agrupan funcionarios por función y acceso; los grupos clasifican por titulación. No son sinónimos. C los grupos de clasificación sí tienen relevancia práctica determinante: fijan las retribuciones básicas, la titulación mínima de acceso y la exigencia de los procesos selectivos. D las retribuciones básicas las determina el grupo de clasificación; los cuerpos y escalas tienen su propia función organizativa, pero no determinan el tipo de concurso de méritos.",
+    "norma": "Real Decreto Legislativo 5/2015, Texto Refundido del Estatuto Básico del Empleado Público (TREBEP)",
+    "articulo": "75 y 76"
+  },
+  {
+    "id": "B3T27-020",
+    "bloque": 3,
+    "tema": 27,
+    "test": 27,
+    "dificultad": "dificil",
+    "pregunta": "¿Cuáles son las causas de pérdida de la condición de funcionario de carrera según el art. 63 del TREBEP?",
+    "opciones": {
+      "A": "Solo la jubilación por edad; las demás causas requieren siempre sentencia judicial firme.",
+      "B": "La renuncia voluntaria a la condición de funcionario, la pérdida de la nacionalidad española, la jubilación total, la sanción disciplinaria firme de separación del servicio, y la pena principal o accesoria de inhabilitación absoluta o especial para cargo público cuando sea firme.",
+      "C": "El traslado a otro puesto de trabajo de diferente grupo de clasificación y la superación de la edad ordinaria de jubilación.",
+      "D": "Solo la comisión de un delito doloso y la renuncia expresamente notificada al superior jerárquico."
+    },
+    "correcta": "B",
+    "explicacion": "El art. 63 TREBEP enumera las cinco causas de pérdida de la condición de funcionario de carrera: (1) renuncia a la condición de funcionario, que debe ser voluntaria, expresa e irrevocable y no genera derecho a indemnización; (2) pérdida de la nacionalidad española o de la que sirvió de base para el acceso; (3) jubilación total del funcionario (por edad, voluntaria, forzosa o por incapacidad); (4) sanción disciplinaria de separación del servicio que, una vez ejecutiva, extingue la relación funcionarial; y (5) pena principal o accesoria de inhabilitación absoluta o inhabilitación especial para cargo público cuando sea firme. En todos los casos, la pérdida es definitiva salvo el supuesto de renuncia, que puede no impedir un nuevo acceso posterior.",
+    "why": "A la jubilación es una causa, pero no la única; la sanción de separación del servicio y la inhabilitación son causas que no requieren sentencia judicial (la primera es disciplinaria). C el traslado a un puesto de otro grupo no extingue la relación funcionarial; puede implicar un cambio de cuerpo o escala pero no la pérdida de la condición. D el delito doloso puede dar lugar a inhabilitación penal o a sanción disciplinaria, pero no es por sí solo causa directa de pérdida de la condición; es la sentencia firme de inhabilitación o la sanción de separación lo que produce ese efecto.",
+    "norma": "Real Decreto Legislativo 5/2015, Texto Refundido del Estatuto Básico del Empleado Público (TREBEP)",
+    "articulo": "63"
+  }
+]
