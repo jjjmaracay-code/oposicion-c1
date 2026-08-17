@@ -125,6 +125,17 @@ const MANIFEST = {
   5: [],
 };
 
+// Total de tests y offset de numeración absoluta por bloque.
+// El offset es la suma de tests de todos los bloques anteriores.
+// Necesario porque los tests del Bloque 2 empiezan en el 11, del 3 en el 27, etc.
+const BLOCK_TEST_RANGE = {
+  1: { count: 10, offset:  0 },  // tests  1-10
+  2: { count: 16, offset: 10 },  // tests 11-26
+  3: { count:  8, offset: 26 },  // tests 27-34
+  4: { count:  7, offset: 34 },  // tests 35-41
+  5: { count:  8, offset: 41 },  // tests 42-49
+};
+
 let TEMARIO = null;
 const QUESTION_CACHE = {}; // "bloque-test" -> array de preguntas
 
@@ -202,12 +213,13 @@ async function renderHome(){
   const grid = el("div","block-grid");
   TEMARIO.bloques.forEach(b=>{
     const built = totalBuiltInBlock(b.bloque);
-    const pct = Math.round((built/200)*100);
+    const blockTotal = (BLOCK_TEST_RANGE[b.bloque]||{count:10}).count * 20;
+    const pct = Math.round((built/blockTotal)*100);
     const row = el("div","block-row");
     row.appendChild(el("div","num", "B"+b.bloque));
     const meta = el("div","meta");
     meta.appendChild(el("div","name", b.nombre));
-    meta.appendChild(el("div","progress-text", `${built} de 200 preguntas construidas y verificadas (${b.temas.length} temas)`));
+    meta.appendChild(el("div","progress-text", `${built} de ${blockTotal} preguntas construidas y verificadas (${(BLOCK_TEST_RANGE[b.bloque]||{count:10}).count} tests)`));
     const track = el("div","progress-track");
     track.appendChild(el("div","progress-fill")).style.width = pct+"%";
     meta.appendChild(track);
@@ -256,15 +268,17 @@ function renderTestList(){
 
   const list = el("div","test-list");
   const built = new Set(MANIFEST[state.currentBlock]||[]);
-  for(let t=1;t<=10;t++){
-    const has = built.has(t);
+  const range = BLOCK_TEST_RANGE[state.currentBlock] || {count: 10, offset: 0};
+  for(let t=1;t<=range.count;t++){
+    const absTest = range.offset + t;
+    const has = built.has(absTest);
     const row = el("div","test-row"+(has?"":" locked"));
     row.appendChild(el("div","name", `Test ${String(t).padStart(2,"0")}`));
     row.appendChild(el("div","status", has? "20 preguntas" : "pendiente de construir"));
     if(has){
       row.onclick = async ()=>{
-        state.currentTest = t;
-        state.questions = await loadTest(state.currentBlock, t);
+        state.currentTest = absTest;
+        state.questions = await loadTest(state.currentBlock, absTest);
         state.index = 0;
         state.answers = {};
         state.view = "quiz";
