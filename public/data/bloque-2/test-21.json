@@ -1,0 +1,382 @@
+[
+  {
+    "id": "B2T21-001",
+    "bloque": 2,
+    "tema": 21,
+    "test": 21,
+    "dificultad": "facil",
+    "pregunta": "¿Qué se entiende por subvención según el art. 2 de la Ley 38/2003, General de Subvenciones?",
+    "opciones": {
+      "A": "Cualquier pago que realice la Administración a un particular, con independencia de si existe contraprestación o no.",
+      "B": "Toda disposición dineraria realizada por entidades del sector público a favor de personas públicas o privadas, sin contraprestación directa del beneficiario, sujeta al cumplimiento de un objetivo y destinada a promover una actividad de utilidad pública o interés social.",
+      "C": "La financiación que el Estado concede a las Administraciones autonómicas y locales para compensar el déficit de sus servicios esenciales.",
+      "D": "Cualquier transferencia de fondos entre entidades del sector público, con independencia de su finalidad y régimen jurídico."
+    },
+    "correcta": "B",
+    "explicacion": "El art. 2 LGS define la subvención por tres requisitos acumulativos: (1) entrega dineraria sin contraprestación directa del beneficiario (el beneficiario no da nada a cambio al momento de recibir los fondos), (2) vinculación al cumplimiento de un objetivo o actividad concretos, y (3) finalidad de fomento de una actividad de utilidad pública, interés social o promoción de una finalidad pública. Si falta cualquiera de estos elementos, no es una subvención en el sentido de la LGS.",
+    "why": "A incluiría pagos con contraprestación (contratos), que la LGS excluye expresamente. C limita las subvenciones a las transferencias intergubernamentales de nivelación, cuando la LGS se aplica también a subvenciones a particulares y entidades privadas. D las aportaciones dinerarias entre entidades del sector público entre sí están generalmente excluidas del ámbito de la LGS (art. 2.2).",
+    "norma": "Ley 38/2003, General de Subvenciones",
+    "articulo": "2"
+  },
+  {
+    "id": "B2T21-002",
+    "bloque": 2,
+    "tema": 21,
+    "test": 21,
+    "dificultad": "facil",
+    "pregunta": "¿Cuáles son los principios generales que rigen el otorgamiento de subvenciones según el art. 8 de la Ley 38/2003?",
+    "opciones": {
+      "A": "Exclusivamente el principio de legalidad y el de reserva de ley orgánica.",
+      "B": "Publicidad, transparencia, concurrencia, objetividad, igualdad y no discriminación, eficacia en el cumplimiento de los objetivos y eficiencia en la asignación de recursos.",
+      "C": "Libre concurrencia de mercado, precio mínimo garantizado y acceso prioritario a las pymes.",
+      "D": "Subsidiariedad, proporcionalidad y primacía del Derecho de la Unión Europea."
+    },
+    "correcta": "B",
+    "explicacion": "El art. 8 LGS establece que la gestión de las subvenciones se realizará de acuerdo con los principios de publicidad, transparencia, concurrencia, objetividad, igualdad y no discriminación. Además, la gestión debe garantizar la eficacia en el cumplimiento de los objetivos fijados por la Administración concedente y la eficiencia en la asignación y utilización de los recursos públicos. Estos principios están directamente relacionados con los principios de la contratación pública y del gasto presupuestario.",
+    "why": "A el principio de legalidad es un presupuesto de toda actuación administrativa, pero el art. 8 LGS añade principios específicos del régimen subvencional. C estos principios son propios del Derecho de la competencia o de la contratación, no de las subvenciones. D los principios de subsidiariedad y proporcionalidad son del Derecho comunitario y de la distribución de competencias, no de la gestión de subvenciones nacionales.",
+    "norma": "Ley 38/2003, General de Subvenciones",
+    "articulo": "8"
+  },
+  {
+    "id": "B2T21-003",
+    "bloque": 2,
+    "tema": 21,
+    "test": 21,
+    "dificultad": "facil",
+    "pregunta": "¿Cuál es el procedimiento ordinario de concesión de subvenciones establecido en la Ley 38/2003?",
+    "opciones": {
+      "A": "La concesión directa a los solicitantes que primero presenten la documentación correcta.",
+      "B": "La concurrencia competitiva: las solicitudes se valoran y comparan entre sí según criterios objetivos previamente establecidos en las bases reguladoras y la convocatoria.",
+      "C": "La adjudicación por sorteo entre todos los solicitantes que cumplan los requisitos mínimos.",
+      "D": "La negociación caso a caso entre la Administración y cada solicitante, atendiendo a la cuantía solicitada."
+    },
+    "correcta": "B",
+    "explicacion": "El art. 22 LGS establece que el procedimiento ordinario de concesión de subvenciones es la concurrencia competitiva: todas las solicitudes presentadas en el plazo se evalúan y se clasifican según criterios objetivos fijados en las bases reguladoras y la convocatoria. Las subvenciones se conceden a quienes obtienen mejor puntuación hasta agotar el crédito disponible. Este procedimiento garantiza los principios de igualdad y no discriminación frente a una asignación discrecional.",
+    "why": "A la concesión al primero que cumple es una variante excepcional admitida en algunos procedimientos, pero no es el procedimiento ordinario. C el sorteo no es un mecanismo previsto en la LGS para la selección ordinaria de beneficiarios. D la negociación individual no es compatible con los principios de objetividad e igualdad que rigen la concurrencia competitiva.",
+    "norma": "Ley 38/2003, General de Subvenciones",
+    "articulo": "22"
+  },
+  {
+    "id": "B2T21-004",
+    "bloque": 2,
+    "tema": 21,
+    "test": 21,
+    "dificultad": "facil",
+    "pregunta": "¿Cuáles son las principales obligaciones del beneficiario de una subvención según el art. 14 de la Ley 38/2003?",
+    "opciones": {
+      "A": "Únicamente devolver los fondos con intereses al finalizar el proyecto subvencionado.",
+      "B": "Cumplir el objetivo de la subvención, justificar el destino de los fondos, someterse a controles de la Administración, comunicar otras subvenciones obtenidas y conservar los documentos justificativos.",
+      "C": "Publicar en el BOE el resultado del proyecto financiado y presentar anualmente auditoría externa de cuentas.",
+      "D": "Contratar obligatoriamente a personas en situación de desempleo y destinar al menos el 10 % de los fondos a formación."
+    },
+    "correcta": "B",
+    "explicacion": "El art. 14 LGS establece un listado de obligaciones del beneficiario: (1) cumplir el objetivo o realizar la actividad subvencionada; (2) justificar el destino de los fondos en el plazo fijado; (3) someterse a las actuaciones de comprobación y control de la entidad concedente, la Intervención General y el Tribunal de Cuentas; (4) comunicar a la Administración la obtención de otras subvenciones, ayudas, ingresos o recursos para la misma finalidad; y (5) conservar los documentos justificativos durante el plazo legalmente establecido.",
+    "why": "A la obligación de devolver no es general; solo surge si se incumple el objetivo o se obtiene la subvención fraudulentamente (reintegro). C la publicación en BOE no es una obligación del beneficiario sino de la Administración concedente. D la obligación de contratar desempleados o destinar un porcentaje a formación puede ser condición específica de ciertas subvenciones, pero no obligación general de toda subvención.",
+    "norma": "Ley 38/2003, General de Subvenciones",
+    "articulo": "14"
+  },
+  {
+    "id": "B2T21-005",
+    "bloque": 2,
+    "tema": 21,
+    "test": 21,
+    "dificultad": "facil",
+    "pregunta": "¿Cuál es el plazo de prescripción del derecho de la Administración a exigir el reintegro de una subvención indebidamente percibida según el art. 39 de la Ley 38/2003?",
+    "opciones": {
+      "A": "Un año desde el pago de la subvención.",
+      "B": "Dos años desde que se cometió la irregularidad.",
+      "C": "Cuatro años desde la justificación por el beneficiario o desde que venció el plazo para realizarla.",
+      "D": "Seis años desde la concesión de la subvención."
+    },
+    "correcta": "C",
+    "explicacion": "El art. 39.1 LGS fija en cuatro años el plazo de prescripción del derecho de la Administración a reconocer o liquidar el reintegro. El cómputo del plazo se inicia desde el momento en que el beneficiario justificó correctamente el destino de los fondos o, en su defecto, desde que venció el plazo establecido para hacer esa justificación. Este plazo de cuatro años es coherente con el plazo general de prescripción de las acciones administrativas de reintegro.",
+    "why": "A el plazo de un año es demasiado breve para que la Administración pueda verificar la justificación y actuar. B dos años no es el plazo que establece el art. 39 LGS para el reintegro. D seis años tampoco corresponde al plazo legal del art. 39 LGS; es el plazo de prescripción de las deudas a favor de la Hacienda Pública en otros contextos.",
+    "norma": "Ley 38/2003, General de Subvenciones",
+    "articulo": "39"
+  },
+  {
+    "id": "B2T21-006",
+    "bloque": 2,
+    "tema": 21,
+    "test": 21,
+    "dificultad": "facil",
+    "pregunta": "¿Qué es la Base de Datos Nacional de Subvenciones (BDNS) regulada en el art. 20 de la Ley 38/2003?",
+    "opciones": {
+      "A": "Un registro privado gestionado por la CEOE donde las empresas consultan las subvenciones disponibles para el sector empresarial.",
+      "B": "El sistema de información que integra los datos de todas las subvenciones convocadas y concedidas por las Administraciones Públicas, gestionado por el Ministerio de Hacienda, cuya publicación equivale a la notificación al interesado.",
+      "C": "La base de datos del Tribunal de Cuentas donde se registran los expedientes de reintegro por subvenciones mal aplicadas.",
+      "D": "El archivo documental donde cada Administración conserva los justificantes de pago de las subvenciones que ha concedido."
+    },
+    "correcta": "B",
+    "explicacion": "El art. 20 LGS regula la Base de Datos Nacional de Subvenciones como el sistema de información general de subvenciones de las Administraciones Públicas. Es gestionada por el Ministerio de Hacienda y recoge los datos de las convocatorias y las concesiones de todas las AAPP españolas. Todas las Administraciones están obligadas a comunicar a la BDNS las subvenciones que convocan y conceden, y su publicación en la misma tiene a efectos de difusión equivalentes a los de la publicación en el boletín oficial correspondiente.",
+    "why": "A la BDNS es pública y la gestiona el Ministerio de Hacienda, no un organismo privado. C el Tribunal de Cuentas lleva su propio registro de expedientes de responsabilidad contable; la BDNS es una herramienta de publicidad y transparencia, no un registro de irregularidades. D cada Administración conserva sus propios justificantes, pero la BDNS es el sistema centralizado de información nacional sobre subvenciones.",
+    "norma": "Ley 38/2003, General de Subvenciones",
+    "articulo": "20"
+  },
+  {
+    "id": "B2T21-007",
+    "bloque": 2,
+    "tema": 21,
+    "test": 21,
+    "dificultad": "media",
+    "pregunta": "¿Qué diferencia esencial existe entre una subvención y un contrato celebrado por la Administración?",
+    "opciones": {
+      "A": "La subvención siempre es de mayor importe que el contrato.",
+      "B": "En la subvención no existe contraprestación directa del beneficiario a la Administración; en el contrato, el contratista ejecuta una prestación a cambio del precio que paga la Administración.",
+      "C": "La subvención se concede mediante resolución unilateral de la Administración, mientras que el contrato requiere acuerdo bilateral entre las partes.",
+      "D": "Las subvenciones no son auditables por el Tribunal de Cuentas, a diferencia de los contratos públicos."
+    },
+    "correcta": "B",
+    "explicacion": "La diferencia nuclear entre subvención y contrato radica en la ausencia de contraprestación directa en la subvención: la Administración entrega fondos para que el beneficiario realice una actividad de interés público, pero no recibe a cambio una prestación en beneficio propio. En el contrato, la Administración paga un precio y recibe a cambio la ejecución de obras, la prestación de servicios o el suministro de bienes que la Administración necesita para su funcionamiento. Esta distinción es fundamental en el Derecho administrativo porque determina el régimen jurídico aplicable.",
+    "why": "A el importe no determina si es subvención o contrato; pueden existir contratos de pequeña cuantía y subvenciones de gran importe. C el aspecto bilateral/unilateral no es el elemento diferenciador; tanto la resolución de concesión de una subvención como la formalización de un contrato implican actos de la Administración, pero lo decisivo es la existencia o no de contraprestación. D las subvenciones sí son auditables por el Tribunal de Cuentas; de hecho, el control externo de las subvenciones es una de sus funciones.",
+    "norma": "Ley 38/2003, General de Subvenciones",
+    "articulo": "2"
+  },
+  {
+    "id": "B2T21-008",
+    "bloque": 2,
+    "tema": 21,
+    "test": 21,
+    "dificultad": "media",
+    "pregunta": "¿Qué son las bases reguladoras de una subvención y quién las aprueba según el art. 17 de la Ley 38/2003?",
+    "opciones": {
+      "A": "Son los documentos que cada solicitante presenta con su solicitud para acreditar que cumple los requisitos; los aprueba el órgano instructor del expediente.",
+      "B": "Son normas de carácter reglamentario que regulan el régimen aplicable a una línea de subvenciones, aprobadas por el órgano con competencia normativa (Ministro, Consejero o equivalente).",
+      "C": "Son los pliegos de condiciones técnicas elaborados por la Mesa de valoración para cada convocatoria.",
+      "D": "Son los acuerdos adoptados por el Consejo de Ministros para autorizar el gasto subvencional previsto en el presupuesto."
+    },
+    "correcta": "B",
+    "explicacion": "El art. 17 LGS establece que las bases reguladoras son disposiciones de carácter normativo que regulan el régimen de concesión de una línea de subvenciones: objeto, requisitos de los beneficiarios, criterios de valoración, cuantía, plazo de presentación de solicitudes, documentación exigida, justificación y control. Al tener rango reglamentario, son aprobadas por el órgano que ejerce la potestad reglamentaria en la materia (generalmente el Ministro o Consejero competente). Son previas a la convocatoria y de carácter más estable.",
+    "why": "A los documentos presentados por los solicitantes son la 'solicitud' con su documentación, no las bases reguladoras. C los pliegos son propios de la contratación pública; en el régimen de subvenciones la figura equivalente son las bases reguladoras. D los acuerdos del Consejo de Ministros autorizan gastos o dictan actos de gobierno, pero no equivalen a las bases reguladoras, que son normas jurídicas de rango reglamentario.",
+    "norma": "Ley 38/2003, General de Subvenciones",
+    "articulo": "17"
+  },
+  {
+    "id": "B2T21-009",
+    "bloque": 2,
+    "tema": 21,
+    "test": 21,
+    "dificultad": "media",
+    "pregunta": "¿Cuál es el contenido mínimo obligatorio de la convocatoria de subvenciones según el art. 23 de la Ley 38/2003?",
+    "opciones": {
+      "A": "Solo debe indicar el importe total disponible y la fecha límite de solicitud; el resto puede determinarse una vez recibidas las solicitudes.",
+      "B": "Debe incluir, entre otros elementos, la indicación de las bases reguladoras aplicables, el crédito presupuestario disponible, el objeto de la subvención, los requisitos de los solicitantes, el plazo de presentación de solicitudes, los criterios de valoración y el plazo de resolución.",
+      "C": "Debe ser aprobada por el Parlamento y publicarse simultáneamente en el BOE y en el DOUE.",
+      "D": "Basta con indicar el objeto y el importe máximo individual que puede solicitar cada beneficiario."
+    },
+    "correcta": "B",
+    "explicacion": "El art. 23 LGS enumera el contenido mínimo de la convocatoria: indicación de las bases reguladoras aplicables, crédito presupuestario, objeto y finalidad de la subvención, condiciones y requisitos que deben reunir los beneficiarios, plazo y forma de presentación de solicitudes, documentación exigida, criterios objetivos de valoración de las solicitudes, cuantía individualizada de la subvención o métodos para su cálculo, plazo de resolución y notificación, indicación de si la resolución agota la vía administrativa, y la forma de justificación.",
+    "why": "A la convocatoria debe tener un contenido mínimo exhaustivo desde el principio para garantizar los principios de publicidad y transparencia; no puede dejarse la determinación de criterios para después de recibir las solicitudes. C la convocatoria no requiere aprobación parlamentaria ni publicación en el DOUE con carácter general; la aprueba el órgano concedente y se publica en el boletín oficial nacional o autonómico. D un contenido tan reducido no cumpliría los requisitos del art. 23 y vulneraría los principios de igualdad y objetividad.",
+    "norma": "Ley 38/2003, General de Subvenciones",
+    "articulo": "23"
+  },
+  {
+    "id": "B2T21-010",
+    "bloque": 2,
+    "tema": 21,
+    "test": 21,
+    "dificultad": "media",
+    "pregunta": "¿En qué supuestos permite el art. 22.2 de la Ley 38/2003 la concesión directa de subvenciones, sin concurrencia competitiva?",
+    "opciones": {
+      "A": "Siempre que el importe de la subvención sea inferior a 3.000 euros y el beneficiario acredite su solvencia.",
+      "B": "Las subvenciones previstas nominativamente en los Presupuestos Generales del Estado; las otorgadas por razones de interés público, social, económico o humanitario debidamente justificadas; y con carácter excepcional, las destinadas a organismos internacionales.",
+      "C": "Cuando el número de solicitantes potenciales sea inferior a tres, haciendo inviable la competencia.",
+      "D": "Cualquier subvención si el órgano concedente acredita urgencia mediante resolución motivada."
+    },
+    "correcta": "B",
+    "explicacion": "El art. 22.2 LGS permite excepcionalmente la concesión directa en tres supuestos tasados: (a) subvenciones previstas nominativamente en los Presupuestos Generales del Estado, de las CCAA o de las entidades locales, (b) subvenciones cuyo otorgamiento o cuantía venga impuesto por una norma de rango legal, y (c) con carácter excepcional, subvenciones en las que se acrediten razones de interés público, social, económico o humanitario, u otras razones debidamente justificadas que dificulten su convocatoria pública. La concesión directa es siempre excepcional respecto a la concurrencia competitiva.",
+    "why": "A el importe reducido no es causa de concesión directa; el contrato menor sí tiene umbrales de cuantía, pero la LGS no establece un umbral mínimo para obviar la concurrencia. C la escasez de solicitantes potenciales no está recogida como causa de concesión directa en el art. 22.2; cabría igualmente la convocatoria pública aunque solo se presenten pocos solicitantes. D la urgencia genérica no basta; debe encuadrarse en alguno de los supuestos del art. 22.2 y justificarse formalmente.",
+    "norma": "Ley 38/2003, General de Subvenciones",
+    "articulo": "22.2"
+  },
+  {
+    "id": "B2T21-011",
+    "bloque": 2,
+    "tema": 21,
+    "test": 21,
+    "dificultad": "media",
+    "pregunta": "¿Qué obligación de publicidad tienen las Administraciones Públicas respecto a las subvenciones que conceden, según el art. 18 de la Ley 38/2003?",
+    "opciones": {
+      "A": "No existe obligación de publicar las subvenciones concedidas; la confidencialidad protege los datos de los beneficiarios.",
+      "B": "Deben publicar en el boletín oficial correspondiente y comunicar a la Base de Datos Nacional de Subvenciones las subvenciones concedidas, con indicación del beneficiario, cuantía y finalidad.",
+      "C": "Solo deben publicar las subvenciones de cuantía superior a 3.000 euros en el BOE; las de menor importe no se publican.",
+      "D": "La publicación es obligatoria únicamente cuando el beneficiario es una empresa mercantil; si es una entidad sin ánimo de lucro, queda exenta."
+    },
+    "correcta": "B",
+    "explicacion": "El art. 18 LGS establece que los órganos concedentes deben publicar en el boletín oficial correspondiente (BOE, BOCA u otros) las subvenciones concedidas con indicación de la convocatoria, programa y crédito presupuestario al que se imputan, beneficiario, cantidad concedida y finalidad. Además, están obligados a comunicar esos datos a la Base de Datos Nacional de Subvenciones. Esta doble publicidad —boletín oficial y BDNS— garantiza la transparencia del uso de los fondos públicos y permite el control social y el control interno.",
+    "why": "A la confidencialidad cede ante el principio de transparencia en el uso de fondos públicos; la LGS impone la publicidad de las concesiones como regla general. C el art. 18 LGS no establece un umbral de 3.000 euros para la publicación; la obligación es general. D el tipo de beneficiario (empresa o entidad sin ánimo de lucro) no exime de la obligación de publicidad.",
+    "norma": "Ley 38/2003, General de Subvenciones",
+    "articulo": "18"
+  },
+  {
+    "id": "B2T21-012",
+    "bloque": 2,
+    "tema": 21,
+    "test": 21,
+    "dificultad": "media",
+    "pregunta": "¿Cuáles son las principales causas de reintegro de una subvención según el art. 37 de la Ley 38/2003?",
+    "opciones": {
+      "A": "Únicamente la falsedad en los datos aportados en la solicitud.",
+      "B": "Obtener la subvención falseando las condiciones requeridas u ocultando las que hubieran impedido su concesión; incumplimiento total o parcial del objetivo o de la actividad subvencionada; incumplimiento de la obligación de justificación; y obtención de subvenciones incompatibles.",
+      "C": "Solo procede el reintegro cuando hay condena penal firme del beneficiario por fraude en materia de subvenciones.",
+      "D": "Únicamente cuando el beneficiario no acredita estar al corriente de sus obligaciones fiscales y con la Seguridad Social en el momento del cobro."
+    },
+    "correcta": "B",
+    "explicacion": "El art. 37 LGS enumera las causas de reintegro: (1) obtención de la subvención falseando las condiciones requeridas o incurriendo en ocultación, (2) incumplimiento total del objetivo, actividad o comportamiento que fundamentó la concesión, (3) incumplimiento parcial del objetivo (con reintegro proporcional), (4) incumplimiento de la obligación de justificación, (5) incumplimiento de la obligación de adoptar medidas de difusión, (6) resistencia u obstrucción a la actuación de comprobación y control, y (7) incompatibilidad con otras subvenciones no declaradas. El reintegro exige devolver los fondos más los intereses de demora.",
+    "why": "A la falsedad en la solicitud es solo una de las causas; el art. 37 enumera muchas otras relacionadas con el incumplimiento posterior de la actividad o las obligaciones formales. C el reintegro es un procedimiento administrativo independiente del proceso penal; no requiere condena previa. D la situación fiscal y con la SS es un requisito para ser beneficiario, pero si ya se percibió la subvención, el incumplimiento de esta condición no es autónomamente causa de reintegro del art. 37.",
+    "norma": "Ley 38/2003, General de Subvenciones",
+    "articulo": "37"
+  },
+  {
+    "id": "B2T21-013",
+    "bloque": 2,
+    "tema": 21,
+    "test": 21,
+    "dificultad": "media",
+    "pregunta": "Cuando el incumplimiento del objeto de la subvención es parcial, ¿qué consecuencia prevé la Ley 38/2003?",
+    "opciones": {
+      "A": "Se exige el reintegro del 100 % de la subvención con independencia del grado de cumplimiento.",
+      "B": "El órgano concedente puede modular el reintegro en función del grado de incumplimiento, exigiendo solo la devolución de la parte proporcional no justificada o no ejecutada.",
+      "C": "El beneficiario puede solicitar una prórroga automática por otros dos años para completar la actividad sin consecuencias.",
+      "D": "El incumplimiento parcial solo tiene consecuencias sancionadoras, nunca de reintegro de la subvención."
+    },
+    "correcta": "B",
+    "explicacion": "El art. 37.2 LGS establece el principio de proporcionalidad en el reintegro: cuando el incumplimiento del objetivo o de la actividad subvencionada sea parcial pero se acredite un grado de cumplimiento que permita apreciar una actividad de interés general satisfecha en parte, el reintegro se modulará atendiendo al grado de incumplimiento. La Administración no está obligada a exigir el reintegro total si el beneficiario ha ejecutado una parte relevante del proyecto; puede exigir solo la parte correspondiente al incumplimiento.",
+    "why": "A la exigencia del 100 % sin considerar el cumplimiento parcial sería contraria al principio de proporcionalidad que la propia LGS recoge. C la LGS no prevé una prórroga automática por incumplimiento parcial; la prórroga debe estar prevista en las bases o convocatoria y concederse antes del vencimiento. D el incumplimiento parcial puede dar lugar tanto al reintegro proporcional como a sanciones; ambas consecuencias son compatibles.",
+    "norma": "Ley 38/2003, General de Subvenciones",
+    "articulo": "37"
+  },
+  {
+    "id": "B2T21-014",
+    "bloque": 2,
+    "tema": 21,
+    "test": 21,
+    "dificultad": "media",
+    "pregunta": "Según el art. 29 de la Ley 38/2003, ¿puede el beneficiario subcontratar la realización de la actividad subvencionada? ¿Con qué límites?",
+    "opciones": {
+      "A": "La subcontratación está completamente prohibida; el beneficiario debe ejecutar siempre personalmente la actividad.",
+      "B": "El beneficiario puede subcontratar hasta el porcentaje máximo que establezcan las bases reguladoras o, en su defecto, la convocatoria, y no puede subcontratar con personas que incurran en las prohibiciones para ser beneficiario.",
+      "C": "La subcontratación está permitida sin límite porcentual, siempre que el subcontratista esté dado de alta en el censo de contratistas del Ministerio de Hacienda.",
+      "D": "Solo puede subcontratarse con otras entidades sin ánimo de lucro cuando el beneficiario sea también una entidad sin ánimo de lucro."
+    },
+    "correcta": "B",
+    "explicacion": "El art. 29 LGS admite la subcontratación hasta el porcentaje máximo fijado en las bases reguladoras o, en su defecto, en la convocatoria. Existen límites cualitativos: no puede subcontratarse con personas o entidades que estén incursas en las prohibiciones para ser beneficiario del art. 13 LGS; ni con personas que tengan una relación de dependencia con el beneficiario que haga presumir conflicto de interés. Tampoco puede subcontratarse cuando, aumentando el coste sin añadir valor, se encubra simplemente el reparto de la subvención.",
+    "why": "A la LGS admite la subcontratación como posibilidad, no la prohíbe; lo que establece son límites y requisitos. C la subcontratación sin límite porcentual no es lo que dice la ley; el máximo lo fijan las bases. D la restricción de subcontratar solo con entidades sin ánimo de lucro no existe en la LGS; el tipo de beneficiario y el del subcontratista se rigen por los requisitos de cada convocatoria.",
+    "norma": "Ley 38/2003, General de Subvenciones",
+    "articulo": "29"
+  },
+  {
+    "id": "B2T21-015",
+    "bloque": 2,
+    "tema": 21,
+    "test": 21,
+    "dificultad": "media",
+    "pregunta": "¿Qué tipos de infracciones contempla la Ley 38/2003 en materia de subvenciones?",
+    "opciones": {
+      "A": "La LGS no tiene régimen sancionador propio; las infracciones se regulan por el Código Penal.",
+      "B": "Las infracciones se clasifican en leves, graves y muy graves, atendiendo a criterios como la cuantía del perjuicio, la intencionalidad, la reiteración o la naturaleza de los incumplimientos.",
+      "C": "Solo existe un tipo de infracción genérica sancionada con multa fija de 6.000 euros para todos los supuestos.",
+      "D": "Las infracciones se clasifican en administrativas y contables, aplicándose diferentes regímenes sancionadores según el órgano competente."
+    },
+    "correcta": "B",
+    "explicacion": "Los arts. 56-65 LGS establecen el régimen sancionador específico en materia de subvenciones, con tres categorías de infracciones: leves (incumplimientos formales sin perjuicio económico o de escasa entidad), graves (incumplimientos sustanciales con perjuicio económico o con intencionalidad) y muy graves (fraude, falsedad, resistencia total a la comprobación u obtención de subvenciones de gran importe mediante engaño). La clasificación determina la sanción aplicable: las leves se sancionan con advertencia o multa reducida; las muy graves pueden conllevar prohibición de obtener subvenciones por varios años.",
+    "why": "A la LGS sí tiene un régimen sancionador administrativo propio (arts. 56-65), independiente del Derecho penal, aunque ambos pueden ser de aplicación concurrente en los supuestos más graves. C la LGS no establece una sanción fija única; las sanciones varían según el tipo y la cuantía del perjuicio. D la distinción administrativo/contable no es el criterio clasificatorio del régimen sancionador de la LGS.",
+    "norma": "Ley 38/2003, General de Subvenciones",
+    "articulo": "56 a 65"
+  },
+  {
+    "id": "B2T21-016",
+    "bloque": 2,
+    "tema": 21,
+    "test": 21,
+    "dificultad": "media",
+    "pregunta": "¿Qué es el plan estratégico de subvenciones que prevé el art. 8.2 de la Ley 38/2003 y qué obligación impone a las Administraciones?",
+    "opciones": {
+      "A": "Es el documento presupuestario anual que autoriza el gasto en subvenciones; su aprobación corresponde al Parlamento.",
+      "B": "Es un instrumento de planificación en el que las Administraciones Públicas deben fijar los objetivos de sus políticas de subvenciones, los grupos de destinatarios, los resultados esperados y los sistemas de evaluación, con el fin de garantizar la eficacia y eficiencia del gasto.",
+      "C": "Es el registro obligatorio donde cada Administración inscribe a los beneficiarios que han recibido subvenciones en los últimos cinco años.",
+      "D": "Es el convenio que deben suscribir el órgano concedente y los beneficiarios antes de que se inicie la convocatoria pública."
+    },
+    "correcta": "B",
+    "explicacion": "El art. 8.2 LGS establece que el otorgamiento de subvenciones debe realizarse con arreglo a planes estratégicos que analicen: los objetivos de las políticas de gasto, los grupos de agentes destinatarios, los resultados esperados y los mecanismos de evaluación del cumplimiento. El plan estratégico es un instrumento de racionalización del gasto subvencional que obliga a las AAPP a planificar y justificar su política de subvenciones de manera coherente y orientada a resultados, en línea con los principios de eficacia y eficiencia del art. 8.1.",
+    "why": "A la autorización del gasto subvencional corresponde a la Ley de Presupuestos, pero el plan estratégico es un documento de planificación de política de subvenciones, no el acto presupuestario en sí. C el registro de beneficiarios no es el plan estratégico; la LGS prevé este registro en la BDNS como instrumento de transparencia. D un convenio previo entre el órgano y los beneficiarios no es coherente con el modelo de concurrencia competitiva; el plan estratégico es unilateral y de planificación.",
+    "norma": "Ley 38/2003, General de Subvenciones",
+    "articulo": "8.2"
+  },
+  {
+    "id": "B2T21-017",
+    "bloque": 2,
+    "tema": 21,
+    "test": 21,
+    "dificultad": "dificil",
+    "pregunta": "Según el art. 14.1.f de la Ley 38/2003, ¿durante cuánto tiempo debe el beneficiario conservar los libros contables, registros diligenciados y demás documentos que acrediten el cumplimiento de la subvención?",
+    "opciones": {
+      "A": "Durante tres años desde la finalización de la actividad subvencionada.",
+      "B": "Durante cuatro años desde el vencimiento del plazo para presentar la justificación.",
+      "C": "Durante cinco años desde el pago de la subvención o, en su caso, desde la fecha del último pago.",
+      "D": "Durante diez años, por ser el plazo general de conservación contable establecido en el Código de Comercio."
+    },
+    "correcta": "C",
+    "explicacion": "El art. 14.1.f LGS establece la obligación del beneficiario de conservar los documentos justificativos de la aplicación de los fondos recibidos durante un plazo de cinco años a contar desde el momento del pago de la subvención o, si hubiera habido varios pagos, desde el último. Esta obligación garantiza que la Administración, la Intervención y el Tribunal de Cuentas puedan realizar actuaciones de comprobación y control incluso tiempo después de que el proyecto haya concluido, dentro del plazo de prescripción de cuatro años del art. 39.",
+    "why": "A tres años es insuficiente para que el control externo pueda actuarse; la LGS fija cinco años expresamente. B cuatro años es el plazo de prescripción del reintegro (art. 39), no el de conservación de documentos. D los diez años del Código de Comercio es el plazo contable general para empresas; la LGS establece un plazo específico de cinco años para los documentos subvencionales.",
+    "norma": "Ley 38/2003, General de Subvenciones",
+    "articulo": "14.1.f"
+  },
+  {
+    "id": "B2T21-018",
+    "bloque": 2,
+    "tema": 21,
+    "test": 21,
+    "dificultad": "dificil",
+    "pregunta": "¿Qué son las entidades colaboradoras en la Ley 38/2003 y qué papel desempeñan en la gestión de subvenciones?",
+    "opciones": {
+      "A": "Son organismos privados que asesoran a los solicitantes sobre cómo presentar sus solicitudes, sin intervención en la concesión.",
+      "B": "Son entidades públicas o privadas que, actuando en nombre y por cuenta del órgano concedente, entregan o distribuyen los fondos a los beneficiarios y verifican el cumplimiento de las condiciones impuestas.",
+      "C": "Son las auditoras externas contratadas por la Administración para verificar la correcta aplicación de la subvención por el beneficiario.",
+      "D": "Son los organismos internacionales a través de los cuales España canaliza la ayuda oficial al desarrollo."
+    },
+    "correcta": "B",
+    "explicacion": "Los arts. 12 y 15 LGS regulan las entidades colaboradoras como aquellas entidades públicas o privadas que, previa selección, actúan en nombre y por cuenta del órgano concedente para la entrega y distribución de los fondos públicos a los beneficiarios o para la colaboración en la gestión de la subvención. La entidad colaboradora asume, frente a la Administración, la responsabilidad de comprobar que los beneficiarios cumplen los requisitos y aplican los fondos correctamente. Su papel es intermediario entre la Administración y los beneficiarios finales.",
+    "why": "A el asesoramiento a solicitantes no define la entidad colaboradora; esta tiene funciones ejecutivas y de gestión delegada, no meramente orientativas. C las auditoras externas son contratadas para la revisión de cuentas pero no distribuyen fondos ni actúan en nombre de la Administración concedente. D los organismos internacionales de cooperación son una categoría especial de beneficiarios o instrumentos de la ayuda exterior, no la figura de 'entidad colaboradora' del art. 12 LGS.",
+    "norma": "Ley 38/2003, General de Subvenciones",
+    "articulo": "12 y 15"
+  },
+  {
+    "id": "B2T21-019",
+    "bloque": 2,
+    "tema": 21,
+    "test": 21,
+    "dificultad": "dificil",
+    "pregunta": "¿Son compatibles el procedimiento de reintegro y el procedimiento sancionador por los mismos hechos en materia de subvenciones?",
+    "opciones": {
+      "A": "No; el principio non bis in idem impide que una misma conducta dé lugar simultáneamente al reintegro y a una sanción administrativa.",
+      "B": "Sí; el reintegro tiene naturaleza restitutoria (recuperación de fondos indebidamente percibidos) y no sancionadora, por lo que es plenamente compatible con la imposición de sanciones por los mismos hechos.",
+      "C": "Solo son compatibles si el beneficiario es una persona jurídica; si es persona física, el reintegro excluye la sanción.",
+      "D": "La compatibilidad depende de la cuantía: si el reintegro supera 60.000 euros, se excluye la sanción administrativa."
+    },
+    "correcta": "B",
+    "explicacion": "El art. 42 LGS establece expresamente que el reintegro de las cantidades percibidas y la exigencia de intereses de demora son compatibles con la imposición de las sanciones que correspondan conforme a la propia LGS. El principio non bis in idem no resulta vulnerado porque el reintegro no tiene naturaleza sancionadora: es una obligación de devolución de fondos públicos mal aplicados (medida restitutoria), mientras que la sanción tiene finalidad represiva y disuasoria. Ambas consecuencias jurídicas son autónomas y pueden acumularse.",
+    "why": "A la incompatibilidad por non bis in idem no procede porque el reintegro no es una sanción; el art. 42 LGS resuelve expresamente esta cuestión declarando la compatibilidad. C la distinción persona física/jurídica no determina la compatibilidad; la LGS no establece esa diferencia. D la cuantía del reintegro no es el criterio que determina si cabe o no sanción; la LGS los trata como consecuencias acumulables con independencia del importe.",
+    "norma": "Ley 38/2003, General de Subvenciones",
+    "articulo": "42"
+  },
+  {
+    "id": "B2T21-020",
+    "bloque": 2,
+    "tema": 21,
+    "test": 21,
+    "dificultad": "dificil",
+    "pregunta": "¿Cuáles son los plazos de prescripción de las infracciones en materia de subvenciones según el art. 65 de la Ley 38/2003?",
+    "opciones": {
+      "A": "Todas las infracciones prescriben a los cuatro años, con independencia de su gravedad.",
+      "B": "Infracciones leves: un año; infracciones graves: dos años; infracciones muy graves: cuatro años.",
+      "C": "Infracciones leves: seis meses; infracciones graves: un año; infracciones muy graves: dos años.",
+      "D": "Las infracciones en materia de subvenciones no prescriben nunca, por afectar a fondos públicos."
+    },
+    "correcta": "B",
+    "explicacion": "El art. 65 LGS establece plazos de prescripción diferenciados según la gravedad: las infracciones leves prescriben al año, las graves a los dos años y las muy graves a los cuatro años. El cómputo se inicia desde el día en que la infracción se cometió o, si se trata de una infracción continuada, desde el día en que cesó. La prescripción se interrumpe por cualquier actuación de la Administración que suponga inicio del procedimiento sancionador notificado al interesado.",
+    "why": "A el plazo de cuatro años no es uniforme para todas las infracciones; solo corresponde a las muy graves. C los plazos de seis meses, un año y dos años son inferiores a los establecidos en el art. 65 LGS. D la prescripción existe en todas las ramas del Derecho administrativo sancionador, incluido el subvencional; la LGS fija expresamente plazos de prescripción para las infracciones.",
+    "norma": "Ley 38/2003, General de Subvenciones",
+    "articulo": "65"
+  }
+]
