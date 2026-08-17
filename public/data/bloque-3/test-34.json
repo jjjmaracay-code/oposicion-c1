@@ -1,0 +1,382 @@
+[
+  {
+    "id": "B3T34-001",
+    "bloque": 3,
+    "tema": 34,
+    "test": 34,
+    "dificultad": "facil",
+    "pregunta": "En la incapacidad temporal por contingencias comunes, ¿desde qué día se percibe el subsidio y quién lo abona en cada tramo?",
+    "opciones": {
+      "A": "Desde el primer día de la baja, el INSS abona el 100% del salario.",
+      "B": "Los días 1 a 3 no se percibe subsidio; los días 4 al 15 lo abona el empresario al 60% de la base de cotización; desde el día 16 lo paga el INSS o la Mutua Colaboradora (60% hasta el día 20 y 75% desde el día 21).",
+      "C": "Desde el primer día de la baja el trabajador recibe el 75% de la base de cotización pagado por la Seguridad Social.",
+      "D": "Los primeros 30 días los paga el trabajador; a partir del día 31 lo paga el INSS al 50% de la base de cotización."
+    },
+    "correcta": "B",
+    "explicacion": "El art. 169 y ss. LGSS regulan la IT por contingencias comunes con el siguiente esquema de pago: (1) Días 1-3: el trabajador no percibe subsidio (los convenios colectivos pueden mejorar esta situación a cargo del empresario). (2) Días 4-15: el INSS reconoce el subsidio pero lo abona el empresario en régimen de pago delegado, al 60% de la base de cotización del mes anterior. (3) Días 16-20: el INSS asume el pago (también en régimen de pago delegado a través de la empresa), al 60% de la BC. (4) A partir del día 21: el porcentaje sube al 75% de la BC, siguiendo pagándose mediante pago delegado hasta que el INSS pase a pago directo si procede. La IT por contingencias profesionales (AT/EP) tiene un régimen más favorable: el día del accidente lo paga la empresa íntegramente como jornada laboral; desde el día siguiente de IT, la cuantía es el 75% de la BC sin período de carencia.",
+    "why": "A el INSS no abona el 100% del salario ni desde el primer día; los tres primeros días no se cobra subsidio salvo mejora por convenio. C el 75% de la BC es el porcentaje de las contingencias profesionales (AT/EP) y también de las comunes pero solo a partir del día 21, no desde el primer día. D los primeros días no los paga el trabajador sino que simplemente no existe subsidio.",
+    "norma": "Real Decreto Legislativo 8/2015, Ley General de la Seguridad Social",
+    "articulo": "169-176 LGSS"
+  },
+  {
+    "id": "B3T34-002",
+    "bloque": 3,
+    "tema": 34,
+    "test": 34,
+    "dificultad": "facil",
+    "pregunta": "¿Cuáles son los cuatro grados de la incapacidad permanente reconocidos por la LGSS?",
+    "opciones": {
+      "A": "Solo existen dos grados: incapacidad temporal y permanente; no existe clasificación interna dentro de la permanente.",
+      "B": "La incapacidad permanente tiene un único grado; la cuantía de la prestación varía según la enfermedad causante.",
+      "C": "La incapacidad permanente se clasifica en cuatro grados: parcial (reduce el rendimiento habitual en al menos un 33%), total (impide el trabajo habitual pero permite realizar otro distinto), absoluta (impide cualquier trabajo) y gran invalidez (el trabajador necesita asistencia de otra persona para los actos esenciales de la vida).",
+      "D": "Los grados son: leve, moderada, grave y muy grave; la prestación económica solo se reconoce a partir del grado grave."
+    },
+    "correcta": "C",
+    "explicacion": "Los arts. 194-196 LGSS establecen cuatro grados de incapacidad permanente con consecuencias jurídicas distintas: (1) Incapacidad permanente parcial (IPP): reduce el rendimiento normal del trabajador en su profesión habitual en un porcentaje no inferior al 33%, sin impedirle la realización de las tareas fundamentales de dicha profesión. Prestación: indemnización a tanto alzado. (2) Incapacidad permanente total (IPT): inhabilita al trabajador para la realización de todas las tareas de su profesión habitual, pero puede dedicarse a otra distinta. Prestación: pensión mensual. (3) Incapacidad permanente absoluta (IPA): inhabilita al trabajador para toda profesión u oficio. Prestación: pensión mensual más elevada. (4) Gran invalidez (GI): el trabajador incapacitado permanente necesita la asistencia de otra persona para realizar los actos más esenciales de la vida (vestirse, comer, desplazarse). Prestación: pensión mensual más un complemento para remunerar a quien le asiste.",
+    "why": "A la IP tiene cuatro grados bien diferenciados con prestaciones distintas. B la clasificación interna sí existe y determina la cuantía y naturaleza de la prestación. D esa terminología no existe en la LGSS; la clasificación legal es parcial/total/absoluta/gran invalidez.",
+    "norma": "Real Decreto Legislativo 8/2015, Ley General de la Seguridad Social",
+    "articulo": "194-196 LGSS"
+  },
+  {
+    "id": "B3T34-003",
+    "bloque": 3,
+    "tema": 34,
+    "test": 34,
+    "dificultad": "facil",
+    "pregunta": "¿Qué estableció la Ley 27/2011 respecto a la edad ordinaria de jubilación y cuál es la carencia mínima para acceder a la pensión?",
+    "opciones": {
+      "A": "La Ley 27/2011 estableció el aumento progresivo de la edad ordinaria de jubilación hasta los 67 años en 2027, con posibilidad de jubilarse a los 65 si se acreditan 38 años y 6 meses de cotización; la carencia mínima es de 15 años, de los cuales al menos 2 deben estar comprendidos en los 15 años inmediatamente anteriores a la jubilación.",
+      "B": "La edad de jubilación es siempre 60 años para todos los trabajadores, sin distinción.",
+      "C": "La edad de jubilación es siempre 65 años y no tiene relación con los años cotizados.",
+      "D": "No existe edad legal de jubilación; el trabajador decide libremente cuándo retirarse."
+    },
+    "correcta": "A",
+    "explicacion": "La Ley 27/2011, de 1 de agosto, sobre actualización, adecuación y modernización del sistema de Seguridad Social, introdujo la reforma estructural más importante del sistema de pensiones en décadas. Sus puntos clave son: (1) Edad ordinaria de jubilación: aumento progresivo desde los 65 años (en 2012) hasta los 67 años, que se alcanzará en 2027; no obstante, quien acredite 38 años y 6 meses de cotización puede jubilarse a los 65 años (sin penalización). (2) Carencia mínima: se mantiene en 15 años (1.800 días), de los cuales al menos 2 años deben estar comprendidos en los 15 años inmediatamente anteriores a la fecha del hecho causante. (3) Base reguladora: se calcula sobre los últimos 25 años de cotización (extendida de 15 a 25 años por la misma reforma). Estas modificaciones buscan adaptar el sistema al envejecimiento de la población y al aumento de la esperanza de vida.",
+    "why": "B la edad de 60 años correspondía al sistema anterior a las reformas; nunca fue la edad legal estándar en el modelo actual. C la edad de 67 está vinculada a los años cotizados: quien tiene suficientes años puede jubilarse antes (a los 65). D la jubilación tiene una edad legal mínima; no puede solicitarse antes sin penalización.",
+    "norma": "Ley 27/2011, de 1 de agosto; Real Decreto Legislativo 8/2015 (LGSS)",
+    "articulo": "205 LGSS"
+  },
+  {
+    "id": "B3T34-004",
+    "bloque": 3,
+    "tema": 34,
+    "test": 34,
+    "dificultad": "facil",
+    "pregunta": "¿Cuál es la carencia mínima exigida para la prestación contributiva por desempleo y cuál es su duración máxima?",
+    "opciones": {
+      "A": "Basta con haber cotizado 1 día por desempleo para acceder a la prestación; la duración es siempre de 2 años.",
+      "B": "Se requiere cotización de 5 años consecutivos; la duración máxima es de 5 años.",
+      "C": "La carencia es de 10 años de cotización; la duración máxima es de 1 año.",
+      "D": "Para acceder a la prestación contributiva por desempleo se requiere encontrarse en situación legal de desempleo involuntario y haber cotizado por la contingencia de desempleo al menos 360 días en los últimos 6 años; la duración máxima es de 720 días (2 años) para quienes acrediten 2.160 o más días cotizados."
+    },
+    "correcta": "D",
+    "explicacion": "El art. 269 LGSS establece el período de carencia y la escala de duración de la prestación por desempleo. Carencia: 360 días cotizados por la contingencia de desempleo en los 6 años anteriores al hecho causante. Duración: se establece una escala que relaciona el número de días cotizados con la duración del subsidio: de 360 a 539 días cotizados → 120 días de prestación; de 540 a 719 → 180 días; y así sucesivamente, llegando al máximo de 720 días (2 años) para quienes hayan cotizado 2.160 días o más. Además, para acceder se requiere: estar en situación legal de desempleo (despido, fin de contrato temporal, ERE, etc.), inscribirse como demandante de empleo, suscribir el compromiso de actividad y no superar los límites de renta. La prestación es gestionada por el SEPE.",
+    "why": "A la carencia de un solo día no es suficiente; son necesarios 360 días en los últimos 6 años. B la carencia no exige 5 años consecutivos; son 360 días en los 6 años previos. C la carencia no es de 10 años y la duración máxima es de 720 días, no de 1 año.",
+    "norma": "Real Decreto Legislativo 8/2015, Ley General de la Seguridad Social",
+    "articulo": "266-275 LGSS"
+  },
+  {
+    "id": "B3T34-005",
+    "bloque": 3,
+    "tema": 34,
+    "test": 34,
+    "dificultad": "facil",
+    "pregunta": "¿Quién puede ser beneficiario de la pensión de viudedad de la Seguridad Social?",
+    "opciones": {
+      "A": "Solo los cónyuges supervivientes que tengan hijos menores de edad en común con el fallecido.",
+      "B": "El cónyuge superviviente del causante fallecido (cuando se cumplen los requisitos de cotización del causante), así como, bajo determinados requisitos más estrictos, las parejas de hecho inscritas y los excónyuges en ciertos supuestos (divorcio o separación con pensión compensatoria).",
+      "C": "La pensión de viudedad solo se reconoce a las mujeres viudas; los hombres viudos deben acreditarla judicialmente.",
+      "D": "Solo tienen derecho a la pensión de viudedad quienes estuvieran casados con el fallecido durante al menos 10 años."
+    },
+    "correcta": "B",
+    "explicacion": "Los arts. 219-223 LGSS regulan la pensión de viudedad con una configuración más amplia que la del matrimonio clásico: (1) Cónyuge superviviente: tiene derecho cuando el causante fallecido reunía los requisitos de cotización (si fallece por enfermedad común: 500 días en los 5 años anteriores, o carencia genérica de 15 años; si fallece por AT/EP no se exige carencia). (2) Pareja de hecho: desde la Ley 40/2007, pueden acceder si estaban inscritas como pareja de hecho al menos 2 años antes del fallecimiento y sus ingresos no superan el 50% de la suma de los ingresos propios más los del causante (25% si no tienen hijos comunes). (3) Excónyuge: puede cobrar la pensión o una parte si tenía reconocida una pensión compensatoria por el juez del divorcio o separación y esta se extingue con la muerte del causante. No se exige mínimo de tiempo de matrimonio.",
+    "why": "A la pensión de viudedad no está condicionada a tener hijos menores; su fundamento es el fallecimiento del cónyuge o pareja de hecho con los requisitos legales. C la pensión de viudedad se reconoce sin distinción de sexo; los hombres viudos tienen los mismos derechos que las mujeres viudas. D no existe un requisito de 10 años de matrimonio para acceder a la pensión de viudedad ordinaria.",
+    "norma": "Real Decreto Legislativo 8/2015, Ley General de la Seguridad Social",
+    "articulo": "219-223 LGSS"
+  },
+  {
+    "id": "B3T34-006",
+    "bloque": 3,
+    "tema": 34,
+    "test": 34,
+    "dificultad": "facil",
+    "pregunta": "¿Cuántas semanas de prestación por nacimiento y cuidado de menor tiene derecho a disfrutar cada progenitor desde la equiparación de 2021?",
+    "opciones": {
+      "A": "Desde la equiparación establecida en 2021, cada progenitor tiene derecho a 16 semanas de prestación por nacimiento y cuidado de menor, siendo las 6 primeras semanas obligatorias, inmediatas e intransferibles para cada uno.",
+      "B": "La madre tiene derecho a 16 semanas y el otro progenitor solo a 4 semanas de prestación.",
+      "C": "La prestación es de 12 semanas para quien da a luz y de 2 semanas para el otro progenitor.",
+      "D": "Las 16 semanas son conjuntas para ambos progenitores y las distribuyen como acuerden entre ellos."
+    },
+    "correcta": "A",
+    "explicacion": "Los arts. 177-185 LGSS, en la redacción dada por el RDL 6/2019 (con aplicación plena desde el 1 de abril de 2021), consagraron la plena igualdad en la prestación por nacimiento y cuidado de menor: (1) Duración: 16 semanas para cada progenitor (independientemente de su sexo). (2) Semanas obligatorias: las 6 primeras semanas son de descanso obligatorio, inmediato e ininterrumpido tras el nacimiento (o adopción/acogimiento), y no pueden cederse ni aplazarse. (3) Semanas voluntarias: las 10 semanas restantes pueden tomarse de forma acumulada o interrumpida por períodos semanales, hasta que el menor cumpla 12 meses. (4) Intransferibilidad: las semanas de un progenitor no pueden cederse al otro; cada uno disfruta sus 16 semanas propias. (5) Cuantía: 100% de la base reguladora. Esta equiparación busca fomentar la corresponsabilidad en el cuidado de los menores.",
+    "why": "B la reforma de 2021 igualó la duración para ambos progenitores; ya no existe diferencia de 16 semanas frente a 4. C las duraciones de 12 y 2 semanas corresponden a la situación anterior a la reforma de 2019-2021. D las semanas son individuales para cada progenitor, no conjuntas ni distribuibles entre ellos.",
+    "norma": "Real Decreto Legislativo 8/2015, LGSS; Real Decreto-ley 6/2019",
+    "articulo": "177-185 LGSS"
+  },
+  {
+    "id": "B3T34-007",
+    "bloque": 3,
+    "tema": 34,
+    "test": 34,
+    "dificultad": "media",
+    "pregunta": "¿Cuáles son las principales diferencias entre la incapacidad temporal derivada de contingencias profesionales y la derivada de contingencias comunes?",
+    "opciones": {
+      "A": "La IT por contingencias profesionales y la IT por contingencias comunes tienen exactamente el mismo régimen jurídico en cuanto a carencia, cuantía y quién paga.",
+      "B": "En la IT por accidente de trabajo, el INSS paga desde el primer día el 100% del salario al trabajador directamente.",
+      "C": "La IT por contingencias profesionales (AT o EP) no exige período de carencia previo y la cuantía es el 75% de la base de cotización desde el primer día de IT; la IT por contingencias comunes exige 180 días cotizados en los 5 años anteriores y la cuantía es el 60% de la BC entre los días 4 y 20, elevándose al 75% desde el día 21.",
+      "D": "La IT por accidente de trabajo tiene una duración máxima inferior (180 días) frente a los 365 de la IT por contingencias comunes."
+    },
+    "correcta": "C",
+    "explicacion": "Las diferencias entre IT por contingencias profesionales y comunes son sustanciales: (1) Carencia: las contingencias profesionales (AT y EP) no requieren período de carencia previo; la IT por enfermedad común o accidente no laboral requiere 180 días cotizados en los 5 años anteriores a la baja. (2) Cuantía: en AT/EP, el subsidio es del 75% de la base reguladora desde el primer día de IT (el día del accidente lo paga la empresa como jornada normal); en contingencias comunes, los días 4-20 son el 60% BC y a partir del día 21 es el 75%. (3) Pago: en AT/EP, generalmente gestiona la MCSS a la que esté adscrito el empresario o el INSS. (4) Duración máxima: idéntica en ambas: 365 días prorrogables hasta 180 días más (total 545 días). Esta diferencia favorable para las contingencias profesionales refleja el carácter objetivo de la responsabilidad empresarial en los riesgos del trabajo.",
+    "why": "A existen diferencias significativas en carencia y cuantía entre ambos tipos de IT. B el INSS no paga el 100% del salario desde el primer día; en AT/EP el porcentaje es el 75% de la BC y el día del accidente lo paga la empresa como jornada ordinaria. D la duración máxima es la misma para ambos tipos de IT: 365 días + posible prórroga de 180 días.",
+    "norma": "Real Decreto Legislativo 8/2015, Ley General de la Seguridad Social",
+    "articulo": "169-176 LGSS"
+  },
+  {
+    "id": "B3T34-008",
+    "bloque": 3,
+    "tema": 34,
+    "test": 34,
+    "dificultad": "media",
+    "pregunta": "¿Cuál es el porcentaje de la pensión de incapacidad permanente total sobre la base reguladora y en qué consiste la modalidad «cualificada»?",
+    "opciones": {
+      "A": "La incapacidad permanente total otorga siempre el 100% de la base reguladora, igual que la pensión de jubilación.",
+      "B": "La incapacidad permanente total otorga el 55% de la base reguladora; si el trabajador tiene 55 o más años y presenta especiales dificultades para encontrar empleo en actividad distinta a la habitual (IPT cualificada), el porcentaje se eleva al 75% de la base reguladora.",
+      "C": "La IPT otorga el 33% de la base reguladora; no existe ningún incremento posterior por edad.",
+      "D": "La incapacidad permanente total está reservada a trabajadores mayores de 60 años; los más jóvenes solo pueden acceder a la incapacidad temporal indefinida."
+    },
+    "correcta": "B",
+    "explicacion": "El art. 196 LGSS regula la cuantía de la IPT con dos posibles porcentajes: (1) IPT ordinaria: el 55% de la base reguladora, calculada de forma diferente según la contingencia sea común o profesional. Esta pensión es compatible con el ejercicio de una actividad profesional diferente a la habitual que motivó la declaración. (2) IPT cualificada (art. 196.2 LGSS): cuando el trabajador incapacitado permanente total tiene 55 o más años y, por su falta de preparación general o especializada y las circunstancias sociales y laborales del lugar de residencia, se presuma la dificultad de obtener empleo en actividad distinta a la habitual, el porcentaje aplicable pasa del 55% al 75% de la base reguladora. Este incremento se aplica de oficio y puede revisarse si la situación del beneficiario cambia. La IPT es compatible con el trabajo, a diferencia de la IPA.",
+    "why": "A el 100% de la base reguladora corresponde a la IPA y a la GI, no a la IPT. C el 33% no corresponde a ningún grado de IP; el porcentaje mínimo de la IPT es el 55%. D la IPT no está restringida a mayores de 60 años; puede reconocerse a cualquier trabajador con independencia de su edad cuando cumple los requisitos médicos.",
+    "norma": "Real Decreto Legislativo 8/2015, Ley General de la Seguridad Social",
+    "articulo": "196 LGSS"
+  },
+  {
+    "id": "B3T34-009",
+    "bloque": 3,
+    "tema": 34,
+    "test": 34,
+    "dificultad": "media",
+    "pregunta": "¿Cuál es la cuantía de la pensión de incapacidad permanente absoluta y qué tratamiento fiscal recibe?",
+    "opciones": {
+      "A": "La IPA otorga el 75% de la base reguladora y obliga al trabajador a jubilarse anticipadamente.",
+      "B": "La IPA equivale al 80% de la base reguladora y tributa en el IRPF como el resto de las rentas del trabajo.",
+      "C": "La IPA está reservada exclusivamente a trabajadores mayores de 55 años.",
+      "D": "La incapacidad permanente absoluta otorga el 100% de la base reguladora y la pensión está exenta de IRPF conforme al art. 7.f) de la Ley del IRPF; el art. 198 LGSS permite el ejercicio de actividades compatibles con el estado del incapacitado siempre que no representen un cambio en su capacidad de trabajo a efectos de revisión."
+    },
+    "correcta": "D",
+    "explicacion": "El art. 196.1 LGSS establece que la cuantía de la pensión de IPA es el 100% de la base reguladora (calculada del mismo modo que para la jubilación si la contingencia es común, o a partir de los salarios reales si es profesional). Desde el punto de vista fiscal, el art. 7.f) de la Ley 35/2006 del IRPF declara exentas las prestaciones reconocidas al contribuyente por la Seguridad Social como consecuencia de incapacidad permanente absoluta o gran invalidez, lo que supone una ventaja fiscal considerable respecto a otras pensiones contributivas. Respecto a la compatibilidad con el trabajo, el art. 198 LGSS ha evolucionado: actualmente permite que el reconocimiento de IPA no impida el ejercicio de actividades lucrativas o no lucrativas que sean compatibles con el estado del incapacitado y que no supongan un cambio en su capacidad de trabajo a efectos de revisión del grado.",
+    "why": "A el porcentaje de la IPA es el 100% de la BR, no el 75%; y la IPA no implica jubilación anticipada. B el porcentaje correcto es el 100% y la pensión de IPA está exenta de IRPF, no tributa como renta del trabajo. C la IPA no tiene límite de edad para su reconocimiento; depende de la incapacidad médica, no de la edad.",
+    "norma": "Real Decreto Legislativo 8/2015, LGSS; Ley 35/2006 del IRPF",
+    "articulo": "196 LGSS; 7.f) LIRPF; 198 LGSS"
+  },
+  {
+    "id": "B3T34-010",
+    "bloque": 3,
+    "tema": 34,
+    "test": 34,
+    "dificultad": "media",
+    "pregunta": "¿En qué consiste la prestación de gran invalidez y cómo se calcula el complemento económico que lleva aparejado?",
+    "opciones": {
+      "A": "La gran invalidez otorga el 100% de la base reguladora más un complemento destinado a remunerar a quien asiste al inválido, equivalente al 45% de la base mínima de cotización vigente más el 30% de la última base de cotización del trabajador; en la práctica supone una cuantía total aproximada del 150% de la base reguladora.",
+      "B": "La gran invalidez otorga exactamente la misma prestación que la IPA (100% BR), sin ningún complemento adicional.",
+      "C": "La gran invalidez otorga el 200% de la base reguladora; es la prestación más elevada del sistema de Seguridad Social.",
+      "D": "El complemento de la gran invalidez es fijo e igual para todos los beneficiarios, independientemente del salario del trabajador."
+    },
+    "correcta": "A",
+    "explicacion": "El art. 196.4 LGSS establece que la cuantía de la pensión de gran invalidez se determinará aplicando a la base reguladora correspondiente el porcentaje aplicable a la IPA (100%), y se incrementará, mediante un complemento, destinado a que el inválido pueda remunerar a la persona que le atienda. El importe de dicho complemento será equivalente al resultado de sumar el 45% de la base mínima de cotización vigente en el momento del hecho causante y el 30% de la última base de cotización del trabajador correspondiente a la contingencia de la que derive la situación de incapacidad permanente. Dado que la base de cotización del trabajador suele ser sustancialmente superior a la base mínima, el complemento total ronda en la práctica el 50% adicional de la BR, llevando la prestación total a aproximadamente el 150% de la base reguladora. La GI también está exenta de IRPF al igual que la IPA.",
+    "why": "B la gran invalidez sí incluye un complemento adicional que la diferencia de la IPA; este complemento está destinado a sufragar la asistencia de tercera persona. C el 200% de la BR no está previsto en ninguna norma; el complemento eleva la cuantía total a aproximadamente el 150%, no el 200%. D el complemento no es fijo; varía según la base mínima de cotización y la última base de cotización del propio trabajador.",
+    "norma": "Real Decreto Legislativo 8/2015, Ley General de la Seguridad Social",
+    "articulo": "196.4 LGSS"
+  },
+  {
+    "id": "B3T34-011",
+    "bloque": 3,
+    "tema": 34,
+    "test": 34,
+    "dificultad": "media",
+    "pregunta": "¿Cuáles son la carencia mínima para la pensión de jubilación ordinaria y el período sobre el que se calcula la base reguladora?",
+    "opciones": {
+      "A": "No se exige ningún período de carencia para la jubilación ordinaria; basta con tener la edad legal.",
+      "B": "La carencia mínima es de 30 años de cotización; la base reguladora es la media del último año de trabajo.",
+      "C": "Para acceder a la pensión de jubilación ordinaria se requiere haber cotizado al menos 15 años (carencia mínima), de los cuales al menos 2 deben estar comprendidos en los 15 años inmediatamente anteriores a la jubilación; la base reguladora se calcula sobre los últimos 25 años de cotización.",
+      "D": "Basta con cotizar 10 años; la base reguladora es la media de los últimos 5 años de cotización."
+    },
+    "correcta": "C",
+    "explicacion": "El art. 205 LGSS (carencia) y el art. 209 LGSS (base reguladora) establecen los parámetros técnicos de la pensión de jubilación: (1) Carencia mínima: 15 años (1.800 días cotizados), de los cuales 2 años (720 días) deben estar comprendidos dentro de los 15 años inmediatamente anteriores a la fecha del hecho causante o a la fecha en que cesó la obligación de cotizar. Sin esta carencia específica, no se genera derecho a la pensión. (2) Base reguladora: se calcula dividiendo por 350 las bases de cotización del beneficiario durante los 300 meses (25 años) anteriores al hecho causante, con aplicación de determinadas reglas para los meses sin cotización. Esta extensión a 25 años fue introducida por la Ley 27/2011 (antes era de 15 años) para capturar de forma más fiel toda la carrera laboral del trabajador.",
+    "why": "A la carencia de 15 años es un requisito ineludible; sin ella no existe derecho a pensión de jubilación contributiva. B la carencia no es de 30 años; son 15 años mínimos. La base reguladora tampoco se limita al último año. D la carencia no es de 10 años; son 15 años mínimos. La base reguladora abarca los últimos 25 años, no solo 5.",
+    "norma": "Real Decreto Legislativo 8/2015, Ley General de la Seguridad Social",
+    "articulo": "205 y 209 LGSS"
+  },
+  {
+    "id": "B3T34-012",
+    "bloque": 3,
+    "tema": 34,
+    "test": 34,
+    "dificultad": "media",
+    "pregunta": "¿Cuáles son los requisitos para acceder a la jubilación anticipada voluntaria y qué penalización implica?",
+    "opciones": {
+      "A": "La jubilación anticipada voluntaria no implica ninguna reducción en la cuantía de la pensión; es idéntica a la jubilación ordinaria.",
+      "B": "La jubilación anticipada voluntaria está disponible para cualquier trabajador a partir de los 55 años, sin requisito de cotización mínima.",
+      "C": "La jubilación anticipada voluntaria requiere haberla solicitado a la empresa con 5 años de antelación; si la empresa no lo autoriza, no es posible acceder a ella.",
+      "D": "Para acceder a la jubilación anticipada voluntaria se requiere tener al menos 2 años menos que la edad ordinaria de jubilación y acreditar 35 años de cotización; la pensión se reduce mediante coeficientes por cada trimestre de anticipación (entre el 1,5% y el 1,875% por trimestre según los años cotizados), siempre que la pensión resultante sea superior a la mínima garantizada."
+    },
+    "correcta": "D",
+    "explicacion": "El art. 208 LGSS regula la jubilación anticipada por voluntad del interesado con los siguientes requisitos: (1) Edad: al menos 2 años antes de la edad ordinaria de jubilación (en 2027 será a partir de los 65 años). (2) Carencia: acreditar 35 años de cotización efectiva. (3) Cuantía mínima: la pensión resultante de aplicar las reducciones no puede ser inferior a la pensión mínima garantizada. (4) Reducción por anticipación: por cada trimestre o fracción de trimestre de anticipación respecto a la edad ordinaria, se aplica un coeficiente reductor que varía entre el 1,5% (para cotizaciones ≥44 años y 6 meses) y el 1,875% (para cotizaciones de 35 a 37 años); es decir, entre el 6% y el 7,5% por año de anticipación. Existe también la jubilación anticipada involuntaria (despido o causa no imputable al trabajador): posible con 4 años de anticipación, 33 años de carencia, y coeficientes algo menores.",
+    "why": "A la jubilación anticipada voluntaria sí implica una penalización; la reducción puede alcanzar hasta el 15% si se anticipa 2 años. B la edad mínima no es 55 años para la voluntaria; son 2 años menos que la ordinaria (65 aproximadamente) y se exige una carencia de 35 años. C la jubilación anticipada no requiere autorización empresarial; es un derecho del trabajador al cumplir los requisitos.",
+    "norma": "Real Decreto Legislativo 8/2015, Ley General de la Seguridad Social",
+    "articulo": "208 LGSS"
+  },
+  {
+    "id": "B3T34-013",
+    "bloque": 3,
+    "tema": 34,
+    "test": 34,
+    "dificultad": "media",
+    "pregunta": "¿Cómo se calcula la cuantía de la prestación contributiva por desempleo?",
+    "opciones": {
+      "A": "La prestación contributiva por desempleo equivale al 70% de la base reguladora (media de las bases cotizadas por desempleo en los últimos 6 meses) durante los primeros 180 días, y al 50% a partir del día 181; la cuantía está sujeta a un mínimo y un máximo vinculados al IPREM y al número de hijos a cargo.",
+      "B": "La prestación equivale siempre al 100% del último salario percibido durante todo el período de cobro.",
+      "C": "La cuantía es siempre el 60% del Salario Mínimo Interprofesional, independientemente del salario previo.",
+      "D": "La prestación equivale al 80% del salario durante los primeros 12 meses, reduciéndose un 10% por cada año adicional."
+    },
+    "correcta": "A",
+    "explicacion": "El art. 270 LGSS establece la cuantía de la prestación por desempleo. Base reguladora: media de las bases de cotización por desempleo correspondientes a los últimos 6 meses del período de ocupación cotizada. Porcentajes: durante los primeros 180 días se percibe el 70% de la base reguladora; a partir del día 181 el porcentaje se reduce al 50%. Límites: la cuantía tiene un tope máximo (175% del IPREM, o 200% si el trabajador tiene un hijo a cargo, o 225% con dos o más hijos) y un mínimo (80% del IPREM, o 107% con hijos a cargo). El IPREM (Indicador Público de Renta de Efectos Múltiples) es la referencia económica que el legislador utiliza como módulo para calcular mínimos y máximos de las prestaciones asistenciales y contributivas. La prestación es gestionada y pagada directamente por el SEPE.",
+    "why": "B no existe ninguna prestación de desempleo que equivalga al 100% del salario anterior; el porcentaje máximo es el 70% durante los primeros 180 días. C el 60% del SMI no es el baremo de la prestación por desempleo; el cálculo se basa en la base reguladora (media de los últimos 6 meses cotizados) con los porcentajes del 70% y 50%. D el porcentaje del 80% durante 12 meses con reducción posterior no corresponde a la regulación legal española.",
+    "norma": "Real Decreto Legislativo 8/2015, Ley General de la Seguridad Social",
+    "articulo": "270 LGSS"
+  },
+  {
+    "id": "B3T34-014",
+    "bloque": 3,
+    "tema": 34,
+    "test": 34,
+    "dificultad": "media",
+    "pregunta": "¿A qué colectivos está destinado el subsidio de desempleo (nivel asistencial) y cuál es su cuantía?",
+    "opciones": {
+      "A": "El subsidio asistencial está disponible para cualquier desempleado sin necesidad de acreditar ningún requisito económico previo.",
+      "B": "El subsidio asistencial es idéntico en cuantía a la prestación contributiva; solo se diferencia en su duración más limitada.",
+      "C": "El subsidio de desempleo asistencial está destinado, entre otros, a quienes han agotado la prestación contributiva y tienen responsabilidades familiares, a mayores de 52 años que reúnen determinados requisitos, a liberados de prisión y a trabajadores con cotización insuficiente para el nivel contributivo (con un mínimo de 3 meses cotizados); su cuantía es el 80% del IPREM mensual.",
+      "D": "El subsidio asistencial solo existe para personas con discapacidad reconocida; el resto de desempleados no pueden acceder a él."
+    },
+    "correcta": "C",
+    "explicacion": "Los arts. 274-277 LGSS regulan el nivel asistencial de la protección por desempleo. Puede acceder quien se encuentre en alguna de estas situaciones: (1) Haber agotado la prestación contributiva y tener responsabilidades familiares (cargas familiares). (2) Ser mayor de 52 años, haber agotado la prestación y reunir todos los requisitos para la jubilación contributiva salvo la edad (este subsidio permite mantener la cotización hasta la jubilación). (3) Haber sido liberado de prisión. (4) Ser emigrante retornado. (5) Haber cotizado al menos 3 meses sin alcanzar la carencia de 360 días exigida para el nivel contributivo, si se tienen cargas familiares. (6) También incluye a los trabajadores fijos discontinuos en determinados períodos. Cuantía: 80% del IPREM mensual (aproximadamente 480 €/mes en 2024). Su carácter asistencial implica que está condicionado a carecer de rentas propias superiores al 75% del SMI.",
+    "why": "A el subsidio asistencial requiere cumplir requisitos específicos: situación de necesidad concreta y, en muchos casos, carencia de rentas; no es universal. B la cuantía del subsidio asistencial (80% del IPREM) es sensiblemente inferior a la prestación contributiva (70-50% de la base reguladora, que suele ser superior al IPREM). D el subsidio asistencial no es exclusivo para personas con discapacidad; cubre varios colectivos específicos mencionados en los arts. 274-277 LGSS.",
+    "norma": "Real Decreto Legislativo 8/2015, Ley General de la Seguridad Social",
+    "articulo": "274-277 LGSS"
+  },
+  {
+    "id": "B3T34-015",
+    "bloque": 3,
+    "tema": 34,
+    "test": 34,
+    "dificultad": "media",
+    "pregunta": "¿Bajo qué condiciones pueden acceder las parejas de hecho a la pensión de viudedad?",
+    "opciones": {
+      "A": "Las parejas de hecho nunca pueden ser beneficiarias de la pensión de viudedad, con independencia de la duración de la convivencia.",
+      "B": "Las parejas de hecho inscritas en el registro correspondiente al menos dos años antes del fallecimiento pueden acceder a la pensión de viudedad si sus ingresos anuales no superan el 50% de la suma de los ingresos propios más los del causante (o el 25% si no hay hijos comunes); los requisitos son más estrictos que para los cónyuges.",
+      "C": "Las parejas de hecho tienen exactamente los mismos derechos que los matrimonios para el acceso a la pensión de viudedad; no existe diferencia de requisitos.",
+      "D": "Las parejas de hecho solo pueden acceder a la pensión de viudedad si tienen hijos comunes menores de edad."
+    },
+    "correcta": "B",
+    "explicacion": "La Ley 40/2007, de medidas en materia de Seguridad Social, introdujo el acceso de las parejas de hecho a la pensión de viudedad, recogido hoy en el art. 221 LGSS. Los requisitos son más estrictos que para los matrimonios: (1) Inscripción: la pareja debe estar inscrita en el registro de parejas de hecho (de la CCAA o del municipio correspondiente) o haber acreditado la convivencia de manera fehaciente, con una antelación mínima de dos años al fallecimiento del causante. (2) Requisito económico: los ingresos anuales del sobreviviente no pueden superar el 50% de la suma de los suyos más los del causante durante el año natural anterior al fallecimiento (o el 25% si no tienen hijos comunes). (3) Causante: debe reunir los mismos requisitos de cotización que para el caso de matrimonio. Este régimen más restrictivo para las parejas de hecho ha sido objeto de controversia y recursos, habiendo el Tribunal Constitucional avalado la diferenciación.",
+    "why": "A desde la Ley 40/2007 las parejas de hecho sí pueden acceder a la pensión de viudedad, aunque con requisitos más estrictos. C los requisitos para las parejas de hecho son más estrictos que para los cónyuges (inscripción previa + requisito económico). D el requisito de tener hijos comunes menores no es condición necesaria para acceder a la pensión; el requisito es la inscripción y el requisito económico.",
+    "norma": "Real Decreto Legislativo 8/2015, LGSS; Ley 40/2007",
+    "articulo": "221 LGSS"
+  },
+  {
+    "id": "B3T34-016",
+    "bloque": 3,
+    "tema": 34,
+    "test": 34,
+    "dificultad": "media",
+    "pregunta": "¿Cuál es el porcentaje de la prestación de orfandad y hasta qué edad se mantiene el derecho?",
+    "opciones": {
+      "A": "La prestación de orfandad equivale al 50% de la base reguladora del causante para cada huérfano, hasta que cumple 18 años.",
+      "B": "La prestación de orfandad es del 20% de la BR y se extingue automáticamente a los 16 años.",
+      "C": "Solo se reconoce la prestación de orfandad a los hijos biológicos del causante; los adoptados quedan excluidos.",
+      "D": "La prestación de orfandad equivale al 20% de la base reguladora del causante para cada huérfano; el derecho se mantiene hasta los 21 años (o 25 años si el huérfano no trabaja y sus ingresos son inferiores al SMI, o sin límite de edad si tiene una discapacidad igual o superior al 33%)."
+    },
+    "correcta": "D",
+    "explicacion": "Los arts. 224-225 LGSS regulan la prestación de orfandad: (1) Cuantía: el 20% de la base reguladora del causante para cada huérfano. Si solo existen huérfanos (sin viudo/a), la suma de todas las pensiones de orfandad no puede superar el 100% de la BR. (2) Beneficiarios: hijos del causante (biológicos, adoptados o acogidos) que estén en situación de orfandad. (3) Límites de edad: el derecho se mantiene hasta los 21 años ordinariamente; hasta los 25 si el huérfano convive con el beneficiario, no trabaja y sus ingresos son inferiores al 75% del SMI en cómputo anual; sin límite de edad si tiene una discapacidad reconocida del 33% o superior. (4) En caso de orfandad absoluta (muerte de ambos progenitores), el porcentaje máximo puede elevarse hasta el 70% de la BR del segundo causante.",
+    "why": "A el porcentaje de orfandad es el 20%, no el 50%; el 50% corresponde a la pensión de jubilación con carencia mínima. B aunque el porcentaje del 20% es correcto, la edad de extinción de 16 años es errónea; la orfandad se extiende hasta los 21 años (o más en ciertos casos). C la prestación de orfandad alcanza a los hijos adoptados y acogidos de carácter permanente en las mismas condiciones que los biológicos.",
+    "norma": "Real Decreto Legislativo 8/2015, Ley General de la Seguridad Social",
+    "articulo": "224-225 LGSS"
+  },
+  {
+    "id": "B3T34-017",
+    "bloque": 3,
+    "tema": 34,
+    "test": 34,
+    "dificultad": "dificil",
+    "pregunta": "¿Cuál es la duración máxima de la incapacidad temporal y qué puede hacer el INSS una vez superado el plazo ordinario de 365 días?",
+    "opciones": {
+      "A": "La incapacidad temporal no tiene duración máxima; el trabajador puede permanecer de baja indefinidamente mientras el médico lo certifique.",
+      "B": "La duración máxima de la IT es de 365 días, transcurrido el cual el INSS puede prorrogar la IT hasta un máximo de 180 días más cuando prevea que en ese tiempo puede producirse la curación del trabajador, iniciar el procedimiento de incapacidad permanente o emitir el alta médica; en total, el período máximo es de 545 días.",
+      "C": "La duración máxima de la IT es de 6 meses (180 días), tras los cuales se convierte automáticamente en incapacidad permanente.",
+      "D": "La IT tiene una duración máxima de 12 meses improrrogables; si el trabajador sigue enfermo, pierde el subsidio pero mantiene el contrato de trabajo."
+    },
+    "correcta": "B",
+    "explicacion": "El art. 170 LGSS establece el régimen de duración de la IT: (1) Duración ordinaria: 365 días naturales; durante este período el alta médica corresponde al médico del Servicio Público de Salud. (2) Al llegar a los 365 días: el INSS asume el control de la situación y puede: (a) Prorrogar la IT hasta un máximo de 180 días más si prevé que en ese plazo el trabajador puede curar o mejorar; (b) Iniciar el expediente de incapacidad permanente si la situación es irreversible; (c) Determinar el alta médica por curación o por incomparecencia a los reconocimientos médicos. (3) Duración máxima total: 365 + 180 = 545 días naturales. Transcurrido este período sin resolución, se inicia de oficio el expediente de IP o se produce el alta. (4) Situación laboral durante IT: el contrato se suspende (art. 45 ET), lo que protege el empleo del trabajador durante toda la IT.",
+    "why": "A la IT tiene duración máxima legal (365 días + 180 de prórroga = 545 días); no es indefinida aunque el médico certifique la baja. C los 180 días no son el máximo de la IT; son el máximo de la prórroga que puede conceder el INSS una vez superados los 365 días ordinarios. D el plazo ordinario de IT es 365 días (no 12 meses entendidos como período distinto), más posible prórroga.",
+    "norma": "Real Decreto Legislativo 8/2015, Ley General de la Seguridad Social",
+    "articulo": "170 LGSS"
+  },
+  {
+    "id": "B3T34-018",
+    "bloque": 3,
+    "tema": 34,
+    "test": 34,
+    "dificultad": "dificil",
+    "pregunta": "¿Cómo se calcula el porcentaje de la pensión de jubilación sobre la base reguladora en función de los años cotizados?",
+    "opciones": {
+      "A": "Cualquier trabajador que cumpla la carencia mínima de 15 años recibe el 100% de la base reguladora.",
+      "B": "El porcentaje máximo de la pensión de jubilación es el 75%; para alcanzar más es necesario contratar planes de pensiones privados.",
+      "C": "El porcentaje es lineal: un 2,75% por año cotizado; con 36 años se alcanza exactamente el 100%.",
+      "D": "Con 15 años de cotización (carencia mínima) la pensión es el 50% de la base reguladora; se incrementa progresivamente cada mes cotizado adicional (aproximadamente 0,19% por mes entre los años 16 y 35 y 0,18% por mes a partir de ahí), alcanzándose el 100% con aproximadamente 36-37 años de cotización; los años adicionales no incrementan el porcentaje más allá del 100%."
+    },
+    "correcta": "D",
+    "explicacion": "El art. 210 LGSS establece la escala de porcentajes de la pensión de jubilación: (1) Con 15 años cotizados (carencia mínima): 50% de la base reguladora. (2) Incremento: por cada mes adicional cotizado a partir del año 16.º, el porcentaje aumenta a razón de aproximadamente 0,19% por mes durante los primeros 209 meses adicionales (años 16-32 aproximadamente) y 0,18% por mes a partir de ahí. (3) El 100%: se alcanza con aproximadamente 36-37 años de cotización, según la escala vigente. (4) Una vez alcanzado el 100%, cotizar años adicionales no aumenta el porcentaje de la pensión, aunque permite acceder a la jubilación demorada con incentivos (bonificación del 4% al año de retraso). Este sistema incentiva la cotización prolongada y desincentiva la jubilación anticipada al penalizarla con porcentajes más bajos.",
+    "why": "A con 15 años de cotización solo se alcanza el 50% de la BR, no el 100%; el 100% requiere aproximadamente 36-37 años de cotización. B el 100% sí es alcanzable dentro del sistema público; los planes privados son complementarios pero no necesarios para alcanzar el 100%. C el porcentaje no es estrictamente lineal; la escala diferencia entre los primeros meses adicionales y los posteriores, y parte del 50% a los 15 años.",
+    "norma": "Real Decreto Legislativo 8/2015, Ley General de la Seguridad Social",
+    "articulo": "210 LGSS"
+  },
+  {
+    "id": "B3T34-019",
+    "bloque": 3,
+    "tema": 34,
+    "test": 34,
+    "dificultad": "dificil",
+    "pregunta": "¿Qué es la incapacidad permanente parcial y qué tipo de prestación económica otorga?",
+    "opciones": {
+      "A": "La incapacidad permanente parcial es aquella que, sin llegar a la total, produce al trabajador una disminución de su rendimiento normal en su profesión habitual de al menos el 33%; no genera una pensión vitalicia sino una indemnización a tanto alzado equivalente a 24 mensualidades de la base reguladora.",
+      "B": "La IPP otorga una pensión mensual vitalicia del 33% de la base reguladora del trabajador.",
+      "C": "La IPP solo se reconoce cuando la incapacidad deriva de accidente de trabajo; no existe el grado parcial en caso de enfermedad común.",
+      "D": "La IPP otorga el mismo porcentaje que la IPT (55% BR) pero durante un máximo de 5 años, transcurridos los cuales el trabajador se reincorpora forzosamente."
+    },
+    "correcta": "A",
+    "explicacion": "El art. 194.1 LGSS define la incapacidad permanente parcial como aquella que, sin alcanzar el grado de total, ocasione al trabajador una disminución no inferior al 33% en su rendimiento normal para dicha profesión, sin impedirle la realización de las tareas fundamentales de la misma. Su régimen jurídico difiere sustancialmente del resto de grados: (1) No genera una pensión mensual vitalicia, sino una indemnización a tanto alzado. (2) La cuantía de la indemnización es de 24 mensualidades de la base reguladora del trabajador. (3) Es compatible con continuar trabajando en la misma profesión habitual (a diferencia de la IPT, que impide el trabajo habitual). (4) No genera el derecho a la jubilación anticipada ni al complemento de tercera persona. Esta modalidad es habitual en supuestos de pérdida de un miembro o función que no incapacita totalmente al trabajador para su profesión pero sí reduce significativamente su rendimiento.",
+    "why": "B la IPP no genera pensión mensual vitalicia; otorga una indemnización única de 24 mensualidades. C la IPP puede derivar tanto de contingencias profesionales (AT/EP) como de contingencias comunes; no está limitada a las profesionales. D la IPP no equivale al 55% de la BR; ese porcentaje corresponde a la IPT. La IPP es una indemnización, no una pensión periódica.",
+    "norma": "Real Decreto Legislativo 8/2015, Ley General de la Seguridad Social",
+    "articulo": "194.1 y 196.3 LGSS"
+  },
+  {
+    "id": "B3T34-020",
+    "bloque": 3,
+    "tema": 34,
+    "test": 34,
+    "dificultad": "dificil",
+    "pregunta": "¿Cuál es el régimen de las 10 semanas voluntarias de la prestación por nacimiento y cuidado de menor y en qué condiciones pueden disfrutarse?",
+    "opciones": {
+      "A": "Las 16 semanas de prestación deben disfrutarse de forma consecutiva e inmediatamente tras el parto o adopción; no pueden fraccionarse ni aplazarse.",
+      "B": "Solo son obligatorias las 2 primeras semanas para cada progenitor; las restantes 14 semanas pueden cederse libremente entre progenitores.",
+      "C": "De las 16 semanas de prestación por nacimiento y cuidado de menor, las 6 primeras son obligatorias e ininterrumpidas para cada progenitor y deben disfrutarse inmediatamente tras el nacimiento; las 10 semanas restantes pueden tomarse de forma acumulada o interrumpida por períodos semanales hasta que el menor cumpla 12 meses, no son transferibles entre progenitores y pueden disfrutarse a tiempo parcial (reducción mínima del 50% de la jornada).",
+      "D": "Las 16 semanas no pueden disfrutarse a tiempo parcial en ningún caso; el trabajador debe elegir entre tomarlas al 100% de la jornada o renunciar completamente a ellas."
+    },
+    "correcta": "C",
+    "explicacion": "El art. 177 y ss. LGSS, en la redacción vigente tras el RDL 6/2019, establece el régimen de disfrute de la prestación por nacimiento y cuidado de menor: (1) Semanas obligatorias (6): las 6 primeras semanas tras el nacimiento son de descanso obligatorio, ininterrumpido e inmediato para cada progenitor; no pueden aplazarse ni fraccionarse. (2) Semanas voluntarias (10): las 10 semanas restantes pueden disfrutarse: (a) de forma acumulada o interrumpida, dentro del primer año de vida del menor; (b) a tiempo parcial, con una reducción de jornada de al menos el 50%; (c) en períodos semanales (mínimo una semana); (d) con preaviso al empresario de 15 días. (3) Intransferibilidad: las semanas de un progenitor son exclusivas suyas; no pueden cederse al otro progenitor, lo que refuerza la corresponsabilidad. (4) La cuantía es el 100% de la base reguladora en todo caso, tanto en período obligatorio como voluntario y tanto en disfrute completo como a tiempo parcial.",
+    "why": "A las 10 semanas voluntarias pueden fraccionarse y aplazarse hasta que el menor cumpla 12 meses; solo las 6 primeras son obligatoriamente consecutivas e inmediatas. B son 6 las semanas obligatorias, no 2; además, las semanas no pueden cederse entre progenitores. D la prestación sí puede disfrutarse a tiempo parcial (al menos al 50% de la jornada), lo que permite compatibilizarla con una jornada reducida.",
+    "norma": "Real Decreto Legislativo 8/2015, LGSS; Real Decreto-ley 6/2019",
+    "articulo": "177-185 LGSS"
+  }
+]
