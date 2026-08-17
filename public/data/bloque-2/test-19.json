@@ -1,0 +1,382 @@
+[
+  {
+    "id": "B2T19-001",
+    "bloque": 2,
+    "tema": 19,
+    "test": 19,
+    "dificultad": "facil",
+    "pregunta": "¿Qué precepto constitucional ampara la expropiación forzosa y qué garantías establece para el expropiado?",
+    "opciones": {
+      "A": "El art. 128 CE, que subordina toda la riqueza nacional al interés general.",
+      "B": "El art. 9.3 CE, que consagra la seguridad jurídica y la responsabilidad de los poderes públicos.",
+      "C": "El art. 33.3 CE, que permite la privación de bienes y derechos por causa justificada de utilidad pública o interés social, con la correspondiente indemnización y conforme a lo dispuesto por las leyes.",
+      "D": "El art. 103.1 CE, que establece el principio de servicio de la Administración a los intereses generales."
+    },
+    "correcta": "C",
+    "explicacion": "El art. 33.3 CE es el fundamento constitucional de la expropiación forzosa. Establece tres garantías: causa expropiandi (utilidad pública o interés social), indemnización correspondiente y reserva de ley (conforme a lo dispuesto por las leyes). Sin la concurrencia de estas tres garantías, la privación de bienes sería inconstitucional.",
+    "why": "A el art. 128 CE habilita la intervención del Estado en la economía pero no regula la expropiación individual. B el art. 9.3 CE enuncia principios generales de constitucionalidad, no la expropiación. D el art. 103.1 CE organiza la Administración Pública pero no es el fundamento del derecho de expropiación.",
+    "norma": "Constitución Española",
+    "articulo": "33.3"
+  },
+  {
+    "id": "B2T19-002",
+    "bloque": 2,
+    "tema": 19,
+    "test": 19,
+    "dificultad": "facil",
+    "pregunta": "Según el art. 1 de la Ley de Expropiación Forzosa de 1954, ¿qué comprende el concepto de expropiación forzosa?",
+    "opciones": {
+      "A": "Únicamente la transmisión coactiva de la propiedad de inmuebles mediante compraventa forzosa por precio tasado judicialmente.",
+      "B": "Cualquier forma de privación singular de la propiedad privada o de derechos o intereses patrimoniales legítimos, acordada imperativamente, ya implique venta, permuta, ocupación temporal o mera cesación de su ejercicio.",
+      "C": "Exclusivamente la privación de la propiedad de inmuebles destinados a obras públicas de titularidad estatal.",
+      "D": "Solo la adquisición forzosa de bienes de titularidad particular por parte de la Administración General del Estado."
+    },
+    "correcta": "B",
+    "explicacion": "El art. 1 LEF define la expropiación forzosa de forma amplia: abarca cualquier privación singular de la propiedad privada o de derechos e intereses patrimoniales legítimos, con carácter imperativo, y puede adoptar distintas formas (venta, permuta, censo, arrendamiento, ocupación temporal o mera cesación del ejercicio). No se limita a la compraventa de inmuebles ni a obras del Estado.",
+    "why": "A restringe la expropiación a inmuebles y a la forma de compraventa, cuando la ley contempla muchas formas y tipos de bienes. C limita la expropiación a obras públicas estatales, excluyendo las autonómicas, locales y las de interés social. D excluye a las CCAA, entes locales y beneficiarios privados, que también pueden ser sujetos del procedimiento.",
+    "norma": "Ley de Expropiación Forzosa de 1954",
+    "articulo": "1"
+  },
+  {
+    "id": "B2T19-003",
+    "bloque": 2,
+    "tema": 19,
+    "test": 19,
+    "dificultad": "facil",
+    "pregunta": "¿Cuáles son los sujetos que intervienen en el procedimiento expropiatorio según la Ley de Expropiación Forzosa?",
+    "opciones": {
+      "A": "El juez expropiante, el perito tasador y el propietario afectado.",
+      "B": "El expropiante, el beneficiario y el expropiado; el expropiante es siempre una Administración Pública, mientras que el beneficiario puede ser la propia Administración u otro sujeto público o privado autorizado por la ley.",
+      "C": "El Estado central como expropiante exclusivo, el concesionario como beneficiario y el ciudadano como expropiado.",
+      "D": "El Ministerio de Hacienda como expropiante, el órgano gestor competente como beneficiario y el titular registral como expropiado."
+    },
+    "correcta": "B",
+    "explicacion": "El art. 3 LEF distingue tres sujetos: el expropiante (siempre una Administración Pública, sea el Estado, la Provincia, el Municipio u otra entidad habilitada), el beneficiario (que puede coincidir con el expropiante o ser un tercero, público o privado, a cuyo favor se realiza la expropiación) y el expropiado (el titular del bien o derecho que se priva). La distinción entre expropiante y beneficiario es importante porque el beneficiario asume la obligación de pagar el justiprecio.",
+    "why": "A el juez no es sujeto de la expropiación administrativa; el perito tampoco es sujeto en sentido estricto. C limita el expropiante al Estado central cuando la LEF habilita también a CCAA y entidades locales. D el Ministerio de Hacienda no es el expropiante general; cada Administración competente actúa como expropiante en su ámbito.",
+    "norma": "Ley de Expropiación Forzosa de 1954",
+    "articulo": "3"
+  },
+  {
+    "id": "B2T19-004",
+    "bloque": 2,
+    "tema": 19,
+    "test": 19,
+    "dificultad": "facil",
+    "pregunta": "¿Qué se entiende por 'causa expropiandi' y qué formas puede adoptar según la Ley de Expropiación Forzosa?",
+    "opciones": {
+      "A": "La necesidad presupuestaria de la Administración, que justifica la adquisición forzosa de bienes cuando no puede hacerlo por el mercado libre.",
+      "B": "La declaración de utilidad pública o interés social que legitima la privación del bien; puede estar declarada de forma genérica por una ley o de forma concreta por acuerdo del Consejo de Ministros u órgano equivalente.",
+      "C": "La sentencia del Tribunal Supremo que reconoce el derecho de la Administración a expropiar en un caso concreto.",
+      "D": "El informe favorable del Consejo de Estado y la autorización presupuestaria del Ministerio de Hacienda."
+    },
+    "correcta": "B",
+    "explicacion": "La causa expropiandi es el elemento que justifica la privación coactiva del bien: la utilidad pública (cuando el beneficiario es la propia Administración o se trata de obras públicas) o el interés social (cuando el beneficiario es un particular o entidad privada que cumple una función social). Puede estar declarada genéricamente por ley para ciertas actividades (art. 10 LEF: obras públicas de interés general, etc.) o de forma concreta mediante acuerdo del Consejo de Ministros o del órgano autonómico equivalente.",
+    "why": "A la necesidad presupuestaria no es causa legítima de expropiación; la privación debe responder a UP o IS, no a conveniencia económica de la Administración. C ningún tribunal declara la causa expropiandi; es un acto del poder ejecutivo o legislativo. D el informe del Consejo de Estado y la autorización de Hacienda son trámites del procedimiento, no la causa que lo legitima.",
+    "norma": "Ley de Expropiación Forzosa de 1954",
+    "articulo": "9 y 10"
+  },
+  {
+    "id": "B2T19-005",
+    "bloque": 2,
+    "tema": 19,
+    "test": 19,
+    "dificultad": "facil",
+    "pregunta": "¿Qué debe cubrir el 'justo precio' o justiprecio en la expropiación forzosa?",
+    "opciones": {
+      "A": "Únicamente el valor catastral del bien en el momento de la notificación de inicio del expediente.",
+      "B": "El valor de mercado del bien más un recargo obligatorio del 25 % como compensación por la privación forzosa.",
+      "C": "La indemnización equivalente al valor real del bien o derecho expropiado, que compense el daño patrimonial sufrido por el expropiado sin que ninguna de las partes obtenga un beneficio injusto.",
+      "D": "El precio pactado en el último contrato de compraventa del inmueble inscrito en el Registro de la Propiedad."
+    },
+    "correcta": "C",
+    "explicacion": "El justiprecio debe ser una indemnización que cubra el valor real del bien o derecho expropiado, ni el enriquecimiento del expropiado ni el empobrecimiento injusto. No se toman como referencia obligatoria el valor catastral ni el último precio de transmisión, aunque pueden ser elementos de valoración. Tampoco existe un recargo legal fijo del 25 %; lo que sí existe es el 5 % del premio de afección (art. 47 LEF) que compensa los perjuicios de carácter moral y sentimental.",
+    "why": "A el valor catastral suele estar desactualizado y no refleja el valor real; la ley no lo fija como límite obligatorio. B el 25 % de recargo automático no existe en la LEF; el premio de afección es del 5 %. D el último precio contractual puede no reflejar el valor real y puede haberse pactado en condiciones muy diferentes.",
+    "norma": "Ley de Expropiación Forzosa de 1954",
+    "articulo": "33 y 47"
+  },
+  {
+    "id": "B2T19-006",
+    "bloque": 2,
+    "tema": 19,
+    "test": 19,
+    "dificultad": "facil",
+    "pregunta": "¿En qué consiste el derecho de reversión reconocido en el art. 54 de la Ley de Expropiación Forzosa?",
+    "opciones": {
+      "A": "El derecho de la Administración a recuperar el precio pagado si demuestra que el bien valía menos de lo abonado.",
+      "B": "El derecho del expropiado o sus causahabientes a recuperar el bien expropiado si este no se destina al fin que justificó la expropiación o si dicha afectación desaparece, restituyendo el precio recibido actualizado.",
+      "C": "La facultad del expropiado de solicitar tasación pericial judicial si no está conforme con el justiprecio fijado por el Jurado.",
+      "D": "El derecho de la Administración a expropiar nuevamente un bien ya revertido al propietario original sin necesidad de nuevo procedimiento."
+    },
+    "correcta": "B",
+    "explicacion": "El art. 54 LEF reconoce al expropiado (o a sus causahabientes) el derecho a recuperar el bien expropiado cuando la causa expropiandi no se cumple: si el bien no se destina al fin que motivó la expropiación, si la afectación desaparece o si no se inicia la ejecución en el plazo legal. Para ejercer la reversión, el titular debe restituir el justiprecio que recibió, actualizado. La reversión es un mecanismo de garantía frente al uso abusivo o desviado de la potestad expropiatoria.",
+    "why": "A la Administración no puede recuperar el precio; el justiprecio es la contraprestación legítima de la privación. C la discrepancia con el Jurado da lugar a recurso contencioso, no a reversión. D la Administración no puede re-expropiar sin nuevo procedimiento completo con las mismas garantías.",
+    "norma": "Ley de Expropiación Forzosa de 1954",
+    "articulo": "54"
+  },
+  {
+    "id": "B2T19-007",
+    "bloque": 2,
+    "tema": 19,
+    "test": 19,
+    "dificultad": "media",
+    "pregunta": "¿Cuál es el orden correcto de las fases del procedimiento ordinario de expropiación forzosa?",
+    "opciones": {
+      "A": "Declaración de necesidad de ocupación → declaración de utilidad pública → determinación del justiprecio → toma de posesión → pago.",
+      "B": "Declaración de utilidad pública o interés social → declaración de necesidad de ocupación → determinación del justiprecio → pago o consignación → toma de posesión.",
+      "C": "Declaración de necesidad de ocupación → determinación del justiprecio → pago → declaración de utilidad pública → toma de posesión.",
+      "D": "Toma de posesión provisional → declaración de utilidad pública → fijación del justiprecio → pago → toma de posesión definitiva."
+    },
+    "correcta": "B",
+    "explicacion": "El procedimiento ordinario de la LEF sigue este orden: (1) declaración de utilidad pública o interés social, que habilita la potestad expropiatoria; (2) declaración de necesidad de ocupación de los bienes concretos necesarios; (3) determinación del justiprecio mediante mutuo acuerdo o Jurado Provincial; (4) pago o consignación del justiprecio; (5) toma de posesión del bien. En el procedimiento ordinario, el pago es PREVIO a la toma de posesión, lo que distingue a este procedimiento del de urgencia.",
+    "why": "A invierte el orden de las dos primeras fases (la UP debe declararse antes de identificar los bienes concretos) y pospone el pago a después de la toma de posesión. C coloca la UP al final del procedimiento cuando es el presupuesto habilitante inicial. D describe el procedimiento de urgencia (toma de posesión provisional antes del pago), no el ordinario.",
+    "norma": "Ley de Expropiación Forzosa de 1954",
+    "articulo": "9, 15, 24, 48 y 51"
+  },
+  {
+    "id": "B2T19-008",
+    "bloque": 2,
+    "tema": 19,
+    "test": 19,
+    "dificultad": "media",
+    "pregunta": "Una vez publicada la relación de bienes y derechos necesarios para la expropiación, ¿de cuánto tiempo disponen los interesados para formular alegaciones ante la Administración?",
+    "opciones": {
+      "A": "10 días hábiles desde la publicación en el boletín oficial.",
+      "B": "20 días naturales desde la notificación personal al propietario.",
+      "C": "15 días hábiles desde la publicación en el boletín oficial y la notificación individual a los propietarios afectados.",
+      "D": "30 días naturales contados desde la última publicación efectuada."
+    },
+    "correcta": "C",
+    "explicacion": "Los arts. 17-18 LEF establecen que la relación de bienes y derechos se somete a información pública mediante publicación en el Boletín Oficial correspondiente, y se notifica individualmente a los propietarios y demás interesados. El plazo para formular alegaciones u oponerse a la necesidad de ocupación de bienes concretos es de 15 días hábiles. Transcurrido ese plazo, la Administración resuelve las reclamaciones y dicta resolución aprobando definitivamente la relación de bienes a expropiar.",
+    "why": "A el plazo de 10 días es insuficiente según la LEF y no permite una defensa adecuada de los interesados. B los 20 días corresponden a otro trámite distinto (el plazo para aceptar o rechazar la hoja de aprecio, art. 26 LEF). D el plazo de 30 días no está contemplado en la LEF para este trámite.",
+    "norma": "Ley de Expropiación Forzosa de 1954",
+    "articulo": "17 y 18"
+  },
+  {
+    "id": "B2T19-009",
+    "bloque": 2,
+    "tema": 19,
+    "test": 19,
+    "dificultad": "media",
+    "pregunta": "Una vez que la Administración notifica al expropiado su hoja de aprecio con la valoración del bien, ¿de cuánto tiempo dispone el propietario para aceptarla o rechazarla?",
+    "opciones": {
+      "A": "10 días hábiles desde la notificación.",
+      "B": "20 días desde la notificación de la hoja de aprecio.",
+      "C": "30 días naturales desde que se le comunica el valor ofrecido.",
+      "D": "Un mes, como plazo de garantía mínima establecido por el Reglamento de la LEF."
+    },
+    "correcta": "B",
+    "explicacion": "El art. 26 LEF fija en 20 días el plazo del que dispone el propietario para aceptar o rechazar la hoja de aprecio formulada por la Administración. Si la acepta, ese precio se convierte en el justiprecio definitivo y se procede al pago. Si la rechaza, debe formular su propia hoja de aprecio valorando el bien en un plazo de 20 días adicionales.",
+    "why": "A el plazo de 10 días es insuficiente para una decisión patrimonial relevante y no es el que fija la LEF. C el plazo de 30 días no está previsto para este trámite. D el mes no es la unidad que usa la LEF en este punto; el plazo es de 20 días, no un mes.",
+    "norma": "Ley de Expropiación Forzosa de 1954",
+    "articulo": "26"
+  },
+  {
+    "id": "B2T19-010",
+    "bloque": 2,
+    "tema": 19,
+    "test": 19,
+    "dificultad": "media",
+    "pregunta": "Si el expropiado rechaza la hoja de aprecio de la Administración y formula la suya propia, ¿qué sucede si la Administración tampoco acepta la valoración del expropiado?",
+    "opciones": {
+      "A": "Se acude directamente al juicio de expropiación ante la jurisdicción civil, que fijará el justiprecio por peritos.",
+      "B": "Se celebra un arbitraje vinculante entre la Administración y el expropiado conforme a la Ley de Arbitraje.",
+      "C": "El expediente se remite al Jurado Provincial de Expropiación, que fija el justiprecio definitivo mediante resolución motivada, impugnable ante la jurisdicción contencioso-administrativa.",
+      "D": "El expropiado pierde el derecho a su valoración y recibe el importe de la hoja de la Administración reducido en un 10 %."
+    },
+    "correcta": "C",
+    "explicacion": "El art. 30 LEF establece que cuando la Administración no acepta la valoración formulada por el expropiado en su hoja de aprecio, el expediente se remite al Jurado Provincial de Expropiación. Este órgano administrativo colegiado fija el justiprecio mediante resolución motivada, que es ejecutiva aunque pueda impugnarse ante el orden contencioso-administrativo. La resolución del Jurado puede ser más favorable al expropiado, a la Administración o coincidir con cualquiera de las hojas de aprecio.",
+    "why": "A la LEF no remite al orden civil sino al Jurado Provincial como instancia de valoración; el contencioso es la vía de impugnación de la resolución del Jurado. B la LEF no prevé arbitraje; el mecanismo de resolución de discrepancias es el Jurado Provincial, un órgano administrativo. D la ley no establece penalización alguna para el expropiado que rechaza la hoja de la Administración.",
+    "norma": "Ley de Expropiación Forzosa de 1954",
+    "articulo": "30"
+  },
+  {
+    "id": "B2T19-011",
+    "bloque": 2,
+    "tema": 19,
+    "test": 19,
+    "dificultad": "media",
+    "pregunta": "¿Qué naturaleza jurídica tiene el Jurado Provincial de Expropiación y cuál es su función principal?",
+    "opciones": {
+      "A": "Es un órgano de la Administración de Justicia con competencia exclusiva para valorar todos los bienes objeto de expropiación.",
+      "B": "Es un órgano administrativo colegiado especializado en valoración que fija el justiprecio cuando no hay acuerdo entre Administración y expropiado; sus resoluciones son ejecutivas e impugnables ante la jurisdicción contencioso-administrativa.",
+      "C": "Es un órgano arbitral privado cuyos laudos tienen la misma fuerza ejecutiva que una sentencia judicial firme e inatacable.",
+      "D": "Es una comisión parlamentaria que supervisa la legalidad de las expropiaciones y tiene potestad para anularlas."
+    },
+    "correcta": "B",
+    "explicacion": "El Jurado Provincial de Expropiación (arts. 32-35 LEF) es un órgano administrativo colegiado, no judicial ni arbitral. Su composición incluye representantes de la Administración y de cuerpos técnicos especializados. Su función es fijar el justiprecio cuando Administración y expropiado no alcanzan acuerdo. Sus resoluciones son ejecutivas y se presumen ajustadas a derecho, pero pueden impugnarse ante la jurisdicción contencioso-administrativa. Los tribunales del orden contencioso pueden revisar tanto la legalidad del procedimiento como la corrección de la valoración.",
+    "why": "A el Jurado es un órgano administrativo, no judicial; no forma parte del Poder Judicial. C no es un árbitro privado; es un órgano de la Administración Pública, aunque actúe con cierta imparcialidad técnica. D los Parlamentos no tienen funciones de valoración o expropiación de bienes individuales.",
+    "norma": "Ley de Expropiación Forzosa de 1954",
+    "articulo": "32 a 35"
+  },
+  {
+    "id": "B2T19-012",
+    "bloque": 2,
+    "tema": 19,
+    "test": 19,
+    "dificultad": "media",
+    "pregunta": "¿Cuál es la característica fundamental que distingue el procedimiento de urgencia (art. 52 LEF) del procedimiento ordinario de expropiación?",
+    "opciones": {
+      "A": "En el procedimiento de urgencia, el justiprecio lo fija directamente el Consejo de Ministros, sin intervención del Jurado Provincial.",
+      "B": "En el procedimiento de urgencia se invierte el orden ordinario: la Administración puede ocupar el bien antes de que se haya determinado y pagado el justiprecio definitivo, previo depósito e indemnización provisional y levantamiento de acta previa.",
+      "C": "En el procedimiento de urgencia, el expropiado pierde el derecho a formular su hoja de aprecio y solo puede aceptar la valoración de la Administración.",
+      "D": "En el procedimiento de urgencia se exime a la Administración del pago de intereses si el justiprecio se demora más de dos años."
+    },
+    "correcta": "B",
+    "explicacion": "El art. 52 LEF regula el procedimiento de urgencia, cuya nota esencial es la inversión del iter ordinario: la Administración puede ocupar el bien de forma inmediata (antes de fijar y pagar el justiprecio definitivo) mediante el levantamiento de actas previas de ocupación y la consignación del depósito previo correspondiente a la indemnización por perjuicios de la rápida ocupación. El justiprecio definitivo se fija con posterioridad por el procedimiento ordinario (mutuo acuerdo o Jurado).",
+    "why": "A el Jurado Provincial sigue siendo el órgano de valoración en caso de desacuerdo; el Consejo de Ministros solo declara la urgente ocupación. C el expropiado mantiene todos sus derechos de valoración; la única diferencia es que la ocupación se anticipa al pago. D los intereses de demora no se eliminan en el procedimiento de urgencia; la deuda de justiprecio sigue generando intereses si se paga con retraso.",
+    "norma": "Ley de Expropiación Forzosa de 1954",
+    "articulo": "52"
+  },
+  {
+    "id": "B2T19-013",
+    "bloque": 2,
+    "tema": 19,
+    "test": 19,
+    "dificultad": "media",
+    "pregunta": "¿En qué momento puede alcanzarse el mutuo acuerdo para fijar el justiprecio en la expropiación forzosa?",
+    "opciones": {
+      "A": "Solo antes de que la Administración formule su hoja de aprecio; una vez presentada, el mutuo acuerdo ya no es posible.",
+      "B": "Únicamente cuando el expropiado lo solicita expresamente dentro de los cinco días siguientes a la declaración de necesidad de ocupación.",
+      "C": "En cualquier fase del procedimiento, incluso después de que el expediente haya sido remitido al Jurado Provincial, siempre que este no haya dictado aún su resolución.",
+      "D": "Solo si la Administración obtiene informe favorable del Consejo de Estado y autorización presupuestaria previa."
+    },
+    "correcta": "C",
+    "explicacion": "El art. 24 LEF contempla el mutuo acuerdo como alternativa al procedimiento contradictorio de valoración. El acuerdo puede alcanzarse en cualquier momento de la tramitación del expediente, incluyendo después de remitido al Jurado Provincial, siempre que este no haya resuelto todavía. El precio acordado de mutuo acuerdo no está sujeto a los criterios tasados del Jurado y puede ser libremente negociado entre las partes.",
+    "why": "A limitar el mutuo acuerdo al inicio del procedimiento contraría el espíritu de la LEF, que favorece el acuerdo en cualquier momento para evitar la litigiosidad. B la solicitud del expropiado no es el único mecanismo; la Administración también puede proponer el acuerdo, y el plazo de cinco días no existe en la ley. D el Consejo de Estado no interviene en la aprobación de acuerdos de justiprecio salvo en supuestos muy concretos.",
+    "norma": "Ley de Expropiación Forzosa de 1954",
+    "articulo": "24"
+  },
+  {
+    "id": "B2T19-014",
+    "bloque": 2,
+    "tema": 19,
+    "test": 19,
+    "dificultad": "media",
+    "pregunta": "Si el expropiado se niega a recibir el justiprecio o no puede localizarse, ¿qué mecanismo prevé la LEF para que la Administración pueda proceder a la toma de posesión?",
+    "opciones": {
+      "A": "Solicitar autorización judicial para proceder a la ocupación sin pago.",
+      "B": "Suspender el procedimiento indefinidamente hasta que el expropiado se presente voluntariamente.",
+      "C": "Consignar el importe del justiprecio en la Caja General de Depósitos a disposición del interesado, lo que equivale al pago a todos los efectos y habilita la toma de posesión.",
+      "D": "Iniciar de nuevo el procedimiento con una nueva hoja de aprecio reducida, que el expropiado no puede rechazar."
+    },
+    "correcta": "C",
+    "explicacion": "El art. 50 LEF establece que cuando el propietario no quiere recibir el precio, existen litigios pendientes sobre la propiedad o concurren otras causas que impiden el pago directo, la Administración puede consignar el importe del justiprecio en la Caja General de Depósitos. La consignación equivale al pago a todos los efectos legales: libera a la Administración de la obligación de pago inmediato y habilita la toma de posesión del bien expropiado, sin perjuicio del derecho del interesado a cobrar el importe consignado en cualquier momento.",
+    "why": "A la LEF no requiere autorización judicial para la toma de posesión cuando el justiprecio ha sido consignado; el procedimiento es puramente administrativo. B la suspensión indefinida dejaría sin efecto la expropiación y no está prevista en la LEF. D la ley no autoriza la reducción del justiprecio ya fijado como mecanismo de presión.",
+    "norma": "Ley de Expropiación Forzosa de 1954",
+    "articulo": "50"
+  },
+  {
+    "id": "B2T19-015",
+    "bloque": 2,
+    "tema": 19,
+    "test": 19,
+    "dificultad": "media",
+    "pregunta": "Si la Administración no abona el justiprecio en el plazo establecido tras su determinación, ¿qué consecuencia económica prevé la Ley de Expropiación Forzosa?",
+    "opciones": {
+      "A": "La expropiación se suspende automáticamente y el bien revierte al propietario hasta que se efectúe el pago.",
+      "B": "La deuda de justiprecio se extingue por prescripción si el propietario no reclama en el plazo de un año.",
+      "C": "El importe del justiprecio devengará intereses de demora a favor del expropiado desde que debió efectuarse el pago.",
+      "D": "El Jurado Provincial debe revisar el justiprecio de oficio y reducirlo en proporción al tiempo transcurrido."
+    },
+    "correcta": "C",
+    "explicacion": "El art. 56 LEF establece que si transcurrido el plazo legal para el pago del justiprecio la Administración no lo ha abonado, la cantidad adeudada devengará intereses de demora a favor del expropiado. Estos intereses corren desde la fecha en que debió efectuarse el pago (o desde la firmeza de la resolución que fijó el justiprecio) hasta el pago efectivo o la consignación. El devengo de intereses es automático y no requiere reclamación previa del expropiado.",
+    "why": "A la demora en el pago no produce la reversión automática del bien; la reversión tiene sus propios presupuestos (arts. 54-55 LEF). B la deuda de justiprecio no prescribe en un año por inactividad del expropiado; la normativa no establece ese plazo tan breve para este caso. D el Jurado no revisa el justiprecio por demora en el pago; la consecuencia de la demora son los intereses.",
+    "norma": "Ley de Expropiación Forzosa de 1954",
+    "articulo": "56"
+  },
+  {
+    "id": "B2T19-016",
+    "bloque": 2,
+    "tema": 19,
+    "test": 19,
+    "dificultad": "media",
+    "pregunta": "¿En qué supuesto nace el derecho del expropiado a solicitar la retasación del bien expropiado?",
+    "opciones": {
+      "A": "Cuando el expropiado considere que el Jurado Provincial cometió un error de cálculo en la fijación del justiprecio.",
+      "B": "Cuando hayan transcurrido más de dos años desde la fijación del justiprecio sin que el pago o la consignación del mismo hayan tenido lugar.",
+      "C": "Cuando el valor de mercado del bien haya bajado después de la expropiación y el expropiado quiera reclamar la diferencia.",
+      "D": "Siempre que el expropiado presente nueva documentación acreditativa del valor del bien antes de la toma de posesión."
+    },
+    "correcta": "B",
+    "explicacion": "El art. 58 del Reglamento de la LEF (Decreto de 26 de abril de 1957) establece que si transcurren más de dos años desde la fijación del justiprecio sin que se haya procedido al pago o consignación, el expropiado puede solicitar la retasación del bien. La retasación consiste en una nueva valoración que refleje el valor real del bien en el momento actual, compensando la pérdida de poder adquisitivo del justiprecio original por el paso del tiempo.",
+    "why": "A la discrepancia con la resolución del Jurado se impugna ante la jurisdicción contencioso-administrativa, no mediante retasación. C la retasación no está dirigida a compensar una bajada del mercado sino a actualizar el valor por demora en el pago; si el mercado baja, el expropiado no puede reclamar la diferencia. D la mera aportación de documentación nueva no habilita la retasación; esta requiere el transcurso del plazo legal sin pago.",
+    "norma": "Reglamento de la LEF (Decreto 26 abril 1957)",
+    "articulo": "58"
+  },
+  {
+    "id": "B2T19-017",
+    "bloque": 2,
+    "tema": 19,
+    "test": 19,
+    "dificultad": "dificil",
+    "pregunta": "En el procedimiento de urgencia, ¿qué es el acta previa de ocupación y qué función jurídica desempeña?",
+    "opciones": {
+      "A": "Es el documento que sustituye al justiprecio definitivo y fija de forma irrevocable la indemnización total del expropiado.",
+      "B": "Es el acuerdo suscrito entre la Administración y el expropiado que pone fin al procedimiento permitiendo la ocupación inmediata sin necesidad de pago posterior.",
+      "C": "Es el documento levantado sobre el terreno que describe el estado del bien antes de la ocupación y fija la base para calcular la indemnización por perjuicios de la rápida ocupación; junto con el depósito previo, habilita la toma de posesión inmediata antes de que se fije el justiprecio definitivo.",
+      "D": "Es la resolución del Jurado Provincial que autoriza la ocupación urgente cuando la Administración acredita suficientemente la urgencia de la actuación."
+    },
+    "correcta": "C",
+    "explicacion": "En el procedimiento de urgencia (art. 52 LEF), el acta previa de ocupación se levanta en el lugar sobre el que se va a actuar. En ella se describe el bien, su estado y los elementos que determinarán la indemnización por perjuicios de la rápida ocupación (cosechas pendientes, servidumbres, etc.). Una vez levantada el acta y consignado el depósito previo que cubre esa indemnización, la Administración puede tomar posesión inmediatamente. El justiprecio definitivo se determina con posterioridad mediante el procedimiento ordinario de valoración.",
+    "why": "A el acta previa no fija el justiprecio definitivo; solo sirve para la toma de posesión anticipada mientras el procedimiento de valoración continúa. B el acta previa no es un acuerdo extintivo del procedimiento; el expropiado sigue teniendo derecho al justiprecio completo. D el Jurado Provincial no interviene en la declaración de urgencia; esta corresponde al Consejo de Ministros u órgano equivalente autonómico.",
+    "norma": "Ley de Expropiación Forzosa de 1954",
+    "articulo": "52"
+  },
+  {
+    "id": "B2T19-018",
+    "bloque": 2,
+    "tema": 19,
+    "test": 19,
+    "dificultad": "dificil",
+    "pregunta": "Cuando la expropiación afecta solo a una parte de una finca y el resto queda inutilizado o gravemente depreciado, ¿qué derecho reconoce la LEF al propietario?",
+    "opciones": {
+      "A": "El propietario puede exigir que la expropiación se extienda a la totalidad de la finca cuando la parte no expropiada resulte antieconómica para su explotación o quede considerablemente depreciada.",
+      "B": "El propietario pierde el derecho al justiprecio por la parte no expropiada y debe cederla gratuitamente a la Administración.",
+      "C": "El propietario solo puede solicitar la revisión del justiprecio de la parte expropiada, pero no la extensión de la expropiación a la totalidad de la finca.",
+      "D": "La Administración puede expropiar el resto de la finca por el valor catastral sin necesidad de expediente adicional."
+    },
+    "correcta": "A",
+    "explicacion": "El art. 46 LEF reconoce al propietario el derecho a exigir la expropiación de la totalidad de la finca cuando la parte sobrante resulte antieconómica para su explotación por sí sola o quede considerablemente depreciada como consecuencia de la expropiación parcial. En este caso, el justiprecio se calcula sobre el valor total de la finca expropiada íntegramente, garantizando que la privación parcial no cause un perjuicio desproporcionado al propietario.",
+    "why": "B la parte no expropiada no puede cederse gratuitamente; el propietario conserva el derecho a indemnización por la totalidad si la parte restante pierde valor significativamente. C la ley sí permite la extensión de la expropiación a la totalidad en los supuestos del art. 46; limitar el recurso a la revisión del justiprecio parcial no repara el perjuicio completo. D la Administración no puede expropiar el resto por el valor catastral; si lo expropia, debe seguir el procedimiento ordinario completo.",
+    "norma": "Ley de Expropiación Forzosa de 1954",
+    "articulo": "46"
+  },
+  {
+    "id": "B2T19-019",
+    "bloque": 2,
+    "tema": 19,
+    "test": 19,
+    "dificultad": "dificil",
+    "pregunta": "¿A qué órgano corresponde acordar la declaración de urgente ocupación que activa el procedimiento especial del art. 52 LEF en el ámbito de la Administración General del Estado?",
+    "opciones": {
+      "A": "Al Jurado Provincial de Expropiación, mediante acuerdo motivado adoptado por mayoría de sus miembros.",
+      "B": "Al juez de lo contencioso-administrativo competente, a petición razonada de la Administración expropiante.",
+      "C": "Al Consejo de Ministros, mediante acuerdo expreso que declare la urgente ocupación de los bienes o derechos afectados.",
+      "D": "Al Ministerio de Hacienda, que la autoriza previo informe favorable del órgano expropiante y del Consejo de Estado."
+    },
+    "correcta": "C",
+    "explicacion": "El art. 52.1 LEF establece que el Consejo de Ministros puede acordar la aplicación del procedimiento de urgencia declarando urgente la ocupación de los bienes afectados. Para las expropiaciones en el ámbito autonómico, la competencia corresponde al órgano de gobierno equivalente de cada CCAA. La declaración de urgente ocupación es un acto discrecional pero motivado, que debe acreditar la necesidad impostergable de disponer inmediatamente del bien antes de que pueda completarse el procedimiento ordinario.",
+    "why": "A el Jurado Provincial es un órgano de valoración, no de decisión sobre el tipo de procedimiento a seguir. B la decisión de aplicar el procedimiento de urgencia es un acto del poder ejecutivo, no del judicial; no requiere autorización judicial previa. D el Ministerio de Hacienda no tiene competencia para autorizar la urgente ocupación; aunque puede intervenir en aspectos presupuestarios, la decisión de urgencia es del Consejo de Ministros.",
+    "norma": "Ley de Expropiación Forzosa de 1954",
+    "articulo": "52"
+  },
+  {
+    "id": "B2T19-020",
+    "bloque": 2,
+    "tema": 19,
+    "test": 19,
+    "dificultad": "dificil",
+    "pregunta": "Según el art. 54 LEF, ¿en cuál de los siguientes supuestos NO nace el derecho de reversión?",
+    "opciones": {
+      "A": "La obra se construyó para la que fue expropiado el bien, pero la Administración la destina después a una finalidad diferente, aunque igualmente de utilidad pública.",
+      "B": "Han transcurrido más de cinco años desde que el bien quedó a disposición de la Administración sin que se haya iniciado la ejecución de la obra o el servicio.",
+      "C": "El bien fue expropiado para construir una carretera, la carretera se construyó correctamente y sigue en servicio y afecta al mismo uso expropiatorio para el que fue privado.",
+      "D": "El servicio público para el que fue expropiado el bien fue establecido pero suprimido definitivamente tres años después."
+    },
+    "correcta": "C",
+    "explicacion": "El derecho de reversión del art. 54 LEF protege al expropiado frente al incumplimiento o la frustración de la causa expropiandi, pero no nace cuando esta se ha cumplido plena y permanentemente. Si el bien fue destinado desde el principio al fin que justificó la expropiación y permanece afectado de forma continua a ese uso, la causa expropiandi se ha satisfecho y no procede la reversión. En los otros supuestos sí nace la reversión: cambio de destino aunque sea de UP (opción A), no inicio en cinco años (opción B) y desafectación posterior (opción D).",
+    "why": "A el cambio de destino, aunque sea igualmente de UP pero distinto al original, activa la reversión según doctrina consolidada. B la no iniciación en cinco años es uno de los supuestos expresos del art. 54.1 LEF. D la supresión del servicio implica la desafectación del bien, que también activa la reversión según el art. 54.1 LEF.",
+    "norma": "Ley de Expropiación Forzosa de 1954",
+    "articulo": "54"
+  }
+]
