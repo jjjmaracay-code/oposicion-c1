@@ -1,0 +1,382 @@
+[
+  {
+    "id": "B5T43-001",
+    "bloque": 5,
+    "tema": 43,
+    "test": 43,
+    "dificultad": "facil",
+    "pregunta": "¿Cuáles son los componentes principales del Escritorio de Windows?",
+    "opciones": {
+      "A": "El Escritorio de Windows es solo un fondo de pantalla decorativo sin funcionalidad; todos los programas deben abrirse desde la línea de comandos.",
+      "B": "El Escritorio de Windows solo muestra la lista de programas instalados y no permite personalización ni acceso directo a archivos.",
+      "C": "El Escritorio de Windows es el área de trabajo principal que aparece tras iniciar sesión; sus componentes son: la barra de tareas (parte inferior, con el botón Inicio, la búsqueda, los iconos anclados y el área de notificación), los iconos del escritorio (accesos directos a programas, archivos o carpetas que el usuario puede organizar libremente) y el área central donde se abren y gestionan las ventanas de las aplicaciones; el fondo de pantalla (wallpaper) es la imagen decorativa sobre la que se muestra todo lo anterior.",
+      "D": "El Escritorio de Windows es un programa que hay que instalar por separado; el sistema operativo no incluye un entorno gráfico de escritorio por defecto."
+    },
+    "correcta": "C",
+    "explicacion": "El Escritorio (Desktop) es la interfaz gráfica principal de Windows. Sus elementos son: (1) Barra de tareas: la franja horizontal (normalmente en la parte inferior) que contiene el botón Inicio, la caja de búsqueda, los iconos de aplicaciones ancladas, los botones de las aplicaciones abiertas, el área de notificación (reloj, indicadores de red/volumen/batería, iconos del sistema) y el botón de mostrar escritorio en el extremo derecho. (2) Iconos del escritorio: accesos directos (shortcuts) a programas, documentos o carpetas; el usuario puede crear, mover, eliminar y organizar los iconos; por defecto incluyen la Papelera de reciclaje y, según la configuración, el icono de Este equipo, la Red y la carpeta de usuario. (3) Área central: el espacio donde se abren las ventanas de las aplicaciones; el usuario puede mover y redimensionar las ventanas libremente sobre este área. El escritorio es totalmente personalizable: fondo, iconos, gadgets, resolución, disposición de la barra de tareas, etc.",
+    "why": "A el Escritorio es una interfaz gráfica completamente funcional; los programas se abren desde él, no desde la línea de comandos. B el Escritorio muestra iconos de acceso directo y permite personalización; no es solo una lista de programas. D el Escritorio es parte del shell de Windows (Explorer.exe) y se incluye en toda instalación estándar de Windows.",
+    "norma": "Windows 10/11 — Escritorio",
+    "articulo": "Escritorio de Windows"
+  },
+  {
+    "id": "B5T43-002",
+    "bloque": 5,
+    "tema": 43,
+    "test": 43,
+    "dificultad": "facil",
+    "pregunta": "¿Qué elementos contiene la barra de tareas de Windows y cuáles son sus funciones?",
+    "opciones": {
+      "A": "La barra de tareas de Windows se sitúa habitualmente en la parte inferior de la pantalla y contiene: el botón Inicio (acceso al menú de programas y configuración), la caja de búsqueda, los iconos de programas anclados, los botones de las ventanas abiertas (permiten cambiar entre aplicaciones activas), el área de notificación o bandeja del sistema (reloj, red, volumen, actualizaciones y otros iconos de sistema) y el botón Mostrar escritorio (extremo derecho).",
+      "B": "La barra de tareas solo muestra el reloj del sistema; no tiene ninguna función adicional respecto a la gestión de programas o la configuración.",
+      "C": "La barra de tareas solo puede situarse en la parte inferior de la pantalla y no puede moverse ni ocultarse.",
+      "D": "La barra de tareas es la barra de herramientas de formato de las aplicaciones (negrita, cursiva, subrayado); no forma parte del entorno de escritorio de Windows."
+    },
+    "correcta": "A",
+    "explicacion": "La barra de tareas (taskbar) es uno de los elementos más importantes del escritorio de Windows. Sus componentes son: (1) Botón Inicio: abre el menú Inicio (acceso a programas, configuración y apagado). (2) Caja de búsqueda / Cortana: permite buscar aplicaciones, ficheros, configuraciones y contenido en la web directamente desde el escritorio. (3) Vista de tareas (Task View): botón que muestra todas las ventanas abiertas y permite gestionar escritorios virtuales. (4) Iconos anclados: accesos rápidos a programas frecuentes que el usuario ha fijado (pin) en la barra. (5) Botones de ventanas abiertas: cada programa abierto aparece como un botón; haciendo clic se cambia a esa aplicación o se minimizan/maximizan sus ventanas. (6) Área de notificación (system tray): iconos de estado del sistema (reloj y fecha, red Wi-Fi/Ethernet, volumen, batería en portátiles, actualizaciones pendientes, antivirus, etc.) y el Centro de notificaciones. (7) Mostrar escritorio: botón en el extremo derecho que minimiza todas las ventanas para ver el escritorio. La barra de tareas puede configurarse: moverse a los lados o arriba de la pantalla, ocultarse automáticamente, cambiar el tamaño de los iconos, etc.",
+    "why": "B la barra de tareas tiene muchas funciones además del reloj: gestión de ventanas, acceso a programas, notificaciones, búsqueda. C en versiones anteriores de Windows se podía mover a cualquier borde de la pantalla; en Windows 11 está limitada a la posición inferior. D la barra de formato de las aplicaciones es la cinta (ribbon) de Word/Excel; no tiene nada que ver con la barra de tareas del escritorio.",
+    "norma": "Windows 10/11 — Barra de tareas",
+    "articulo": "Barra de tareas de Windows"
+  },
+  {
+    "id": "B5T43-003",
+    "bloque": 5,
+    "tema": 43,
+    "test": 43,
+    "dificultad": "facil",
+    "pregunta": "¿Qué es el menú Inicio de Windows y cómo evolucionó en las últimas versiones?",
+    "opciones": {
+      "A": "El menú Inicio desapareció definitivamente en Windows 8 y no fue recuperado en versiones posteriores; desde entonces, el acceso a las aplicaciones se realiza exclusivamente desde la pantalla de inicio de mosaicos.",
+      "B": "El menú Inicio solo muestra los programas instalados; no permite acceder a la configuración del sistema ni a las opciones de apagado.",
+      "C": "El menú Inicio es un buscador de archivos exclusivamente; no tiene ninguna función relacionada con la gestión de programas ni con el sistema.",
+      "D": "El menú Inicio de Windows, accesible pulsando la tecla Windows ⊞ o haciendo clic en el botón Inicio, proporciona acceso a: la lista de programas y aplicaciones instaladas, los elementos anclados (accesos rápidos), la función de búsqueda integrada, la aplicación Configuración, las opciones de encendido (apagar, reiniciar, suspender, hibernar) y el perfil del usuario; en Windows 8 fue sustituido por la pantalla de mosaicos (muy criticada), recuperado en Windows 10 combinando el menú clásico con mosaicos dinámicos y rediseñado en Windows 11 con una disposición más centrada y simplificada."
+    },
+    "correcta": "D",
+    "explicacion": "El menú Inicio es el punto de acceso central al sistema en Windows. Su evolución: (1) Windows 95 - Vista: menú Inicio clásico en cascada en la esquina inferior izquierda. (2) Windows 7: menú Inicio rediseñado con búsqueda integrada, acceso a programas frecuentes y carpetas del usuario. (3) Windows 8/8.1: el menú Inicio fue sustituido por la pantalla de inicio de mosaicos dinámicos (Metro UI), ocupando toda la pantalla; generó fuerte rechazo por parte de los usuarios de escritorio. (4) Windows 10: recupera el menú Inicio clásico pero con mosaicos dinámicos en la zona derecha; incluye búsqueda integrada, acceso a Configuración, opciones de encendido y perfil de usuario. (5) Windows 11: menú Inicio rediseñado, centrado en la barra de tareas (no en la esquina izquierda), con iconos anclados y aplicaciones recomendadas; los mosaicos dinámicos desaparecen. El menú Inicio se activa pulsando la tecla Windows (Win o ⊞), Ctrl+Esc o haciendo clic en el botón Inicio de la barra de tareas.",
+    "why": "A el menú Inicio fue recuperado en Windows 10 tras las críticas a Windows 8; en Windows 11 sigue presente aunque rediseñado. B el menú Inicio incluye acceso a configuración, opciones de apagado, perfil de usuario y búsqueda, además de los programas. C el menú Inicio tiene múltiples funciones; la búsqueda es solo una de ellas.",
+    "norma": "Windows 10/11 — Menú Inicio",
+    "articulo": "Menú Inicio de Windows"
+  },
+  {
+    "id": "B5T43-004",
+    "bloque": 5,
+    "tema": 43,
+    "test": 43,
+    "dificultad": "facil",
+    "pregunta": "¿Cómo se pueden manipular las ventanas de aplicaciones en Windows?",
+    "opciones": {
+      "A": "Las ventanas de Windows solo pueden estar en dos estados: maximizadas (pantalla completa) o cerradas; no es posible cambiar su tamaño ni moverlas libremente.",
+      "B": "Las ventanas de aplicaciones en Windows se manipulan mediante los botones de control (esquina superior derecha) y el ratón: minimizar (ocultar en la barra de tareas, botón «_»), maximizar/restaurar (pantalla completa o tamaño previo, botón «□»), cerrar (terminar el programa, botón «X» o Alt+F4); además se pueden mover (arrastrando la barra de título), redimensionar (arrastrando los bordes o esquinas) y organizarse automáticamente con Aerosnap (arrastrar la ventana al borde izquierdo/derecho ocupa exactamente la mitad de la pantalla; al borde superior la maximiza).",
+      "C": "El único modo de cerrar una ventana en Windows es mediante el atajo Ctrl+W; el botón X de la esquina superior derecha solo oculta la ventana sin cerrar el programa.",
+      "D": "En Windows, una ventana minimizada queda completamente cerrada y el programa deja de ejecutarse; para volver a usarlo hay que abrirlo nuevamente desde el menú Inicio."
+    },
+    "correcta": "B",
+    "explicacion": "Las ventanas son el elemento central de la interfaz de Windows (de ahí el nombre del sistema operativo). Cada ventana de aplicación dispone de tres botones de control en la esquina superior derecha: (1) Minimizar (_): oculta la ventana retirándola de la pantalla; el programa sigue ejecutándose en segundo plano y su botón permanece en la barra de tareas; hacer clic en ese botón restaura la ventana. (2) Maximizar/Restaurar (□): en estado normal, maximiza la ventana para que ocupe toda la pantalla (excepto la barra de tareas); cuando está maximizada, el botón cambia a □□ (restaurar) para volver al tamaño anterior. (3) Cerrar (X): cierra la ventana y termina el programa; Alt+F4 tiene el mismo efecto. Además de los botones: (a) Mover: arrastrando la barra de título con el ratón. (b) Redimensionar: arrastrando cualquier borde o esquina. (c) Aerosnap: al arrastrar una ventana al borde izquierdo o derecho de la pantalla, ocupa exactamente la mitad; al llevarlo al borde superior, se maximiza; funciones adicionales permiten distribuir ventanas en cuartos de pantalla (Win+Flechas). La función Flip3D (Alt+Tab) y la Vista de tareas (Win+Tab) permiten ver y cambiar entre todas las ventanas abiertas.",
+    "why": "A las ventanas también pueden estar en estado restaurado (tamaño libre) y minimizadas; se pueden mover y redimensionar libremente. C el botón X cierra el programa definitivamente; Ctrl+W es el atajo de cierre en algunas aplicaciones (navegador, Word) pero no es el único modo de cerrar. D minimizar no cierra el programa; el programa sigue ejecutándose en memoria y puede recuperarse haciendo clic en su botón de la barra de tareas.",
+    "norma": "Windows 10/11 — Gestión de ventanas",
+    "articulo": "Ventanas de Windows — minimizar, maximizar, restaurar, cerrar"
+  },
+  {
+    "id": "B5T43-005",
+    "bloque": 5,
+    "tema": 43,
+    "test": 43,
+    "dificultad": "facil",
+    "pregunta": "¿Qué es la Papelera de reciclaje de Windows y cuál es su comportamiento?",
+    "opciones": {
+      "A": "La papelera de reciclaje elimina los archivos de forma permanente e inmediata; no existe ninguna forma de recuperar los archivos una vez enviados a ella.",
+      "B": "La papelera de reciclaje guarda todos los archivos activos del ordenador; es el repositorio donde Windows almacena permanentemente todos los datos del disco duro.",
+      "C": "La papelera de reciclaje es un área temporal que guarda los archivos y carpetas eliminados antes de su borrado definitivo; el usuario puede recuperarlos (restaurar al lugar original), eliminarlos permanentemente de forma individual o vaciar la papelera completa para liberar espacio; los archivos eliminados con Mayús+Supr o desde dispositivos extraíbles (USB, tarjetas SD) se borran directamente sin pasar por la papelera.",
+      "D": "La papelera de reciclaje almacena también los archivos eliminados de dispositivos extraíbles (USB, tarjetas SD); cualquier archivo borrado desde cualquier dispositivo pasa siempre por la papelera antes de borrarse definitivamente."
+    },
+    "correcta": "C",
+    "explicacion": "La Papelera de reciclaje (Recycle Bin) es un mecanismo de seguridad que previene la pérdida accidental de archivos. Su funcionamiento: (1) Eliminación con Del o Supr o clic derecho > Eliminar: el archivo se mueve a la papelera; sigue ocupando espacio en disco; el icono del escritorio cambia (papelera llena vs vacía). (2) Restaurar: hacer clic derecho en el archivo > Restaurar; el archivo vuelve a su ubicación original. (3) Eliminar definitivamente: vaciar papelera (clic derecho en el icono > Vaciar papelera de reciclaje) o eliminar elementos individuales desde dentro de la papelera; el espacio en disco se libera. (4) Excepciones: los archivos eliminados con Mayús+Supr (Shift+Del) se borran permanentemente sin pasar por la papelera; los archivos eliminados desde unidades de red o dispositivos extraíbles (USB, SD) tampoco van a la papelera. (5) Configuración: la papelera tiene un tamaño máximo configurable por unidad; cuando se supera, se eliminan automáticamente los archivos más antiguos; puede configurarse para que elimine siempre sin pasar por la papelera.",
+    "why": "A la papelera sí permite recuperar archivos hasta que se vacíe; su existencia precisamente evita borrados accidentales irreversibles. B la papelera no es el repositorio de todos los datos del disco; es solo un área temporal para los archivos eliminados. D los archivos eliminados de dispositivos extraíbles (USB, SD) no van a la papelera; se borran directamente de forma permanente.",
+    "norma": "Windows 10/11 — Papelera de reciclaje",
+    "articulo": "Papelera de reciclaje de Windows"
+  },
+  {
+    "id": "B5T43-006",
+    "bloque": 5,
+    "tema": 43,
+    "test": 43,
+    "dificultad": "facil",
+    "pregunta": "¿Qué tipos de cuentas de usuario ofrece Windows y cuáles son sus diferencias?",
+    "opciones": {
+      "A": "Windows permite crear cuentas de administrador (acceso completo: instalar programas, cambiar configuración del sistema, gestionar otras cuentas) y cuentas de usuario estándar (acceso limitado: no puede instalar software para todos los usuarios ni cambiar configuraciones del sistema sin aprobación del administrador); las cuentas pueden ser locales (solo en ese equipo) o cuentas Microsoft (vinculadas al correo de Microsoft, con sincronización de configuraciones entre dispositivos y acceso a servicios de nube como OneDrive).",
+      "B": "Windows solo permite un único usuario por ordenador; para que distintas personas usen el mismo equipo deben compartir la misma cuenta de usuario.",
+      "C": "Todos los usuarios de Windows tienen exactamente los mismos privilegios; no existe distinción entre administradores y usuarios estándar.",
+      "D": "Las cuentas de usuario en Windows solo pueden ser cuentas Microsoft vinculadas a Internet; no es posible crear cuentas locales sin conexión permanente a Internet."
+    },
+    "correcta": "A",
+    "explicacion": "Windows admite múltiples usuarios en el mismo equipo, cada uno con su propio perfil (escritorio, configuración, documentos). Los tipos de cuenta son: (1) Según privilegios: (a) Administrador: control total del sistema; puede instalar programas y actualizaciones, cambiar la configuración del sistema y la seguridad, crear y gestionar otras cuentas, instalar controladores; el UAC (Control de cuentas de usuario) solicita confirmación en acciones críticas. (b) Usuario estándar: acceso limitado; puede ejecutar programas ya instalados, cambiar su propia configuración personal (fondo, contraseña propia) pero no instalar software para todos los usuarios ni cambiar configuraciones que afecten al sistema o a otros usuarios; las acciones que requieren privilegios elevados solicitan las credenciales de administrador. (2) Según el ámbito: (a) Cuenta local: existe solo en ese equipo; no requiere conexión a Internet; útil para entornos sin conectividad o corporativos con dominio de Active Directory. (b) Cuenta Microsoft: vinculada a una dirección de correo de Microsoft (Outlook, Hotmail, Live); permite sincronizar configuraciones, contraseñas del navegador Edge y preferencias entre distintos dispositivos Windows; da acceso a OneDrive, Microsoft Store y otros servicios. En entornos corporativos existe también la cuenta de dominio (Active Directory/Azure AD).",
+    "why": "B Windows permite múltiples usuarios con sesiones independientes; cada usuario tiene su propio perfil. C Windows sí distingue entre administradores y usuarios estándar; los privilegios son distintos. D Windows admite cuentas locales sin necesidad de conexión a Internet ni cuenta Microsoft.",
+    "norma": "Windows 10/11 — Cuentas de usuario",
+    "articulo": "Cuentas de usuario en Windows"
+  },
+  {
+    "id": "B5T43-007",
+    "bloque": 5,
+    "tema": 43,
+    "test": 43,
+    "dificultad": "media",
+    "pregunta": "¿Cómo funciona Windows Update y qué tipos de actualizaciones distribuye?",
+    "opciones": {
+      "A": "Windows Update solo puede ejecutarse manualmente; Windows no puede descargar ni instalar actualizaciones de forma automática.",
+      "B": "Windows Update solo actualiza las aplicaciones de la Microsoft Store; el sistema operativo en sí no puede actualizarse mediante este servicio.",
+      "C": "Las actualizaciones de Windows Update se instalan únicamente cuando se apaga el ordenador; no pueden descargarse mientras el equipo está en uso.",
+      "D": "Windows Update es el servicio de actualización de Windows que descarga e instala automáticamente actualizaciones del sistema operativo, controladores y componentes de Microsoft; los tipos principales son: actualizaciones de calidad (correcciones de seguridad y errores, publicadas generalmente el segundo martes de cada mes, «Patch Tuesday»), actualizaciones de características (nuevas funcionalidades del SO, una o dos veces al año), actualizaciones de definiciones de Windows Defender (frecuentes, para proteger contra malware nuevo) y actualizaciones de controladores de hardware; puede configurarse para instalar automáticamente o requieran revisión manual del usuario."
+    },
+    "correcta": "D",
+    "explicacion": "Windows Update es el mecanismo de actualización integrado en Windows. Sus características: (1) Tipos de actualización: (a) Actualizaciones de calidad (Quality Updates): correcciones de seguridad (vulnerabilidades) y de errores (bugs); se publican el segundo martes de cada mes («Patch Tuesday»), aunque las críticas de seguridad pueden publicarse en cualquier momento; acumulativas (cada paquete incluye todas las correcciones anteriores). (b) Actualizaciones de características (Feature Updates): añaden nuevas funcionalidades al SO; en Windows 10 eran semestrales; en Windows 11 son anuales. (c) Actualizaciones de definiciones: para el antivirus Windows Defender; frecuentes (varias veces por semana) para mantenerse al día con las últimas amenazas. (d) Actualizaciones de controladores: nuevas versiones de los drivers de hardware certificados por Microsoft. (2) Funcionamiento: las actualizaciones se descargan en segundo plano mientras el equipo funciona; se instalan cuando el usuario reinicia o apaga el equipo, o automáticamente fuera del horario de uso configurado. (3) Configuración: accesible desde Configuración > Windows Update; permite configurar las horas activas (para que no reinicie durante el trabajo), aplazar actualizaciones y ver el historial de actualizaciones instaladas. (4) Importancia: mantener Windows actualizado es fundamental para la seguridad (parchear vulnerabilidades conocidas).",
+    "why": "A Windows Update descarga e instala actualizaciones automáticamente de forma predeterminada; no requiere intervención manual del usuario. B Windows Update actualiza el propio SO, los componentes de Microsoft y los controladores; las apps de la Store se actualizan a través de la propia Store. C las actualizaciones se descargan mientras el equipo está en uso; solo el reinicio (cuando es necesario) puede requerir que el equipo no esté en uso.",
+    "norma": "Windows 10/11 — Windows Update",
+    "articulo": "Windows Update"
+  },
+  {
+    "id": "B5T43-008",
+    "bloque": 5,
+    "tema": 43,
+    "test": 43,
+    "dificultad": "media",
+    "pregunta": "¿Qué es el Administrador de tareas de Windows y cuáles son sus funciones principales?",
+    "opciones": {
+      "A": "El Administrador de tareas solo puede abrirse desde el Panel de control; no existe ningún atajo de teclado para acceder directamente a él.",
+      "B": "El Administrador de tareas (Task Manager) es una herramienta del sistema accesible con Ctrl+Mayús+Esc, Ctrl+Alt+Supr o con clic derecho en la barra de tareas; muestra y permite gestionar: los procesos en ejecución con su consumo de CPU, RAM, disco y red, el rendimiento del sistema en tiempo real (gráficas de CPU, memoria, disco y red), los programas que se inician automáticamente con Windows, los servicios del sistema y los usuarios conectados; también permite finalizar procesos bloqueados.",
+      "C": "El Administrador de tareas solo está disponible en las ediciones Enterprise y Professional de Windows; no se incluye en Windows 10 Home ni en Windows 11 Home.",
+      "D": "El Administrador de tareas es una aplicación de terceros que debe descargarse de Internet; no está incluida en la instalación estándar de Windows."
+    },
+    "correcta": "B",
+    "explicacion": "El Administrador de tareas (Task Manager) es una herramienta de diagnóstico y gestión integrada en Windows. Formas de abrirlo: (1) Ctrl+Mayús+Esc: lo abre directamente. (2) Ctrl+Alt+Supr: abre el menú de seguridad de Windows desde el que se puede acceder al Administrador de tareas. (3) Clic derecho sobre la barra de tareas > Administrador de tareas. (4) Buscar «Taskmgr» en el menú Inicio. Sus pestañas principales son: (1) Procesos: lista todos los procesos en ejecución (aplicaciones y procesos del sistema), mostrando el consumo de CPU, memoria RAM, disco y red; permite finalizar procesos que no responden (Finalizar tarea). (2) Rendimiento: gráficas en tiempo real de la utilización de CPU, memoria, disco, red y GPU; también muestra información del hardware. (3) Historial de aplicaciones: uso acumulado de recursos por aplicación. (4) Inicio: programas que se ejecutan automáticamente al arrancar Windows; permite habilitarlos o deshabilitarlos para acelerar el arranque. (5) Usuarios: sesiones de usuario activas y consumo de recursos por usuario. (6) Detalles: lista detallada de procesos con más información (PID, estado, usuario, etc.). (7) Servicios: lista y permite iniciar/detener servicios del sistema.",
+    "why": "A el Administrador de tareas puede abrirse con múltiples métodos directos (Ctrl+Mayús+Esc, clic derecho en la barra de tareas, etc.); no requiere pasar por el Panel de control. C el Administrador de tareas está disponible en todas las ediciones de Windows 10 y 11, incluidas las versiones Home. D el Administrador de tareas es una herramienta integrada en Windows; no requiere descarga.",
+    "norma": "Windows 10/11 — Administrador de tareas",
+    "articulo": "Task Manager de Windows"
+  },
+  {
+    "id": "B5T43-009",
+    "bloque": 5,
+    "tema": 43,
+    "test": 43,
+    "dificultad": "media",
+    "pregunta": "¿Cuáles son los atajos de teclado más importantes del sistema Windows?",
+    "opciones": {
+      "A": "Los atajos de teclado de Windows solo funcionan en las aplicaciones de Microsoft Office; en programas de otras empresas no tienen ningún efecto.",
+      "B": "El único atajo de teclado universal en Windows es Ctrl+Z (deshacer); el resto de combinaciones son específicas de cada aplicación y no están definidas por Windows.",
+      "C": "Windows incluye atajos de teclado de sistema que aceleran la navegación: ⊞ Win (abre el menú Inicio), Win+D (muestra/oculta el escritorio), Win+E (abre el Explorador de archivos), Win+L (bloquea el equipo), Win+I (abre Configuración), Win+R (abre Ejecutar), Win+V (historial del portapapeles), Win+Tab (vista de tareas y escritorios virtuales), Alt+Tab (cambia entre ventanas abiertas), Alt+F4 (cierra la ventana activa), Ctrl+Alt+Supr (menú de seguridad), Impr Pant (captura de pantalla), Win+Mayús+S (captura de zona con Recorte y anotación), y los universales Ctrl+C/X/V/Z/Y.",
+      "D": "Los atajos de teclado de Windows quedaron obsoletos en Windows 10; en Windows 11 se eliminaron todos los atajos heredados de versiones anteriores y solo pueden configurarse atajos personalizados."
+    },
+    "correcta": "C",
+    "explicacion": "Windows incluye una amplia colección de atajos de teclado de sistema, independientes de las aplicaciones. Los más importantes son: (1) Acceso general: ⊞Win (menú Inicio); Win+D (mostrar/ocultar escritorio); Win+E (Explorador de archivos); Win+I (Configuración); Win+L (bloquear sesión); Win+R (cuadro de diálogo Ejecutar). (2) Gestión de ventanas: Alt+Tab (cambiar entre ventanas); Win+Tab (vista de tareas con todos los escritorios y ventanas); Win+Flechas (organizar ventanas: Win+→ encaja a la derecha, Win+← a la izquierda, Win+↑ maximiza, Win+↓ restaura/minimiza); Alt+F4 (cerrar ventana activa). (3) Escritorios virtuales: Win+Ctrl+D (crear escritorio virtual); Win+Ctrl+→/← (cambiar entre escritorios). (4) Portapapeles: Win+V (historial del portapapeles con los últimos elementos copiados). (5) Capturas: Impr Pant (captura toda la pantalla al portapapeles); Win+Impr Pant (guarda la captura en Imágenes); Win+Mayús+S (seleccionar zona a capturar con Recorte y anotación). (6) Seguridad: Ctrl+Alt+Supr (menú de seguridad: bloquear, cambiar usuario, cerrar sesión, acceder al Administrador de tareas). (7) Universales: Ctrl+C (copiar); Ctrl+X (cortar); Ctrl+V (pegar); Ctrl+Z (deshacer); Ctrl+Y (rehacer).",
+    "why": "A los atajos de sistema (Win+D, Win+L, Alt+Tab, etc.) funcionan en todo Windows, independientemente de la aplicación que esté activa. B Ctrl+Z es uno de muchos atajos universales; existen decenas de atajos de sistema definidos por Windows. D los atajos heredados siguen funcionando en Windows 11; se han añadido nuevos pero no se eliminaron los anteriores.",
+    "norma": "Windows 10/11 — Atajos de teclado",
+    "articulo": "Atajos de teclado del sistema Windows"
+  },
+  {
+    "id": "B5T43-010",
+    "bloque": 5,
+    "tema": 43,
+    "test": 43,
+    "dificultad": "media",
+    "pregunta": "¿Qué es el Control de cuentas de usuario (UAC) y para qué sirve?",
+    "opciones": {
+      "A": "El Control de cuentas de usuario (UAC, User Account Control) es una función de seguridad que solicita confirmación o credenciales de administrador cuando un programa intenta realizar cambios que afectan al sistema (instalar software, modificar archivos del sistema, cambiar configuración de seguridad); muestra un cuadro de diálogo que el administrador confirma o el usuario estándar resuelve con credenciales de administrador; tiene cuatro niveles configurables; su finalidad es impedir que el malware realice cambios no autorizados en el sistema sin conocimiento del usuario.",
+      "B": "El UAC es el programa antivirus integrado en Windows; analiza los archivos descargados de Internet y bloquea los que contienen malware.",
+      "C": "El UAC es la función de Windows que gestiona el acceso a Internet; solicita confirmación cada vez que un programa intenta conectarse a la red o descargar datos.",
+      "D": "El UAC fue eliminado en Windows 10; en las versiones actuales, cualquier programa puede modificar el sistema sin solicitar ninguna confirmación al usuario."
+    },
+    "correcta": "A",
+    "explicacion": "El UAC (User Account Control, Control de cuentas de usuario) fue introducido en Windows Vista y sigue presente en Windows 10 y 11. Su funcionamiento: (1) Funcionamiento: cuando un programa o acción requiere privilegios de administrador, Windows muestra un cuadro de diálogo de elevación de privilegios; si el usuario actual es administrador, solo necesita confirmar (Sí/No); si es usuario estándar, debe introducir el nombre de usuario y la contraseña de una cuenta de administrador. (2) Cuatro niveles de configuración (de más a menos seguro): (a) Notificar siempre: pregunta antes de cualquier cambio (incluso los realizados manualmente por el usuario). (b) Notificar cuando los programas intenten hacer cambios (predeterminado): solo pregunta por cambios de software, no por cambios manuales de configuración. (c) Notificar cuando los programas intenten hacer cambios (sin oscurecer el escritorio): igual que el anterior pero sin el efecto de pantalla oscura. (d) No notificar nunca: desactiva el UAC (no recomendado). (3) Importancia de seguridad: el UAC impide que el malware que logra ejecutarse con privilegios de usuario estándar pueda instalar software o modificar el sistema sin el conocimiento del usuario; es una capa fundamental de defensa en profundidad.",
+    "why": "B el UAC no es un antivirus; Windows Defender/Microsoft Defender es el antivirus integrado; el UAC es un mecanismo de control de privilegios. C el UAC no gestiona el acceso a Internet; eso es función del Firewall de Windows Defender; el UAC controla qué programas pueden hacer cambios en el sistema. D el UAC sigue presente en Windows 10 y 11; es un elemento clave de la arquitectura de seguridad del sistema.",
+    "norma": "Windows 10/11 — UAC (User Account Control)",
+    "articulo": "Control de cuentas de usuario (UAC)"
+  },
+  {
+    "id": "B5T43-011",
+    "bloque": 5,
+    "tema": 43,
+    "test": 43,
+    "dificultad": "media",
+    "pregunta": "¿Qué herramientas de accesibilidad incluye Windows para usuarios con discapacidad?",
+    "opciones": {
+      "A": "Windows no incluye herramientas de accesibilidad; los usuarios con discapacidad deben instalar software de terceros para adaptar el sistema a sus necesidades.",
+      "B": "Las herramientas de accesibilidad de Windows solo están disponibles en las ediciones Professional y Enterprise; no se incluyen en las versiones Home.",
+      "C": "Las herramientas de accesibilidad de Windows solo permiten cambiar el tamaño del texto y el contraste de colores; no ofrecen otras opciones de adaptación.",
+      "D": "Windows incluye un conjunto completo de herramientas de accesibilidad, accesibles desde Configuración > Accesibilidad: Narrador (lector de pantalla que lee en voz alta el contenido de la pantalla, para personas con discapacidad visual), Lupa (amplía partes o toda la pantalla), Contraste alto (mejora la legibilidad para personas con baja visión), Filtros de color (para daltonismo), Teclado en pantalla (para quienes no pueden usar un teclado físico), Dictado (control por voz), subtítulos en tiempo real (para contenido de audio), configuración de puntero y acceso con teclado sin ratón."
+    },
+    "correcta": "D",
+    "explicacion": "Windows incluye un centro de accesibilidad completo (en Windows 10/11: Configuración > Accesibilidad; en versiones anteriores: Panel de control > Centro de accesibilidad). Las principales herramientas son: (1) Para visión: (a) Narrador (Narrator): lector de pantalla que lee el texto y los controles de la pantalla mediante síntesis de voz; compatible con Braille. (b) Lupa (Magnifier): amplía cualquier zona de la pantalla (1x a 16x); modos completo, lente o acoplado. (c) Contraste alto: cambia los colores del sistema para mejorar la visibilidad. (d) Filtros de color: para distintos tipos de daltonismo (protanopia, deuteranopia, tritanopia). (2) Para audición: (a) Subtítulos de accesibilidad: muestra subtítulos del audio del sistema. (b) Avisos visuales en lugar de sonidos. (3) Para movilidad: (a) Teclado en pantalla: teclado virtual que puede usarse con el ratón o puntero. (b) Teclas especiales: StickyKeys (teclas modificadoras bloqueadas), FilterKeys (ignora pulsaciones repetidas), ToggleKeys (pitido al activar Bloq Mayús, etc.). (c) Ratón: ajuste de la velocidad del puntero, activación de MouseKeys (mover el puntero con el teclado numérico). (4) Control por voz: Dictado (Win+H) para dictar texto en cualquier aplicación.",
+    "why": "A Windows incluye desde hace muchas versiones un completo conjunto de herramientas de accesibilidad nativas; no es necesario software de terceros para las funciones básicas. B las herramientas de accesibilidad están disponibles en todas las ediciones de Windows, incluidas las versiones Home. C las opciones de accesibilidad de Windows son mucho más amplias que el simple ajuste de texto y contraste.",
+    "norma": "Windows 10/11 — Accesibilidad",
+    "articulo": "Herramientas de accesibilidad de Windows"
+  },
+  {
+    "id": "B5T43-012",
+    "bloque": 5,
+    "tema": 43,
+    "test": 43,
+    "dificultad": "media",
+    "pregunta": "¿Qué son los escritorios virtuales en Windows y cómo se gestionan?",
+    "opciones": {
+      "A": "Los escritorios virtuales en Windows son copias de seguridad automáticas del estado del escritorio; no tienen relación con la organización del espacio de trabajo.",
+      "B": "Los escritorios virtuales permiten crear múltiples escritorios independientes en el mismo equipo para organizar el trabajo en grupos separados de ventanas; se accede a la Vista de tareas con Win+Tab o el botón de la barra de tareas; se crea un escritorio nuevo con Win+Ctrl+D; se cambia entre ellos con Win+Ctrl+Flechas (izquierda/derecha); se elimina con Win+Ctrl+F4; cada escritorio muestra solo sus propias ventanas, facilitando la separación entre distintas tareas o proyectos.",
+      "C": "Los escritorios virtuales en Windows son equivalentes al Escritorio Remoto; permiten conectarse a otro ordenador de la red y ver su escritorio en la pantalla local.",
+      "D": "Los escritorios virtuales solo están disponibles si el equipo tiene más de una pantalla conectada; en equipos con una sola pantalla no pueden crearse ni usarse."
+    },
+    "correcta": "B",
+    "explicacion": "Los escritorios virtuales (Virtual Desktops) son una función incorporada en Windows 10 y mejorada en Windows 11 que permite al usuario organizar su espacio de trabajo en múltiples entornos independientes. Cómo funcionan: (1) Creación: Win+Ctrl+D o desde Vista de tareas (Win+Tab) pulsando el botón «+» en la barra inferior. (2) Navegación: Win+Ctrl+Flecha derecha/izquierda; o seleccionando el escritorio en la Vista de tareas. (3) Eliminación: Win+Ctrl+F4 (las ventanas del escritorio eliminado se mueven al escritorio anterior). (4) Cada escritorio tiene su propio conjunto de ventanas abiertas; por defecto, la barra de tareas muestra las ventanas de todos los escritorios (configurable). (5) En Windows 11, cada escritorio puede tener su propio nombre y fondo de pantalla. Casos de uso típicos: un escritorio para tareas de trabajo (documentos, correo), otro para comunicaciones (Teams, navegador personal), otro para una tarea específica que requiera varias ventanas; facilitan el orden sin necesidad de cerrar y reabrir aplicaciones al cambiar de contexto.",
+    "why": "A los escritorios virtuales no crean copias de seguridad; son entornos de trabajo independientes con distintos conjuntos de ventanas abiertas. C los escritorios virtuales no son lo mismo que el Escritorio Remoto (Remote Desktop); este último conecta a otro ordenador en red; los escritorios virtuales son entornos locales en el mismo equipo. D los escritorios virtuales funcionan con cualquier número de monitores, incluidos equipos con una sola pantalla; de hecho, son especialmente útiles en equipos con un solo monitor para organizar el espacio de trabajo.",
+    "norma": "Windows 10/11 — Escritorios virtuales",
+    "articulo": "Virtual Desktops en Windows"
+  },
+  {
+    "id": "B5T43-013",
+    "bloque": 5,
+    "tema": 43,
+    "test": 43,
+    "dificultad": "media",
+    "pregunta": "¿Cuál es la diferencia entre la aplicación Configuración y el Panel de control en Windows 10/11?",
+    "opciones": {
+      "A": "El Panel de control fue eliminado completamente en Windows 10 y sustituido íntegramente por Configuración; ya no es posible acceder al Panel de control en versiones actuales de Windows.",
+      "B": "Configuración y el Panel de control son exactamente lo mismo; son dos formas distintas de acceder a las mismas opciones sin ninguna diferencia funcional ni de diseño.",
+      "C": "Windows ofrece dos interfaces de configuración del sistema: (1) Configuración (Win+I): interfaz moderna, táctil y simplificada, introducida en Windows 8 y ampliada en versiones posteriores; cubre la mayoría de las necesidades cotidianas (pantalla, red, cuentas, actualizaciones, privacidad, accesibilidad, aplicaciones); (2) Panel de control: interfaz clásica heredada, aún disponible en Windows 10/11 para opciones avanzadas y menos frecuentes que aún no han migrado a Configuración; Microsoft continúa migrando progresivamente las opciones del Panel de control a la aplicación Configuración.",
+      "D": "El Panel de control solo es accesible para cuentas de administrador; los usuarios estándar únicamente pueden usar la aplicación Configuración."
+    },
+    "correcta": "C",
+    "explicacion": "La coexistencia de dos interfaces de configuración en Windows 10/11 refleja una transición en curso: (1) Aplicación Configuración (Settings): nueva interfaz táctil introducida con Windows 8; organizada en secciones (Sistema, Bluetooth y dispositivos, Red e Internet, Personalización, Aplicaciones, Cuentas, Hora e idioma, Juegos, Accesibilidad, Privacidad y seguridad, Windows Update); accesible con Win+I, desde el menú Inicio o desde el área de notificación; diseñada para uso con pantalla táctil pero también válida con ratón; cubre la mayoría de las configuraciones habituales. (2) Panel de control: la interfaz clásica presente desde Windows 95; sigue disponible en Windows 10/11 para opciones avanzadas que aún no han migrado (p. ej., opciones de red avanzadas, escritorio remoto, programas predeterminados detallados, gestor de dispositivos completo, gestión de discos, etc.); se accede buscando «Panel de control» en el menú Inicio o en la búsqueda. La estrategia de Microsoft es migrar completamente a la aplicación Configuración, por lo que el Panel de control está siendo paulatinamente vaciado de opciones en cada nueva versión de Windows.",
+    "why": "A el Panel de control sigue disponible en Windows 10 y Windows 11, aunque con cada actualización migran más opciones a Configuración. B aunque cubren áreas similares, tienen diseños distintos, distintas rutas de acceso y algunas opciones solo están en una u otra interfaz. D tanto el Panel de control como la aplicación Configuración son accesibles para todos los usuarios; algunas opciones dentro de ellos requieren privilegios de administrador pero la interfaz en sí es accesible.",
+    "norma": "Windows 10/11 — Configuración y Panel de control",
+    "articulo": "Configuración vs Panel de control"
+  },
+  {
+    "id": "B5T43-014",
+    "bloque": 5,
+    "tema": 43,
+    "test": 43,
+    "dificultad": "media",
+    "pregunta": "¿Qué es el Firewall de Windows Defender y cómo protege el equipo?",
+    "opciones": {
+      "A": "El Firewall de Windows Defender es el cortafuegos integrado en Windows que controla el tráfico de red entrante y saliente; bloquea las conexiones no autorizadas según reglas configurables por programa o por puerto; gestiona tres perfiles de red (dominio, privado y público) con distintos niveles de restricción; su objetivo es proteger el equipo de accesos no autorizados desde la red local o Internet.",
+      "B": "El Firewall de Windows Defender es el antivirus integrado en Windows; analiza todos los archivos del disco duro en busca de malware y los elimina automáticamente.",
+      "C": "El Firewall de Windows Defender analiza el correo electrónico e impide la recepción de mensajes de spam y phishing.",
+      "D": "El Firewall de Windows Defender solo está activo cuando el ordenador está conectado a Internet; en redes locales sin salida a Internet, Windows no aplica ningún filtrado de tráfico de red."
+    },
+    "correcta": "A",
+    "explicacion": "El Firewall de Windows Defender (anteriormente Firewall de Windows) es un cortafuegos (firewall) basado en software integrado en todas las ediciones de Windows desde Windows XP SP2. Sus características: (1) Función: analiza el tráfico de red entrante y saliente y aplica reglas para permitir o bloquear conexiones según la dirección IP origen/destino, el puerto y el protocolo (TCP/UDP) o el programa que genera el tráfico. (2) Tres perfiles de red: (a) Dominio: cuando el equipo está unido a un dominio Active Directory corporativo; configuración gestionada por el administrador de red. (b) Privado: red de confianza (hogar, pequeña oficina); menos restrictivo; permite comunicaciones con otros dispositivos de la red local. (c) Público: red no de confianza (Wi-Fi de aeropuerto, cafetería, red del hotel); más restrictivo; bloquea la mayoría de conexiones entrantes. (3) Reglas: se pueden crear reglas para: permitir o bloquear un programa específico (ej. permitir que una aplicación abra un servidor en el puerto 8080), abrir un puerto específico (ej. TCP 3389 para Escritorio Remoto), bloquear la conexión saliente de una aplicación. (4) Gestión: Panel de control > Sistema y seguridad > Firewall de Windows Defender; también desde Configuración > Privacidad y seguridad > Seguridad de Windows > Firewall y protección de red.",
+    "why": "B el antivirus integrado en Windows es Microsoft Defender Antivirus (anteriormente Windows Defender Antivirus); el Firewall de Windows Defender es un cortafuegos, no un antivirus. C el filtrado de spam es función del cliente de correo (Outlook, Thunderbird) o del servidor de correo; no del firewall. D el Firewall de Windows Defender está activo siempre que el equipo tenga conexión de red, sea local o de Internet; protege contra accesos desde la red local también.",
+    "norma": "Windows 10/11 — Firewall de Windows Defender",
+    "articulo": "Firewall de Windows Defender"
+  },
+  {
+    "id": "B5T43-015",
+    "bloque": 5,
+    "tema": 43,
+    "test": 43,
+    "dificultad": "media",
+    "pregunta": "¿Qué opciones de energía ofrece Windows y cuáles son los modos de ahorro disponibles?",
+    "opciones": {
+      "A": "Windows no puede controlar la energía del equipo; la gestión del consumo energético es función exclusiva del hardware (BIOS/UEFI) y el sistema operativo no interviene.",
+      "B": "Las opciones de energía de Windows solo se aplican a ordenadores portátiles con batería; en ordenadores de escritorio todas las opciones de energía están desactivadas por diseño.",
+      "C": "Las opciones de energía de Windows solo permiten apagar o encender el monitor automáticamente; no ofrecen control sobre la CPU, los discos ni los modos de suspensión del equipo.",
+      "D": "Las opciones de energía de Windows (Configuración > Sistema > Energía y suspensión / o Panel de control > Opciones de energía) permiten gestionar el consumo del equipo mediante planes de energía predefinidos (Equilibrado, Ahorro de energía, Alto rendimiento) y personalizados; configuran el tiempo de inactividad antes de que el monitor se apague y el equipo entre en suspensión; los modos especiales son: suspensión (S3: la RAM permanece activa con mínimo consumo, el equipo se recupera en segundos), hibernación (guarda el estado completo de la RAM en disco y apaga totalmente el equipo; arranque más lento pero sin consumo energético) e inicio rápido (modo híbrido que combina apagado con hibernación parcial del kernel para acelerar el siguiente arranque)."
+    },
+    "correcta": "D",
+    "explicacion": "Las opciones de energía de Windows permiten equilibrar el rendimiento y el consumo energético. Los elementos clave son: (1) Planes de energía: (a) Equilibrado: balance entre rendimiento y ahorro; adapta la velocidad del procesador según la carga de trabajo. (b) Ahorro de energía: prioriza el ahorro reduciendo el rendimiento; la CPU funciona a frecuencias más bajas; útil en portátiles con batería. (c) Alto rendimiento: mantiene la CPU a máxima frecuencia siempre; mayor consumo eléctrico; recomendado para equipos de escritorio en tareas intensivas. (2) Tiempos de inactividad: configuración del tiempo antes de que el monitor se apague y el equipo entre en suspensión. (3) Modos de baja energía: (a) Suspensión (Sleep/Standby - S3): la memoria RAM permanece activa (guarda el estado del sistema); todo lo demás se apaga o reduce; consumo mínimo; el sistema se recupera en segundos. (b) Hibernación (Hibernate - S4): el contenido de la RAM se guarda en el fichero hiberfil.sys en el disco duro y el equipo se apaga completamente; no consume energía; la recuperación tarda más (como un arranque normal pero cargando el estado). (c) Inicio rápido (Fast Startup): modo híbrido que combina el apagado con una hibernación parcial del kernel para acelerar el siguiente arranque. (4) En portátiles: botón de encendido y cierre de tapa (suspender, hibernar, apagar, etc.).",
+    "why": "A Windows controla activamente la energía: regula la frecuencia de la CPU (Intel SpeedStep, AMD Cool'n'Quiet), gestiona el disco, la pantalla y otros componentes; la BIOS/UEFI establece los límites de hardware. B las opciones de energía también aplican a los ordenadores de escritorio (ahorro de energía del monitor, suspensión, etc.). C las opciones de energía de Windows van mucho más allá del monitor; incluyen la CPU, los discos, los dispositivos USB y los modos del sistema (suspensión, hibernación).",
+    "norma": "Windows 10/11 — Opciones de energía",
+    "articulo": "Opciones de energía y modos de ahorro en Windows"
+  },
+  {
+    "id": "B5T43-016",
+    "bloque": 5,
+    "tema": 43,
+    "test": 43,
+    "dificultad": "media",
+    "pregunta": "¿Qué es la función Restaurar sistema de Windows y para qué se usa?",
+    "opciones": {
+      "A": "Restaurar sistema elimina permanentemente todos los archivos del usuario y reinstala Windows desde cero; es el equivalente al formateo del disco duro.",
+      "B": "Restaurar sistema (System Restore) permite revertir el sistema operativo (configuración del sistema, archivos del sistema, controladores, entradas del Registro) a un estado anterior (punto de restauración) sin afectar a los documentos, fotos ni archivos personales del usuario; los puntos de restauración se crean automáticamente antes de instalar actualizaciones o programas, o manualmente; sirve para recuperarse de instalaciones problemáticas que dejaron el sistema inestable; se accede desde Panel de control > Sistema > Protección del sistema o buscando «Crear un punto de restauración».",
+      "C": "Restaurar sistema hace copias de seguridad completas de todos los archivos del usuario en un disco externo; es equivalente a una copia de seguridad total del equipo.",
+      "D": "Restaurar sistema solo está disponible si Windows fue instalado desde un DVD de instalación físico; en equipos con Windows preinstalado esta función está desactivada de fábrica."
+    },
+    "correcta": "B",
+    "explicacion": "Restaurar sistema (System Restore) es una función de Windows que protege el sistema operativo ante cambios problemáticos. Sus características: (1) Qué protege: el Registro de Windows, los archivos del sistema, los controladores y las configuraciones del SO; NO protege los documentos, imágenes, correos ni otros archivos personales del usuario. (2) Puntos de restauración: instantáneas del estado del sistema creadas automáticamente por Windows antes de: instalar una actualización de sistema, instalar o desinstalar un programa, instalar un controlador (driver); y manualmente por el usuario desde Panel de control > Sistema > Protección del sistema > Crear. (3) Cómo se usa: si el sistema se vuelve inestable tras instalar un programa o actualización, el usuario puede volver a un punto de restauración anterior; el sistema recupera la configuración del SO del momento del punto, sin alterar los archivos personales. (4) Requisito: la protección del sistema debe estar habilitada para la unidad C: (está activada por defecto en Windows 10/11). (5) Limitaciones: no recupera archivos personales eliminados (para eso se usa el Historial de archivos o la papelera); no soluciona problemas de hardware.",
+    "why": "A Restaurar sistema no borra archivos del usuario ni reinstala Windows; solo revierte la configuración del sistema y los archivos del SO a un estado anterior. C las copias de seguridad completas de archivos del usuario las hace el Historial de archivos o la herramienta de copia de seguridad; Restaurar sistema no copia documentos personales. D la función Restaurar sistema está disponible en todos los equipos con Windows 10/11, independientemente del método de instalación.",
+    "norma": "Windows 10/11 — Restaurar sistema",
+    "articulo": "System Restore — Restaurar sistema"
+  },
+  {
+    "id": "B5T43-017",
+    "bloque": 5,
+    "tema": 43,
+    "test": 43,
+    "dificultad": "dificil",
+    "pregunta": "¿Qué es el sistema de archivos NTFS y cuáles son sus características más importantes?",
+    "opciones": {
+      "A": "NTFS es el sistema de archivos nativo de Linux; Windows usa un sistema diferente llamado FAT64 en sus versiones actuales.",
+      "B": "NTFS solo puede usarse en dispositivos de almacenamiento extraíbles (USB, tarjetas SD); los discos duros internos de Windows usan siempre el sistema FAT32.",
+      "C": "NTFS (New Technology File System) es el sistema de archivos nativo de Windows desde Windows NT; sus características principales son: soporte para archivos y particiones de gran tamaño (teóricamente hasta 16 TB por archivo), seguridad a nivel de archivo mediante listas de control de acceso (ACL: definen qué usuarios pueden leer, escribir, ejecutar o administrar cada archivo o carpeta), cifrado transparente (EFS: Encrypting File System), compresión de archivos y carpetas, registro de transacciones (journaling: protege la integridad ante fallos del sistema), soporte de nombres largos (255 caracteres Unicode) y enlaces simbólicos y duros.",
+      "D": "NTFS fue sustituido completamente por exFAT en Windows 10; actualmente ninguna instalación de Windows 10 ni Windows 11 usa NTFS como sistema de archivos principal."
+    },
+    "correcta": "C",
+    "explicacion": "NTFS (New Technology File System) es el sistema de archivos estándar de Windows desde Windows NT 3.1 (1993). Sus características clave son: (1) Tamaños: soporta archivos individuales de hasta 16 TB (en teoría) y volúmenes de hasta 256 TB; supera ampliamente a FAT32 (límite de 4 GB por archivo). (2) Seguridad: ACL (Access Control Lists): cada archivo y carpeta tiene una lista de control de acceso que define los permisos de cada usuario o grupo (Leer, Escritura, Ejecutar, Control total, etc.); esto permite una gestión de seguridad granular a nivel de fichero. (3) EFS (Encrypting File System): permite cifrar archivos y carpetas de forma transparente; solo el usuario propietario puede acceder a los datos en claro. (4) Journaling (registro de transacciones): mantiene un registro de las operaciones pendientes; si el sistema se apaga bruscamente, el journal permite recuperar la coherencia del sistema de archivos al reiniciar (reduce el riesgo de corrupción). (5) Compresión: permite comprimir archivos y carpetas de forma transparente para el usuario. (6) Nombres largos: soporta nombres de hasta 255 caracteres Unicode. (7) Comparación con otros sistemas: FAT32 (antiguo, máx 4 GB por fichero, sin permisos), exFAT (diseñado para USB/SD, más simple, sin permisos, soportado en Windows y macOS/Linux), ReFS (Resilient File System, sucesor de NTFS para servidores, mayor resiliencia).",
+    "why": "A NTFS es el sistema de archivos nativo de Windows; Linux usa ext4, XFS, Btrfs, etc. (puede leer NTFS). B NTFS es el sistema de archivos estándar de las unidades internas de Windows; FAT32 y exFAT son para dispositivos extraíbles por su compatibilidad multiplataforma. D NTFS sigue siendo el sistema de archivos por defecto de la partición del sistema en Windows 10 y 11; exFAT es complementario para dispositivos extraíbles.",
+    "norma": "Windows — Sistema de archivos NTFS",
+    "articulo": "NTFS — New Technology File System"
+  },
+  {
+    "id": "B5T43-018",
+    "bloque": 5,
+    "tema": 43,
+    "test": 43,
+    "dificultad": "dificil",
+    "pregunta": "¿Cuál es el proceso de arranque de un ordenador con Windows y qué papel juegan BIOS y UEFI?",
+    "opciones": {
+      "A": "Cuando se enciende un ordenador, el firmware (BIOS o UEFI) realiza el POST (Power-On Self-Test, verificación de hardware básico: CPU, RAM, teclado), luego busca el dispositivo de arranque configurado (SSD, HDD, USB) y carga el gestor de arranque de Windows (Bootmgr); este carga el kernel de Windows (Ntoskrnl.exe), los controladores críticos y el proceso de inicio de sesión; UEFI es el sucesor moderno de la BIOS clásica: soporta discos mayores de 2 TB con tablas de partición GPT, arranque seguro (Secure Boot para verificar que el cargador de arranque no ha sido manipulado) y tiempos de inicio más rápidos.",
+      "B": "Cuando se enciende un ordenador, Windows carga directamente sin ninguna fase previa de verificación de hardware; el BIOS/UEFI no interviene en el proceso de arranque de Windows.",
+      "C": "El proceso de arranque de Windows es gestionado exclusivamente por el disco duro; el procesador y la memoria RAM no intervienen en ninguna fase del proceso de inicio.",
+      "D": "UEFI es un programa que debe descargarse de Internet e instalarse manualmente antes de usar el ordenador por primera vez; sin UEFI instalado, Windows no puede iniciarse en ningún equipo."
+    },
+    "correcta": "A",
+    "explicacion": "El proceso de arranque (boot) de un ordenador con Windows sigue estas fases: (1) Encendido: la fuente de alimentación suministra corriente a los componentes. (2) POST (Power-On Self-Test): el firmware (BIOS o UEFI, almacenado en un chip de la placa base) realiza una verificación básica del hardware: comprueba que la CPU, la RAM, el teclado y otros dispositivos esenciales funcionan; si detecta un error crítico emite códigos de pitido o muestra un mensaje. (3) Búsqueda del dispositivo de arranque: el firmware consulta el orden de arranque configurado (boot order) para encontrar el dispositivo desde el que cargar el SO (SSD, HDD, DVD, USB, red). (4) Carga del gestor de arranque: el firmware carga el gestor de arranque de Windows (Windows Boot Manager, Bootmgr) desde el sector de arranque del dispositivo seleccionado. (5) Carga del kernel: el gestor de arranque carga el kernel de Windows (Ntoskrnl.exe) y los controladores esenciales en la RAM. (6) Inicialización: se inician los servicios del sistema, el administrador de sesiones (Smss.exe), el proceso de inicio de sesión (Winlogon.exe) y finalmente el shell gráfico (Explorer.exe). UEFI vs BIOS: BIOS (Basic Input/Output System) es el firmware tradicional (hasta 32 bits, tablas MBR, máx 4 particiones primarias, discos ≤2 TB); UEFI (Unified Extensible Firmware Interface) es el sucesor moderno: 64 bits, tablas GPT (≥128 particiones, discos >2 TB), Secure Boot (verifica la firma digital del gestor de arranque), interfaz gráfica y arranque más rápido.",
+    "why": "B el BIOS/UEFI es el primer programa que se ejecuta al encender el equipo; es imprescindible antes de que pueda cargarse Windows. C el proceso de arranque implica todos los componentes: CPU (ejecuta el POST), RAM (carga el kernel) y disco (almacena el gestor de arranque y el SO). D UEFI es un firmware integrado en la placa base de fábrica; no requiere descarga ni instalación por parte del usuario.",
+    "norma": "Windows — Proceso de arranque; BIOS/UEFI",
+    "articulo": "Arranque de Windows — BIOS, UEFI, POST, Bootmgr"
+  },
+  {
+    "id": "B5T43-019",
+    "bloque": 5,
+    "tema": 43,
+    "test": 43,
+    "dificultad": "dificil",
+    "pregunta": "¿Qué herramientas de copia de seguridad integra Windows y cómo se diferencian?",
+    "opciones": {
+      "A": "Windows no incluye ninguna herramienta de copia de seguridad; los usuarios deben recurrir exclusivamente a soluciones de terceros para proteger sus datos.",
+      "B": "El Historial de archivos hace copias completas de todo el disco duro, incluido el sistema operativo; es equivalente a una imagen completa del sistema y no permite recuperar versiones anteriores de archivos individuales.",
+      "C": "Las copias de seguridad en Windows solo pueden guardarse en soporte óptico (DVD o Blu-ray); no es posible usar discos duros externos, USB ni unidades de red.",
+      "D": "Windows ofrece varias herramientas de copia de seguridad complementarias: (1) Historial de archivos: guarda versiones frecuentes de los archivos de las bibliotecas del usuario (documentos, imágenes, música, vídeos) en un disco externo o unidad de red; permite recuperar versiones anteriores de un fichero o restaurar archivos eliminados; el intervalo es configurable; (2) Copia de seguridad y restauración (Windows 7, aún disponible en W10/11): crea imágenes completas del sistema (incluido el SO) y copias de seguridad programadas; (3) OneDrive: sincronización automática en la nube de los ficheros de las carpetas del usuario (Documentos, Imágenes, Escritorio); (4) Puntos de restauración (Restaurar sistema): copia de la configuración del SO, no de los datos personales."
+    },
+    "correcta": "D",
+    "explicacion": "Windows incluye varias herramientas de protección de datos con distintos propósitos: (1) Historial de archivos (File History): se activa desde Configuración > Actualización y seguridad > Copia de seguridad; requiere un disco externo o unidad de red como destino; guarda versiones frecuentes de los archivos de las bibliotecas del usuario; el usuario puede navegar por la línea temporal de versiones y restaurar cualquier versión anterior o archivo eliminado; el intervalo de copia es configurable (cada 10 minutos, hora, día, etc.); la retención de versiones también es configurable. (2) Copia de seguridad y restauración (Windows 7): herramienta más completa que crea: (a) imágenes completas del sistema (Imagen del sistema) que capturan toda la unidad del SO y pueden restaurarse completamente; (b) copias de seguridad programadas de carpetas seleccionadas; sigue disponible en Windows 10/11 aunque Microsoft no la ha actualizado recientemente. (3) OneDrive: la integración de OneDrive en Windows 10/11 permite sincronizar automáticamente las carpetas del usuario (Documentos, Imágenes, Escritorio) con la nube de Microsoft; la protección ocurre en tiempo real pero requiere suscripción para más de 5 GB. (4) Restaurar sistema: protege la configuración del SO y los archivos del sistema, no los datos personales del usuario.",
+    "why": "A Windows incluye múltiples herramientas nativas de copia de seguridad (Historial de archivos, Copia de seguridad y restauración, OneDrive). B el Historial de archivos no copia el sistema operativo; copia los archivos personales del usuario; para copias completas del SO existe la herramienta de «Imagen del sistema». C el Historial de archivos y la copia de seguridad se pueden guardar en disco externo USB, NAS (unidad de red) o en la nube (OneDrive); no están limitados a DVD.",
+    "norma": "Windows 10/11 — Copia de seguridad",
+    "articulo": "Historial de archivos, Copia de seguridad y restauración, OneDrive"
+  },
+  {
+    "id": "B5T43-020",
+    "bloque": 5,
+    "tema": 43,
+    "test": 43,
+    "dificultad": "dificil",
+    "pregunta": "¿Qué es el Registro de Windows, cómo está organizado y por qué es importante?",
+    "opciones": {
+      "A": "El Registro de Windows es el programa antivirus del sistema; analiza periódicamente todos los archivos en busca de malware y mantiene una lista de amenazas detectadas.",
+      "B": "El Registro de Windows (Windows Registry) es una base de datos jerárquica que almacena la configuración del sistema operativo, el hardware, los programas instalados y las preferencias de usuario; se organiza en cinco ramas principales: HKEY_LOCAL_MACHINE (hardware y software para todos los usuarios), HKEY_CURRENT_USER (configuración del usuario activo), HKEY_CLASSES_ROOT (asociaciones de extensiones de fichero con programas), HKEY_USERS (perfiles de todos los usuarios) y HKEY_CURRENT_CONFIG (hardware actual); se edita con Regedit.exe (requiere privilegios de administrador); modificaciones incorrectas pueden dejar el sistema inestable.",
+      "C": "El Registro de Windows es el historial de navegación del sistema; guarda las URLs visitadas, las contraseñas del navegador y las cookies de Internet Explorer y Edge.",
+      "D": "El Registro de Windows es la tabla de asignación de archivos del disco duro; controla dónde están almacenados físicamente los datos en el disco y forma parte del sistema de archivos NTFS."
+    },
+    "correcta": "B",
+    "explicacion": "El Registro de Windows (Windows Registry) es una base de datos centralizada y jerárquica introducida en Windows 95 y presente en todas las versiones posteriores. Estructura: se organiza en claves (keys, análogas a carpetas), subclaves y valores (los datos en sí). Las cinco ramas raíz (hives) son: (1) HKEY_LOCAL_MACHINE (HKLM): contiene la configuración del hardware y del software instalado para todos los usuarios del equipo; incluye los controladores, las configuraciones del sistema y los parámetros de los servicios. (2) HKEY_CURRENT_USER (HKCU): configuración específica del usuario que ha iniciado sesión (fondo de pantalla, configuración de aplicaciones, preferencias, etc.). (3) HKEY_CLASSES_ROOT (HKCR): asociaciones entre extensiones de fichero y los programas que las abren (p. ej., .docx → Word); también contiene información de los objetos COM. (4) HKEY_USERS (HKU): perfiles de configuración de todos los usuarios del sistema. (5) HKEY_CURRENT_CONFIG (HKCC): información sobre el perfil de hardware actual. Herramienta de edición: Regedit.exe (Editor del Registro); se abre desde Ejecutar (Win+R) escribiendo «regedit»; requiere privilegios de administrador; las modificaciones son inmediatas y no tienen un botón de «deshacer» simple, por lo que Windows recomienda crear siempre una copia de seguridad del Registro antes de editarlo. Importancia: el malware a menudo modifica el Registro para persistir tras los reinicios (claves de inicio automático: HKLM\\Software\\Microsoft\\Windows\\CurrentVersion\\Run).",
+    "why": "A el Registro no es el antivirus; el antivirus integrado es Microsoft Defender Antivirus; el Registro es la base de datos de configuración del sistema. C el historial de navegación lo mantiene el navegador web (Edge, Chrome, Firefox) en sus propios ficheros; el Registro almacena configuración del SO y las aplicaciones. D el Registro es independiente del sistema de archivos NTFS; es una base de datos lógica de configuración, no la tabla de asignación de archivos físicos en disco.",
+    "norma": "Windows — Registro de Windows (Registry)",
+    "articulo": "Windows Registry — Registro de Windows"
+  }
+]
