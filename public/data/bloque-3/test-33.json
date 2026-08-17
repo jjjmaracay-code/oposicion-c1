@@ -1,0 +1,382 @@
+[
+  {
+    "id": "B3T33-001",
+    "bloque": 3,
+    "tema": 33,
+    "test": 33,
+    "dificultad": "facil",
+    "pregunta": "¿Cuál es el fundamento constitucional del sistema de Seguridad Social en España y qué mandato impone a los poderes públicos el art. 41 de la Constitución?",
+    "opciones": {
+      "A": "El art. 41 CE establece un seguro privado voluntario de carácter complementario; el Estado no tiene obligación de mantener ningún régimen público.",
+      "B": "Los poderes públicos mantendrán un régimen público de Seguridad Social para todos los ciudadanos que garantice la asistencia y prestaciones sociales suficientes ante situaciones de necesidad, especialmente en caso de desempleo; la asistencia y prestaciones complementarias serán libres.",
+      "C": "El art. 41 CE reconoce el derecho a la Seguridad Social únicamente a los trabajadores con contrato laboral indefinido; los temporales quedan excluidos.",
+      "D": "La Seguridad Social se configura como un seguro privado obligatorio, gestionado por entidades financieras bajo supervisión del Banco de España."
+    },
+    "correcta": "B",
+    "explicacion": "El art. 41 CE consagra la Seguridad Social como un derecho de todos los ciudadanos con respaldo público: «Los poderes públicos mantendrán un régimen público de Seguridad Social para todos los ciudadanos, que garantice la asistencia y prestaciones sociales suficientes ante situaciones de necesidad, especialmente en caso de desempleo. La asistencia y prestaciones complementarias serán libres.» Este precepto: (1) configura la SS como un régimen público (no privado); (2) exige cobertura universal para todos los ciudadanos, no solo para trabajadores; (3) obliga a garantizar prestaciones suficientes ante situaciones de necesidad; (4) menciona especialmente el desempleo como riesgo a proteger; y (5) permite que existan sistemas privados complementarios de carácter libre (planes de pensiones, seguros privados). El RDL 8/2015 (LGSS) desarrolla este mandato constitucional.",
+    "why": "A el art. 41 CE establece un régimen público obligatorio, no privado voluntario; los sistemas complementarios son libres pero adicionales al obligatorio. C el art. 41 CE habla de «todos los ciudadanos», no solo de trabajadores indefinidos; el ámbito de aplicación de la SS es universal con distintos niveles de cobertura. D la Seguridad Social no es un seguro privado; es un régimen público gestionado por entidades públicas (INSS, TGSS, SEPE).",
+    "norma": "Constitución Española; Real Decreto Legislativo 8/2015 (Ley General de la Seguridad Social)",
+    "articulo": "41 CE; 1 LGSS"
+  },
+  {
+    "id": "B3T33-002",
+    "bloque": 3,
+    "tema": 33,
+    "test": 33,
+    "dificultad": "facil",
+    "pregunta": "¿Cuáles son las características esenciales de la afiliación al sistema de la Seguridad Social según la LGSS?",
+    "opciones": {
+      "A": "La afiliación es voluntaria, temporal y renovable; el trabajador puede darse de alta o de baja del sistema cuando lo desee.",
+      "B": "La afiliación es obligatoria para todos los incluidos en el sistema, única (se realiza una sola vez en la vida y el número de afiliación —NAF— no varía) y vitalicia (subsiste durante toda la vida del afiliado con independencia de sus períodos de alta o baja).",
+      "C": "La afiliación es obligatoria, pero se realiza cada vez que el trabajador cambia de empresa; el número de afiliación cambia con cada nuevo empleador.",
+      "D": "La afiliación es voluntaria para los autónomos y obligatoria solo para los trabajadores por cuenta ajena; los funcionarios están excluidos de la afiliación."
+    },
+    "correcta": "B",
+    "explicacion": "El art. 16 LGSS establece que la afiliación al sistema de la Seguridad Social es: (1) Obligatoria: todos los sujetos incluidos en el campo de aplicación del sistema deben afiliarse; no es una opción. (2) Única: cada persona solo se afilia una vez en su vida; se le asigna un Número de Afiliación a la Seguridad Social (NAF) que es permanente y nunca cambia, independientemente del número de empleadores que tenga o del régimen en que cotice. (3) Vitalicia: el vínculo de afiliación dura toda la vida del trabajador, aunque no se esté en alta (es decir, aunque no haya relación laboral activa, la afiliación persiste). Esta configuración facilita el seguimiento de la carrera de seguro de cada persona a lo largo de su vida laboral.",
+    "why": "A la afiliación es obligatoria, no voluntaria; no puede revocarse a voluntad del trabajador. C el número de afiliación (NAF) no cambia con cada empleador; es único para toda la vida. D la afiliación es obligatoria para todos los incluidos en el sistema, incluidos los autónomos (en el RETA) y los funcionarios que coticen al Régimen General.",
+    "norma": "Real Decreto Legislativo 8/2015, Ley General de la Seguridad Social",
+    "articulo": "16 LGSS"
+  },
+  {
+    "id": "B3T33-003",
+    "bloque": 3,
+    "tema": 33,
+    "test": 33,
+    "dificultad": "facil",
+    "pregunta": "¿Qué contingencias integran la acción protectora del sistema de la Seguridad Social según el art. 42 de la LGSS?",
+    "opciones": {
+      "A": "Solo el desempleo y la jubilación; el resto de riesgos están excluidos del sistema público de Seguridad Social.",
+      "B": "La asistencia sanitaria, la incapacidad temporal, las prestaciones por nacimiento y cuidado de menor, riesgo durante embarazo y lactancia, incapacidad permanente, jubilación, muerte y supervivencia, prestaciones familiares, desempleo y formación profesional, entre otras.",
+      "C": "Exclusivamente las contingencias profesionales (accidente de trabajo y enfermedad profesional); las contingencias comunes están excluidas del sistema.",
+      "D": "Solo las prestaciones no contributivas; las prestaciones contributivas son responsabilidad de los seguros privados."
+    },
+    "correcta": "B",
+    "explicacion": "El art. 42 LGSS enumera de forma amplia la acción protectora del sistema de la Seguridad Social, que cubre tanto contingencias comunes como profesionales: asistencia sanitaria (aunque gestionada por las CCAA desde 1986-2001); incapacidad temporal; prestaciones por nacimiento y cuidado de menor; prestaciones por riesgo durante el embarazo y la lactancia natural; prestaciones por cuidado de menores afectados por cáncer u otra enfermedad grave; incapacidad permanente; jubilación; prestaciones por muerte y supervivencia (viudedad, orfandad, favor de familiares); prestaciones familiares (por hijo a cargo, etc.); prestaciones por desempleo (contributivo y asistencial); y formación profesional. Esta amplia cobertura plasma el mandato del art. 41 CE de garantizar prestaciones suficientes ante situaciones de necesidad.",
+    "why": "A el sistema de Seguridad Social cubre muchas más contingencias que el desempleo y la jubilación; incluye riesgos de enfermedad, accidente, maternidad, etc. C el sistema cubre tanto contingencias comunes (enfermedad común, accidente no laboral) como profesionales (AT y EP). D el sistema de SS tiene tanto un nivel contributivo como uno no contributivo; ambos son públicos.",
+    "norma": "Real Decreto Legislativo 8/2015, Ley General de la Seguridad Social",
+    "articulo": "42 LGSS"
+  },
+  {
+    "id": "B3T33-004",
+    "bloque": 3,
+    "tema": 33,
+    "test": 33,
+    "dificultad": "facil",
+    "pregunta": "¿Cuáles son las principales entidades gestoras del sistema de la Seguridad Social y qué función tiene cada una?",
+    "opciones": {
+      "A": "Solo existe una entidad gestora: la Tesorería General de la Seguridad Social, que gestiona todos los aspectos del sistema.",
+      "B": "El INSS gestiona las pensiones y prestaciones económicas del Régimen General; la TGSS gestiona la recaudación, afiliación y el patrimonio del sistema; el SEPE gestiona las prestaciones por desempleo; el ISM gestiona el Régimen Especial del Mar.",
+      "C": "El Banco de España gestiona las pensiones; el Ministerio de Trabajo gestiona el desempleo; la Seguridad Social solo gestiona las cotizaciones.",
+      "D": "Los ayuntamientos son los responsables de gestionar las prestaciones de Seguridad Social en cada municipio."
+    },
+    "correcta": "B",
+    "explicacion": "El sistema de Seguridad Social español se gestiona a través de entidades públicas especializadas: (1) INSS (Instituto Nacional de la Seguridad Social): gestiona las pensiones (jubilación, incapacidad permanente, viudedad, orfandad) y las prestaciones económicas del Régimen General (IT, nacimiento, etc.). (2) TGSS (Tesorería General de la Seguridad Social): organismo común del sistema; gestiona la recaudación de cuotas, la afiliación, las altas y bajas, el patrimonio del sistema y aplica el principio de caja única. (3) SEPE (Servicio Público de Empleo Estatal): gestiona las prestaciones contributivas y asistenciales por desempleo y las políticas activas de empleo. (4) ISM (Instituto Social de la Marina): gestiona el Régimen Especial del Mar para los trabajadores del sector marítimo-pesquero. (5) IMSERSO: gestiona las pensiones no contributivas y los servicios sociales para personas mayores y con discapacidad.",
+    "why": "A la TGSS es la entidad encargada de la recaudación y gestión financiera, no de la gestión de todas las prestaciones; el INSS, SEPE e ISM tienen funciones propias diferenciadas. C el Banco de España no gestiona pensiones; el Ministerio de Trabajo tiene competencias políticas pero no gestiona directamente las prestaciones. D los ayuntamientos no gestionan las prestaciones de Seguridad Social; estas corresponden a las entidades gestoras estatales.",
+    "norma": "Real Decreto Legislativo 8/2015, Ley General de la Seguridad Social",
+    "articulo": "66-70 LGSS"
+  },
+  {
+    "id": "B3T33-005",
+    "bloque": 3,
+    "tema": 33,
+    "test": 33,
+    "dificultad": "facil",
+    "pregunta": "¿Cómo se estructura el sistema de la Seguridad Social española en cuanto a los regímenes que lo integran?",
+    "opciones": {
+      "A": "Existe un único régimen universal sin distinción de colectivos; todos los trabajadores cotizan de la misma manera.",
+      "B": "El sistema se estructura en un Régimen General (que cubre a la mayoría de los trabajadores por cuenta ajena) y varios Regímenes Especiales para colectivos con particularidades propias (autónomos-RETA, trabajadores del mar, minería del carbón), con una tendencia histórica a integrar los regímenes especiales en el general.",
+      "C": "Existen veinte regímenes distintos, uno por cada sector económico; cada empresa debe inscribir a sus trabajadores en el régimen correspondiente a su actividad principal.",
+      "D": "El Régimen Especial es el más importante en número de afiliados; el Régimen General solo cubre a los funcionarios públicos."
+    },
+    "correcta": "B",
+    "explicacion": "El sistema de Seguridad Social español se organiza en torno a una estructura bifurcada: (1) Régimen General (RG): es el régimen ordinario que cubre a la gran mayoría de los trabajadores por cuenta ajena de cualquier sector; actualmente incluye también a los empleados de hogar (como Sistema Especial) y a los funcionarios públicos que ingresaron a partir de enero de 2011. (2) Regímenes Especiales: para colectivos con particularidades específicas: RETA (autónomos), Régimen Especial del Mar (marineros y pescadores), Régimen Especial de la Minería del Carbón. La tendencia desde la Ley 26/1985 y especialmente desde la Ley 27/2011 ha sido integrar los regímenes especiales en el General (el Régimen Especial Agrario, por cuenta ajena, pasó a ser Sistema Especial del RG en 2012; el de empleados de hogar igualmente).",
+    "why": "A existen diferencias de cotización y cobertura entre colectivos; el sistema no es completamente uniforme. C no existen veinte regímenes por sector; la estructura es mucho más simplificada que eso, con pocos regímenes especiales subsistentes. D el Régimen General es el mayoritario en número de afiliados; los funcionarios no son el colectivo central del Régimen General.",
+    "norma": "Real Decreto Legislativo 8/2015, Ley General de la Seguridad Social",
+    "articulo": "9-11 LGSS"
+  },
+  {
+    "id": "B3T33-006",
+    "bloque": 3,
+    "tema": 33,
+    "test": 33,
+    "dificultad": "facil",
+    "pregunta": "¿Qué es la base de cotización y sobre qué elemento se calcula en el Régimen General de la Seguridad Social?",
+    "opciones": {
+      "A": "La base de cotización es una cantidad fija idéntica para todos los trabajadores, independientemente de su salario real.",
+      "B": "La base de cotización es la cantidad sobre la que se aplican los tipos de cotización para determinar la cuota a ingresar en la Seguridad Social; en el Régimen General se calcula sobre la retribución total mensual del trabajador más la prorrata de las pagas extraordinarias, sujeta a bases mínimas y máximas establecidas anualmente.",
+      "C": "La base de cotización equivale al Salario Mínimo Interprofesional para todos los trabajadores, con independencia del salario pactado en el contrato.",
+      "D": "La base de cotización solo incluye el salario base, excluyendo todos los complementos salariales y las pagas extraordinarias."
+    },
+    "correcta": "B",
+    "explicacion": "El art. 147 LGSS establece que la base de cotización del Régimen General estará constituida por la remuneración total, cualquiera que sea su forma o denominación, que con carácter mensual tenga derecho a percibir el trabajador o la que efectivamente perciba, si fuera superior. Incluye el salario base, los complementos salariales (pluses de nocturnidad, peligrosidad, etc.) y la parte proporcional de las pagas extraordinarias (dividiendo el importe anual entre 12). La base de cotización resultante debe estar comprendida entre la base mínima y la base máxima establecidas para el grupo de cotización al que pertenezca el trabajador, que se fijan anualmente en la Ley de Presupuestos Generales del Estado o norma equivalente. La base de cotización es la referencia para calcular las cuotas que deben ingresar el empresario y el trabajador.",
+    "why": "A la base de cotización varía según el salario real de cada trabajador; no es una cantidad fija. C el SMI puede ser la base mínima para algunos grupos, pero no es la base de cotización universal independientemente del salario. D la base de cotización incluye todos los conceptos retributivos, incluidas las pagas extra y los complementos; no se limita al salario base.",
+    "norma": "Real Decreto Legislativo 8/2015, Ley General de la Seguridad Social",
+    "articulo": "147 LGSS"
+  },
+  {
+    "id": "B3T33-007",
+    "bloque": 3,
+    "tema": 33,
+    "test": 33,
+    "dificultad": "media",
+    "pregunta": "¿Qué función cumple la Tesorería General de la Seguridad Social (TGSS) y en qué consiste el principio de «caja única»?",
+    "opciones": {
+      "A": "La TGSS es una entidad privada que gestiona la inversión de los fondos de pensiones; la «caja única» significa que cada trabajador tiene una cuenta personal.",
+      "B": "La TGSS es el servicio común del sistema de Seguridad Social, responsable de la recaudación de cuotas, la gestión de la tesorería, la afiliación, las altas y bajas de los trabajadores, y la administración del patrimonio del sistema; el principio de «caja única» implica que todos los recursos del sistema se integran en un solo fondo gestionado centralizadamente, garantizando la solidaridad entre sectores y territorios.",
+      "C": "La TGSS solo gestiona las pensiones de jubilación; las demás prestaciones son gestionadas por el Ministerio de Trabajo.",
+      "D": "La «caja única» significa que cada empresa tiene su propia cuenta de Seguridad Social; las cuotas de cada empresa se reservan para los trabajadores de esa empresa."
+    },
+    "correcta": "B",
+    "explicacion": "La TGSS, creada por la Ley de Bases de la Seguridad Social de 1963 y regulada actualmente en los arts. 74 y ss. LGSS, es el servicio común del sistema de Seguridad Social que aplica el principio de solidaridad financiera a través de la caja única. Sus funciones son: (1) Recaudación: gestiona el cobro de todas las cuotas de Seguridad Social de empleadores y trabajadores. (2) Afiliación: lleva el registro de todos los afiliados (altas, bajas, variaciones). (3) Tesorería y gestión patrimonial: administra los recursos económicos del sistema. (4) Caja única: art. 74 LGSS establece que la TGSS actúa como caja única del sistema; los recursos obtenidos en todos los sectores y territorios se ponen en común para financiar las prestaciones con criterios de solidaridad; no existen «cajas sectoriales» o «regionales» separadas. Este principio garantiza que los déficits de algunos regímenes o actividades se compensen con los superávits de otros.",
+    "why": "A la TGSS no es una entidad privada ni gestiona inversiones de planes de pensiones privados; es un organismo público autónomo del sistema de SS. C la TGSS no gestiona prestaciones (eso corresponde al INSS, SEPE, etc.); su función es financiera: recaudación y gestión del patrimonio. D la «caja única» implica justo lo contrario: todos los recursos van a un fondo común, sin asignación por empresa ni sector.",
+    "norma": "Real Decreto Legislativo 8/2015, Ley General de la Seguridad Social",
+    "articulo": "74-75 LGSS"
+  },
+  {
+    "id": "B3T33-008",
+    "bloque": 3,
+    "tema": 33,
+    "test": 33,
+    "dificultad": "media",
+    "pregunta": "¿Cuáles son las obligaciones del empresario en materia de afiliación y alta de los trabajadores en la Seguridad Social, y qué puede hacer el trabajador si el empresario incumple?",
+    "opciones": {
+      "A": "El empresario solo tiene obligación de dar de alta a los trabajadores indefinidos; los temporales deben afiliarse ellos mismos.",
+      "B": "El empresario debe afiliar a los trabajadores que no estén afiliados y comunicar el alta antes del inicio de la prestación de servicios; si el empresario incumple, el trabajador puede solicitar su propia afiliación y alta ante la TGSS, sin perjuicio de la responsabilidad empresarial derivada del incumplimiento.",
+      "C": "El empresario puede dar de alta al trabajador hasta 30 días después del inicio de la relación laboral sin consecuencias.",
+      "D": "Es el trabajador, y no el empresario, el responsable de afiliarse y darse de alta en la Seguridad Social antes de comenzar a trabajar."
+    },
+    "correcta": "B",
+    "explicacion": "Los arts. 17-18 LGSS establecen el sistema de obligaciones en materia de afiliación y alta. El empresario es el sujeto responsable principal: (1) Afiliación: debe solicitar la afiliación de los trabajadores que nunca hayan sido afiliados, antes o en el momento de inicio de la relación laboral. (2) Alta previa: el empresario debe comunicar el alta a la TGSS antes del inicio de la prestación de servicios (no puede retrotraerse salvo en casos tasados). Puede realizarse con hasta 60 días de antelación. (3) Baja: debe comunicarse en el plazo de 3 días naturales siguientes al cese. Si el empresario incumple: la TGSS puede practicar la alta de oficio, el trabajador puede solicitar su propia alta, y el empresario asume la responsabilidad de las prestaciones que pudieran corresponder como si fuera la entidad aseguradora (art. 167 LGSS).",
+    "why": "A la obligación de alta se extiende a todos los trabajadores, con independencia de la modalidad del contrato (indefinido, temporal, a tiempo parcial); incluso los trabajadores a tiempo parcial de pocas horas deben ser dados de alta. C no hay plazo de gracia para dar de alta al trabajador; el alta debe ser previa al inicio de los servicios; el incumplimiento genera responsabilidad empresarial inmediata. D la responsabilidad principal de afiliar y dar de alta al trabajador recae sobre el empresario; el trabajador solo puede instar su propio alta si el empresario incumple.",
+    "norma": "Real Decreto Legislativo 8/2015, Ley General de la Seguridad Social",
+    "articulo": "17-18 y 167 LGSS"
+  },
+  {
+    "id": "B3T33-009",
+    "bloque": 3,
+    "tema": 33,
+    "test": 33,
+    "dificultad": "media",
+    "pregunta": "¿En qué se diferencian las contingencias comunes de las contingencias profesionales y quién asume el coste de cotización de cada una?",
+    "opciones": {
+      "A": "No hay diferencia entre ambas; tanto el empresario como el trabajador pagan el mismo porcentaje por todas las contingencias.",
+      "B": "Las contingencias comunes cubren enfermedades comunes y accidentes no laborales; empresario y trabajador comparten el coste de cotización. Las contingencias profesionales cubren accidentes de trabajo y enfermedades profesionales; solo el empresario paga las cuotas de cotización.",
+      "C": "Las contingencias profesionales las paga exclusivamente el trabajador; el empresario solo paga por contingencias comunes.",
+      "D": "Las contingencias comunes las paga solo el Estado con cargo a los Presupuestos Generales; el empresario solo paga por contingencias profesionales."
+    },
+    "correcta": "B",
+    "explicacion": "La LGSS establece una distinción fundamental entre dos tipos de contingencias: (1) Contingencias comunes: derivan de enfermedades comunes y accidentes no laborales. El coste de cotización se reparte entre empresario (que paga la mayor parte, en torno al 23,6% de la base de cotización por contingencias comunes) y trabajador (aproximadamente el 4,7%). (2) Contingencias profesionales: accidentes de trabajo y enfermedades profesionales. La cotización es exclusivamente empresarial (el trabajador no cotiza por ellas); los tipos varían según la actividad (tarifa de primas del Real Decreto 1484/2001) en función de la peligrosidad del sector. Esta distribución refleja el principio de que el empresario es el creador del riesgo laboral y debe asumir íntegramente el coste de la cobertura frente a los riesgos inherentes a la actividad productiva.",
+    "why": "A existe una diferencia esencial: por contingencias profesionales el empresario asume el coste íntegro; no hay reparto. C es exactamente al revés: las contingencias profesionales las paga en exclusiva el empresario, no el trabajador. D las contingencias comunes no se financian con Presupuestos Generales del Estado sino con las cuotas de cotización de empresarios y trabajadores.",
+    "norma": "Real Decreto Legislativo 8/2015, Ley General de la Seguridad Social",
+    "articulo": "155-157 y 146-148 LGSS"
+  },
+  {
+    "id": "B3T33-010",
+    "bloque": 3,
+    "tema": 33,
+    "test": 33,
+    "dificultad": "media",
+    "pregunta": "¿En qué consiste la distinción entre el nivel contributivo y el nivel no contributivo del sistema de Seguridad Social?",
+    "opciones": {
+      "A": "El nivel contributivo es gestionado por el sector privado y el no contributivo por el Estado; no tienen ninguna relación entre sí.",
+      "B": "El nivel contributivo está vinculado a la cotización previa: las prestaciones se causan cuando el beneficiario ha cotizado durante el período mínimo exigido y su cuantía suele depender de las bases cotizadas. El nivel no contributivo protege a quienes no reúnen los requisitos de cotización pero se encuentran en situación de necesidad, financiándose con Presupuestos Generales del Estado.",
+      "C": "Solo existe el nivel contributivo; el no contributivo fue suprimido en la reforma de 2013.",
+      "D": "El nivel no contributivo es el principal; el contributivo es un complemento de los seguros privados."
+    },
+    "correcta": "B",
+    "explicacion": "El art. 41 CE, al aludir a «prestaciones sociales suficientes», ampara ambos niveles, que el sistema de SS articula de la siguiente manera: (1) Nivel contributivo: requiere haber cotizado un período mínimo («período de carencia»); la cuantía de la prestación guarda relación con las bases de cotización y el tiempo cotizado. Ejemplos: pensión de jubilación contributiva, prestación por desempleo contributiva (SEPE), incapacidad temporal. Financiado con cuotas de cotización. (2) Nivel no contributivo: no exige cotización previa; se concede a quienes carecen de ingresos suficientes y no reúnen los requisitos para acceder al nivel contributivo. Ejemplos: pensión no contributiva de jubilación (gestionada por IMSERSO y CCAA), pensión no contributiva de invalidez, subsidio de desempleo. Financiado con Presupuestos Generales del Estado. Esta estructura bicéfala garantiza protección universal sin dejar desprotegidos a quienes no tienen carrera de seguro suficiente.",
+    "why": "A ambos niveles pertenecen al sistema público de Seguridad Social; no son el uno privado y el otro público. C el nivel no contributivo sigue vigente; no fue suprimido en ninguna reforma. D el nivel contributivo es el más amplio en número de beneficiarios y en volumen económico; el no contributivo actúa como red de seguridad última.",
+    "norma": "Real Decreto Legislativo 8/2015, Ley General de la Seguridad Social",
+    "articulo": "41 CE; 55 y 363-368 LGSS"
+  },
+  {
+    "id": "B3T33-011",
+    "bloque": 3,
+    "tema": 33,
+    "test": 33,
+    "dificultad": "media",
+    "pregunta": "¿Qué son las Mutuas Colaboradoras con la Seguridad Social y qué papel desempeñan en el sistema?",
+    "opciones": {
+      "A": "Son entidades privadas con ánimo de lucro que ofrecen seguros de vida complementarios a la Seguridad Social.",
+      "B": "Son asociaciones de empresarios autorizadas, sin ánimo de lucro y bajo tutela de la TGSS, que colaboran en la gestión de las contingencias profesionales (AT y EP) de sus trabajadores asociados, y también pueden gestionar la incapacidad temporal por contingencias comunes y la prestación por cese de actividad de los autónomos.",
+      "C": "Son organismos públicos con dependencia del INSS que gestionan exclusivamente las pensiones de los funcionarios.",
+      "D": "Son entidades de la Administración Local responsables de gestionar las bajas por enfermedad de los empleados municipales."
+    },
+    "correcta": "B",
+    "explicacion": "Las Mutuas Colaboradoras con la Seguridad Social (MCSS), reguladas en los arts. 80-99 LGSS, son asociaciones privadas de empresarios constituidas sin ánimo de lucro y con mancomunidad de responsabilidades. Sus características: (1) Privadas pero sin ánimo de lucro: los posibles beneficios revierten en el sistema o en el Fondo de Contingencias Profesionales de la Seguridad Social. (2) Bajo tutela de la TGSS: son entidades colaboradoras del sistema, no entidades gestoras propiamente dichas. (3) Ámbito de actuación: deben obligatoriamente gestionar las contingencias profesionales (AT y EP) de los empresarios asociados; también pueden asumir, si el empresario lo opta, la gestión de la IT por contingencias comunes; y gestionan la prestación por cese de actividad de los trabajadores autónomos. (4) Servicios médicos: disponen de centros asistenciales propios para la atención de los accidentados de trabajo.",
+    "why": "A las MCSS no tienen ánimo de lucro; si obtienen superávit, este pasa al sistema público. C las MCSS son entidades privadas, no públicas; no tienen dependencia del INSS aunque colaboran con el sistema. D las MCSS no son entidades locales; tienen alcance nacional y se regulan en la LGSS.",
+    "norma": "Real Decreto Legislativo 8/2015, Ley General de la Seguridad Social",
+    "articulo": "80-99 LGSS"
+  },
+  {
+    "id": "B3T33-012",
+    "bloque": 3,
+    "tema": 33,
+    "test": 33,
+    "dificultad": "media",
+    "pregunta": "¿Cuál es la diferencia de funciones entre el INSS y el SEPE dentro del sistema de protección social?",
+    "opciones": {
+      "A": "INSS y SEPE son la misma entidad con distinto nombre; ambas gestionan todas las prestaciones de Seguridad Social.",
+      "B": "El INSS gestiona las pensiones (jubilación, incapacidad permanente, viudedad, orfandad) y las prestaciones económicas del Régimen General distintas del desempleo (IT, nacimiento, etc.); el SEPE gestiona las prestaciones contributivas y asistenciales por desempleo y las políticas activas de empleo.",
+      "C": "El INSS gestiona el desempleo y el SEPE gestiona las pensiones de jubilación; ambas entidades son intercambiables.",
+      "D": "El SEPE no forma parte del sistema de Seguridad Social; es un organismo de la Unión Europea."
+    },
+    "correcta": "B",
+    "explicacion": "La distinción entre INSS y SEPE es fundamental en el sistema de protección social español: (1) INSS (Instituto Nacional de la Seguridad Social, art. 66 LGSS): es la entidad gestora principal del Régimen General; gestiona las pensiones contributivas (jubilación, incapacidad permanente —total, absoluta y gran invalidez—, viudedad, orfandad y favor de familiares) y las prestaciones económicas distintas del desempleo (IT, prestaciones por nacimiento y cuidado de menor, prestaciones familiares, etc.). (2) SEPE (Servicio Público de Empleo Estatal, regulado por la Ley de Empleo): es el organismo autónomo responsable de la gestión de las prestaciones por desempleo —tanto la prestación contributiva como los subsidios asistenciales— y de la planificación y gestión de las políticas activas de empleo (formación, orientación, etc.). Aunque ambas entidades forman parte del sistema de protección social, tienen competencias claramente delimitadas.",
+    "why": "A son organismos distintos con funciones claramente separadas; no son intercambiables. C la distribución de funciones es exactamente la contraria: el INSS gestiona pensiones y el SEPE el desempleo. D el SEPE es un organismo autónomo estatal español, no europeo; gestiona el desempleo con cargo al sistema de la SS español.",
+    "norma": "Real Decreto Legislativo 8/2015, LGSS; Ley 3/2023, de Empleo",
+    "articulo": "66-67 LGSS"
+  },
+  {
+    "id": "B3T33-013",
+    "bloque": 3,
+    "tema": 33,
+    "test": 33,
+    "dificultad": "media",
+    "pregunta": "¿Qué consecuencias tiene para el empresario no dar de alta a un trabajador en la Seguridad Social antes del inicio de su actividad?",
+    "opciones": {
+      "A": "Ninguna consecuencia; el alta puede realizarse en cualquier momento durante el primer año de trabajo sin perjuicio para nadie.",
+      "B": "La TGSS puede practicar el alta de oficio desde la fecha de inicio de la relación laboral, el empresario asume la responsabilidad directa del pago de las prestaciones que hubieran correspondido como si fuera la entidad aseguradora, y puede ser sancionado administrativamente e incluso penalmente si la omisión es grave.",
+      "C": "El trabajador pierde el derecho a cualquier prestación de Seguridad Social durante el período en que no estaba dado de alta.",
+      "D": "El empresario solo está obligado a pagar una multa de escasa cuantía; las prestaciones del trabajador quedan garantizadas por el Estado en todo caso."
+    },
+    "correcta": "B",
+    "explicacion": "El incumplimiento de la obligación de dar de alta al trabajador genera consecuencias muy graves para el empresario en virtud del art. 167 LGSS (responsabilidad empresarial en el pago de prestaciones): (1) Alta de oficio: la TGSS, al descubrir la situación, practica el alta con efectos desde el inicio de la relación laboral, exigiendo las cuotas e intereses no ingresados. (2) Responsabilidad directa en el pago de prestaciones: el empresario se convierte en responsable directo del pago de las prestaciones que hubieran correspondido al trabajador (como si fuera la aseguradora), sin posibilidad de repercutirlo a la entidad gestora ni a la mutua. (3) Sanciones administrativas: la Ley sobre Infracciones y Sanciones en el Orden Social (LISOS) tipifica la falta de alta como infracción muy grave. (4) Responsabilidad penal: en supuestos de defraudación grave, puede incurrirse en el delito del art. 307 del Código Penal. Clave: el trabajador no pierde sus derechos aunque el empresario no haya cotizado.",
+    "why": "A el incumplimiento de la obligación de alta tiene consecuencias graves e inmediatas; no hay plazo de gracia de un año. C el principio de automaticidad de las prestaciones protege al trabajador; no pierde sus derechos aunque el empresario haya incumplido; es el empresario quien asume la responsabilidad. D las sanciones no son de escasa cuantía; y el Estado actúa de forma subsidiaria, no inmediata, exigiendo después al empresario el reembolso.",
+    "norma": "Real Decreto Legislativo 8/2015, LGSS; RD Legislativo 5/2000 (LISOS)",
+    "articulo": "167 LGSS; 22 LISOS"
+  },
+  {
+    "id": "B3T33-014",
+    "bloque": 3,
+    "tema": 33,
+    "test": 33,
+    "dificultad": "media",
+    "pregunta": "¿Cuál fue el principal cambio introducido respecto a los empleados de hogar en su integración en el sistema de Seguridad Social?",
+    "opciones": {
+      "A": "Los empleados de hogar siguen excluidos de la Seguridad Social; nunca han podido cotizar ni acceder a prestaciones.",
+      "B": "Los empleados de hogar pasaron a integrarse como Sistema Especial dentro del Régimen General (en lugar del anterior Régimen Especial separado), lo que implicó que comenzaran a cotizar por más contingencias; la protección por desempleo se les reconoció a partir de 2022.",
+      "C": "Los empleados de hogar tienen un convenio especial que les permite no cotizar si trabajan menos de 20 horas semanales.",
+      "D": "Los empleados de hogar siempre han tenido exactamente las mismas condiciones de cotización y protección que el Régimen General; no ha habido ningún cambio."
+    },
+    "correcta": "B",
+    "explicacion": "Los empleados de hogar han experimentado una importante transformación normativa: (1) Antes de 2012: existía el Régimen Especial de Empleados de Hogar (REEH), completamente separado del Régimen General, con cuotas a tanto alzado, escasa protección y sin acceso a la prestación por desempleo. (2) A partir de 2012 (Ley 27/2011 y RD 1620/2011): el REEH fue suprimido y los empleados de hogar se integraron como Sistema Especial para Empleados de Hogar dentro del Régimen General. Esto supuso un avance notable en la equiparación de derechos. (3) Desde octubre de 2022 (Ley 16/2022): se les reconoció por fin la protección por desempleo, completando así la equiparación con el resto de trabajadores del Régimen General. Aún persisten algunas particularidades en la forma de calcular y liquidar las cotizaciones.",
+    "why": "A los empleados de hogar sí cotizan y tienen acceso a la Seguridad Social; la integración en el Régimen General fue un avance significativo. C no existe convenio especial que exima de cotizar por el número de horas; todos los empleados de hogar deben cotizar desde la primera hora trabajada. D las condiciones de los empleados de hogar eran históricamente peores que las del Régimen General; la equiparación ha sido gradual y aún no está completamente igualada.",
+    "norma": "Ley 27/2011; RD 1620/2011; Ley 16/2022",
+    "articulo": "251-263 LGSS (Sistema Especial para Empleados de Hogar)"
+  },
+  {
+    "id": "B3T33-015",
+    "bloque": 3,
+    "tema": 33,
+    "test": 33,
+    "dificultad": "media",
+    "pregunta": "¿A quién cubre el Régimen de Clases Pasivas del Estado y qué entidad lo gestiona?",
+    "opciones": {
+      "A": "Las Clases Pasivas cubren a todos los trabajadores en situación de desempleo; las gestiona el SEPE.",
+      "B": "El Régimen de Clases Pasivas cubre a los funcionarios civiles del Estado y personal militar que ingresaron en el servicio antes del 1 de enero de 2011; lo gestiona la Dirección General de Ordenación de la Seguridad Social del Ministerio de Inclusión, Seguridad Social y Migraciones.",
+      "C": "El Régimen de Clases Pasivas cubre a todos los funcionarios civiles del Estado con independencia de su fecha de ingreso; lo gestiona el INSS.",
+      "D": "Las Clases Pasivas son gestionadas por el Ministerio de Hacienda y cubren a los funcionarios civiles del Estado que ingresaron antes del 1 de enero de 2011; los que ingresaron a partir de esa fecha se integran en el Régimen General de la Seguridad Social."
+    },
+    "correcta": "D",
+    "explicacion": "El Régimen de Clases Pasivas del Estado, regulado por el RDL 670/1987, tiene las siguientes características: (1) Ámbito personal: cubre a los funcionarios civiles del Estado (Cuerpos de la AGE), personal militar, magistrados, jueces y fiscales, y otros colectivos asimilados que hubieran ingresado al servicio antes del 1 de enero de 2011. (2) Gestión: corresponde a la Dirección General de Ordenación de la Seguridad Social bajo el Ministerio de Hacienda y Función Pública (no al INSS ni a la TGSS). (3) Reformas 2011: la Ley 28/2011 dispuso que los nuevos funcionarios que ingresaran a partir del 1 de enero de 2011 quedaran incluidos en el Régimen General de la Seguridad Social, cesando las incorporaciones al Régimen de Clases Pasivas. (4) Prestaciones: jubilación (retiro), viudedad, orfandad y favor de familiares. No incluye IT (que corresponde a las mutualidades como MUFACE).",
+    "why": "A las Clases Pasivas no cubren a desempleados; es un régimen de pensiones para funcionarios retirados o sus causahabientes; las gestiona Hacienda, no el SEPE. B el organismo gestor de las Clases Pasivas pertenece a la esfera del Ministerio de Hacienda, no al de Inclusión, Seguridad Social y Migraciones. C el INSS no gestiona las Clases Pasivas (esas pensiones las gestiona Hacienda); además, los funcionarios que ingresaron desde 2011 están ya en el Régimen General.",
+    "norma": "Real Decreto Legislativo 670/1987; Ley 28/2011",
+    "articulo": "1-2 RDL 670/1987"
+  },
+  {
+    "id": "B3T33-016",
+    "bloque": 3,
+    "tema": 33,
+    "test": 33,
+    "dificultad": "media",
+    "pregunta": "¿Qué es el Mecanismo de Equidad Intergeneracional (MEI) introducido por la Ley 21/2021 y cuál es su finalidad?",
+    "opciones": {
+      "A": "Es una prestación económica destinada a jóvenes en situación de desempleo de larga duración.",
+      "B": "Es una cotización adicional sobre las bases de cotización por contingencias comunes, aplicada a empresarios y trabajadores, cuya finalidad es dotar el Fondo de Reserva de la Seguridad Social para garantizar la sostenibilidad del sistema pensionario frente a los retos demográficos futuros.",
+      "C": "Es un sistema de reparto de pensiones que reduce las pensiones de los jubilados actuales para aumentar las de los futuros pensionistas.",
+      "D": "Es un fondo privado de capitalización individual, similar a los planes de pensiones, financiado por el Estado."
+    },
+    "correcta": "B",
+    "explicacion": "La Ley 21/2021, de 28 de diciembre, de garantía del poder adquisitivo de las pensiones y de otras medidas de refuerzo de la sostenibilidad financiera y social del sistema público de pensiones, introdujo el Mecanismo de Equidad Intergeneracional (MEI) en sustitución del anteriormente suspendido «factor de sostenibilidad». El MEI es una cotización adicional (0,7% sobre la base de cotización por contingencias comunes, distribuida entre empresario —0,58%— y trabajador —0,12%—) aplicable entre 2023 y 2032, prorrogable si es necesario. Los recursos obtenidos se destinan al Fondo de Reserva de la Seguridad Social con el objetivo de acumular un patrimonio que permita al sistema hacer frente a los mayores gastos en pensiones derivados del envejecimiento de la población y del acceso a la jubilación de la generación del baby boom. A diferencia del anterior factor de sostenibilidad, el MEI actúa sobre los ingresos (aumentando las cuotas), no sobre las prestaciones.",
+    "why": "A el MEI no es una prestación para jóvenes; es una cotización adicional que pagan tanto empleadores como trabajadores para financiar las pensiones futuras. C el MEI no reduce pensiones actuales; actúa sobre las cuotas de cotización para acumular reservas. D el MEI es un mecanismo de cotización al sistema público de reparto, no un fondo de capitalización privada.",
+    "norma": "Ley 21/2021, de 28 de diciembre; Real Decreto Legislativo 8/2015 (LGSS)",
+    "articulo": "127 bis LGSS (MEI)"
+  },
+  {
+    "id": "B3T33-017",
+    "bloque": 3,
+    "tema": 33,
+    "test": 33,
+    "dificultad": "dificil",
+    "pregunta": "¿Cuál es la definición legal de accidente de trabajo y en qué se diferencia de la enfermedad profesional según la LGSS?",
+    "opciones": {
+      "A": "Ambos conceptos son sinónimos; cualquier lesión o enfermedad sufrida por el trabajador se considera accidente de trabajo o enfermedad profesional indistintamente.",
+      "B": "El accidente de trabajo (art. 156 LGSS) es toda lesión corporal sufrida con ocasión o por consecuencia del trabajo; incluye el accidente in itinere. La enfermedad profesional (art. 157 LGSS) es la contraída a consecuencia del trabajo en actividades específicas y por agentes causantes que figuren en el cuadro oficial; si no figura en el cuadro, podrá calificarse como accidente de trabajo. Ambas contingencias son exclusivamente a cargo del empresario.",
+      "C": "La enfermedad profesional es cualquier enfermedad diagnosticada a un trabajador, con independencia de su causa; el accidente de trabajo solo incluye los ocurridos dentro del centro de trabajo.",
+      "D": "El accidente de trabajo incluye únicamente los accidentes sufridos dentro del centro de trabajo durante la jornada laboral; los accidentes «in itinere» (al ir o volver del trabajo) no están incluidos desde la reforma de 2012."
+    },
+    "correcta": "B",
+    "explicacion": "La LGSS distingue con precisión: (1) Accidente de trabajo (art. 156 LGSS): toda lesión corporal que el trabajador sufra con ocasión o por consecuencia del trabajo que ejecute por cuenta ajena. La ley incluye expresamente: (a) accidentes in itinere (al ir o volver del trabajo en trayecto habitual); (b) accidentes en actos de salvamento relacionados con el trabajo; (c) enfermedades no listadas pero causadas por el trabajo; (d) accidentes durante desplazamientos por razón del trabajo. Se presume que toda lesión sufrida durante el tiempo y lugar de trabajo es accidente de trabajo (presunción iuris tantum). (2) Enfermedad profesional (art. 157 LGSS): enfermedad contraída en actividades específicas que figuran en el cuadro de EP aprobado por RD 1299/2006, causada por los agentes que para cada enfermedad se señalen. Requisitos: trabajo en la actividad listada + agente causal listado + enfermedad listada. Si no figura en el cuadro, se califica como AT. Ambas son financiadas íntegramente por el empresario y generan beneficios reforzados (no exigen carencia previa, base reguladora calculada a partir del salario real).",
+    "why": "A son conceptos distintos con definiciones legales precisas y consecuencias jurídicas diferenciadas. C la EP exige que la enfermedad esté en el cuadro oficial del RD 1299/2006; no basta con cualquier enfermedad diagnosticada. D los accidentes in itinere sí están expresamente incluidos en el concepto legal de accidente de trabajo (art. 156.2.a LGSS) y nunca fueron excluidos en ninguna reforma.",
+    "norma": "Real Decreto Legislativo 8/2015, Ley General de la Seguridad Social",
+    "articulo": "156-157 LGSS; RD 1299/2006"
+  },
+  {
+    "id": "B3T33-018",
+    "bloque": 3,
+    "tema": 33,
+    "test": 33,
+    "dificultad": "dificil",
+    "pregunta": "¿En qué plazo debe el empresario comunicar el alta y la baja de un trabajador a la Tesorería General de la Seguridad Social?",
+    "opciones": {
+      "A": "El alta debe comunicarse dentro de los 30 días siguientes al inicio de la relación laboral; la baja, dentro de los 15 días.",
+      "B": "El alta debe comunicarse antes del inicio de la prestación de servicios (comunicación previa, pudiendo realizarse hasta 60 días antes); la baja debe comunicarse en el plazo de 3 días naturales siguientes al cese de la actividad.",
+      "C": "Tanto el alta como la baja deben comunicarse dentro de los 10 días hábiles siguientes al inicio o cese de la actividad laboral.",
+      "D": "El alta debe comunicarse antes del inicio de la prestación de servicios; la baja puede realizarse en cualquier momento, sin plazo establecido."
+    },
+    "correcta": "B",
+    "explicacion": "El RD 84/1996, Reglamento General sobre inscripción, afiliación, altas, bajas y variaciones de datos, establece los siguientes plazos: (1) Alta (comunicación previa obligatoria): el empresario debe solicitar el alta del trabajador con anterioridad al inicio de la relación laboral; puede realizarse hasta con 60 días de anticipación, pero nunca con posterioridad al inicio de los servicios. El alta se practica de forma inmediata y el alta anticipada no produce efectos hasta la fecha prevista de inicio. (2) Baja: en el plazo de 3 días naturales (no hábiles) contados a partir del cese en el trabajo. Este plazo es determinante para los efectos en materia de cotización: si la baja no se comunica en plazo, el empresario sigue siendo responsable del pago de cuotas. Todos los trámites se realizan principalmente a través del Sistema RED (Remisión Electrónica de Datos) de la TGSS.",
+    "why": "A los plazos de 30 y 15 días no corresponden a ninguna norma vigente; el alta debe ser previa al inicio y la baja debe comunicarse en 3 días naturales. C el plazo de 10 días hábiles no se corresponde con la normativa; además, la distinción entre naturales y hábiles es relevante, y el plazo correcto para la baja es de 3 días naturales. D la baja sí tiene plazo establecido legalmente (3 días naturales); no comunicarla en plazo genera responsabilidad en materia de cotización.",
+    "norma": "Real Decreto 84/1996, Reglamento General sobre inscripción, afiliación, altas, bajas y variaciones de datos",
+    "articulo": "32-33 RD 84/1996"
+  },
+  {
+    "id": "B3T33-019",
+    "bloque": 3,
+    "tema": 33,
+    "test": 33,
+    "dificultad": "dificil",
+    "pregunta": "¿Quién fija las bases máximas y mínimas de cotización y cuál es su función dentro del sistema de cotización a la Seguridad Social?",
+    "opciones": {
+      "A": "Las bases máximas y mínimas las fija el INSS mediante resolución anual; su función es limitar el gasto en pensiones.",
+      "B": "Las bases máximas y mínimas se establecen anualmente por la Ley de Presupuestos Generales del Estado o norma equivalente; la base mínima garantiza una cotización mínima por grupo de cotización (habitualmente vinculada al SMI), mientras que la base máxima establece el techo por encima del cual no se cotiza, delimitando así tanto la cuota a ingresar como la futura base reguladora de las prestaciones.",
+      "C": "Las bases máximas y mínimas las negocia cada empresa con sus trabajadores en el convenio colectivo de empresa; no existe regulación estatal al respecto.",
+      "D": "Solo existe una base máxima; no hay bases mínimas en el sistema de Seguridad Social español."
+    },
+    "correcta": "B",
+    "explicacion": "Los arts. 19 y 147 LGSS establecen que los límites de la base de cotización se determinan anualmente por la Ley de Presupuestos Generales del Estado (LPGE) o por norma con rango de ley equivalente (como los RD-ley que prolongan sus efectos cuando la LPGE no se aprueba a tiempo). La LPGE fija: (1) Bases mínimas por grupo de cotización (hay 11 grupos en el Régimen General): garantizan que se cotice al menos por un importe mínimo para cada categoría profesional; habitualmente la base mínima del grupo 7 (no cualificados) coincide con el SMI. (2) Base máxima: un solo tope por encima del cual no se puede cotizar, con independencia del salario real; en 2024/2025 se aplica un tope único que va aumentando gradualmente según la reforma de pensiones. La base máxima también limita la base reguladora de las futuras prestaciones, creando una relación entre cotización y protección. Su fijación por ley garantiza la homogeneidad y predictibilidad del sistema.",
+    "why": "A es la LPGE (o norma equivalente) la que fija las bases, no el INSS mediante resolución; el INSS gestiona prestaciones pero no fija los límites de cotización. C los convenios colectivos no pueden fijar bases de cotización; estas son normas de orden público económico que solo puede establecer el Estado. D existen tanto bases máximas como mínimas, diferenciadas por grupo de cotización, que cumplen funciones diferentes dentro del sistema.",
+    "norma": "Real Decreto Legislativo 8/2015, Ley General de la Seguridad Social; Ley de Presupuestos Generales del Estado",
+    "articulo": "19 y 147 LGSS"
+  },
+  {
+    "id": "B3T33-020",
+    "bloque": 3,
+    "tema": 33,
+    "test": 33,
+    "dificultad": "dificil",
+    "pregunta": "¿Qué es MUFACE y cómo se diferencia del sistema de Seguridad Social gestionado por el INSS?",
+    "opciones": {
+      "A": "MUFACE es una mutualidad privada de libre adhesión para cualquier trabajador español que desee una cobertura sanitaria complementaria.",
+      "B": "MUFACE (Mutualidad General de Funcionarios Civiles del Estado) es la mutualidad de previsión que cubre a los funcionarios civiles del Estado incluidos en Clases Pasivas (ingresados antes de 2011) para contingencias de incapacidad temporal, asistencia sanitaria y otras prestaciones; a diferencia del INSS, depende del Ministerio de Hacienda y Función Pública, no del sistema de Seguridad Social; sus afiliados pueden optar por la asistencia sanitaria a través de la red pública (SNS) o de entidades privadas concertadas con MUFACE.",
+      "C": "MUFACE gestiona las pensiones de jubilación de los funcionarios civiles del Estado; el INSS gestiona la incapacidad temporal de los mismos funcionarios.",
+      "D": "MUFACE y el INSS son la misma entidad con diferente denominación para funcionarios y laborales respectivamente."
+    },
+    "correcta": "B",
+    "explicacion": "MUFACE (Mutualidad General de Funcionarios Civiles del Estado), creada en 1975 y regulada actualmente por el RDL 4/2000, es una entidad pública de previsión social que cubre al colectivo de funcionarios civiles del Estado incluidos en el Régimen de Clases Pasivas (quienes ingresaron antes del 1 de enero de 2011). Sus características: (1) Adscripción: al Ministerio de Hacienda y Función Pública, no al sistema de la Seguridad Social. (2) Contingencias que cubre: incapacidad temporal (IT), asistencia sanitaria, prestaciones por maternidad/paternidad, ayudas de acción social; no cubre las pensiones de jubilación y supervivencia, que corresponden a Clases Pasivas. (3) Asistencia sanitaria: el funcionario puede elegir entre recibirla a través del SNS (sistema público regional) o a través de una entidad aseguradora privada concertada con MUFACE (ADESLAS, ASISA, DKV, etc.). (4) Diferencia clave con el INSS: el INSS es la entidad gestora del sistema de Seguridad Social para trabajadores en Régimen General; MUFACE es una mutualidad de funcionarios ajena al sistema de SS.",
+    "why": "A MUFACE no es de libre adhesión; es obligatoria para los funcionarios civiles del Estado incluidos en su ámbito de aplicación (Clases Pasivas); no está disponible para trabajadores del sector privado. C las pensiones de jubilación de los funcionarios de Clases Pasivas no las gestiona MUFACE sino la Dirección General correspondiente del Ministerio de Hacienda; MUFACE cubre la IT y la asistencia sanitaria. D MUFACE y el INSS son entidades radicalmente distintas en naturaleza, dependencia orgánica y colectivo que sirven.",
+    "norma": "Real Decreto Legislativo 4/2000 (MUFACE); RDL 670/1987 (Clases Pasivas)",
+    "articulo": "1 RDL 4/2000"
+  }
+]
