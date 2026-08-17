@@ -1,0 +1,382 @@
+[
+  {
+    "id": "B2T22-001",
+    "bloque": 2,
+    "tema": 22,
+    "test": 22,
+    "dificultad": "facil",
+    "pregunta": "¿Cuál es el objeto de la Ley 19/2013, de 9 de diciembre, de transparencia, acceso a la información pública y buen gobierno?",
+    "opciones": {
+      "A": "Regular exclusivamente las obligaciones de publicidad de las Administraciones Públicas en internet.",
+      "B": "Ampliar y reforzar la transparencia de la actividad pública, regular y garantizar el derecho de acceso a la información pública y establecer las obligaciones de buen gobierno que deben cumplir los responsables públicos.",
+      "C": "Establecer el régimen disciplinario de los funcionarios públicos que incumplan sus deberes de lealtad institucional.",
+      "D": "Crear el Registro Central de Transparencia donde los ciudadanos inscriben sus solicitudes de información."
+    },
+    "correcta": "B",
+    "explicacion": "El art. 1 LTAIBG fija un triple objeto: (1) ampliar y reforzar la transparencia de la actividad pública, (2) regular y garantizar el derecho de acceso a la información pública, y (3) establecer las obligaciones de buen gobierno que deben cumplir los responsables públicos, así como el régimen sancionador aplicable a su incumplimiento. La ley articula así dos grandes pilares: la transparencia (publicidad activa y acceso) y el buen gobierno (conducta ética de los cargos públicos).",
+    "why": "A la publicidad en internet (portal de transparencia) es solo uno de los instrumentos de publicidad activa, no el objeto completo de la ley. C el régimen disciplinario de los funcionarios se rige por el TREBEP, no por la LTAIBG; esta regula específicamente a los altos cargos y asimilados. D no existe un «Registro Central de Transparencia» como figura general; la LTAIBG crea el Consejo de Transparencia y Buen Gobierno como órgano de supervisión.",
+    "norma": "Ley 19/2013, de transparencia, acceso a la información pública y buen gobierno",
+    "articulo": "1"
+  },
+  {
+    "id": "B2T22-002",
+    "bloque": 2,
+    "tema": 22,
+    "test": 22,
+    "dificultad": "facil",
+    "pregunta": "¿Qué se entiende por información pública a efectos de la Ley 19/2013?",
+    "opciones": {
+      "A": "Únicamente la información publicada en el BOE o en los boletines oficiales de las Comunidades Autónomas.",
+      "B": "Los contenidos o documentos, cualquiera que sea su formato o soporte, que obren en poder de alguno de los sujetos obligados y que hayan sido elaborados o adquiridos en el ejercicio de sus funciones.",
+      "C": "Solo la información que haya sido expresamente declarada pública por el órgano que la posee mediante resolución motivada.",
+      "D": "Los datos estadísticos publicados anualmente por el Instituto Nacional de Estadística."
+    },
+    "correcta": "B",
+    "explicacion": "El art. 13 LTAIBG define la información pública como los contenidos o documentos, cualquiera que sea su formato o soporte, que obren en poder de alguno de los sujetos obligados por la ley y que hayan sido elaborados o adquiridos en el ejercicio de sus funciones. La definición es amplia: incluye cualquier tipo de documento (electrónico, papel, imagen, audio), siempre que obre en poder del sujeto obligado por razón de sus funciones, con independencia de su procedencia.",
+    "why": "A limitar la información pública a lo publicado en boletines oficiales excluiría enormes volúmenes de información que la Administración posee pero no ha publicado, lo que va en contra del derecho de acceso. C la información pública no requiere declaración expresa; basta con que obre en poder del sujeto obligado por razón de sus funciones. D los datos estadísticos son un tipo de información pública, pero la definición del art. 13 es mucho más amplia.",
+    "norma": "Ley 19/2013, de transparencia, acceso a la información pública y buen gobierno",
+    "articulo": "13"
+  },
+  {
+    "id": "B2T22-003",
+    "bloque": 2,
+    "tema": 22,
+    "test": 22,
+    "dificultad": "facil",
+    "pregunta": "¿Cuál es el plazo ordinario para resolver y notificar una solicitud de acceso a la información pública según el art. 20 de la Ley 19/2013?",
+    "opciones": {
+      "A": "Diez días hábiles desde la recepción de la solicitud.",
+      "B": "Un mes desde la recepción de la solicitud, ampliable a dos meses si el volumen o la complejidad de la información lo justifica.",
+      "C": "Tres meses desde la presentación, con posibilidad de ampliación a seis meses en casos excepcionales.",
+      "D": "Quince días hábiles, sin posibilidad de prórroga."
+    },
+    "correcta": "B",
+    "explicacion": "El art. 20 LTAIBG fija un plazo de un mes para resolver y notificar las solicitudes de acceso, contado desde la recepción de la solicitud por el órgano competente para resolver. Este plazo puede ampliarse hasta dos meses cuando el volumen o complejidad de la información solicitada así lo requiera, notificando la ampliación al solicitante antes de que expire el plazo inicial. Transcurrido el plazo sin resolución, el silencio tiene efectos desestimatorios (art. 20.4).",
+    "why": "A diez días hábiles es el plazo propio de los recursos de reposición (L39/2015), no del acceso a la información. C tres meses es el plazo que tiene el Consejo de Transparencia y Buen Gobierno para resolver la reclamación ante él (art. 24.3), no el plazo de la Administración para responder a la solicitud inicial. D los quince días hábiles no corresponden a ningún plazo establecido en el art. 20 LTAIBG.",
+    "norma": "Ley 19/2013, de transparencia, acceso a la información pública y buen gobierno",
+    "articulo": "20"
+  },
+  {
+    "id": "B2T22-004",
+    "bloque": 2,
+    "tema": 22,
+    "test": 22,
+    "dificultad": "facil",
+    "pregunta": "¿Qué efecto produce el silencio administrativo cuando la Administración no resuelve una solicitud de acceso a la información pública en el plazo legal?",
+    "opciones": {
+      "A": "Silencio positivo: la solicitud se entiende estimada y el ciudadano puede exigir la entrega inmediata de la información.",
+      "B": "Silencio negativo: transcurrido el plazo sin resolución, la solicitud se entiende desestimada.",
+      "C": "El silencio es neutro: no produce ningún efecto hasta que la Administración dicte resolución expresa.",
+      "D": "El silencio suspende el procedimiento y obliga al ciudadano a presentar un nuevo escrito de recordatorio."
+    },
+    "correcta": "B",
+    "explicacion": "El art. 20.4 LTAIBG establece expresamente que, transcurrido el plazo máximo para resolver sin que se haya dictado resolución expresa, el silencio tiene sentido desestimatorio. Esta excepción a la regla general del silencio positivo del art. 24.1 L39/2015 se justifica porque el acceso a la información puede verse limitado por múltiples causas legítimas; el silencio positivo implicaría dar acceso automático a cualquier información sin evaluación previa de los límites del art. 14.",
+    "why": "A el silencio positivo no opera en materia de acceso a la información; la L39/2015 permite que leyes sectoriales establezcan el silencio negativo, y la LTAIBG lo hace expresamente en su art. 20.4. C el silencio neutro no es un concepto jurídico admitido en el Derecho español; todo silencio tiene efectos positivos o negativos. D no existe la obligación de presentar un escrito de recordatorio para activar el silencio; el mero transcurso del plazo produce el efecto desestimatorio.",
+    "norma": "Ley 19/2013, de transparencia, acceso a la información pública y buen gobierno",
+    "articulo": "20.4"
+  },
+  {
+    "id": "B2T22-005",
+    "bloque": 2,
+    "tema": 22,
+    "test": 22,
+    "dificultad": "facil",
+    "pregunta": "¿Qué tipo de información deben publicar proactivamente las Administraciones Públicas en materia institucional y de planificación según el art. 6 de la Ley 19/2013?",
+    "opciones": {
+      "A": "Solo los organigramas de los órganos superiores, sin necesidad de publicar los planes estratégicos.",
+      "B": "Información sobre sus funciones, normativa aplicable, estructura organizativa y los planes y programas con objetivos, actividades, medios y resultados previstos.",
+      "C": "Únicamente las resoluciones sancionadoras firmes y los procedimientos abiertos contra la entidad.",
+      "D": "Solo los convenios colectivos del personal y las relaciones de puestos de trabajo de la Administración."
+    },
+    "correcta": "B",
+    "explicacion": "El art. 6 LTAIBG impone a las Administraciones Públicas la obligación de publicar información institucional, organizativa y de planificación: sus funciones, la normativa que les es de aplicación, su estructura organizativa (incluido el organigrama), y los planes y programas anuales y plurianuales que incluyan objetivos concretos, actividades, medios y tiempo previsto para su consecución, así como los resultados alcanzados. Esta publicidad activa es exigible sin necesidad de que ningún ciudadano la solicite.",
+    "why": "A publicar solo los organigramas es una obligación mínima insuficiente; el art. 6 exige también los planes y programas con sus objetivos y resultados. C las resoluciones sancionadoras firmes forman parte de la publicidad activa pero están reguladas en el art. 8 junto con la información económica y presupuestaria. D los convenios y RPT son información de gestión de recursos humanos; aunque parte de ellos pueda publicarse, no agotan la obligación del art. 6.",
+    "norma": "Ley 19/2013, de transparencia, acceso a la información pública y buen gobierno",
+    "articulo": "6"
+  },
+  {
+    "id": "B2T22-006",
+    "bloque": 2,
+    "tema": 22,
+    "test": 22,
+    "dificultad": "facil",
+    "pregunta": "¿Qué naturaleza tiene el Consejo de Transparencia y Buen Gobierno creado por la Ley 19/2013?",
+    "opciones": {
+      "A": "Es una comisión parlamentaria dependiente del Congreso de los Diputados.",
+      "B": "Es un organismo público independiente, adscrito al Ministerio de Hacienda, con personalidad jurídica propia y plena capacidad de obrar.",
+      "C": "Es una Unidad Administrativa integrada en el Ministerio de la Presidencia, sin personalidad jurídica diferenciada.",
+      "D": "Es un tribunal administrativo con funciones jurisdiccionales equiparables a las de los tribunales económico-administrativos."
+    },
+    "correcta": "B",
+    "explicacion": "El art. 33 LTAIBG crea el Consejo de Transparencia y Buen Gobierno como organismo público independiente, con personalidad jurídica propia y plena capacidad de obrar, adscrito al Ministerio de Hacienda (actualmente Ministerio de Hacienda y Función Pública). Su independencia funcional es la característica definitoria: actúa con plena autonomía en el ejercicio de sus funciones, especialmente en la resolución de las reclamaciones en materia de acceso a la información. Supervisa el cumplimiento de las obligaciones de publicidad activa y resuelve las reclamaciones de los ciudadanos.",
+    "why": "A una comisión parlamentaria no podría resolver reclamaciones administrativas con efectos vinculantes para la Administración; el CTBG es un organismo del Ejecutivo pero con independencia funcional. C la integración en el Ministerio sin personalidad jurídica propia lo privaría de la independencia necesaria para actuar como árbitro entre ciudadanos y Administración. D el CTBG no tiene funciones jurisdiccionales; sus resoluciones son actos administrativos recurribles ante la jurisdicción contencioso-administrativa.",
+    "norma": "Ley 19/2013, de transparencia, acceso a la información pública y buen gobierno",
+    "articulo": "33"
+  },
+  {
+    "id": "B2T22-007",
+    "bloque": 2,
+    "tema": 22,
+    "test": 22,
+    "dificultad": "media",
+    "pregunta": "¿Quiénes están obligados a cumplir las obligaciones de publicidad activa según el art. 2 de la Ley 19/2013?",
+    "opciones": {
+      "A": "Exclusivamente la Administración General del Estado y sus organismos autónomos.",
+      "B": "Todas las Administraciones Públicas, organismos y entidades de Derecho público vinculados o dependientes de ellas, así como las entidades de Derecho privado vinculadas o dependientes de ellas y las Corporaciones de Derecho público.",
+      "C": "Solo las entidades que tengan más de 500 empleados y presupuesto superior a 10 millones de euros.",
+      "D": "Únicamente los organismos que perciban financiación de la Unión Europea superior al 50 % de su presupuesto."
+    },
+    "correcta": "B",
+    "explicacion": "El art. 2 LTAIBG define un ámbito subjetivo amplio: quedan obligadas todas las Administraciones Públicas (AGE, CCAA, entidades locales), los organismos autónomos, las entidades públicas empresariales, las sociedades mercantiles del sector público, las fundaciones del sector público, los fondos sin personalidad jurídica, las Cámaras de Comercio y otras Corporaciones de Derecho público, la Casa de Su Majestad el Rey, el Congreso, el Senado, el Tribunal Constitucional y el Consejo General del Poder Judicial. Además, el art. 3 amplía las obligaciones (más limitadas) a partidos políticos, sindicatos y organizaciones empresariales que reciben subvenciones públicas en determinada cuantía.",
+    "why": "A excluir a las CCAA, entidades locales y organismos autónomos dejaría sin aplicación la mayor parte del sector público español. C la LTAIBG no establece umbrales de empleados ni presupuesto para determinar las obligaciones de publicidad activa. D la financiación europea tampoco es el criterio; el criterio es ser entidad del sector público o estar comprendido en los artículos 2 o 3 LTAIBG.",
+    "norma": "Ley 19/2013, de transparencia, acceso a la información pública y buen gobierno",
+    "articulo": "2"
+  },
+  {
+    "id": "B2T22-008",
+    "bloque": 2,
+    "tema": 22,
+    "test": 22,
+    "dificultad": "media",
+    "pregunta": "¿Qué límites puede invocar la Administración para denegar el acceso a la información pública según el art. 14 de la Ley 19/2013?",
+    "opciones": {
+      "A": "La Administración puede denegar el acceso libremente si considera que la información es sensible, sin necesidad de invocar causa legal alguna.",
+      "B": "Solo puede denegarse el acceso por razones de secreto oficial, y únicamente cuando así lo haya declarado el Consejo de Ministros.",
+      "C": "El acceso puede limitarse cuando suponga un perjuicio para la seguridad nacional, la defensa, las relaciones exteriores, la seguridad pública, la prevención o investigación de infracciones penales, los intereses económicos o comerciales, la política económica o monetaria, el secreto profesional, la propiedad intelectual o industrial, la garantía de confidencialidad de procedimientos o la protección del medio ambiente.",
+      "D": "El acceso puede denegarse por cualquier motivo de conveniencia administrativa, bastando la motivación genérica de 'interés general'."
+    },
+    "correcta": "C",
+    "explicacion": "El art. 14 LTAIBG establece una lista tasada de once límites que pueden justificar la denegación o restricción del acceso a la información pública. La aplicación de estos límites no es automática: el órgano competente debe ponderar en cada caso si el acceso a la información causaría un perjuicio al bien jurídico protegido por el límite (principio de perjuicio) y si ese perjuicio prevalece sobre el interés público en la transparencia (principio de proporcionalidad). Los límites son numerus clausus; no caben causas de denegación distintas de las enumeradas.",
+    "why": "A la libre discrecionalidad para denegar es incompatible con el derecho de acceso reconocido en el art. 12 LTAIBG; la denegación requiere invocar un límite del art. 14 de forma motivada. B el secreto oficial (Ley 9/1968) es solo uno de los posibles límites encuadrables en los de seguridad nacional o defensa; el art. 14 no exige declaración del Consejo de Ministros para la mayor parte de los supuestos. D el interés general genérico no es un límite autónomo reconocido en el art. 14; la ley exige que el perjuicio sea concreto y encuadrable en alguno de los once supuestos del artículo.",
+    "norma": "Ley 19/2013, de transparencia, acceso a la información pública y buen gobierno",
+    "articulo": "14"
+  },
+  {
+    "id": "B2T22-009",
+    "bloque": 2,
+    "tema": 22,
+    "test": 22,
+    "dificultad": "media",
+    "pregunta": "¿Qué régimen especial establece el art. 15 de la Ley 19/2013 en relación con el acceso a información que contiene datos de carácter personal?",
+    "opciones": {
+      "A": "El acceso a cualquier información que contenga datos personales está siempre prohibido, con independencia de la naturaleza de los datos.",
+      "B": "Cuando la información contiene datos especialmente protegidos (ideología, salud, origen racial, etc.) el acceso solo se puede conceder con consentimiento expreso o ley habilitante; para el resto de datos personales se aplica una ponderación entre el derecho de acceso y el derecho a la privacidad.",
+      "C": "La protección de datos no es un límite al acceso a la información pública; ambos derechos coexisten sin conflicto.",
+      "D": "Solo se protegen los datos de menores de edad; los datos de personas adultas pueden ser siempre divulgados."
+    },
+    "correcta": "B",
+    "explicacion": "El art. 15 LTAIBG establece un régimen diferenciado según el tipo de dato. Los datos especialmente protegidos (ideología, afiliación sindical, religión, creencias, origen racial o étnico, salud, vida u orientación sexual, datos biométricos únicos) solo pueden divulgarse con el consentimiento expreso y escrito del afectado o cuando una ley con rango suficiente lo habilite; en caso contrario el acceso se deniega. Para los datos nominativos ordinarios (nombre, apellidos, dirección, etc.) el órgano debe ponderar si el interés en la divulgación prevalece sobre el derecho a la intimidad, valorando la naturaleza pública o privada del afectado y la finalidad del acceso.",
+    "why": "A una prohibición absoluta para todo dato personal haría imposible acceder a la mayoría de documentos administrativos, que casi siempre contienen algún dato de identificación. C el art. 15 LTAIBG regula expresamente el conflicto entre acceso y privacidad, reconociendo la necesidad de ponderar o denegar según el tipo de dato. D la distinción mayores/menores no es el criterio del art. 15; el criterio es el tipo de dato (especialmente protegido o no) y la posición pública del afectado.",
+    "norma": "Ley 19/2013, de transparencia, acceso a la información pública y buen gobierno",
+    "articulo": "15"
+  },
+  {
+    "id": "B2T22-010",
+    "bloque": 2,
+    "tema": 22,
+    "test": 22,
+    "dificultad": "media",
+    "pregunta": "¿En qué supuestos puede la Administración inadmitir a trámite una solicitud de acceso a la información pública según el art. 18 de la Ley 19/2013?",
+    "opciones": {
+      "A": "Cuando el solicitante no justifica debidamente el interés legítimo que le asiste para acceder a la información.",
+      "B": "Cuando la información solicitada se refiera a información en curso de elaboración, sea información auxiliar o de apoyo, requiera de una reelaboración previa, o la información ya haya sido difundida y publicada en el portal de transparencia.",
+      "C": "Cuando el solicitante ya haya presentado más de tres solicitudes en el mismo año natural.",
+      "D": "Cuando la solicitud no se presente en modelo oficial o no esté acompañada de la documentación exigida reglamentariamente."
+    },
+    "correcta": "B",
+    "explicacion": "El art. 18 LTAIBG permite la inadmisión de solicitudes en supuestos tasados: (a) información que esté en curso de elaboración o de publicación general, (b) información de carácter auxiliar o de apoyo (notas, borradores, opiniones, resúmenes, comunicaciones internas), (c) información que requiera de la Administración una actividad de reelaboración que exceda de mero tratamiento de los datos, y (d) información que haya sido previamente difundida y esté accesible al solicitante. La inadmisión requiere resolución motivada, que puede recurrir en la misma forma que la denegación.",
+    "why": "A la LTAIBG (art. 17.3) establece expresamente que el solicitante NO está obligado a motivar su solicitud; por tanto, la falta de justificación no es causa de inadmisión. C la ley no establece ningún límite al número de solicitudes que puede presentar un ciudadano en un período de tiempo. D el art. 17 exige una identificación mínima del solicitante, pero no un modelo oficial ni documentación adicional; la ausencia de estos no autoriza la inadmisión, aunque sí puede requerirse subsanación.",
+    "norma": "Ley 19/2013, de transparencia, acceso a la información pública y buen gobierno",
+    "articulo": "18"
+  },
+  {
+    "id": "B2T22-011",
+    "bloque": 2,
+    "tema": 22,
+    "test": 22,
+    "dificultad": "media",
+    "pregunta": "Según el art. 17 de la Ley 19/2013, ¿está obligado el solicitante de información pública a motivar su solicitud?",
+    "opciones": {
+      "A": "Sí; debe acreditar un interés legítimo directo y concreto en la información solicitada.",
+      "B": "No; el solicitante no está obligado a motivar su solicitud ni a justificar su petición, aunque puede hacerlo de forma voluntaria.",
+      "C": "Solo cuando la información solicitada esté sujeta a alguno de los límites del art. 14, en cuyo caso debe demostrar que su interés prevalece sobre el límite.",
+      "D": "Sí, siempre; la Administración puede rechazar la solicitud si la motivación aportada no se considera suficientemente justificada."
+    },
+    "correcta": "B",
+    "explicacion": "El art. 17.3 LTAIBG establece expresamente que el solicitante no está obligado a motivar su solicitud de acceso a la información. Tampoco tiene que alegar un interés personal o específico; el derecho de acceso se reconoce con carácter general a cualquier persona. Aunque el solicitante puede indicar la finalidad de su solicitud, esto es meramente potestativo y solo sirve para que la Administración lo valore en la ponderación de los límites del art. 14, pero su ausencia no justifica la inadmisión ni la denegación.",
+    "why": "A la exigencia de acreditar interés legítimo propio es el modelo del antiguo art. 37 LRJPAC; la LTAIBG lo supera estableciendo un derecho universal sin necesidad de interés específico. C obligar al solicitante a justificar que su interés prevalece sobre los límites equivaldría a imponer una carga probatoria que la ley no establece; es la Administración quien debe justificar la aplicación del límite. D la Administración no puede rechazar una solicitud por considerar insuficiente la motivación, ya que la motivación no es un requisito de la solicitud.",
+    "norma": "Ley 19/2013, de transparencia, acceso a la información pública y buen gobierno",
+    "articulo": "17.3"
+  },
+  {
+    "id": "B2T22-012",
+    "bloque": 2,
+    "tema": 22,
+    "test": 22,
+    "dificultad": "media",
+    "pregunta": "¿Qué información de carácter económico y presupuestario deben publicar proactivamente las Administraciones según el art. 8 de la Ley 19/2013?",
+    "opciones": {
+      "A": "Solo el resumen ejecutivo del presupuesto general aprobado cada año.",
+      "B": "Los presupuestos con descripción de las principales partidas, las cuentas anuales y los informes de auditoría, las retribuciones de los altos cargos y máximos responsables, las resoluciones de compatibilidad, las encomiendas de gestión y los contratos formalizados.",
+      "C": "Únicamente la información sobre contratos de importe superior a un millón de euros.",
+      "D": "Solo las subvenciones y ayudas concedidas, excluyendo los contratos y las retribuciones del personal."
+    },
+    "correcta": "B",
+    "explicacion": "El art. 8 LTAIBG establece las obligaciones de publicidad activa en materia económica, presupuestaria y estadística: presupuestos con descripción de partidas e indicadores de ejecución, cuentas anuales que deban rendirse e informes de auditoría, retribuciones anuales de los altos cargos y máximos responsables de las entidades obligadas, resoluciones de autorización o reconocimiento de compatibilidad, declaraciones de bienes y actividades de los cargos, contratos formalizados (datos básicos, objeto, duración, importe, procedimiento y adjudicatario), modificaciones y prórrogas, encomiendas de gestión, convenios suscritos, y subvenciones y ayudas concedidas.",
+    "why": "A publicar solo el resumen ejecutivo del presupuesto es insuficiente; el art. 8 exige la información detallada de ejecución, cuentas y auditorías. C el art. 8 no fija un umbral de un millón de euros para contratos; la obligación se extiende a todos los contratos formalizados. D la información económica que exige el art. 8 es mucho más amplia que solo subvenciones: incluye contratos, retribuciones, encomiendas y convenios.",
+    "norma": "Ley 19/2013, de transparencia, acceso a la información pública y buen gobierno",
+    "articulo": "8"
+  },
+  {
+    "id": "B2T22-013",
+    "bloque": 2,
+    "tema": 22,
+    "test": 22,
+    "dificultad": "media",
+    "pregunta": "¿Qué trámite debe realizar la Administración cuando la información solicitada puede afectar a los derechos o intereses de terceros identificados, según el art. 19 de la Ley 19/2013?",
+    "opciones": {
+      "A": "Debe publicar la solicitud en el portal de transparencia para que cualquier interesado pueda oponerse.",
+      "B": "Debe conceder al tercero un trámite de audiencia de diez días hábiles para que formule las alegaciones que estime oportunas, antes de dictar resolución.",
+      "C": "Debe archivar la solicitud directamente, ya que la protección del tercero impide siempre el acceso.",
+      "D": "Solo el juez puede autorizar el acceso cuando afecta a datos de terceros; la Administración carece de competencia en estos casos."
+    },
+    "correcta": "B",
+    "explicacion": "El art. 19.3 LTAIBG impone que, cuando la solicitud de acceso pueda afectar a derechos o intereses de terceros debidamente identificados, se les conceda un trámite de audiencia de diez días hábiles para que formulen las alegaciones que estimen convenientes. Las alegaciones del tercero pueden oponerse al acceso o bien no oponerse. El órgano competente resuelve teniendo en cuenta las alegaciones formuladas, ponderando el derecho de acceso frente a los intereses del tercero, pero la oposición del tercero no determina automáticamente la denegación.",
+    "why": "A publicar la solicitud en el portal supondría una vulneración anticipada de la privacidad del tercero antes de decidir si el acceso procede. C la afectación a terceros no determina automáticamente el archivo; el órgano debe ponderar y resolver motivadamente, pudiendo conceder acceso pese a la oposición del tercero. D la Administración es plenamente competente para resolver sobre el acceso; la intervención judicial no es preceptiva en este trámite.",
+    "norma": "Ley 19/2013, de transparencia, acceso a la información pública y buen gobierno",
+    "articulo": "19.3"
+  },
+  {
+    "id": "B2T22-014",
+    "bloque": 2,
+    "tema": 22,
+    "test": 22,
+    "dificultad": "media",
+    "pregunta": "¿Qué es la reclamación ante el Consejo de Transparencia y Buen Gobierno (o equivalente autonómico) regulada en el art. 24 de la Ley 19/2013?",
+    "opciones": {
+      "A": "Un recurso de carácter jurisdiccional que pone fin a la vía administrativa y abre el acceso directo al Tribunal Supremo.",
+      "B": "Una reclamación potestativa y gratuita ante el CTBG, alternativa a los recursos administrativos ordinarios, que puede interponerse en el plazo de un mes desde la notificación de la resolución o desde el vencimiento del plazo para resolver.",
+      "C": "Un trámite preceptivo y previo a cualquier recurso que el ciudadano debe agotar obligatoriamente antes de acudir a los tribunales.",
+      "D": "Una queja ante el Defensor del Pueblo que suspende el plazo para interponer recurso contencioso-administrativo."
+    },
+    "correcta": "B",
+    "explicacion": "El art. 24 LTAIBG regula la reclamación ante el Consejo de Transparencia y Buen Gobierno como mecanismo potestativo: el ciudadano puede elegir entre interponerla o acudir directamente a la jurisdicción contencioso-administrativa. Es gratuita, no requiere asistencia letrada y puede presentarse en el plazo de un mes desde la notificación de la resolución denegatoria o desde el vencimiento del plazo para resolver sin respuesta. El CTBG resuelve en el plazo de tres meses; transcurrido ese plazo sin resolución, la reclamación se entiende desestimada. La resolución del CTBG es un acto administrativo y pone fin a la vía administrativa.",
+    "why": "A la reclamación ante el CTBG es un mecanismo administrativo (no jurisdiccional) y no da acceso al Tribunal Supremo directamente; sus resoluciones se recurren ante la Audiencia Nacional o los TSJ según el caso. C la reclamación es potestativa, no preceptiva; puede interponerse o no, y la opción de acudir directamente al contencioso siempre está disponible. D el Defensor del Pueblo es una institución de control parlamentario; la LTAIBG no regula ninguna queja ante él en este contexto.",
+    "norma": "Ley 19/2013, de transparencia, acceso a la información pública y buen gobierno",
+    "articulo": "24"
+  },
+  {
+    "id": "B2T22-015",
+    "bloque": 2,
+    "tema": 22,
+    "test": 22,
+    "dificultad": "media",
+    "pregunta": "¿Cuáles son los principios de buen gobierno que deben observar los altos cargos y demás personas comprendidas en el ámbito de aplicación del Título II de la Ley 19/2013?",
+    "opciones": {
+      "A": "Solo el principio de legalidad y el de imparcialidad en el ejercicio de sus funciones.",
+      "B": "Principios de actuación general (eficacia, austeridad, imparcialidad, transparencia, dedicación al servicio público, respeto al Estado de Derecho) y principios éticos y de conducta (objetividad, integridad, neutralidad, honradez, abstención en caso de conflicto de interés).",
+      "C": "Únicamente el principio de jerarquía y el de coordinación con los demás órganos de la Administración.",
+      "D": "Los mismos principios que rigen la actividad de cualquier funcionario de carrera conforme al Estatuto Básico del Empleado Público."
+    },
+    "correcta": "B",
+    "explicacion": "El art. 26 LTAIBG establece los principios de buen gobierno aplicables a los altos cargos y asimilados en dos categorías: principios de actuación (eficacia, austeridad, eficiencia, transparencia, imparcialidad, dedicación al servicio público, respeto al Estado de Derecho, rendición de cuentas) y principios éticos y de conducta (objetividad, integridad, neutralidad, responsabilidad, credibilidad, imparcialidad, honradez, dedicación, colaboración). El incumplimiento de estos principios puede dar lugar a las infracciones reguladas en los arts. 28-30 LTAIBG.",
+    "why": "A el principio de legalidad y de imparcialidad son solo parte de los principios; el art. 26 recoge un catálogo mucho más amplio. C la jerarquía y coordinación son principios organizativos de la Administración (art. 103 CE), no los principios específicos de buen gobierno del Título II LTAIBG. D aunque existan coincidencias, el Título II LTAIBG se aplica a altos cargos y asimilados, no al conjunto de los funcionarios, y establece principios y un régimen sancionador específico y diferente del TREBEP.",
+    "norma": "Ley 19/2013, de transparencia, acceso a la información pública y buen gobierno",
+    "articulo": "26"
+  },
+  {
+    "id": "B2T22-016",
+    "bloque": 2,
+    "tema": 22,
+    "test": 22,
+    "dificultad": "media",
+    "pregunta": "¿A qué personas se aplica el régimen de buen gobierno del Título II de la Ley 19/2013?",
+    "opciones": {
+      "A": "A todos los empleados públicos, tanto funcionarios como personal laboral, con independencia del nivel de su puesto.",
+      "B": "A los miembros del Gobierno y de los Consejos de Gobierno de las CCAA, secretarios de Estado, subsecretarios, directores generales y demás altos cargos de la Administración General del Estado y de las entidades del sector público.",
+      "C": "Exclusivamente al Presidente del Gobierno y a los Ministros.",
+      "D": "Solo a los miembros de los órganos de gobierno de las entidades locales (alcaldes y concejales)."
+    },
+    "correcta": "B",
+    "explicacion": "El art. 25 LTAIBG define el ámbito subjetivo del Título II: se aplica a los miembros del Gobierno y de los Consejos de Gobierno autonómicos, secretarios de Estado, alto personal de la Administración General del Estado (subsecretarios, secretarios generales, directores generales y asimilados), miembros de los órganos rectores de los organismos reguladores y supervisores, máximos responsables de las entidades y organismos del sector público, y directivos de fundaciones y fondos del sector público. Las CCAA y entidades locales aplican sus propias normativas en lo que excede del ámbito de la AGE.",
+    "why": "A el TREBEP regula las obligaciones de todos los empleados públicos; el Título II LTAIBG establece un régimen especial y más exigente para los altos cargos. C limitar el régimen al Presidente y Ministros dejaría fuera a numerosos altos cargos de la AGE que también ejercen funciones de poder y gestión de recursos públicos. D las EELL tienen su propio régimen ético en la legislación de régimen local; el Título II LTAIBG se centra en el ámbito de la AGE y el sector público estatal.",
+    "norma": "Ley 19/2013, de transparencia, acceso a la información pública y buen gobierno",
+    "articulo": "25"
+  },
+  {
+    "id": "B2T22-017",
+    "bloque": 2,
+    "tema": 22,
+    "test": 22,
+    "dificultad": "dificil",
+    "pregunta": "¿Cómo se designa al Presidente del Consejo de Transparencia y Buen Gobierno y cuál es la duración de su mandato según el art. 36 de la Ley 19/2013?",
+    "opciones": {
+      "A": "Es elegido directamente por el Congreso de los Diputados por mayoría simple, con mandato de cuatro años renovable.",
+      "B": "Es nombrado por el Gobierno mediante Real Decreto, a propuesta del Ministerio de Hacienda, entre personas de reconocida competencia, y su designación debe ser ratificada por el Congreso de los Diputados por mayoría absoluta, con mandato de cinco años no renovable.",
+      "C": "Es designado por el Consejo General del Poder Judicial entre magistrados en situación de excedencia, con mandato indefinido.",
+      "D": "Es nombrado por el Consejo de Ministros por unanimidad, sin intervención parlamentaria, con mandato de tres años renovable por una sola vez."
+    },
+    "correcta": "B",
+    "explicacion": "El art. 36 LTAIBG establece que el Presidente del Consejo de Transparencia y Buen Gobierno es nombrado por el Gobierno mediante Real Decreto, a propuesta del titular del Ministerio de Hacienda, entre personas de reconocida competencia y experiencia profesional. La designación debe ser ratificada por el Congreso de los Diputados por mayoría absoluta, lo que garantiza el control parlamentario sobre la independencia del organismo. El mandato tiene una duración de cinco años y no es renovable, lo que refuerza la independencia al eliminar el incentivo de actuar en beneficio de quien pueda renovar el nombramiento.",
+    "why": "A la elección por el Congreso por mayoría simple no es el mecanismo previsto; es el Gobierno quien propone y el Congreso quien ratifica por mayoría absoluta. C el CTBG no es un órgano judicial ni está vinculado al CGPJ; su presidencia no requiere condición de magistrado. D la unanimidad del Consejo de Ministros y el mandato trienal renovable no son los términos del art. 36; el carácter no renovable del mandato de cinco años es un elemento garantista expresamente previsto.",
+    "norma": "Ley 19/2013, de transparencia, acceso a la información pública y buen gobierno",
+    "articulo": "36"
+  },
+  {
+    "id": "B2T22-018",
+    "bloque": 2,
+    "tema": 22,
+    "test": 22,
+    "dificultad": "dificil",
+    "pregunta": "¿Cuál es la diferencia entre la publicidad activa y el derecho de acceso a la información pública en el marco de la Ley 19/2013?",
+    "opciones": {
+      "A": "No existe diferencia jurídica relevante; ambas figuras responden al mismo régimen y producen los mismos efectos.",
+      "B": "La publicidad activa es la obligación de la Administración de difundir información de manera proactiva y permanente, sin que medie solicitud del ciudadano; el derecho de acceso permite al ciudadano solicitar información concreta que no ha sido publicada, ejerciendo un derecho subjetivo exigible ante la Administración.",
+      "C": "La publicidad activa corresponde al sector privado que recibe fondos públicos; el derecho de acceso es exclusivo para las Administraciones Públicas.",
+      "D": "La publicidad activa se ejercita mediante recurso administrativo; el derecho de acceso se ejercita directamente ante los tribunales."
+    },
+    "correcta": "B",
+    "explicacion": "La LTAIBG articula dos mecanismos complementarios de transparencia. La publicidad activa (arts. 5-11) impone a la Administración la obligación de publicar proactivamente cierta información (institucional, jurídica, económica) en portales de transparencia de forma periódica y actualizada, sin que ningún ciudadano deba pedirla. El derecho de acceso (arts. 12-23) es un derecho subjetivo de los ciudadanos a obtener información pública concreta que no ha sido difundida de oficio, ejercitable mediante solicitud y con las garantías procedimentales del Título I Capítulo III. Ambos instrumentos se complementan: lo que no está cubierto por la publicidad activa puede obtenerse por derecho de acceso.",
+    "why": "A existen diferencias jurídicas sustanciales: la publicidad activa es una obligación de hacer de la Administración sin necesidad de solicitud; el derecho de acceso es un derecho subjetivo que se activa mediante solicitud individual. C la publicidad activa es una obligación de los sujetos del art. 2 LTAIBG (sector público), no del sector privado. D la publicidad activa no se ejercita mediante recurso; es un deber autónomo de la Administración cuyo incumplimiento puede denunciarse ante el CTBG.",
+    "norma": "Ley 19/2013, de transparencia, acceso a la información pública y buen gobierno",
+    "articulo": "5 y 12"
+  },
+  {
+    "id": "B2T22-019",
+    "bloque": 2,
+    "tema": 22,
+    "test": 22,
+    "dificultad": "dificil",
+    "pregunta": "¿En qué consiste el acceso parcial a la información pública regulado en el art. 16 de la Ley 19/2013 y cuándo debe aplicarlo la Administración?",
+    "opciones": {
+      "A": "Cuando la información está clasificada, la Administración puede revelar solo la fecha del documento pero no su contenido.",
+      "B": "Cuando la información solicitada contiene partes sujetas a algún límite del art. 14, la Administración debe conceder el acceso a las partes no afectadas por el límite, previa disociación o supresión de la información protegida, indicando al solicitante las partes omitidas y la causa.",
+      "C": "El acceso parcial consiste en proporcionar al solicitante un resumen elaborado por la Administración en lugar del documento original.",
+      "D": "Cuando hay varios solicitantes, el acceso parcial permite repartir la información entre ellos para que ninguno tenga acceso completo."
+    },
+    "correcta": "B",
+    "explicacion": "El art. 16 LTAIBG consagra el principio de acceso parcial: cuando la resolución sobre una solicitud de acceso sea parcialmente desestimatoria porque parte de la información esté amparada por algún límite del art. 14, la Administración no puede denegar el acceso a toda la información, sino que debe dar acceso a las partes que no resulten afectadas por el límite, previa supresión o disociación de los datos protegidos. La resolución debe informar al solicitante de los extremos que han sido omitidos y de la causa que lo justifica, para que pueda impugnar adecuadamente la denegación parcial.",
+    "why": "A el acceso parcial no consiste en revelar solo metadatos; implica la entrega efectiva de la parte no protegida del documento, con supresión de la información limitada. C el resumen elaborado por la Administración no equivale al acceso parcial; el art. 16 exige dar acceso al propio documento (con las partes protegidas disociadas), no a una versión resumida por la Administración. D el acceso parcial no tiene relación con el número de solicitantes; se refiere a la información que puede facilitarse dentro de un documento que contiene partes protegidas.",
+    "norma": "Ley 19/2013, de transparencia, acceso a la información pública y buen gobierno",
+    "articulo": "16"
+  },
+  {
+    "id": "B2T22-020",
+    "bloque": 2,
+    "tema": 22,
+    "test": 22,
+    "dificultad": "dificil",
+    "pregunta": "¿Cuál es el plazo que tiene el Consejo de Transparencia y Buen Gobierno para resolver la reclamación interpuesta contra una resolución en materia de acceso a la información, y qué efecto produce el silencio?",
+    "opciones": {
+      "A": "Un mes, con silencio positivo: la reclamación se entiende estimada y el ciudadano puede exigir el acceso a la información.",
+      "B": "Tres meses; transcurrido ese plazo sin resolución expresa, la reclamación se entiende desestimada, pudiendo el solicitante impugnar la desestimación por silencio ante la jurisdicción contencioso-administrativa.",
+      "C": "Seis meses, con silencio positivo.",
+      "D": "Dos meses, sin que el silencio produzca ningún efecto hasta que el CTBG dicte resolución expresa."
+    },
+    "correcta": "B",
+    "explicacion": "El art. 24.3 LTAIBG establece que el Consejo de Transparencia y Buen Gobierno resolverá las reclamaciones en el plazo de tres meses. Transcurrido ese plazo sin resolución expresa, el silencio tiene efectos desestimatorios: la reclamación se entiende denegada. Esta desestimación por silencio habilita al ciudadano para impugnar la denegación tácita mediante recurso contencioso-administrativo ante la Audiencia Nacional (para la AGE) o ante los Tribunales Superiores de Justicia (para las CCAA que cuenten con el equivalente autonómico del CTBG). El silencio desestimatorio mantiene la coherencia con el silencio negativo de la solicitud inicial ante la Administración.",
+    "why": "A el silencio positivo en la reclamación ante el CTBG implicaría que, ante la inactividad del propio órgano de control, el ciudadano accedería automáticamente a cualquier información; la LTAIBG no establece este efecto. C el plazo de seis meses no es el previsto en el art. 24.3 LTAIBG para la resolución de las reclamaciones. D el silencio del CTBG sí produce efectos jurídicos (desestimatorios); no es un silencio neutro que suspenda indefinidamente el procedimiento.",
+    "norma": "Ley 19/2013, de transparencia, acceso a la información pública y buen gobierno",
+    "articulo": "24.3"
+  }
+]
