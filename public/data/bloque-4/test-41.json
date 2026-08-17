@@ -1,0 +1,382 @@
+[
+  {
+    "id": "B4T41-001",
+    "bloque": 4,
+    "tema": 41,
+    "test": 41,
+    "dificultad": "facil",
+    "pregunta": "¿Cuál es el marco normativo que regula la contabilidad pública en España y en la Comunidad de Madrid?",
+    "opciones": {
+      "A": "El marco normativo se limita al art. 31 CE y a la LO 2/2012 de Estabilidad Presupuestaria; no existe ninguna norma específica que regule técnicamente la contabilidad pública.",
+      "B": "El Plan General de Contabilidad Pública fue aprobado directamente por las Cortes Generales mediante ley orgánica y no puede modificarse por norma de rango inferior.",
+      "C": "La contabilidad pública del Estado se rige por la Ley 47/2003, de 26 de noviembre, General Presupuestaria (arts. 120-139), que establece la obligación de llevar contabilidad y las reglas generales; el Plan General de Contabilidad Pública se aprueba mediante Orden del Ministerio de Hacienda (actualmente Orden HAC/1489/2020, de 28 de diciembre, que sustituyó al PGCP de 2010); la CM adapta el PGCP estatal para sus entidades a través de la Intervención General de la CM.",
+      "D": "El PGCP es exactamente el mismo para todas las Administraciones (Estado, CCAA y entes locales); no existen adaptaciones sectoriales ni autonómicas."
+    },
+    "correcta": "C",
+    "explicacion": "El marco normativo de la contabilidad pública en España descansa en dos niveles: (1) Nivel legal: la Ley 47/2003, de 26 de noviembre, General Presupuestaria (LGP), que en sus arts. 120-139 establece la obligación de que las entidades del sector público estatal lleven contabilidad y fija las reglas generales sobre quién la lleva, quién aprueba el plan y cuáles son las cuentas anuales; (2) Nivel reglamentario: el PGCP propiamente dicho, aprobado por Orden ministerial; el PGCP vigente desde el ejercicio 2021 es la Orden HAC/1489/2020, de 28 de diciembre, que actualizó el anterior PGCP de 2010 (Orden EHA/1037/2010). Para la CM, la Ley 9/1990, Reguladora de la Hacienda de la CM (arts. 97 y ss.), fija la obligación de llevar contabilidad; la Intervención General de la CM aprueba las adaptaciones del PGCP estatal para las entidades del sector público autonómico. Las Entidades Locales tienen su propio plan (ICAL). No son idénticas las normas para todas las AAPP.",
+    "why": "A la LGP y el PGCP son normas específicas de regulación contable; el art. 31 CE y la LO 2/2012 regulan la estabilidad presupuestaria, no la técnica contable. B el PGCP se aprueba por Orden ministerial, no por ley orgánica; es una norma técnica de desarrollo. D cada sector público tiene su propio plan adaptado: Estado (Orden HAC/1489/2020), CCAA (adaptaciones autonómicas), Entes Locales (ICAL).",
+    "norma": "Ley 47/2003 General Presupuestaria arts. 120-139; Orden HAC/1489/2020",
+    "articulo": "120-139 LGP; Orden HAC/1489/2020"
+  },
+  {
+    "id": "B4T41-002",
+    "bloque": 4,
+    "tema": 41,
+    "test": 41,
+    "dificultad": "facil",
+    "pregunta": "¿Cuántas partes tiene el Plan General de Contabilidad Pública y cuáles son?",
+    "opciones": {
+      "A": "El PGCP tiene cinco partes: (1) Marco conceptual de la contabilidad pública; (2) Normas de registro y valoración; (3) Cuentas anuales; (4) Cuadro de cuentas; y (5) Definiciones y relaciones contables; el Marco conceptual es la parte fundamental porque establece los objetivos, los principios y las definiciones que sustentan el resto del plan.",
+      "B": "El PGCP tiene dos partes: los principios contables y las cuentas anuales; el cuadro de cuentas y las normas de valoración se incluyen dentro de la segunda parte.",
+      "C": "El PGCP tiene tres partes: principios generales, plan de cuentas y estados financieros anuales.",
+      "D": "El PGCP tiene siete partes, siguiendo la misma estructura que el Plan General de Contabilidad de la empresa privada (RD 1514/2007)."
+    },
+    "correcta": "A",
+    "explicacion": "El PGCP (Orden HAC/1489/2020) tiene la siguiente estructura en cinco partes: (1) Primera parte — Marco conceptual de la contabilidad pública: establece el objetivo de la información financiera, los requisitos cualitativos, los principios contables, los elementos de los estados financieros y los criterios de valoración; es la parte más relevante conceptualmente porque fundamenta el resto. (2) Segunda parte — Normas de registro y valoración: reglas específicas de reconocimiento contable para cada tipo de elemento (inmovilizado, existencias, subvenciones, arrendamientos, instrumentos financieros, etc.). (3) Tercera parte — Cuentas anuales: modelos de los seis documentos que forman las cuentas anuales (balance, cuenta del resultado económico-patrimonial, estado de cambios en el patrimonio neto, estado de flujos de efectivo, estado de liquidación del presupuesto y memoria). (4) Cuarta parte — Cuadro de cuentas: la codificación numérica de todos los grupos, subgrupos, cuentas y subcuentas. (5) Quinta parte — Definiciones y relaciones contables: el contenido y movimiento de cada cuenta del cuadro.",
+    "why": "B el PGCP tiene cinco partes bien diferenciadas; el cuadro de cuentas y las normas de valoración son partes autónomas (cuarta y segunda, respectivamente), no contenido de las cuentas anuales. C y D no corresponden a la estructura real del PGCP; el PGCP tiene cinco partes, no tres ni siete.",
+    "norma": "Orden HAC/1489/2020 (PGCP)",
+    "articulo": "Estructura PGCP (Orden HAC/1489/2020)"
+  },
+  {
+    "id": "B4T41-003",
+    "bloque": 4,
+    "tema": 41,
+    "test": 41,
+    "dificultad": "facil",
+    "pregunta": "¿Cómo se organiza el cuadro de cuentas del PGCP y qué recoge cada grupo?",
+    "opciones": {
+      "A": "El cuadro de cuentas del PGCP tiene cuatro grupos: inmovilizado (grupo 1), existencias (grupo 2), clientes y proveedores (grupo 3) y tesorería (grupo 4).",
+      "B": "Los grupos 1 a 5 del cuadro de cuentas recogen los ingresos y gastos del ejercicio; los grupos 6 a 9 recogen los activos y pasivos del balance.",
+      "C": "El cuadro de cuentas del PGCP tiene doce grupos siguiendo los estándares contables internacionales (IPSAS).",
+      "D": "El cuadro de cuentas del PGCP se articula en nueve grupos: grupos 1 (financiación básica: fondos propios, subvenciones recibidas y deudas a largo plazo) y 2 (activo no corriente: inmovilizado intangible, material e inversiones financieras a largo plazo); grupos 3 (existencias), 4 (acreedores y deudores por operaciones corrientes) y 5 (cuentas financieras a corto plazo y tesorería) para el circulante; grupos 6 (compras y gastos) y 7 (ventas e ingresos) para el resultado económico-patrimonial; y grupos 8 y 9 para gastos e ingresos imputados directamente al patrimonio neto."
+    },
+    "correcta": "D",
+    "explicacion": "El cuadro de cuentas del PGCP agrupa las cuentas por naturaleza económica en nueve grupos: (1) Grupo 1 — Financiación básica: fondos propios de la entidad, provisiones a largo plazo, deudas y empréstitos a largo plazo, y subvenciones recibidas pendientes de imputar a resultados. (2) Grupo 2 — Activo no corriente: inmovilizado intangible (aplicaciones informáticas, concesiones), inmovilizado material (edificios, mobiliario, equipos) e inversiones financieras a largo plazo. (3) Grupo 3 — Existencias: bienes destinados al consumo o la venta. (4) Grupo 4 — Acreedores y deudores por operaciones presupuestarias y no presupuestarias de carácter corriente. (5) Grupo 5 — Cuentas financieras a corto plazo: deudas a c/p, inversiones financieras temporales, tesorería y ajustes por periodificación. (6) Grupo 6 — Gastos: gastos de funcionamiento, transferencias y subvenciones concedidas, pérdidas. (7) Grupo 7 — Ingresos: impuestos, tasas, transferencias y subvenciones recibidas corrientes. (8) Grupo 8 — Gastos imputados al patrimonio neto. (9) Grupo 9 — Ingresos imputados al patrimonio neto.",
+    "why": "A el cuadro de cuentas del PGCP tiene nueve grupos, no cuatro; la agrupación descrita no corresponde al PGCP. B la asignación de grupos está invertida: los grupos 1-5 son de balance (activos y pasivos); los grupos 6-7 son de la cuenta de resultados. C el cuadro de cuentas del PGCP tiene nueve grupos; las IPSAS son normas internacionales distintas del PGCP español.",
+    "norma": "Orden HAC/1489/2020 (PGCP), Cuarta parte: Cuadro de cuentas",
+    "articulo": "Cuadro de cuentas PGCP — grupos 1-9"
+  },
+  {
+    "id": "B4T41-004",
+    "bloque": 4,
+    "tema": 41,
+    "test": 41,
+    "dificultad": "facil",
+    "pregunta": "¿Qué establece el principio de no compensación en la contabilidad pública y cuál es su finalidad?",
+    "opciones": {
+      "A": "El principio de no compensación prohíbe exclusivamente la compensación de créditos y deudas con un mismo proveedor o deudor; no afecta a la presentación del balance ni de la cuenta de resultados.",
+      "B": "El principio de no compensación establece que no pueden compensarse saldos de partidas del activo con partidas del pasivo del balance, ni saldos de ingresos con gastos en la cuenta del resultado económico-patrimonial, aunque exista relación jurídica entre los elementos afectados; su finalidad es que el balance y la cuenta de resultados muestren la magnitud real y completa de activos, pasivos, ingresos y gastos, sin neteos que pudieran ocultar información relevante.",
+      "C": "El principio de no compensación solo aplica a las operaciones intragrupo entre entidades del mismo sector público autonómico; las operaciones con el sector privado pueden presentarse de forma neta.",
+      "D": "El principio de no compensación fue derogado por la Orden HAC/1489/2020 y sustituido por el principio de representación fiel, que permite la compensación cuando mejora la comprensión de los estados financieros."
+    },
+    "correcta": "B",
+    "explicacion": "El principio de no compensación es uno de los principios contables del PGCP (Marco Conceptual) y tiene una doble aplicación: (1) En el balance: no pueden presentarse saldos activos y pasivos de forma neta aunque correspondan a transacciones relacionadas (p. ej., un derecho de cobro y una deuda con el mismo tercero no pueden compensarse y presentarse por la diferencia; deben figurar ambas por su importe íntegro). (2) En la cuenta del resultado económico-patrimonial: no pueden compensarse ingresos con gastos aunque estén relacionados económicamente. La finalidad es la transparencia: si se permitiera la compensación, el balance y la cuenta de resultados mostrarían cifras artificialmente reducidas que ocultarían la verdadera dimensión de las operaciones de la entidad, dificultando el análisis y el control. Es un principio que existe tanto en la contabilidad pública como en la privada (Plan General de Contabilidad, RD 1514/2007).",
+    "why": "A el principio de no compensación tiene alcance amplio; afecta a la presentación en el balance y en la cuenta de resultados, no solo a las operaciones con un mismo proveedor o deudor. C el principio de no compensación se aplica a todas las operaciones, no solo a las intragrupo. D la Orden HAC/1489/2020 mantiene el principio de no compensación; no lo derogó.",
+    "norma": "Orden HAC/1489/2020 (PGCP), Primera parte: Marco conceptual",
+    "articulo": "Marco Conceptual PGCP — principio de no compensación"
+  },
+  {
+    "id": "B4T41-005",
+    "bloque": 4,
+    "tema": 41,
+    "test": 41,
+    "dificultad": "facil",
+    "pregunta": "¿Cuál es el objetivo de la información contable pública y quiénes son sus usuarios según el Marco Conceptual del PGCP?",
+    "opciones": {
+      "A": "El objetivo exclusivo de la contabilidad pública es el control de la legalidad; la toma de decisiones económicas no forma parte de sus propósitos declarados en el PGCP.",
+      "B": "La contabilidad pública tiene como único usuario a la Intervención General; el resto de órganos (incluidos los legislativos) obtienen su información de otras fuentes.",
+      "C": "El Marco Conceptual del PGCP establece que la contabilidad pública tiene como objetivo proporcionar información económico-financiera útil para la toma de decisiones y para la rendición de cuentas de los gestores públicos; los usuarios de esa información son múltiples: el Parlamento y los órganos legislativos, los órganos de control (Tribunal de Cuentas, Cámara de Cuentas), el propio ejecutivo que gestiona los recursos, los ciudadanos, los acreedores y los organismos internacionales; la rendición de cuentas es una finalidad específica del sector público que no tiene equivalente en el sector privado.",
+      "D": "El objetivo de la contabilidad pública es idéntico al de la contabilidad privada: maximizar el valor para los propietarios; los ciudadanos como contribuyentes son los accionistas y la contabilidad pública se rige por los mismos estándares que la privada."
+    },
+    "correcta": "C",
+    "explicacion": "El Marco Conceptual del PGCP (Primera parte de la Orden HAC/1489/2020) fija los siguientes objetivos de la información contable pública: (1) Facilitar la toma de decisiones: los gestores públicos necesitan información fiable para gestionar los recursos; los órganos legislativos la usan para autorizar el presupuesto y controlar su ejecución. (2) Facilitar la rendición de cuentas: los gestores públicos deben rendir cuentas ante los ciudadanos y sus representantes sobre cómo han usado los recursos públicos confiados; esta función no tiene equivalente en el sector privado, donde la accountability se limita a los accionistas. Los usuarios de la información contable pública son muy variados: las Asambleas legislativas (que aprueban el presupuesto y controlan su ejecución), los órganos de control externo (Tribunal de Cuentas, Cámaras de Cuentas autonómicas) e interno (Intervención General), el propio ejecutivo, los acreedores, los ciudadanos y organizaciones internacionales (UE, FMI). Esta pluralidad de usuarios justifica que la información pública sea más amplia que la de la empresa privada.",
+    "why": "A el PGCP tiene dos objetivos: toma de decisiones y rendición de cuentas; no se limita al control de la legalidad. B los usuarios de la contabilidad pública son múltiples; la Intervención General es uno de ellos pero no el único. D la contabilidad pública tiene características y objetivos propios que la diferencian de la privada, especialmente la rendición de cuentas democrática.",
+    "norma": "Orden HAC/1489/2020 (PGCP), Primera parte: Marco conceptual",
+    "articulo": "Marco Conceptual PGCP — objetivo e usuarios"
+  },
+  {
+    "id": "B4T41-006",
+    "bloque": 4,
+    "tema": 41,
+    "test": 41,
+    "dificultad": "facil",
+    "pregunta": "¿Qué contiene el Marco Conceptual del PGCP y por qué es la parte más relevante del plan?",
+    "opciones": {
+      "A": "El Marco Conceptual del PGCP establece: (1) el objetivo de la información financiera pública; (2) los requisitos cualitativos de la información (relevancia, representación fiel y características de mejora); (3) los principios contables (devengo, entidad en funcionamiento, uniformidad, prudencia, no compensación, importancia relativa); (4) los elementos de los estados financieros (activos, pasivos, patrimonio neto, ingresos y gastos) con sus definiciones y criterios de reconocimiento; y (5) los criterios de valoración; es la parte fundamental porque proporciona los fundamentos teóricos que sustentan e interpretan el resto del plan.",
+      "B": "El Marco Conceptual es una parte meramente opcional del PGCP; las entidades pueden elegir no aplicarlo si sus cuentas anuales son sencillas.",
+      "C": "El Marco Conceptual solo contiene los principios contables; las definiciones de los elementos (activos, pasivos) se encuentran en la segunda parte (Normas de registro y valoración).",
+      "D": "El Marco Conceptual del PGCP regula exclusivamente la contabilidad presupuestaria; la contabilidad financiera (balance y cuenta de resultados) se rige por normas distintas no incluidas en el PGCP."
+    },
+    "correcta": "A",
+    "explicacion": "El Marco Conceptual (Primera parte del PGCP) es la columna vertebral del plan porque establece los fundamentos teóricos que sirven de referencia para: (1) Objetivo: para qué sirve la contabilidad pública (toma de decisiones + rendición de cuentas). (2) Requisitos cualitativos: qué propiedades debe tener la información para ser útil (relevancia, representación fiel, comparabilidad, verificabilidad, oportunidad, comprensibilidad). (3) Principios contables: las reglas básicas de registro (devengo, entidad en funcionamiento, uniformidad, prudencia, no compensación, importancia relativa). (4) Elementos de los estados financieros: definición precisa de activos, pasivos, patrimonio neto, ingresos y gastos, con los criterios de reconocimiento. (5) Criterios de valoración: los métodos admitidos para medir los elementos (coste histórico, valor razonable, valor en uso, valor residual, etc.). Su importancia reside en que, cuando una situación no está expresamente regulada en las normas específicas del plan, el contador público debe acudir al Marco Conceptual para encontrar el criterio correcto.",
+    "why": "B el Marco Conceptual es de aplicación obligatoria para todas las entidades sujetas al PGCP; no es optativo. C el Marco Conceptual sí incluye las definiciones de los elementos contables (activos, pasivos, etc.); las Normas de registro y valoración (segunda parte) desarrollan la aplicación práctica de esas definiciones. D el Marco Conceptual regula tanto la contabilidad financiera como la presupuestaria; el PGCP integra ambas.",
+    "norma": "Orden HAC/1489/2020 (PGCP), Primera parte: Marco conceptual",
+    "articulo": "Marco Conceptual PGCP"
+  },
+  {
+    "id": "B4T41-007",
+    "bloque": 4,
+    "tema": 41,
+    "test": 41,
+    "dificultad": "media",
+    "pregunta": "¿Cuáles son los criterios de valoración que admite el PGCP y en qué consiste cada uno?",
+    "opciones": {
+      "A": "El PGCP solo admite el criterio del coste histórico; cualquier otro criterio (valor razonable, valor en uso) está prohibido en la contabilidad pública.",
+      "B": "El criterio principal del PGCP es el valor razonable; el coste histórico solo puede usarse subsidiariamente cuando no sea posible determinar el valor razonable.",
+      "C": "El PGCP no contiene criterios de valoración propios; remite íntegramente a las Normas Internacionales de Información Financiera para el Sector Público (IPSAS) para la valoración de todos los elementos.",
+      "D": "El PGCP establece varios criterios de valoración: (1) Coste histórico: precio de adquisición o coste de producción; es el criterio general; (2) Valor razonable: importe al que puede intercambiarse un activo o liquidarse un pasivo entre partes independientes interesadas; se determina por referencia a un mercado activo o mediante técnicas de valoración; (3) Valor en uso: valor actual de los flujos de efectivo futuros esperados del activo; (4) Valor neto contable: valor bruto menos correcciones valorativas acumuladas (amortizaciones y deterioros); (5) Valor residual: importe estimado a obtener por la disposición del activo al final de su vida útil."
+    },
+    "correcta": "D",
+    "explicacion": "El Marco Conceptual del PGCP (Orden HAC/1489/2020) establece los siguientes criterios de valoración: (1) Coste histórico o coste: precio de adquisición (importe pagado más todos los costes directamente atribuibles a la puesta en condiciones de uso) o coste de producción; es el criterio más usado por su objetividad y verificabilidad. (2) Valor razonable: importe por el que puede adquirirse o liquidarse un activo/pasivo entre partes interesadas en condiciones de independencia; se usa para instrumentos financieros y algunos activos cuando hay mercado activo. (3) Valor en uso o valor actual: suma de los flujos de efectivo futuros esperados, descontados a una tasa adecuada; útil para medir el deterioro de activos. (4) Valor neto contable o en libros: es el resultado de restar al valor bruto las correcciones valorativas (amortización acumulada + pérdidas por deterioro acumuladas); es el valor que figura en el balance. (5) Valor residual: importe estimado que la entidad podría obtener en el momento actual por la venta del activo, neto de costes de venta, si el activo ya estuviese en la situación y antigüedad esperadas al final de su vida útil; se usa en el cálculo de la amortización. (6) Coste de reposición: coste de adquirir un activo equivalente en el momento actual.",
+    "why": "A el PGCP admite múltiples criterios de valoración (valor razonable, valor en uso, etc.); el coste histórico no es el único. B el criterio general del PGCP es el coste histórico, no el valor razonable; el valor razonable se aplica en casos específicos (instrumentos financieros, por ejemplo). C el PGCP contiene sus propios criterios de valoración (Marco Conceptual); no remite a las IPSAS, que son normas internacionales distintas.",
+    "norma": "Orden HAC/1489/2020 (PGCP), Primera parte: Marco conceptual — criterios de valoración",
+    "articulo": "Marco Conceptual PGCP — criterios de valoración"
+  },
+  {
+    "id": "B4T41-008",
+    "bloque": 4,
+    "tema": 41,
+    "test": 41,
+    "dificultad": "media",
+    "pregunta": "¿Cuándo se reconoce el inmovilizado material en el PGCP y cómo se trata su amortización?",
+    "opciones": {
+      "A": "El inmovilizado material se reconoce siempre que su coste supere los 1.000 euros; por debajo de ese umbral debe registrarse directamente como gasto del ejercicio.",
+      "B": "El inmovilizado material se reconoce cuando sea probable que la entidad obtenga beneficios o rendimientos futuros del activo y cuando su coste pueda valorarse con fiabilidad; la valoración inicial se realiza por coste histórico (precio de adquisición más todos los costes directamente atribuibles hasta la puesta en funcionamiento); la amortización es la pérdida sistemática de valor a lo largo de la vida útil mediante un método racional (lineal, decreciente, etc.); los terrenos y bienes de dominio público de vida útil indefinida generalmente no se amortizan.",
+      "C": "En el PGCP el inmovilizado material se valora siempre por el valor de mercado en la fecha de cierre del ejercicio; el coste histórico no es un criterio admitido para este tipo de activos.",
+      "D": "La amortización del inmovilizado material es potestativa en el sector público; cada entidad decide libremente si amortiza o no sus activos, y en qué plazo."
+    },
+    "correcta": "B",
+    "explicacion": "Las Normas de registro y valoración del PGCP (Segunda parte) regulan el inmovilizado material de la siguiente manera: (1) Reconocimiento: un elemento del inmovilizado material se reconoce cuando sea probable que la entidad obtenga beneficios o rendimientos económicos futuros derivados del mismo y sea posible valorarlo con fiabilidad; no existe un umbral cuantitativo universal (cada entidad puede fijar criterios de materialidad internos). (2) Valoración inicial: por el coste histórico, que incluye el precio de adquisición más todos los gastos directamente atribuibles a la puesta en condiciones de funcionamiento (transporte, instalación, honorarios técnicos, impuestos no recuperables, etc.). (3) Amortización: refleja la pérdida de valor sistemática y racional a lo largo de la vida útil estimada del activo; el método más común es el lineal (cuota constante = (coste − valor residual) / vida útil); los terrenos no se amortizan porque tienen vida útil indefinida; el activo deja de amortizarse cuando su valor neto es igual al valor residual o cuando se da de baja. (4) Revisión periódica: la vida útil y el valor residual se revisan al cierre de cada ejercicio.",
+    "why": "A el reconocimiento del inmovilizado no depende de un umbral de 1.000 euros fijado en el PGCP; se reconoce cuando cumple los criterios conceptuales (beneficios futuros + valoración fiable). C el inmovilizado material se valora inicialmente por coste histórico, no por valor de mercado; el valor razonable se aplica en casos específicos. D la amortización es obligatoria y no discrecional; el PGCP exige que refleje la pérdida sistemática de valor.",
+    "norma": "Orden HAC/1489/2020 (PGCP), Segunda parte: Normas de registro y valoración — inmovilizado material",
+    "articulo": "NRV inmovilizado material PGCP"
+  },
+  {
+    "id": "B4T41-009",
+    "bloque": 4,
+    "tema": 41,
+    "test": 41,
+    "dificultad": "media",
+    "pregunta": "¿Cómo se contabilizan en el PGCP las subvenciones recibidas para financiar la adquisición de inmovilizado?",
+    "opciones": {
+      "A": "Las subvenciones recibidas para adquirir inmovilizado se reconocen íntegramente como ingreso del ejercicio en que se conceden; no existe imputación diferida.",
+      "B": "Las subvenciones recibidas para inmovilizado reducen directamente el valor contable del activo; el inmovilizado se registra por su valor neto (precio de adquisición menos el importe de la subvención).",
+      "C": "Las subvenciones, donaciones y legados recibidos para financiar activos no corrientes se reconocen inicialmente como ingresos del patrimonio neto; posteriormente se imputan a la cuenta del resultado económico-patrimonial como ingresos de manera sistemática y correlacionada con la amortización del activo financiado; si el activo se amortiza en diez años y la subvención asciende a 100.000 euros, la entidad reconocerá 10.000 euros anuales de ingreso por subvención durante cada uno de los diez años de vida del activo.",
+      "D": "Las subvenciones para inmovilizado se registran como deuda de la entidad receptora hasta que el activo está completamente amortizado; solo entonces se cancelan con abono a ingresos."
+    },
+    "correcta": "C",
+    "explicacion": "El tratamiento contable de las subvenciones de capital en el PGCP sigue el principio de correlación de ingresos y gastos: (1) Reconocimiento inicial: cuando se concede la subvención para financiar un activo no corriente, se reconoce en el patrimonio neto (grupo 1 del cuadro de cuentas), no directamente en la cuenta de resultados; esto refleja que es un derecho pendiente de imputar a resultados futuros. (2) Imputación a resultados: a medida que el activo se amortiza, la subvención se transfiere del patrimonio neto a la cuenta del resultado económico-patrimonial como ingreso; la cuantía anual de ingreso por subvención es proporcional a la amortización del activo financiado; así, los ingresos por subvención se reconocen en los mismos ejercicios que los gastos de amortización del activo, logrando la correlación. (3) Si el activo se vende o se da de baja antes de estar totalmente amortizado: la parte pendiente de la subvención se imputa íntegramente a resultados del ejercicio de la baja. Las subvenciones de explotación (corrientes, no vinculadas a activos) sí se reconocen como ingreso del ejercicio en que se conceden.",
+    "why": "A reconocer toda la subvención de capital como ingreso del año de concesión violaría el principio de correlación de ingresos y gastos; el PGCP exige imputación diferida. B reducir el valor del activo por la subvención recibida no es el criterio del PGCP; el activo se registra por su coste total de adquisición. D las subvenciones no se registran como deuda; son recursos propios de la entidad pendientes de imputar a resultados.",
+    "norma": "Orden HAC/1489/2020 (PGCP), Segunda parte: NRV — subvenciones, donaciones y legados",
+    "articulo": "NRV subvenciones PGCP"
+  },
+  {
+    "id": "B4T41-010",
+    "bloque": 4,
+    "tema": 41,
+    "test": 41,
+    "dificultad": "media",
+    "pregunta": "¿En qué se diferencian la cuenta del resultado económico-patrimonial y el estado de liquidación del presupuesto en el PGCP?",
+    "opciones": {
+      "A": "La cuenta del resultado económico-patrimonial y el estado de liquidación del presupuesto muestran información complementaria y con diferente criterio temporal: la primera sigue el principio de devengo (registra ingresos y gastos cuando se producen económicamente, con independencia del cobro o pago); el segundo sigue el criterio presupuestario (muestra derechos reconocidos vs previsiones de ingresos, y obligaciones reconocidas vs créditos de gastos); ambos estados pueden arrojar resultados distintos porque los criterios de imputación temporal son diferentes.",
+      "B": "La cuenta del resultado económico-patrimonial y el estado de liquidación del presupuesto son documentos redundantes que recogen exactamente la misma información con distinta denominación; las entidades pueden optar por presentar solo uno de ellos.",
+      "C": "El estado de liquidación del presupuesto sustituye a la cuenta del resultado económico-patrimonial en el sector público; la contabilidad pública no incluye ningún estado de resultados de tipo económico-patrimonial.",
+      "D": "La diferencia entre ambos estados es solo de nombre y presentación; recogen la misma información con distinto formato."
+    },
+    "correcta": "A",
+    "explicacion": "El PGCP incluye dos estados de resultados con naturaleza distinta que coexisten y son complementarios: (1) Cuenta del resultado económico-patrimonial: sigue el principio de devengo; recoge todos los ingresos y gastos del período en que se producen económicamente (independientemente de si se han cobrado o pagado); es análoga a la cuenta de pérdidas y ganancias del sector privado; el resultado puede ser positivo (superávit económico-patrimonial) o negativo (déficit económico-patrimonial). (2) Estado de liquidación del presupuesto: sigue el criterio presupuestario; muestra la ejecución del presupuesto: para los ingresos, compara las previsiones iniciales y definitivas con los derechos reconocidos netos y la recaudación; para los gastos, compara los créditos iniciales y definitivos con las obligaciones reconocidas y los pagos; el resultado es el superávit o déficit presupuestario. La diferencia entre ambos estados se debe principalmente a: (a) distinto tratamiento temporal (devengo vs reconocimiento presupuestario); (b) el resultado económico incluye amortizaciones y variaciones de valor que no tienen reflejo presupuestario; (c) las provisiones y ajustes contables no tienen equivalente presupuestario.",
+    "why": "B los dos estados muestran información diferente; no son redundantes; ambos son obligatorios. C el sector público tiene tanto estado de liquidación presupuestaria como cuenta del resultado económico-patrimonial; ninguno sustituye al otro. D no son la misma información; el diferente criterio de imputación temporal hace que los resultados puedan ser distintos.",
+    "norma": "Orden HAC/1489/2020 (PGCP), Tercera parte: Cuentas anuales",
+    "articulo": "Cuentas anuales PGCP — resultado económico-patrimonial y liquidación presupuesto"
+  },
+  {
+    "id": "B4T41-011",
+    "bloque": 4,
+    "tema": 41,
+    "test": 41,
+    "dificultad": "media",
+    "pregunta": "¿Qué son las operaciones extrapresupuestarias y cuáles son sus principales ejemplos en el sector público?",
+    "opciones": {
+      "A": "Las operaciones extrapresupuestarias son aquellas no autorizadas por el presupuesto; su realización constituye siempre una infracción del principio de legalidad presupuestaria.",
+      "B": "Las operaciones extrapresupuestarias son gastos de capital que superan el crédito presupuestario disponible; se financian con fondos de reserva no presupuestados.",
+      "C": "Las operaciones extrapresupuestarias solo existen en la contabilidad privada; en el sector público todas las operaciones pasan obligatoriamente por el presupuesto.",
+      "D": "Las operaciones extrapresupuestarias son movimientos de fondos que no pasan por el presupuesto porque no constituyen ingresos o gastos definitivos de la entidad; son operaciones de mediación o depósito temporal: ingresos extrapresupuestarios típicos son los depósitos de licitadores (garantías en contratación pública), las fianzas recibidas de terceros y las retenciones de IRPF practicadas en nóminas (que luego se ingresan a la AEAT); los pagos extrapresupuestarios correspondientes son la devolución de esos depósitos y fianzas, y el ingreso de las retenciones a Hacienda; se contabilizan en cuentas de deudores/acreedores no presupuestarios y no afectan al resultado presupuestario ni económico-patrimonial."
+    },
+    "correcta": "D",
+    "explicacion": "Las operaciones extrapresupuestarias son un concepto propio de la contabilidad pública que distingue entre: (1) Operaciones presupuestarias: ingresos y gastos definitivos de la entidad que pasan por el presupuesto (impuestos, nóminas, compras, subvenciones concedidas, etc.); afectan al resultado presupuestario. (2) Operaciones extrapresupuestarias: flujos de fondos que la entidad recibe o entrega con carácter temporal y de mediación, sin constituir ingresos o gastos propios definitivos; no se incluyen en el presupuesto porque la entidad los recibe para devolvérselos al tercero (depósitos, fianzas) o para ingresarlos a otra Administración (retenciones de IRPF para la AEAT). Ejemplos más comunes: (a) Depósitos de licitadores en contratos públicos (se devuelven si no resultan adjudicatarios). (b) Fianzas de arrendatarios o prestadores de servicios. (c) Retenciones del IRPF practicadas en las nóminas (la entidad actúa como retenedora y debe ingresarlas a la AEAT). (d) Anticipos de caja fija y pagos a justificar (hasta su justificación). Contablemente se registran en cuentas del grupo 4 o 5 sin impacto en el resultado.",
+    "why": "A las operaciones extrapresupuestarias no son ilegales; son operaciones reconocidas por el ordenamiento contable público; la infracción sería realizarlas sin seguir los procedimientos contables establecidos. B las operaciones extrapresupuestarias no son gastos que superen el crédito; son movimientos de mediación temporal sin carácter de gasto ni ingreso definitivo. C las operaciones extrapresupuestarias son un concepto exclusivo de la contabilidad pública; en la privada no existe esta distinción.",
+    "norma": "PGCP; LGP; Instrucciones de Contabilidad del sector público",
+    "articulo": "Operaciones extrapresupuestarias — PGCP"
+  },
+  {
+    "id": "B4T41-012",
+    "bloque": 4,
+    "tema": 41,
+    "test": 41,
+    "dificultad": "media",
+    "pregunta": "¿Qué contiene la Memoria como cuenta anual del sector público y cuál es su función específica?",
+    "opciones": {
+      "A": "La Memoria es el primer documento de las cuentas anuales del sector público y contiene únicamente los principios contables aplicados; el resto de información se incluye en el balance.",
+      "B": "La Memoria es la sexta cuenta anual del sector público; amplía y comenta la información de los otros cinco documentos; su contenido incluye: descripción de la entidad y su actividad; bases de presentación y políticas contables aplicadas; información adicional sobre cada partida del balance, la cuenta de resultados y los demás estados; contingencias, compromisos y hechos posteriores al cierre del ejercicio; e indicadores de gestión específicos del sector público (eficacia, eficiencia, economía en la prestación de servicios).",
+      "C": "La Memoria no forma parte de las cuentas anuales del sector público; es un documento interno de gestión que no se remite a los órganos de control ni al Parlamento.",
+      "D": "La Memoria es idéntica para todas las entidades del sector público; el PGCP no permite ninguna adaptación a las características específicas de cada tipo de entidad."
+    },
+    "correcta": "B",
+    "explicacion": "La Memoria es la sexta cuenta anual regulada en la Tercera parte del PGCP y tiene una función esencial de complemento y clarificación de los otros cinco estados: (1) Descripción de la entidad: naturaleza, actividad, marco legal, organización. (2) Bases de presentación: principios contables aplicados, cambios de criterio respecto al ejercicio anterior, estimaciones y juicios realizados. (3) Normas de registro y valoración aplicadas: criterios concretos usados para valorar cada tipo de elemento. (4) Información por partidas: para cada partida relevante del balance, la cuenta de resultados y los demás estados, la Memoria detalla los movimientos del ejercicio, los saldos iniciales y finales, las garantías, los vencimientos, etc. (5) Contingencias y compromisos: obligaciones potenciales no reconocidas en el balance pero relevantes para el usuario (avales otorgados, litigios pendientes, compromisos de gasto futuros). (6) Hechos posteriores al cierre: eventos relevantes ocurridos entre el cierre del ejercicio y la fecha de formulación de las cuentas. (7) Indicadores de gestión: específicos del sector público, miden la eficacia (¿se lograron los objetivos?), la eficiencia (relación coste/resultado) y la economía (adquisición al mínimo coste posible).",
+    "why": "A la Memoria es el sexto documento (no el primero) de las cuentas anuales; su contenido es mucho más amplio que los principios contables. C la Memoria sí es parte de las cuentas anuales y se remite a los órganos de control (Cámara de Cuentas) y al Parlamento (Asamblea de Madrid). D el PGCP prevé modelos de Memoria diferenciados para distintos tipos de entidades (Administraciones, organismos autónomos, empresas públicas).",
+    "norma": "Orden HAC/1489/2020 (PGCP), Tercera parte: Cuentas anuales — Memoria",
+    "articulo": "Cuentas anuales PGCP — Memoria"
+  },
+  {
+    "id": "B4T41-013",
+    "bloque": 4,
+    "tema": 41,
+    "test": 41,
+    "dificultad": "media",
+    "pregunta": "¿Qué es la contabilidad analítica o de costes en el sector público y para qué finalidades sirve?",
+    "opciones": {
+      "A": "La contabilidad analítica es obligatoria para todas las entidades públicas y está plenamente implantada en todas las CCAA; su omisión constituye una infracción contable grave.",
+      "B": "La contabilidad analítica tiene por objeto exclusivo determinar el precio de venta de los servicios públicos; no tiene relación con la evaluación de la eficiencia o la economía en la gestión.",
+      "C": "La contabilidad analítica o de costes, prevista en la LGP (art. 133) y en el PGCP, es un sistema complementario a la contabilidad financiera y presupuestaria que permite calcular el coste real de cada servicio, actividad o programa público; sus finalidades son: evaluar la eficiencia, la economía y la eficacia de la gestión; proporcionar información para la toma de decisiones (subcontratar o producir internamente, continuar o suprimir un servicio); determinar el importe de tasas y precios públicos en función del coste del servicio; y permitir la comparación de costes entre entidades y ejercicios; tiene vocación interna y su implantación varía entre entidades.",
+      "D": "La contabilidad analítica y la contabilidad financiera son el mismo sistema; no existe ninguna diferencia conceptual entre ellas en el ámbito del sector público."
+    },
+    "correcta": "C",
+    "explicacion": "La contabilidad analítica o de costes del sector público tiene las siguientes características: (1) Base normativa: art. 133 LGP para el Estado; el PGCP prevé su desarrollo como complemento a la contabilidad financiera y presupuestaria; las CCAA tienen previsiones equivalentes en sus leyes de hacienda. (2) Objeto: calcular el coste real de cada servicio público, actividad, programa o proyecto; la contabilidad financiera dice cuánto se gasta en personal, en bienes y servicios, etc. (clasificación económica); la analítica dice cuánto cuesta prestar cada servicio concreto (clasificación por objeto del gasto). (3) Finalidades: (a) Evaluar la economía (¿se adquirieron los inputs al menor coste posible?), eficiencia (¿se obtuvo el máximo output con los inputs disponibles?) y eficacia (¿se lograron los objetivos?). (b) Fundamentar el cálculo de tasas y precios públicos (el principio de equivalencia exige que la tasa no supere el coste del servicio). (c) Apoyar decisiones de gestión. (4) Voluntariedad relativa: la LGP establece la obligación de desarrollarla pero en la práctica su implantación es desigual entre Administraciones; no tiene carácter sancionador el no tenerla implantada en muchas entidades.",
+    "why": "A la implantación de la contabilidad analítica en la práctica es desigual; aunque la LGP establece la obligación, no existe un régimen sancionador generalizado por su ausencia. B la finalidad de la contabilidad analítica es mucho más amplia que la determinación de precios; incluye evaluación de la gestión, toma de decisiones, etc. D la contabilidad analítica es un sistema separado de la contabilidad financiera, con metodología propia (centros de coste, actividades, etc.).",
+    "norma": "LGP art. 133; Orden HAC/1489/2020 (PGCP)",
+    "articulo": "133 LGP; PGCP — contabilidad analítica"
+  },
+  {
+    "id": "B4T41-014",
+    "bloque": 4,
+    "tema": 41,
+    "test": 41,
+    "dificultad": "media",
+    "pregunta": "¿Cuándo debe reconocerse una pérdida por deterioro de activos en el PGCP y puede revertirse?",
+    "opciones": {
+      "A": "El deterioro de activos se reconoce cuando el valor recuperable (mayor entre valor razonable neto de costes de venta y valor en uso) es inferior al valor contable; la pérdida se registra como gasto del ejercicio; en ejercicios posteriores puede revertirse si el valor recuperable aumenta, reconociéndose un ingreso, pero el valor contable tras la reversión no puede superar el que habría resultado de no haberse reconocido el deterioro.",
+      "B": "El deterioro de activos nunca puede reconocerse en el sector público porque los bienes públicos no pueden perder valor jurídicamente; solo la venta o demolición puede reducir el valor contable de los activos.",
+      "C": "La reversión del deterioro de activos no está permitida en el PGCP; una vez reconocida la pérdida por deterioro, el valor del activo no puede recuperarse en ningún ejercicio posterior.",
+      "D": "El deterioro se reconoce automáticamente cuando un activo lleva más de veinte años en uso; no es necesario calcular el valor recuperable."
+    },
+    "correcta": "A",
+    "explicacion": "Las Normas de registro y valoración del PGCP regulan el deterioro de valor de activos de la siguiente manera: (1) Cuándo reconocerlo: al cierre del ejercicio, si existen indicios de que el valor recuperable de un activo puede ser inferior a su valor contable, se calcula el valor recuperable, que es el mayor entre: (a) el valor razonable neto de costes de venta (lo que se obtendría vendiéndolo hoy) y (b) el valor en uso (valor actual de los flujos esperados del activo); si el valor recuperable < valor contable, se reconoce una pérdida por deterioro por la diferencia, que se registra como gasto en la cuenta del resultado económico-patrimonial y reduce el valor contable del activo. (2) Reversión: si en ejercicios posteriores el valor recuperable del activo aumenta (porque mejoran las condiciones de mercado o las perspectivas de uso), la pérdida por deterioro puede revertirse total o parcialmente; la reversión se registra como ingreso; límite de la reversión: el valor contable tras revertir el deterioro no puede superar el valor que habría resultado de no haberse reconocido el deterioro originalmente (es decir, el valor que tendría el activo si solo se hubiera amortizado normalmente desde el principio). Los activos contabilizados al coste histórico siguen amortizándose sobre el valor contable ajustado.",
+    "why": "B el deterioro puede reconocerse en activos del sector público; los bienes públicos (inmovilizado) sí pueden perder valor por obsolescencia, daños, cambios en el uso, etc. C el PGCP sí permite la reversión del deterioro cuando las condiciones que lo causaron desaparecen o mejoran; la reversión tiene un límite (no superar el valor que resultaría sin el deterioro). D el deterioro no se reconoce automáticamente por el paso del tiempo; requiere un análisis de indicios y el cálculo del valor recuperable.",
+    "norma": "Orden HAC/1489/2020 (PGCP), Segunda parte: NRV — deterioro de valor",
+    "articulo": "NRV deterioro de activos PGCP"
+  },
+  {
+    "id": "B4T41-015",
+    "bloque": 4,
+    "tema": 41,
+    "test": 41,
+    "dificultad": "media",
+    "pregunta": "¿Cuáles son los componentes del patrimonio neto en el sector público según el PGCP?",
+    "opciones": {
+      "A": "El patrimonio neto del sector público incluye exclusivamente los fondos aportados inicialmente por el Estado o la CCAA; las subvenciones recibidas no forman parte del patrimonio neto.",
+      "B": "El sector público no tiene patrimonio neto; al ser entidades sin ánimo de lucro, los activos siempre son iguales a los pasivos y no existe componente residual.",
+      "C": "El patrimonio neto del sector público es un concepto idéntico al capital social de las empresas privadas; no existe ninguna diferencia conceptual entre ambos.",
+      "D": "El patrimonio neto en el sector público es la parte residual de los activos una vez deducidos todos los pasivos; se compone de: (1) fondos propios: patrimonio entregado por el Estado/CCAA como dotación inicial, resultados de ejercicios anteriores (remanentes o déficits acumulados) y resultado del ejercicio en curso; (2) ajustes por cambios de valor: variaciones de valor razonable de activos financieros; (3) subvenciones, donaciones y legados recibidos para financiar inmovilizado no corriente, pendientes de imputar a resultados; las entidades públicas no tienen capital social ni reservas de libre distribución como las empresas privadas."
+    },
+    "correcta": "D",
+    "explicacion": "El patrimonio neto del sector público tiene una estructura similar a la del sector privado pero con importantes especificidades: (1) Fondos propios: en lugar de «capital social», las entidades públicas tienen una «dotación inicial» o «patrimonio entregado» por la Administración que las creó; el «resultado del ejercicio» puede ser positivo (superávit económico-patrimonial) o negativo (déficit); los «resultados de ejercicios anteriores» incluyen los remanentes acumulados de ejercicios previos. (2) Ajustes por cambios de valor: corresponden a variaciones de valor razonable de ciertos activos financieros que se imputan directamente al patrimonio neto (no a la cuenta de resultados); cuando esos activos se venden o deterioran, el ajuste se transfiere al resultado económico-patrimonial. (3) Subvenciones recibidas: las subvenciones de capital pendientes de imputar a resultados (las que financian inmovilizado en proceso de amortización) figuran en el patrimonio neto hasta que se imputan año a año como ingreso en la cuenta de resultados. A diferencia del sector privado, no existe la posibilidad de distribuir dividendos ni de constituir reservas de libre disposición.",
+    "why": "A el patrimonio neto incluye también subvenciones recibidas para inmovilizado (pendientes de imputar) y los ajustes por cambios de valor, además de la dotación inicial. B el sector público sí tiene patrimonio neto; la diferencia entre activos y pasivos puede ser positiva o negativa. C existen diferencias importantes: en el sector público no hay capital social ni acciones; la dotación inicial no es negociable en un mercado.",
+    "norma": "Orden HAC/1489/2020 (PGCP) — Patrimonio neto; grupo 1 cuadro de cuentas",
+    "articulo": "PGCP — patrimonio neto"
+  },
+  {
+    "id": "B4T41-016",
+    "bloque": 4,
+    "tema": 41,
+    "test": 41,
+    "dificultad": "media",
+    "pregunta": "¿Qué son las cuentas consolidadas del sector público autonómico y qué entidades deben incluirse?",
+    "opciones": {
+      "A": "La consolidación de cuentas del sector público autonómico es potestativa; la CM puede optar por presentar únicamente las cuentas de la Administración General sin consolidar las entidades dependientes.",
+      "B": "Las cuentas consolidadas del sector público autonómico de la CM ofrecen una imagen fiel del conjunto formado por la Administración General de la CM, los organismos autónomos, las entidades públicas empresariales, las sociedades mercantiles con participación mayoritaria de la CM y otros entes dependientes; la consolidación requiere eliminar las operaciones internas del grupo (transferencias entre entidades, préstamos intragrupo, participaciones de la CM en entidades dependientes) para evitar la doble contabilización y ofrecer una visión global sin duplicidades.",
+      "C": "La consolidación del sector público autonómico debe incluir también a los ayuntamientos del territorio de la CM y a las diputaciones; la CM es responsable de consolidar todas las entidades locales de su ámbito territorial.",
+      "D": "La Comunidad de Madrid no puede elaborar cuentas consolidadas porque el PGCP prohíbe la consolidación en el sector público; cada entidad presenta sus cuentas de forma independiente."
+    },
+    "correcta": "B",
+    "explicacion": "Las cuentas consolidadas del sector público autonómico tienen como objetivo proporcionar una imagen fiel del conjunto del sector público de la CM, eliminando los efectos de las transacciones internas entre entidades del grupo. Entidades incluidas (art. 2 y concordantes Ley 9/1990 CM): (1) Administración General de la CM (los departamentos y la Presidencia). (2) Organismos autónomos: entidades de Derecho Público con personalidad jurídica propia que ejecutan actividades administrativas, de fomento o de prestación de servicios (p. ej., Agencia para el Empleo). (3) Entidades públicas empresariales: realizan actividades de prestación de servicios o producción de bienes con criterios empresariales (financiadas total o principalmente con ingresos propios). (4) Sociedades mercantiles públicas: con participación mayoritaria directa o indirecta de la CM (p. ej., empresas de gestión de infraestructuras). (5) Consorcios y otros entes: cuando la CM ejerce control efectivo. Las Corporaciones Locales (ayuntamientos, diputaciones) no se incluyen en la consolidación autonómica; tienen su propia contabilidad y cuenta general independiente.",
+    "why": "A la elaboración de cuentas consolidadas es obligatoria para el sector público autonómico; la CM no puede prescindir de ella. C los ayuntamientos y diputaciones no forman parte del sector público autonómico consolidado; son entidades locales con autonomía constitucional propia. D el PGCP no prohíbe la consolidación; la LGP y las normas autonómicas equivalentes obligan a la elaboración de cuentas consolidadas.",
+    "norma": "LGP; Ley 9/1990 de la CM; PGCP — consolidación de cuentas",
+    "articulo": "Consolidación de cuentas sector público autonómico"
+  },
+  {
+    "id": "B4T41-017",
+    "bloque": 4,
+    "tema": 41,
+    "test": 41,
+    "dificultad": "dificil",
+    "pregunta": "¿Cuáles son los requisitos cualitativos de la información contable según el Marco Conceptual del PGCP y qué jerarquía tienen?",
+    "opciones": {
+      "A": "Los únicos requisitos cualitativos de la información contable pública son la exactitud numérica y el cumplimiento de la legalidad; no existen otros requisitos de naturaleza cualitativa en el Marco Conceptual del PGCP.",
+      "B": "El Marco Conceptual del PGCP no establece requisitos cualitativos; la calidad de la información contable pública se mide exclusivamente por si ha sido auditada por la Intervención General.",
+      "C": "El Marco Conceptual del PGCP establece los requisitos cualitativos de la información financiera: (1) Relevancia (requisito fundamental): la información es relevante cuando puede influir en las decisiones de los usuarios por su naturaleza o por su materialidad (importancia relativa); (2) Representación fiel (requisito fundamental): la información debe representar fielmente las transacciones y hechos —completa, neutral, libre de errores materiales—; (3) Características de mejora: comparabilidad (permite comparar entre entidades y períodos), verificabilidad (puede ser confirmada por observadores independientes), oportunidad (disponibilidad cuando es útil) y comprensibilidad (presentación clara y concisa); la relevancia y la representación fiel son los requisitos fundamentales; las características de mejora son secundarias y no deben sacrificar los requisitos fundamentales.",
+      "D": "Los requisitos cualitativos del Marco Conceptual del PGCP son idénticos a los del Plan General de Contabilidad del sector privado (RD 1514/2007); no existe ninguna diferencia entre las exigencias cualitativas de ambos marcos."
+    },
+    "correcta": "C",
+    "explicacion": "El Marco Conceptual del PGCP (Orden HAC/1489/2020) establece una jerarquía de requisitos cualitativos: (1) Requisitos fundamentales: (a) Relevancia: la información debe tener capacidad de influir en las decisiones económicas de los usuarios, bien por su naturaleza (tipo de información), bien por su cuantía (materialidad o importancia relativa; la información es material cuando su omisión o presentación incorrecta podría influir en las decisiones del usuario). (b) Representación fiel: la información debe representar fielmente los fenómenos económicos que pretende representar; para ser fiable debe ser: completa (incluye toda la información necesaria), neutral (sin sesgos que favorezcan un resultado u otro), libre de errores materiales. (2) Características de mejora (secundarias): (a) Comparabilidad: la información puede cotejarse con la de otras entidades similares y con la de la misma entidad en períodos anteriores (requiere uniformidad en los criterios). (b) Verificabilidad: observadores independientes podrían llegar a las mismas conclusiones. (c) Oportunidad: la información está disponible en el momento en que resulta útil para tomar decisiones. (d) Comprensibilidad o claridad: la información se presenta de forma clara y concisa, comprensible para usuarios con conocimientos razonables. Las características de mejora no pueden sacrificar los requisitos fundamentales de relevancia y representación fiel.",
+    "why": "A la exactitud y la legalidad son condiciones necesarias pero el Marco Conceptual del PGCP va mucho más allá, estableciendo una jerarquía estructurada de requisitos cualitativos. B el Marco Conceptual sí contiene requisitos cualitativos; la auditoría verifica el cumplimiento de esos requisitos pero no los reemplaza. D aunque existe similitud con el Marco Conceptual del sector privado, el PGCP tiene especificidades propias del sector público, especialmente en la función de rendición de cuentas y en los usuarios de la información.",
+    "norma": "Orden HAC/1489/2020 (PGCP), Primera parte: Marco conceptual — requisitos cualitativos",
+    "articulo": "Marco Conceptual PGCP — requisitos cualitativos"
+  },
+  {
+    "id": "B4T41-018",
+    "bloque": 4,
+    "tema": 41,
+    "test": 41,
+    "dificultad": "dificil",
+    "pregunta": "¿Cuál es el proceso completo de elaboración, aprobación y rendición de la Cuenta General de la Comunidad de Madrid?",
+    "opciones": {
+      "A": "La Cuenta General de la CM integra las cuentas de la Administración General, los organismos autónomos y demás entidades del sector público autonómico; la elabora y forma la Intervención General de la CM; el Consejo de Gobierno la aprueba formalmente y la remite a la Cámara de Cuentas dentro del plazo establecido por la Ley 9/1990 (generalmente antes del 31 de octubre del año siguiente); la Cámara de Cuentas fiscaliza la Cuenta General y emite su informe anual; ese informe se presenta a la Asamblea de Madrid, que lo debate en Comisión y ejerce el control parlamentario.",
+      "B": "La Cuenta General de la CM la elabora directamente el Consejo de Gobierno sin intervención de la Intervención General; los organismos dependientes presentan sus cuentas individualmente al Tribunal de Cuentas del Estado.",
+      "C": "La Cuenta General de la CM la aprueba la Asamblea de Madrid mediante ley; el Consejo de Gobierno solo tiene potestad para presentarla a la Cámara de Cuentas.",
+      "D": "La Cuenta General de la CM la elaboran conjuntamente el Tribunal de Cuentas y la Cámara de Cuentas; no intervienen ni la Intervención General ni el Consejo de Gobierno en su formación."
+    },
+    "correcta": "A",
+    "explicacion": "El proceso de la Cuenta General de la CM tiene las siguientes fases, reguladas en los arts. 97 y ss. de la Ley 9/1990 y en concordancia con la Ley 11/1999 de la Cámara de Cuentas: (1) Rendición de cuentas individuales: cada entidad del sector público autonómico (organismos autónomos, empresas públicas, etc.) rinde sus cuentas a la Intervención General de la CM en los plazos reglamentariamente establecidos. (2) Formación de la Cuenta General: la Intervención General de la CM compila, consolida y agrega las cuentas individuales de todas las entidades del sector público autonómico, formando la Cuenta General de la CM. (3) Aprobación por el Consejo de Gobierno: el Consejo de Gobierno aprueba formalmente la Cuenta General y la remite a la Cámara de Cuentas de la CM; el plazo establecido en la Ley 9/1990 es, en términos generales, en el primer semestre del año siguiente al ejercicio al que se refiere (con plazos concretos según la norma). (4) Fiscalización por la Cámara de Cuentas: la Cámara de Cuentas realiza la fiscalización externa de la Cuenta General y emite su informe anual (y los especiales que estime oportunos). (5) Rendición a la Asamblea: el informe de la Cámara de Cuentas se presenta a la Asamblea de Madrid, donde se debate en la Comisión de Presupuestos y Hacienda, ejerciendo el control parlamentario democrático sobre la gestión del ejecutivo.",
+    "why": "B la Intervención General de la CM es quien elabora y forma la Cuenta General; el Consejo de Gobierno solo la aprueba formalmente; las cuentas de los organismos no van directamente al Tribunal de Cuentas del Estado (van a la Intervención General de la CM). C la Cuenta General no se aprueba mediante ley; la Asamblea no aprueba la Cuenta General sino que debate el informe de la Cámara de Cuentas; la aprobación formal es del Consejo de Gobierno. D el Tribunal de Cuentas y la Cámara de Cuentas son órganos de control externo, no de elaboración; la elaboración es competencia de la Intervención General.",
+    "norma": "Ley 9/1990 Reguladora Hacienda CM arts. 97 y ss.; Ley 11/1999 Cámara de Cuentas",
+    "articulo": "97 y ss. Ley 9/1990 CM; Ley 11/1999"
+  },
+  {
+    "id": "B4T41-019",
+    "bloque": 4,
+    "tema": 41,
+    "test": 41,
+    "dificultad": "dificil",
+    "pregunta": "¿Cómo define el Marco Conceptual del PGCP los activos y cuáles son los criterios de su reconocimiento y clasificación?",
+    "opciones": {
+      "A": "El PGCP define los activos como únicamente los bienes de propiedad jurídica plena de la entidad; los derechos de uso o los activos en régimen de arrendamiento financiero no pueden reconocerse en el balance del sector público.",
+      "B": "Los activos se reconocen siempre que existan físicamente en las instalaciones de la entidad; no es necesario que se esperen beneficios futuros ni que puedan valorarse con fiabilidad.",
+      "C": "El Marco Conceptual del PGCP no contiene una definición de activos; remite íntegramente a la definición del Plan General de Contabilidad del sector privado.",
+      "D": "El Marco Conceptual del PGCP define los activos como «bienes, derechos y otros recursos controlados económicamente por la entidad, resultantes de sucesos pasados, de los que se espera que la entidad obtenga rendimientos o beneficios económicos en el futuro»; el control económico (no la propiedad jurídica formal) es el elemento determinante; un activo se reconoce en el balance cuando: (1) sea probable que se obtengan beneficios o rendimientos económicos futuros; y (2) sea posible valorarlo con fiabilidad; se clasifican en corrientes (realización esperada en el ciclo normal de operación, generalmente un año) y no corrientes (el resto)."
+    },
+    "correcta": "D",
+    "explicacion": "La definición y el reconocimiento de activos en el PGCP son conceptos del Marco Conceptual (Primera parte): (1) Definición: un activo es un bien, derecho u otro recurso controlado económicamente por la entidad, resultante de un suceso pasado, del que se espera obtener rendimientos o beneficios económicos en el futuro; destaca la referencia al «control económico» (no a la propiedad jurídica); así, un activo en arrendamiento financiero se reconoce como activo de la entidad porque ejerce el control económico aunque no sea propietaria jurídicamente (de igual modo que en el sector privado tras la adopción de la NIIF 16). (2) Criterios de reconocimiento: (a) probabilidad de obtener beneficios futuros o rendimientos (flujos de efectivo, uso en la prestación de servicios, potencial de servicio); (b) posibilidad de valorar el activo con fiabilidad (si no puede valorarse con suficiente precisión, no se reconoce en el balance aunque exista). (3) Clasificación corriente/no corriente: activo corriente si se espera realizar, vender o consumir en el ciclo normal de operaciones (≤ 1 año generalmente) o si se trata de tesorería o equivalentes; activo no corriente el resto (inmovilizado material, intangible, inversiones financieras a largo plazo, etc.).",
+    "why": "A el PGCP no exige propiedad jurídica plena para reconocer un activo; el criterio es el control económico; activos en arrendamiento financiero o en usufructo pueden ser activos del sector público. B el reconocimiento de activos exige cumplir dos condiciones: probabilidad de beneficios futuros y valoración fiable; la mera existencia física no es suficiente. C el Marco Conceptual del PGCP sí contiene definiciones propias de los elementos (activos, pasivos, etc.); no remite al sector privado.",
+    "norma": "Orden HAC/1489/2020 (PGCP), Primera parte: Marco conceptual — elementos de los estados financieros",
+    "articulo": "Marco Conceptual PGCP — definición y reconocimiento de activos"
+  },
+  {
+    "id": "B4T41-020",
+    "bloque": 4,
+    "tema": 41,
+    "test": 41,
+    "dificultad": "dificil",
+    "pregunta": "¿Qué presenta el estado de flujos de efectivo del sector público y cómo se clasifican sus flujos?",
+    "opciones": {
+      "A": "El estado de flujos de efectivo del sector público solo tiene dos categorías: actividades presupuestarias y actividades extrapresupuestarias; no existe clasificación por tipo de actividad (gestión, inversión, financiación).",
+      "B": "El estado de flujos de efectivo presenta los cobros y pagos de efectivo y equivalentes agrupados en tres categorías: (1) actividades de gestión: flujos de las operaciones ordinarias (cobros de impuestos, tasas, precios públicos, transferencias corrientes recibidas; pagos de nóminas, compras de bienes y servicios, subvenciones concedidas, etc.); (2) actividades de inversión: flujos por adquisición y venta de activos no corrientes (pago por compra de inmovilizado, cobros por desinversiones); (3) actividades de financiación: flujos por operaciones de endeudamiento y capitalización (emisión y amortización de deuda pública, préstamos recibidos); la variación neta de efectivo a lo largo del ejercicio coincide con la variación del saldo de tesorería entre inicio y fin del ejercicio.",
+      "C": "El estado de flujos de efectivo del sector público presenta todos los flujos de efectivo clasificados únicamente por naturaleza económica (retributivo, financiero, etc.), sin distinción entre actividades de gestión, inversión y financiación.",
+      "D": "El sector público no elabora estado de flujos de efectivo; este documento es exclusivo de la contabilidad del sector privado y el PGCP no lo incluye entre las cuentas anuales del sector público."
+    },
+    "correcta": "B",
+    "explicacion": "El estado de flujos de efectivo es la cuarta de las seis cuentas anuales del sector público reguladas en el PGCP. Sus características son: (1) Objeto: mostrar los cobros y pagos reales de efectivo y equivalentes (tesorería) a lo largo del ejercicio; a diferencia del principio de devengo de la cuenta de resultados, refleja los movimientos reales de caja. (2) Tres categorías de flujos: (a) Actividades de gestión (operaciones corrientes): cobros procedentes de impuestos, tasas, precios públicos, transferencias corrientes recibidas, ingresos financieros; pagos de nóminas y seguridad social, compras de bienes y servicios corrientes, transferencias y subvenciones concedidas, pagos de intereses. (b) Actividades de inversión: cobros por venta de inmovilizado, desinversiones financieras a largo plazo; pagos por adquisición de inmovilizado material, intangible e inversiones financieras a largo plazo. (c) Actividades de financiación: cobros de endeudamiento (emisión de bonos, préstamos recibidos), transferencias de capital recibidas; pagos de amortización de deuda principal, devolución de préstamos. (3) Cuadre: el total de flujos netos de las tres actividades debe coincidir con la variación de la tesorería entre el inicio y el fin del ejercicio; el saldo final de tesorería debe coincidir con el que figura en el balance.",
+    "why": "A la clasificación del estado de flujos de efectivo del sector público sigue tres categorías (gestión, inversión, financiación), no dos categorías presupuestarias vs extrapresupuestarias. C no existe una clasificación exclusivamente por naturaleza; la clasificación por tipo de actividad (gestión, inversión, financiación) es la establecida en el PGCP. D el estado de flujos de efectivo sí forma parte de las seis cuentas anuales del sector público según el PGCP (tercera parte).",
+    "norma": "Orden HAC/1489/2020 (PGCP), Tercera parte: Cuentas anuales — Estado de flujos de efectivo",
+    "articulo": "Cuentas anuales PGCP — estado de flujos de efectivo"
+  }
+]
