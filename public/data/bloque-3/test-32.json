@@ -1,0 +1,382 @@
+[
+  {
+    "id": "B3T32-001",
+    "bloque": 3,
+    "tema": 32,
+    "test": 32,
+    "dificultad": "facil",
+    "pregunta": "¿Cuáles son los elementos que caracterizan la relación laboral ordinaria según el art. 1.1 del Estatuto de los Trabajadores?",
+    "opciones": {
+      "A": "Actividad por cuenta propia, carácter ocasional y ausencia de retribución monetaria.",
+      "B": "Prestación voluntaria de servicios retribuidos, por cuenta ajena y dentro del ámbito de organización y dirección de otra persona (empleador).",
+      "C": "Relación de Derecho Administrativo, carácter permanente y retribución fijada por ley.",
+      "D": "Actividad no lucrativa, realizada de forma altruista y en beneficio de una entidad pública."
+    },
+    "correcta": "B",
+    "explicacion": "El art. 1.1 ET define la relación laboral mediante cuatro notas características: (1) voluntariedad: el trabajador presta servicios de forma libre, sin coacción; (2) remuneración: la prestación de servicios es retribuida; (3) ajenidad: los frutos y los riesgos del trabajo corresponden al empleador, no al trabajador; y (4) dependencia: el trabajo se realiza dentro del ámbito de organización y dirección del empleador, que puede dar instrucciones y controlar su ejecución. Cuando concurren estas cuatro notas, existe una relación laboral sujeta al ET, con independencia de cómo las partes la denominen. La ausencia de cualquiera de ellas puede implicar que la relación sea de otra naturaleza (funcionarial, mercantil, civil, etc.).",
+    "why": "A la actividad por cuenta propia (autónomos) es precisamente lo contrario de la relación laboral por cuenta ajena; la ajenidad es un rasgo definitorio. C la relación de Derecho Administrativo es propia de los funcionarios, no del personal laboral. D las actividades altruistas sin retribución (voluntariado) no son relaciones laborales.",
+    "norma": "Real Decreto Legislativo 2/2015, Estatuto de los Trabajadores",
+    "articulo": "1.1 ET"
+  },
+  {
+    "id": "B3T32-002",
+    "bloque": 3,
+    "tema": 32,
+    "test": 32,
+    "dificultad": "facil",
+    "pregunta": "¿Debe el contrato de trabajo ser siempre escrito y qué regla establece el art. 8 del ET cuando no se pacta expresamente la duración del contrato?",
+    "opciones": {
+      "A": "El contrato de trabajo debe ser siempre escrito; si no lo es, se considera inexistente y el trabajador no tiene derechos.",
+      "B": "El contrato puede celebrarse por escrito o de palabra; si no se establece su duración ni se puede deducir de la naturaleza del trabajo, se presume concertado por tiempo indefinido.",
+      "C": "Si el contrato es verbal, se presume temporal y de duración de tres meses.",
+      "D": "Solo los contratos de trabajo a tiempo parcial deben formalizarse por escrito; el resto puede ser verbal sin consecuencia alguna."
+    },
+    "correcta": "B",
+    "explicacion": "El art. 8.1 ET establece que el contrato de trabajo se podrá celebrar por escrito o de palabra. No obstante, hay contratos que deben formalizarse por escrito cuando así lo exija la ley (contratos de duración determinada, a tiempo parcial, fijo-discontinuo, de formación, etc.). El art. 8.2 ET añade que se presumirá existente entre todo el que preste un servicio por cuenta y dentro del ámbito de organización y dirección de otro y el que lo reciba. La presunción de duración indefinida se establece en el art. 15.1 ET: salvo que se pruebe lo contrario, el contrato se entiende concertado por tiempo indefinido. Esta presunción protege al trabajador ante la posible utilización fraudulenta de contratos verbales o sin duración pactada.",
+    "why": "A la inexistencia del contrato por falta de forma escrita no está prevista en el ET; la falta de forma no invalida el contrato pero puede generar presunciones en favor del trabajador. C la presunción es de duración indefinida, no de tres meses, cuando no se ha pactado duración. D la obligación de formalizar por escrito no se limita al contrato a tiempo parcial; afecta a todos los contratos que la ley exige por escrito, y el resto puede ser verbal.",
+    "norma": "Real Decreto Legislativo 2/2015, Estatuto de los Trabajadores",
+    "articulo": "8 y 15.1 ET"
+  },
+  {
+    "id": "B3T32-003",
+    "bloque": 3,
+    "tema": 32,
+    "test": 32,
+    "dificultad": "facil",
+    "pregunta": "¿Cuáles son los derechos básicos de los trabajadores en la relación de trabajo que recoge el art. 4.2 del ET?",
+    "opciones": {
+      "A": "Solo el derecho a la remuneración y al descanso; los demás derechos se regulan en los convenios colectivos.",
+      "B": "Entre otros: a la ocupación efectiva, a la promoción y formación profesional, a no ser discriminados, a su integridad física y a la protección en seguridad y salud, al respeto de su intimidad y dignidad (incluida la protección frente al acoso), a la percepción puntual de la remuneración y al ejercicio individual de acciones derivadas del contrato.",
+      "C": "Exclusivamente los derechos reconocidos en el convenio colectivo aplicable; el ET no establece derechos básicos directos.",
+      "D": "El derecho a la estabilidad en el empleo, que impide al empresario despedir al trabajador por ninguna causa durante los dos primeros años."
+    },
+    "correcta": "B",
+    "explicacion": "El art. 4.2 ET enumera los derechos de los trabajadores en la relación de trabajo: (a) ocupación efectiva; (b) promoción y formación profesional en el trabajo, incluida la formación dirigida a su adaptación a las modificaciones operadas en el puesto de trabajo; (c) no ser discriminados directa o indirectamente; (d) integridad física y protección eficaz en materia de seguridad y salud en el trabajo; (e) respeto a su intimidad, orientación sexual, propia imagen y dignidad en el trabajo, así como protección frente al acoso sexual y por razón de sexo, origen racial o étnico, religión o convicciones, discapacidad, edad u orientación sexual; (f) percepción puntual de la remuneración pactada; (g) ejercicio individual de acciones derivadas del contrato. Estos derechos son mínimos irrenunciables.",
+    "why": "A los derechos básicos están directamente en el ET y no dependen del convenio colectivo; son mínimos imperativos aplicables incluso en ausencia de convenio. C el art. 4.2 ET sí establece derechos básicos directamente aplicables. D el ET no garantiza la estabilidad absoluta durante los dos primeros años; el despido es posible pero con las formalidades y consecuencias legales correspondientes.",
+    "norma": "Real Decreto Legislativo 2/2015, Estatuto de los Trabajadores",
+    "articulo": "4.2 ET"
+  },
+  {
+    "id": "B3T32-004",
+    "bloque": 3,
+    "tema": 32,
+    "test": 32,
+    "dificultad": "facil",
+    "pregunta": "¿Cuáles son los deberes básicos del trabajador en la relación de trabajo según el art. 5 del ET?",
+    "opciones": {
+      "A": "Solo el deber de asistir al trabajo y de cumplir las órdenes; los demás deberes son convencionales.",
+      "B": "Cumplir las obligaciones concretas del puesto, observar las medidas de seguridad y salud, seguir las instrucciones del empresario (dentro de los límites legales), no concurrir con la actividad empresarial (salvo autorización) y contribuir a la mejora de la productividad.",
+      "C": "El único deber del trabajador es prestar el servicio convenido; cualquier otra obligación requiere pacto expreso.",
+      "D": "Los trabajadores no tienen deberes legalmente establecidos; el ET solo regula derechos."
+    },
+    "correcta": "B",
+    "explicacion": "El art. 5 ET enumera los deberes laborales básicos: (a) cumplir con las obligaciones concretas del puesto de trabajo de conformidad con las reglas de la buena fe y diligencia; (b) observar las medidas de prevención de riesgos laborales que en cada caso sean adoptadas; (c) cumplir las órdenes e instrucciones del empresario en el ejercicio regular de sus facultades directivas; (d) no concurrir con la actividad de la empresa, en los términos establecidos en el ET; y (e) contribuir a la mejora de la productividad. Estos deberes son complementarios de los derechos del art. 4 ET y forman el contenido básico de la relación laboral. Su incumplimiento grave y culpable puede ser causa de despido disciplinario.",
+    "why": "A el deber de observar las medidas de seguridad y salud, el deber de no competencia y el de contribuir a la productividad también son deberes legales del art. 5, no solo convencionales. C el ET sí establece deberes legales directamente aplicables. D el ET regula tanto derechos (art. 4) como deberes (art. 5) de los trabajadores.",
+    "norma": "Real Decreto Legislativo 2/2015, Estatuto de los Trabajadores",
+    "articulo": "5 ET"
+  },
+  {
+    "id": "B3T32-005",
+    "bloque": 3,
+    "tema": 32,
+    "test": 32,
+    "dificultad": "facil",
+    "pregunta": "¿Qué es el contrato de trabajo a tiempo parcial y cuál es su elemento definitorio según el art. 12 del ET?",
+    "opciones": {
+      "A": "Es el contrato en el que el trabajador presta servicios durante un número de horas al día, a la semana, al mes o al año inferior a la jornada de trabajo de un trabajador a tiempo completo comparable.",
+      "B": "Es el contrato temporal por el que el trabajador trabaja solo por las mañanas.",
+      "C": "Es el contrato de trabajo en el que el empleador paga el 50% del salario porque el trabajador rinde a la mitad.",
+      "D": "Es exclusivamente el contrato para trabajadores mayores de 55 años que reducen su jornada para preparar la jubilación."
+    },
+    "correcta": "A",
+    "explicacion": "El art. 12.1 ET define el contrato a tiempo parcial como aquel en que el trabajador presta sus servicios durante un número de horas al día, a la semana, al mes o al año inferior a la jornada de trabajo de un trabajador a tiempo completo comparable (mismo tipo de trabajo, en la misma empresa, con igual duración de contrato). El contrato a tiempo parcial puede ser indefinido o de duración determinada. Las retribuciones, incluidas las pagas extraordinarias, se calculan de forma proporcional a la jornada efectivamente trabajada. En el sector público, el personal laboral a tiempo parcial es habitual en servicios de apoyo, atención al público en horarios especiales, etc.",
+    "why": "B el horario de mañanas puede ser uno de los posibles formatos del trabajo a tiempo parcial, pero no es lo que define al contrato; lo definitorio es que la jornada es inferior a la de tiempo completo comparable. C la reducción salarial no define al contrato a tiempo parcial; el salario es proporcional a las horas trabajadas, no reducido arbitrariamente. D el contrato a tiempo parcial no es exclusivo de trabajadores mayores; el contrato de relevo (jubilación parcial) es una modalidad específica vinculada a la jubilación anticipada, distinta del contrato a tiempo parcial general.",
+    "norma": "Real Decreto Legislativo 2/2015, Estatuto de los Trabajadores",
+    "articulo": "12 ET"
+  },
+  {
+    "id": "B3T32-006",
+    "bloque": 3,
+    "tema": 32,
+    "test": 32,
+    "dificultad": "facil",
+    "pregunta": "¿Cuál es la presunción que establece el art. 15.1 del ET sobre la duración del contrato de trabajo?",
+    "opciones": {
+      "A": "El contrato de trabajo se presume temporal por seis meses salvo que las partes pacten expresamente su carácter indefinido.",
+      "B": "El contrato de trabajo se presume concertado por tiempo indefinido; el contrato de duración determinada solo puede celebrarse por las causas y en los términos legalmente previstos.",
+      "C": "La duración del contrato es siempre la que establezca el convenio colectivo aplicable.",
+      "D": "No existe presunción legal sobre la duración del contrato; las partes son libres de pactar cualquier duración sin restricciones."
+    },
+    "correcta": "B",
+    "explicacion": "El art. 15.1 ET establece expresamente que el contrato de trabajo se presume concertado por tiempo indefinido. Esta presunción es una manifestación del principio de estabilidad en el empleo, consagrado también en el art. 35 CE. Los contratos de duración determinada son la excepción y solo pueden celebrarse cuando concurren las causas legalmente previstas (circunstancias de la producción, sustitución). La presunción de duración indefinida opera especialmente cuando el empresario no puede probar que el contrato temporal es causalmente justificado, lo que convierte la relación en indefinida. Este principio es especialmente relevante en el ámbito público para combatir la temporalidad fraudulenta.",
+    "why": "A la presunción opera en sentido contrario: es de duración indefinida, no temporal. C el convenio colectivo puede mejorar las condiciones pero no puede alterar la presunción legal de duración indefinida establecida en el ET. D la libertad de las partes para pactar la duración está condicionada por el art. 15 ET, que solo permite la temporalidad causal y justificada.",
+    "norma": "Real Decreto Legislativo 2/2015, Estatuto de los Trabajadores",
+    "articulo": "15.1 ET"
+  },
+  {
+    "id": "B3T32-007",
+    "bloque": 3,
+    "tema": 32,
+    "test": 32,
+    "dificultad": "media",
+    "pregunta": "¿Qué diferencia al contrato de formación en alternancia del contrato formativo para la obtención de práctica profesional, ambos regulados en el art. 11 del ET tras la Ley 32/2021?",
+    "opciones": {
+      "A": "No hay diferencias; ambos contratos son sinónimos que se usan indistintamente.",
+      "B": "El contrato de formación en alternancia está destinado a quienes carecen de la cualificación profesional exigida para el puesto, alternando trabajo y actividad formativa; el contrato formativo para la práctica profesional está destinado a quienes ya tienen título universitario o de FP y buscan adquirir práctica, debiendo iniciarse dentro de los tres años siguientes a la obtención del título (cinco si son personas con discapacidad).",
+      "C": "El contrato de formación en alternancia es solo para jóvenes menores de 25 años; el de práctica profesional no tiene límite de edad.",
+      "D": "El contrato formativo para la práctica profesional está destinado a desempleados de larga duración; el de formación en alternancia, a recién graduados universitarios."
+    },
+    "correcta": "B",
+    "explicacion": "La Ley 32/2021 reformó el art. 11 ET sustituyendo los antiguos contratos de formación y aprendizaje y en prácticas por dos nuevas figuras: (1) El contrato de formación en alternancia (art. 11.2 ET): destinado a quienes carecen de la cualificación profesional requerida para el puesto y se vincula a procesos de formación en centros formativos o en la propia empresa; sin límite de edad; duración de 3 meses a 2 años; la jornada no puede superar el 65% en el primer año y el 85% en el segundo; retribución mínima del 60% (1.er año) y 75% (2.º año). (2) El contrato formativo para la práctica profesional (art. 11.3 ET): destinado a quienes tienen título universitario o de FP Superior o Medio y quieren adquirir experiencia práctica en un trabajo relacionado con su titulación; debe iniciarse dentro de los 3 años posteriores a la obtención del título (5 si hay discapacidad); duración de 6 meses a 1 año.",
+    "why": "A las diferencias entre ambos contratos son sustanciales tanto en cuanto al destinatario como en la duración, la jornada y la finalidad. C la Ley 32/2021 eliminó el límite de 25 años del antiguo contrato de formación y aprendizaje; el contrato de formación en alternancia no tiene ahora límite de edad. D ninguno de los dos contratos está específicamente destinado a desempleados de larga duración como condición de acceso; el criterio es la falta de cualificación o la posesión de un título reciente.",
+    "norma": "Real Decreto Legislativo 2/2015, ET, art. 11, en la redacción dada por Ley 32/2021",
+    "articulo": "11 ET"
+  },
+  {
+    "id": "B3T32-008",
+    "bloque": 3,
+    "tema": 32,
+    "test": 32,
+    "dificultad": "media",
+    "pregunta": "¿Qué límites establece el art. 39 del ET a la movilidad funcional que puede ordenar el empleador?",
+    "opciones": {
+      "A": "El empleador puede asignar libremente cualquier función al trabajador sin ningún límite legal.",
+      "B": "La movilidad funcional ordinaria dentro del mismo grupo profesional es libre para el empresario; la movilidad fuera del grupo (funciones superiores o inferiores) requiere causa técnica u organizativa justificada, es temporal, y no puede causar perjuicio económico al trabajador; si las funciones son de grupo superior, el trabajador tiene derecho a reclamar la clasificación correspondiente si supera el tiempo establecido.",
+      "C": "Cualquier cambio de funciones, aunque sea dentro del mismo grupo profesional, requiere el consentimiento del trabajador y la autorización de la Inspección de Trabajo.",
+      "D": "La movilidad funcional solo es posible cuando el puesto original del trabajador ha sido suprimido definitivamente."
+    },
+    "correcta": "B",
+    "explicacion": "El art. 39 ET regula la movilidad funcional distinguiendo dos niveles: (1) Movilidad funcional ordinaria: dentro del mismo grupo profesional (o entre grupos equivalentes), el empresario puede ordenarla libremente sin necesidad de justificación específica; forma parte de su poder de dirección. (2) Movilidad funcional extraordinaria: cuando implica el desempeño de funciones de grupo superior o inferior: requiere causas técnicas u organizativas que la justifiquen, tiene carácter temporal, y si se realizan funciones de grupo superior, el trabajador percibe el salario de las funciones superiores; pasado un tiempo sin reclasificación, el trabajador puede exigir la cobertura de la vacante. Si las funciones son de grupo inferior, se mantiene el salario de origen. En ningún caso la movilidad puede usarse para sancionar o perjudicar al trabajador.",
+    "why": "A la movilidad funcional tiene límites importantes, especialmente cuando implica cambio de grupo profesional; no es libre en todos los casos. C la movilidad funcional ordinaria (dentro del mismo grupo) es un ejercicio del poder directivo que no requiere el consentimiento del trabajador. D la movilidad funcional no requiere la supresión del puesto; puede ordenarse por razones técnicas u organizativas diversas.",
+    "norma": "Real Decreto Legislativo 2/2015, Estatuto de los Trabajadores",
+    "articulo": "39 ET"
+  },
+  {
+    "id": "B3T32-009",
+    "bloque": 3,
+    "tema": 32,
+    "test": 32,
+    "dificultad": "media",
+    "pregunta": "¿Qué diferencia el traslado del desplazamiento temporal como formas de movilidad geográfica en el art. 40 del ET?",
+    "opciones": {
+      "A": "No hay diferencia; ambos términos se usan de forma equivalente en el ET.",
+      "B": "El traslado implica un cambio permanente del lugar de trabajo que exige cambio de residencia, con preaviso de 30 días y derecho del trabajador a optar entre aceptarlo, extinguir el contrato con 20 días/año de indemnización (máx. 12 meses) o impugnarlo; el desplazamiento es temporal (menos de 12 meses en 3 años), con preaviso de 5 días si supera 3 meses, y genera derecho a dietas y gastos de viaje.",
+      "C": "El traslado es temporal y el desplazamiento permanente; el traslado da derecho a 33 días de indemnización por año.",
+      "D": "El desplazamiento requiere siempre el consentimiento del trabajador; el traslado puede imponerse unilateralmente sin causa."
+    },
+    "correcta": "B",
+    "explicacion": "El art. 40 ET distingue: (1) Traslado: cambio definitivo de centro de trabajo que exige al trabajador cambiar de residencia. Requiere que el empresario acredite causas económicas, técnicas, organizativas o productivas; preaviso mínimo de 30 días; el trabajador puede: (a) aceptar, percibiendo compensación de gastos; (b) optar por la extinción del contrato con indemnización de 20 días por año trabajado, con máximo de 12 mensualidades; o (c) impugnarlo ante los juzgados de lo social. (2) Desplazamiento temporal: cambio temporal de lugar de trabajo que no exige cambio de residencia permanente; si supera 3 meses, preaviso de 5 días; genera derecho a dietas y gastos de viaje; no debe superar 12 meses en un período de 3 años (si supera ese umbral, se convierte en traslado).",
+    "why": "A la distinción entre traslado y desplazamiento es fundamental en el ET: tienen consecuencias jurídicas radicalmente diferentes. C el traslado es permanente y el desplazamiento temporal; la indemnización de 20 días/año corresponde al traslado, no a 33 días/año. D el desplazamiento puede imponerse por el empresario acreditando las causas; el traslado también puede imponerse, pero con mayores garantías y derechos para el trabajador.",
+    "norma": "Real Decreto Legislativo 2/2015, Estatuto de los Trabajadores",
+    "articulo": "40 ET"
+  },
+  {
+    "id": "B3T32-010",
+    "bloque": 3,
+    "tema": 32,
+    "test": 32,
+    "dificultad": "media",
+    "pregunta": "¿Qué establece el art. 44 del ET sobre la sucesión de empresa (subrogación empresarial) y sus efectos sobre los contratos de trabajo?",
+    "opciones": {
+      "A": "Cuando una empresa se transmite, los contratos de trabajo se extinguen automáticamente y los trabajadores cobran indemnización por despido.",
+      "B": "La transmisión de empresa no extingue los contratos de trabajo; el nuevo empresario (cesionario) queda subrogado en los derechos y obligaciones del anterior (cedente), incluyendo los compromisos de pensiones y beneficios sociales; cedente y cesionario son solidariamente responsables de las deudas laborales y de Seguridad Social anteriores a la transmisión durante tres años.",
+      "C": "Los trabajadores deben aceptar expresamente la subrogación; si no lo hacen, el contrato se extingue sin indemnización.",
+      "D": "La subrogación empresarial solo aplica en fusiones de empresas privadas; no se aplica cuando la empresa transmitida es una entidad del sector público."
+    },
+    "correcta": "B",
+    "explicacion": "El art. 44 ET recoge el principio de continuidad del vínculo laboral en los cambios de titularidad de la empresa: el cambio de empresario (por transmisión, fusión, absorción, escisión o concesión administrativa) no extingue los contratos de trabajo. El cesionario (nuevo empresario) se subroga automáticamente en los derechos y obligaciones laborales del cedente, asumiendo los contratos de trabajo con las mismas condiciones. Cedente y cesionario son solidariamente responsables durante tres años de las obligaciones laborales nacidas antes de la transmisión. En el ámbito del sector público, la subrogación aplica cuando se reversiona una concesión administrativa o cuando una actividad pasa de un contratista privado a la Administración (reversión a gestión directa).",
+    "why": "A la transmisión de empresa no extingue los contratos de trabajo; precisamente el art. 44 ET evita esa consecuencia. C la subrogación opera automáticamente por ministerio de la ley, sin necesidad de consentimiento individual de cada trabajador. D la subrogación empresarial también aplica en el sector público, especialmente en casos de reversión de concesiones o cambio de contratista en servicios públicos.",
+    "norma": "Real Decreto Legislativo 2/2015, Estatuto de los Trabajadores",
+    "articulo": "44 ET"
+  },
+  {
+    "id": "B3T32-011",
+    "bloque": 3,
+    "tema": 32,
+    "test": 32,
+    "dificultad": "media",
+    "pregunta": "¿Qué consecuencia establece el art. 9 del ET cuando una cláusula del contrato de trabajo es nula por ser contraria a las normas laborales?",
+    "opciones": {
+      "A": "La nulidad de una cláusula provoca la nulidad de todo el contrato de trabajo.",
+      "B": "La cláusula nula se tiene por no puesta y es sustituida automáticamente por el contenido mínimo que fije la ley o el convenio colectivo aplicable; el resto del contrato mantiene su validez.",
+      "C": "Si una cláusula es nula, el trabajador pierde todos los derechos derivados de ese contrato.",
+      "D": "Las cláusulas nulas pueden ser ratificadas por acuerdo posterior entre empresario y trabajador, que tiene plena validez."
+    },
+    "correcta": "B",
+    "explicacion": "El art. 9.1 ET establece la regla de nulidad parcial y sustitución automática: si alguna de las cláusulas del contrato fuese nula (por ser contraria a disposiciones legales o a convenios colectivos, o por resultar lesivas para el trabajador), se entenderá nula esa cláusula, pero el contrato permanecerá válido en todo lo demás, y se entenderá completado con los preceptos jurídicos adecuados que hubieran correspondido de no mediar la cláusula nula. Este principio garantiza que el trabajador no quede desprotegido por la nulidad de una cláusula abusiva; la cláusula nula se reemplaza por el mínimo legal o convencional. Por ejemplo, si el contrato fija un salario inferior al convenio, ese salario es nulo y se aplica el del convenio.",
+    "why": "A la nulidad de una cláusula no arrastra al conjunto del contrato; el principio de conservación del negocio jurídico se aplica. C la nulidad de una cláusula no priva al trabajador de sus derechos; precisamente los protege sustituyendo la cláusula desfavorable por el mínimo legal. D las cláusulas nulas por ser contrarias a las normas laborales no pueden ser ratificadas ni renunciadas; el art. 3.5 ET prohíbe la renuncia de derechos laborales reconocidos al trabajador.",
+    "norma": "Real Decreto Legislativo 2/2015, Estatuto de los Trabajadores",
+    "articulo": "9 ET"
+  },
+  {
+    "id": "B3T32-012",
+    "bloque": 3,
+    "tema": 32,
+    "test": 32,
+    "dificultad": "media",
+    "pregunta": "¿Cuáles son los rasgos esenciales del teletrabajo regulado en la Ley 10/2021 y qué derechos específicos reconoce a los teletrabajadores?",
+    "opciones": {
+      "A": "El teletrabajo es una modalidad impuesta unilateralmente por el empresario; el trabajador no puede negarse ni pedir condiciones especiales.",
+      "B": "El teletrabajo es voluntario y reversible para ambas partes, debe formalizarse en un acuerdo escrito, y el trabajador tiene derecho a que se le doten los medios necesarios (equipos y herramientas), a la compensación de gastos, al derecho a la desconexión digital, y a los mismos derechos que los presenciales.",
+      "C": "El teletrabajo solo puede realizarse en el domicilio del trabajador; cualquier otra ubicación no está amparada por la Ley 10/2021.",
+      "D": "La Ley 10/2021 exige que al menos el 75% de la jornada se realice en modalidad de teletrabajo para que se aplique su régimen especial."
+    },
+    "correcta": "B",
+    "explicacion": "La Ley 10/2021, de 9 de julio, de trabajo a distancia, establece el régimen jurídico del teletrabajo en España. Sus características principales son: (1) voluntariedad y reversibilidad: ni el empresario puede imponerlo ni el trabajador puede exigirlo como derecho; ambas partes pueden acordar su inicio o su fin; (2) formalización escrita: debe plasmarse en un acuerdo de trabajo a distancia que incluya el inventario de medios, la distribución del tiempo presencial y a distancia, el lugar de trabajo, etc.; (3) igualdad de trato: los teletrabajadores tienen los mismos derechos que los presenciales; (4) provisión de medios: el empresario debe facilitar los medios tecnológicos necesarios; (5) compensación de gastos: el trabajador tiene derecho a que se compensen los gastos derivados del teletrabajo; (6) derecho a la desconexión digital fuera del horario laboral. Se aplica al trabajo a distancia regular (al menos el 30% de la jornada en un período de referencia de tres meses).",
+    "why": "A el teletrabajo es voluntario; el empresario no puede imponerlo unilateralmente como condición de trabajo. C el teletrabajo puede realizarse desde cualquier lugar fuera del centro de trabajo habitual, no solo desde el domicilio. D el umbral para aplicar la Ley 10/2021 es el 30% de la jornada en un período de referencia de tres meses, no el 75%.",
+    "norma": "Ley 10/2021, de 9 de julio, de trabajo a distancia",
+    "articulo": "1 y ss. Ley 10/2021"
+  },
+  {
+    "id": "B3T32-013",
+    "bloque": 3,
+    "tema": 32,
+    "test": 32,
+    "dificultad": "media",
+    "pregunta": "¿Qué son las relaciones laborales de carácter especial del art. 2 del ET y cuáles son algunos ejemplos?",
+    "opciones": {
+      "A": "Son relaciones que quedan excluidas del ámbito del ET; los trabajadores en estas relaciones no tienen ninguna protección laboral.",
+      "B": "Son relaciones que, aunque tienen las notas de la relación laboral (voluntariedad, ajenidad, dependencia, remuneración), presentan particularidades que justifican un régimen jurídico específico distinto del ET ordinario; entre ellas: la alta dirección, los empleados de hogar, los deportistas profesionales, los artistas en espectáculos públicos, los agentes comerciales, los trabajadores internos de centros penitenciarios y los menores en internados.",
+      "C": "Son las relaciones de los funcionarios interinos y el personal eventual, reguladas por el TREBEP.",
+      "D": "Son exclusivamente las relaciones de trabajo de extranjeros en España, sujetas a permisos especiales."
+    },
+    "correcta": "B",
+    "explicacion": "El art. 2 ET reconoce que determinadas relaciones laborales, aunque reúnen las características definitorias del art. 1.1 ET, tienen peculiaridades que justifican un régimen jurídico propio. La norma reguladora de estas relaciones es el ET con carácter supletorio, pero cada relación tiene su reglamento específico. Las más relevantes son: (a) el personal de alta dirección (RD 1382/1985): quienes ejercen poderes inherentes a la titularidad de la empresa; (b) los empleados de hogar (RD 1620/2011): quienes prestan servicios retribuidos en el domicilio del empleador; (c) los deportistas profesionales; (d) los artistas en espectáculos públicos; (e) los representantes de comercio que no asumen el riesgo de las operaciones; (f) los trabajadores con discapacidad en centros especiales de empleo; (g) los penados en instituciones penitenciarias.",
+    "why": "A las relaciones laborales especiales no están excluidas de la protección laboral; tienen su propio régimen normativo con el ET como supletorio. C los funcionarios interinos y el personal eventual no son relaciones laborales especiales del art. 2 ET; se rigen por el TREBEP como Derecho Administrativo. D la nacionalidad del trabajador no determina que la relación sea especial en el sentido del art. 2 ET; los trabajadores extranjeros tienen los mismos derechos laborales que los nacionales si tienen autorización de trabajo.",
+    "norma": "Real Decreto Legislativo 2/2015, Estatuto de los Trabajadores",
+    "articulo": "2 ET"
+  },
+  {
+    "id": "B3T32-014",
+    "bloque": 3,
+    "tema": 32,
+    "test": 32,
+    "dificultad": "media",
+    "pregunta": "¿Cómo se ordenan las fuentes del Derecho del Trabajo según el art. 3 del ET y qué principio se aplica cuando hay conflicto entre normas de distinto rango?",
+    "opciones": {
+      "A": "Las fuentes se aplican en el siguiente orden: contrato individual, convenio colectivo, ley; siempre prevalece la voluntad de las partes.",
+      "B": "Las fuentes son: disposiciones legales y reglamentarias del Estado, convenios colectivos, contrato de trabajo y costumbre local y profesional. En caso de conflicto entre normas del mismo rango aplicables al trabajador, se aplica la más favorable en su conjunto y en cómputo anual.",
+      "C": "El principio que rige en el Derecho del Trabajo es siempre el de jerarquía formal, sin excepciones; la norma superior siempre prevalece.",
+      "D": "Los convenios colectivos tienen supremacía sobre la ley en todas las materias; el empresario nunca puede mejorar el convenio."
+    },
+    "correcta": "B",
+    "explicacion": "El art. 3 ET establece las fuentes de la relación laboral y sus reglas de aplicación. Las fuentes son, por orden de jerarquía: (1) disposiciones legales y reglamentarias del Estado; (2) convenios colectivos; (3) voluntad de las partes manifestada en el contrato de trabajo; y (4) los usos y costumbres locales y profesionales (de forma supletoria). La regla de jerarquía establece que la norma inferior no puede desmejorar los mínimos de la superior. Sin embargo, cuando hay un conflicto entre preceptos de dos o más normas laborales del mismo nivel que respetan en todo caso los mínimos de derecho necesario, se aplica el principio de norma más favorable (lo más favorable al trabajador apreciado en su conjunto y en cómputo anual). Este principio es una peculiaridad del Derecho del Trabajo frente al principio general de jerarquía del Derecho Administrativo.",
+    "why": "A en el Derecho del Trabajo la voluntad de las partes no está en la cúspide; el contrato individual debe respetar las normas legales y convencionales de rango superior. C el principio de jerarquía rige entre normas de distinto rango, pero cuando hay conflicto entre normas del mismo rango aplicables al trabajador, entra en juego el principio de norma más favorable. D los convenios colectivos deben respetar la ley; no tienen supremacía sobre ella. Lo que sí es posible es que el empresario mejore el convenio colectivo en favor del trabajador.",
+    "norma": "Real Decreto Legislativo 2/2015, Estatuto de los Trabajadores",
+    "articulo": "3 ET"
+  },
+  {
+    "id": "B3T32-015",
+    "bloque": 3,
+    "tema": 32,
+    "test": 32,
+    "dificultad": "media",
+    "pregunta": "¿Cuál es el alcance del poder de dirección del empleador reconocido en el art. 20 del ET y cuáles son sus límites?",
+    "opciones": {
+      "A": "El poder de dirección del empleador es absoluto; el trabajador debe obedecer cualquier orden sin posibilidad de negativa.",
+      "B": "El empleador puede dictar instrucciones y adoptar medidas de vigilancia y control para verificar el cumplimiento de las obligaciones laborales; el trabajador está obligado a cumplir las órdenes del empresario siempre que no sean contrarias a la ley, al convenio colectivo, al contrato o a la dignidad del trabajador.",
+      "C": "El poder de dirección se limita exclusivamente a decidir el horario de trabajo; las demás condiciones no son modificables.",
+      "D": "El art. 20 ET permite al empresario imponer controles sin límite alguno, incluyendo el acceso al teléfono personal del trabajador."
+    },
+    "correcta": "B",
+    "explicacion": "El art. 20 ET regula las facultades de dirección y control del empresario. El art. 20.1 establece que el trabajador está obligado a realizar el trabajo convenido bajo la dirección del empresario. El art. 20.3 permite al empresario adoptar medidas de vigilancia y control para verificar el cumplimiento de las obligaciones y deberes laborales, respetando siempre la dignidad del trabajador. Los límites del poder de dirección son: (1) las disposiciones legales y convencionales (ley y convenio colectivo); (2) el contenido del contrato de trabajo; (3) los derechos fundamentales y libertades del trabajador (dignidad, intimidad, no discriminación); y (4) la buena fe contractual. El trabajador puede negarse a cumplir órdenes que vulneren sus derechos fundamentales o sean ilegales.",
+    "why": "A el poder de dirección del empresario tiene límites constitucionales y legales claros; el trabajador puede negarse a cumplir órdenes ilegales o que vulneren su dignidad. C el poder de dirección va mucho más allá del horario; incluye la organización del trabajo, las instrucciones sobre cómo realizar las tareas, la asignación de funciones, etc. D el art. 20.3 exige que las medidas de control respeten la dignidad del trabajador; el acceso al teléfono personal sin autorización vulneraría el derecho a la intimidad.",
+    "norma": "Real Decreto Legislativo 2/2015, Estatuto de los Trabajadores",
+    "articulo": "20 ET"
+  },
+  {
+    "id": "B3T32-016",
+    "bloque": 3,
+    "tema": 32,
+    "test": 32,
+    "dificultad": "media",
+    "pregunta": "¿Pueden los trabajadores a tiempo parcial realizar horas extraordinarias y qué son las horas complementarias?",
+    "opciones": {
+      "A": "Los trabajadores a tiempo parcial pueden realizar horas extraordinarias sin límite; son iguales a las del trabajador a tiempo completo.",
+      "B": "Los trabajadores a tiempo parcial no pueden realizar horas extraordinarias, salvo en supuestos de fuerza mayor; en su lugar, pueden realizarse horas complementarias (pactadas en el contrato), que son horas adicionales a la jornada ordinaria del contrato parcial, dentro de los límites establecidos.",
+      "C": "Los trabajadores a tiempo parcial no pueden realizar ningún tipo de hora adicional; su jornada es absolutamente fija.",
+      "D": "Las horas complementarias son obligatorias para todos los trabajadores a tiempo parcial, sin necesidad de pacto expreso."
+    },
+    "correcta": "B",
+    "explicacion": "El art. 12.4.c ET prohíbe a los trabajadores a tiempo parcial la realización de horas extraordinarias, salvo en los casos de fuerza mayor del art. 35.3 ET. En su lugar, el art. 12.5 ET regula las horas complementarias: son horas adicionales a la jornada ordinaria del contrato parcial, que solo pueden realizarse si se han pactado expresamente en el contrato o mediante pacto específico. Las horas complementarias tienen límites: no pueden superar el 30% de las horas ordinarias pactadas (ampliable al 60% por convenio colectivo). El trabajador tiene derecho a conocer el número de horas complementarias que se le pueden exigir y con un preaviso mínimo de tres días. Las horas complementarias se retribuyen como las ordinarias, no como extraordinarias.",
+    "why": "A las horas extraordinarias están prohibidas en los contratos a tiempo parcial (salvo fuerza mayor); las figuras que las sustituyen son las horas complementarias, que tienen su propio régimen. C los trabajadores a tiempo parcial sí pueden realizar horas adicionales, pero mediante el mecanismo específico de las horas complementarias, no las extraordinarias. D las horas complementarias no son automáticamente obligatorias; requieren un pacto expreso y están sujetas a los límites legales.",
+    "norma": "Real Decreto Legislativo 2/2015, Estatuto de los Trabajadores",
+    "articulo": "12 ET"
+  },
+  {
+    "id": "B3T32-017",
+    "bloque": 3,
+    "tema": 32,
+    "test": 32,
+    "dificultad": "dificil",
+    "pregunta": "¿Cuáles son los porcentajes máximos de jornada laboral en el contrato de formación en alternancia durante el primer y el segundo año, y cuál es la retribución mínima en cada período?",
+    "opciones": {
+      "A": "El primer año: máximo 50% de la jornada, con retribución del 50% del mínimo interprofesional; el segundo año: máximo 75%, con retribución del 75%.",
+      "B": "El primer año: máximo 65% de la jornada, con retribución mínima del 60% del salario de la categoría equivalente (nunca inferior al SMI proporcional); el segundo año: máximo 85% de la jornada, con retribución mínima del 75%.",
+      "C": "La jornada es de un máximo del 80% en todo el contrato, con retribución del 80% del SMI.",
+      "D": "No hay distinción entre el primer y el segundo año; el porcentaje máximo es del 75% durante todo el contrato."
+    },
+    "correcta": "B",
+    "explicacion": "El art. 11.2 ET, en la redacción dada por la Ley 32/2021, establece para el contrato de formación en alternancia los siguientes límites: (1) Jornada: durante el primer año, el tiempo de trabajo efectivo no puede superar el 65% de la jornada máxima prevista en el convenio colectivo o de la jornada a tiempo completo; durante el segundo año, el límite es el 85%. El tiempo restante se destina a la actividad formativa en alternancia (que puede realizarse en centros de formación o en la propia empresa según un itinerario personalizado). (2) Retribución: durante el primer año, el trabajador percibirá como mínimo el 60% del salario fijado en convenio para la categoría equivalente; durante el segundo año, el 75%; en ningún caso la retribución puede ser inferior al Salario Mínimo Interprofesional en proporción a las horas trabajadas.",
+    "why": "A los porcentajes del 50% de jornada y retribución son inferiores a los que fija el art. 11.2 ET; los límites son 65% y 85% de jornada y 60% y 75% de retribución. C un porcentaje uniforme del 80% no existe en el ET; el art. 11.2 diferencia claramente entre el primer y el segundo año. D el art. 11.2 ET sí distingue entre ambos años, precisamente para dar margen al aumento progresivo de la actividad productiva a medida que avanza la formación.",
+    "norma": "Real Decreto Legislativo 2/2015, ET, art. 11.2, en la redacción dada por Ley 32/2021",
+    "articulo": "11.2 ET"
+  },
+  {
+    "id": "B3T32-018",
+    "bloque": 3,
+    "tema": 32,
+    "test": 32,
+    "dificultad": "dificil",
+    "pregunta": "¿Qué opciones tiene el trabajador cuando la empresa le impone un traslado forzoso a otra localidad que exige cambio de residencia, según el art. 40 del ET?",
+    "opciones": {
+      "A": "El trabajador solo puede aceptar el traslado o pedir una excedencia; no puede extinguir el contrato.",
+      "B": "El trabajador puede: (1) aceptar el traslado con derecho a las compensaciones por gastos de desplazamiento y de los familiares; (2) optar por la extinción del contrato con una indemnización de 20 días de salario por año de servicio, con un máximo de 12 mensualidades; o (3) impugnar el traslado ante los juzgados de lo social si considera que no está justificado, manteniéndose en su puesto hasta sentencia.",
+      "C": "El trabajador que impugna el traslado pierde automáticamente el derecho a cualquier indemnización.",
+      "D": "La única indemnización posible por traslado forzoso es la de 33 días por año, igual que el despido improcedente."
+    },
+    "correcta": "B",
+    "explicacion": "El art. 40.1 ET establece las tres opciones del trabajador ante un traslado forzoso: (1) Aceptar el traslado: el trabajador se desplaza a la nueva localidad y tiene derecho a que la empresa le abone los gastos del traslado propio y de los familiares a su cargo. (2) Extinguir el contrato: el trabajador puede optar por rescindir la relación laboral con una indemnización de veinte días de salario por año de servicio, prorrateados por meses, con un máximo de doce mensualidades. Esta opción debe ejercerse dentro del plazo establecido. (3) Impugnar el traslado: si el trabajador considera que la empresa no ha justificado adecuadamente las causas, puede acudir a los juzgados de lo social para que se declare el traslado injustificado; mientras dura el proceso, puede optar por seguir en su puesto o trasladarse.",
+    "why": "A la extinción del contrato con indemnización es precisamente una de las opciones que el art. 40 ET otorga al trabajador; negarla es incorrecto. C el trabajador que impugna el traslado puede posteriormente, si el tribunal declara el traslado improcedente, reclamar la extinción con la indemnización que corresponda; no pierde todos sus derechos. D la indemnización por traslado forzoso es de 20 días/año con máximo de 12 mensualidades; los 33 días/año con 24 mensualidades corresponden al despido improcedente.",
+    "norma": "Real Decreto Legislativo 2/2015, Estatuto de los Trabajadores",
+    "articulo": "40 ET"
+  },
+  {
+    "id": "B3T32-019",
+    "bloque": 3,
+    "tema": 32,
+    "test": 32,
+    "dificultad": "dificil",
+    "pregunta": "¿Qué responsabilidades establece el art. 44 del ET para el cedente y el cesionario en caso de sucesión de empresa respecto a las deudas laborales anteriores a la transmisión?",
+    "opciones": {
+      "A": "El cesionario solo asume las deudas laborales que expresamente acepte en el contrato de transmisión; no hay responsabilidad solidaria.",
+      "B": "Cedente y cesionario responden solidariamente durante tres años de las obligaciones laborales nacidas con anterioridad a la transmisión y que no hubieran sido satisfechas; si la cesión es declarada delito, la responsabilidad del cedente es ilimitada.",
+      "C": "Solo el cedente responde de las deudas anteriores a la transmisión; el cesionario queda completamente libre de ellas.",
+      "D": "El cesionario asume todas las deudas anteriores y el cedente queda liberado automáticamente en el momento de la transmisión."
+    },
+    "correcta": "B",
+    "explicacion": "El art. 44.3 ET establece el régimen de responsabilidad solidaria entre cedente y cesionario: ambos responden solidariamente durante tres años de las obligaciones laborales y de Seguridad Social nacidas con anterioridad a la transmisión que no hubieran sido liquidadas. Esta responsabilidad solidaria protege a los trabajadores ante posibles maniobras en la transmisión que dejen deudas sin pagar. Si la cesión fuera declarada delito, la responsabilidad del cedente se extiende más allá del límite de tres años. Adicionalmente, el cesionario está obligado a mantener las condiciones laborales de los trabajadores en su conjunto durante al menos un año si la empresa o parte transmitida mantenía un convenio colectivo diferente al del cesionario.",
+    "why": "A la responsabilidad solidaria del cedente y el cesionario por las deudas anteriores opera por ministerio de la ley, sin necesidad de pacto; no es disponible por las partes. C el cedente no queda libre de toda responsabilidad tras la transmisión; durante tres años sigue siendo solidariamente responsable con el cesionario de las deudas anteriores. D el cedente no queda liberado automáticamente; la responsabilidad es solidaria durante tres años, por lo que el trabajador puede dirigirse contra cualquiera de los dos.",
+    "norma": "Real Decreto Legislativo 2/2015, Estatuto de los Trabajadores",
+    "articulo": "44.3 ET"
+  },
+  {
+    "id": "B3T32-020",
+    "bloque": 3,
+    "tema": 32,
+    "test": 32,
+    "dificultad": "dificil",
+    "pregunta": "¿Qué establece el art. 9.2 del ET cuando el contrato de trabajo en su conjunto es declarado nulo y el trabajador ya ha prestado servicios?",
+    "opciones": {
+      "A": "Si el contrato es nulo, el trabajador pierde el derecho a cobrar lo ya trabajado; la nulidad opera con efectos retroactivos totales.",
+      "B": "El trabajador tiene derecho a la remuneración pactada por el trabajo ya realizado, aunque el contrato sea nulo; la nulidad impide que continúe el trabajo pero no puede privar al trabajador del derecho a cobrar por los servicios ya prestados.",
+      "C": "La nulidad del contrato en su conjunto solo puede declararse por sentencia penal; los tribunales laborales no tienen competencia.",
+      "D": "Si el contrato es nulo, el trabajador puede reclamar el doble del salario pactado como sanción al empleador."
+    },
+    "correcta": "B",
+    "explicacion": "El art. 9.2 ET establece una solución específica para el supuesto de nulidad total del contrato de trabajo: si el contrato resulto ser nulo (por ejemplo, por ausencia de capacidad de obrar del empleador, por objeto ilícito o por violar normas imperativas), el trabajador podrá exigir, por el trabajo que ya hubiese prestado, la remuneración consiguiente a un contrato válido. Esta regla evita el enriquecimiento injusto del empleador, que no puede beneficiarse de los servicios recibidos sin retribuirlos, aun cuando el contrato sea nulo. La nulidad impide que continúe la relación, pero no puede aplicarse retroactivamente a los servicios ya prestados. Esta norma se fundamenta en los principios de buena fe y equidad que inspiran el Derecho del Trabajo.",
+    "why": "A la nulidad del contrato no priva al trabajador del derecho a cobrar por los servicios ya prestados; el art. 9.2 ET establece expresamente ese derecho. C los tribunales laborales (juzgados de lo social) sí son competentes para declarar la nulidad del contrato de trabajo; no se requiere sentencia penal. D el doble salario como sanción no está previsto en el art. 9 ET; el trabajador tiene derecho a la remuneración correspondiente a un contrato válido, no a una sanción adicional.",
+    "norma": "Real Decreto Legislativo 2/2015, Estatuto de los Trabajadores",
+    "articulo": "9.2 ET"
+  }
+]
