@@ -1,0 +1,382 @@
+[
+  {
+    "id": "B2T23-001",
+    "bloque": 2,
+    "tema": 23,
+    "test": 23,
+    "dificultad": "facil",
+    "pregunta": "¿Cuál es el objeto de la Ley Orgánica 3/2007, de 22 de marzo, para la igualdad efectiva de mujeres y hombres?",
+    "opciones": {
+      "A": "Establecer cuotas de género fijas del 50 % en todos los órganos del Estado y en las empresas privadas.",
+      "B": "Hacer efectivo el principio de igualdad de trato y de oportunidades entre mujeres y hombres, mediante la eliminación de la discriminación de la mujer en todos los ámbitos de la vida política, civil, laboral, económica, social y cultural.",
+      "C": "Regular exclusivamente las medidas de conciliación de la vida laboral y familiar en el ámbito del empleo público.",
+      "D": "Tipificar como delito cualquier manifestación de desigualdad entre hombres y mujeres."
+    },
+    "correcta": "B",
+    "explicacion": "El art. 1 LOI define su objeto como hacer efectivo el principio de igualdad de trato y de oportunidades entre mujeres y hombres en cualquier ámbito de la vida política, civil, laboral, económica, social y cultural. La ley es de aplicación universal y transversal: no se circunscribe a un sector concreto sino que impone la perspectiva de género en todas las políticas públicas y en las relaciones privadas reguladas por el Derecho. La finalidad no es la igualdad formal (mismas normas para todos) sino la igualdad real y efectiva.",
+    "why": "A las cuotas fijas del 50 % no son el modelo que adopta la LOI; esta habla de presencia equilibrada (entre el 40 y el 60 %) y de acciones positivas, no de porcentajes rígidos. C el objeto de la LOI es mucho más amplio que la conciliación laboral; abarca todos los ámbitos de la vida. D la LOI no es una norma penal; las conductas discriminatorias se sancionan por vías administrativas y civiles, y solo las más graves pueden ser constitutivas de delito tipificado en el Código Penal.",
+    "norma": "Ley Orgánica 3/2007, de igualdad efectiva de mujeres y hombres",
+    "articulo": "1"
+  },
+  {
+    "id": "B2T23-002",
+    "bloque": 2,
+    "tema": 23,
+    "test": 23,
+    "dificultad": "facil",
+    "pregunta": "¿Qué diferencia el art. 6 de la LO 3/2007 entre discriminación directa e indirecta por razón de sexo?",
+    "opciones": {
+      "A": "La discriminación directa es la que realiza el Estado; la indirecta la que realizan los particulares.",
+      "B": "La discriminación directa consiste en tratar a una persona de manera menos favorable por razón de sexo que a otra en situación comparable; la indirecta es la que se produce cuando una disposición, criterio o práctica aparentemente neutros pone a personas de un sexo en desventaja particular respecto al otro.",
+      "C": "La discriminación directa es siempre intencionada; la indirecta es siempre involuntaria y no genera responsabilidad.",
+      "D": "La discriminación directa solo puede producirse en el ámbito laboral; la indirecta solo en el ámbito educativo."
+    },
+    "correcta": "B",
+    "explicacion": "El art. 6 LOI distingue: discriminación directa por razón de sexo es toda situación en que una persona sea, haya sido o pudiera ser tratada de manera menos favorable que otra en situación comparable por razón de su sexo. Discriminación indirecta es la que se produce cuando una disposición, criterio o práctica aparentemente neutros sitúa a personas de un sexo en desventaja particular con respecto a personas del otro, salvo que dicha disposición, criterio o práctica puedan justificarse objetivamente en atención a una finalidad legítima y que los medios para alcanzar dicha finalidad sean necesarios y adecuados.",
+    "why": "A el criterio de quién discrimina (Estado o particulares) no determina si la discriminación es directa o indirecta; ambas pueden ser cometidas por actores públicos o privados. C la intencionalidad no es el criterio definitorio; la discriminación indirecta puede ser involuntaria pero igualmente ilícita si no puede justificarse objetivamente. D el art. 6 no delimita los ámbitos de aplicación de cada tipo; ambas pueden producirse en cualquier esfera.",
+    "norma": "Ley Orgánica 3/2007, de igualdad efectiva de mujeres y hombres",
+    "articulo": "6"
+  },
+  {
+    "id": "B2T23-003",
+    "bloque": 2,
+    "tema": 23,
+    "test": 23,
+    "dificultad": "facil",
+    "pregunta": "¿Qué establece el art. 16 de la LO 3/2007 sobre el principio de presencia equilibrada de mujeres y hombres?",
+    "opciones": {
+      "A": "Exige que el 50 % exacto de los puestos de cualquier órgano colegiado sea ocupado por mujeres.",
+      "B": "Las Administraciones Públicas deben procurar que los órganos colegiados y las comisiones de selección y valoración incluyan una presencia equilibrada de mujeres y hombres, entendida como la presencia de cada sexo en un porcentaje de entre el 40 y el 60 %.",
+      "C": "El principio de presencia equilibrada se aplica únicamente a los consejos de administración de las grandes empresas privadas.",
+      "D": "La presencia equilibrada es voluntaria para las entidades públicas y obligatoria solo para los partidos políticos."
+    },
+    "correcta": "B",
+    "explicacion": "El art. 16 LOI establece que los poderes públicos procurarán atender al principio de presencia equilibrada de mujeres y hombres en los nombramientos y designaciones de los cargos de responsabilidad que les correspondan. La ley define la presencia equilibrada como aquella en que cada sexo representa como mínimo el 40 % y como máximo el 60 % del total. Este umbral —denominado a veces «paridad blanda»— se aplica a los órganos colegiados de la Administración, las comisiones de selección y otros órganos designados, y se desarrolla en normas específicas para las listas electorales (disposición adicional primera de la LOI).",
+    "why": "A la exigencia del 50 % exacto es más rígida que lo que prevé la LOI; el legislador eligió la horquilla 40-60 % para dar margen de maniobra. C el art. 16 se refiere a los nombramientos en entidades públicas; el art. 75 LOI regula los consejos de administración de las empresas que auditan cuentas, con una redacción no imperativa. D el principio de presencia equilibrada no es voluntario para las entidades públicas; el art. 16 lo impone como criterio de actuación.",
+    "norma": "Ley Orgánica 3/2007, de igualdad efectiva de mujeres y hombres",
+    "articulo": "16"
+  },
+  {
+    "id": "B2T23-004",
+    "bloque": 2,
+    "tema": 23,
+    "test": 23,
+    "dificultad": "facil",
+    "pregunta": "A partir del Real Decreto-ley 6/2019, ¿a partir de cuántos trabajadores son obligatorios los planes de igualdad en las empresas?",
+    "opciones": {
+      "A": "A partir de 250 trabajadores.",
+      "B": "A partir de 50 trabajadores.",
+      "C": "A partir de 100 trabajadores.",
+      "D": "Son obligatorios para todas las empresas con independencia de su tamaño."
+    },
+    "correcta": "B",
+    "explicacion": "El Real Decreto-ley 6/2019, de 1 de marzo, de medidas urgentes para garantía de la igualdad de trato y de oportunidades entre mujeres y hombres en el empleo y la ocupación, modificó el art. 45 LOI para reducir el umbral de obligatoriedad de 250 a 50 trabajadores. Esta rebaja se aplicó de forma progresiva (con períodos transitorios de uno a tres años según el tamaño), pero desde 2022 es plenamente exigible a las empresas de 50 o más trabajadores. Las empresas de menos de 50 trabajadores pueden elaborar planes de igualdad de forma voluntaria.",
+    "why": "A el umbral de 250 trabajadores fue el vigente en la LOI original de 2007 hasta la reforma de 2019. C el umbral de 100 trabajadores nunca fue el previsto en la LOI; el salto fue directamente de 250 a 50. D extender la obligación a todas las empresas habría supuesto una carga desproporcionada para las microempresas y pymes; la ley eligió el umbral de 50 como punto de equilibrio.",
+    "norma": "Ley Orgánica 3/2007, de igualdad efectiva de mujeres y hombres",
+    "articulo": "45"
+  },
+  {
+    "id": "B2T23-005",
+    "bloque": 2,
+    "tema": 23,
+    "test": 23,
+    "dificultad": "facil",
+    "pregunta": "¿Cómo define el art. 7 de la LO 3/2007 el acoso sexual y el acoso por razón de sexo?",
+    "opciones": {
+      "A": "Ambas figuras son idénticas y consisten en cualquier comportamiento no deseado de contenido sexual.",
+      "B": "El acoso sexual es cualquier comportamiento verbal o físico de naturaleza sexual no deseado que tenga el propósito o produzca el efecto de atentar contra la dignidad; el acoso por razón de sexo es el comportamiento no deseado relacionado con el sexo de una persona que crea un entorno intimidatorio, degradante u ofensivo.",
+      "C": "Solo el acoso sexual está prohibido; el acoso por razón de sexo no tiene regulación específica en la LOI.",
+      "D": "El acoso por razón de sexo solo se produce en el ámbito laboral; el acoso sexual puede producirse en cualquier ámbito."
+    },
+    "correcta": "B",
+    "explicacion": "El art. 7 LOI diferencia dos figuras distintas. El acoso sexual es cualquier comportamiento verbal o físico de naturaleza sexual (conductas, gestos, proposiciones) no deseado que tenga el propósito o produzca el efecto de atentar contra la dignidad de una persona, creando un entorno intimidatorio, degradante u ofensivo. El acoso por razón de sexo es todo comportamiento no deseado relacionado con el sexo de una persona (no necesariamente de contenido sexual) que crea ese mismo tipo de entorno hostil. Ambas formas constituyen discriminación por razón de sexo y están prohibidas.",
+    "why": "A ambas figuras tienen contenidos distintos: el acoso sexual tiene naturaleza sexual (avances, tocamientos, comentarios sexuales); el acoso por razón de sexo se basa en el sexo de la persona pero no requiere contenido sexual (p. ej., tratar con condescendencia a las mujeres por el mero hecho de serlo). C ambas figuras tienen regulación expresa en el art. 7 LOI. D el art. 7 no limita ninguna de las dos figuras a un ámbito concreto; ambas pueden producirse en cualquier entorno.",
+    "norma": "Ley Orgánica 3/2007, de igualdad efectiva de mujeres y hombres",
+    "articulo": "7"
+  },
+  {
+    "id": "B2T23-006",
+    "bloque": 2,
+    "tema": 23,
+    "test": 23,
+    "dificultad": "facil",
+    "pregunta": "¿Qué son las acciones positivas en materia de igualdad según el art. 11 de la LO 3/2007?",
+    "opciones": {
+      "A": "Sanciones impuestas a las empresas que no alcancen el porcentaje mínimo de mujeres en sus plantillas.",
+      "B": "Medidas específicas en favor de las mujeres destinadas a corregir situaciones patentes de desigualdad de hecho respecto de los hombres, que son legítimas en la medida en que sean razonables y proporcionadas.",
+      "C": "Actuaciones de las empresas que consisten en contratar exclusivamente a mujeres en todos sus procesos de selección.",
+      "D": "Resoluciones judiciales que obligan a un empleador condenado por discriminación a readmitir a la trabajadora despedida."
+    },
+    "correcta": "B",
+    "explicacion": "El art. 11 LOI define las acciones positivas como medidas específicas en favor de las mujeres para corregir situaciones patentes de desigualdad de hecho respecto de los hombres. Estas medidas son admisibles siempre que sean razonables y proporcionadas en relación con el objetivo perseguido. Las acciones positivas no vulneran el principio de igualdad porque su finalidad es precisamente compensar la desventaja estructural que afecta históricamente a las mujeres. Pueden consistir en ventajas en el acceso al empleo, en la formación, en las condiciones de trabajo o en la permanencia en el mismo.",
+    "why": "A las sanciones son una medida coercitiva, no una acción positiva; las acciones positivas son medidas de fomento o preferencia, no de penalización. C contratar exclusivamente mujeres en todos los procesos sería discriminación inversa no justificada; las acciones positivas deben ser razonables y proporcionadas, nunca absolutas. D la readmisión por condena judicial es una consecuencia de la nulidad del despido discriminatorio, no una acción positiva del art. 11.",
+    "norma": "Ley Orgánica 3/2007, de igualdad efectiva de mujeres y hombres",
+    "articulo": "11"
+  },
+  {
+    "id": "B2T23-007",
+    "bloque": 2,
+    "tema": 23,
+    "test": 23,
+    "dificultad": "media",
+    "pregunta": "¿Qué establece el art. 8 de la LO 3/2007 respecto a la discriminación por embarazo o maternidad?",
+    "opciones": {
+      "A": "El embarazo es una causa justificada de trato diferente en el ámbito laboral si el empresario puede demostrar razones organizativas.",
+      "B": "Constituye discriminación directa por razón de sexo todo trato desfavorable a las mujeres relacionado con el embarazo o la maternidad.",
+      "C": "La discriminación por embarazo solo está prohibida en los seis primeros meses de gestación.",
+      "D": "El trato desfavorable por embarazo se considera discriminación indirecta porque puede afectar a ambos sexos."
+    },
+    "correcta": "B",
+    "explicacion": "El art. 8 LOI establece que constituye discriminación directa por razón de sexo todo trato desfavorable a las mujeres relacionado con el embarazo o la maternidad. Esta disposición es importante porque clarifica que no se necesita comparar a la mujer embarazada con ningún otro colectivo: el mero hecho de que el trato desfavorable esté vinculado al embarazo o a la maternidad es suficiente para calificarlo como discriminación directa por razón de sexo, sin necesidad de demostrar que un hombre habría recibido un trato más favorable.",
+    "why": "A no existe una justificación organizativa válida para dispensar un trato desfavorable por razón de embarazo; el art. 8 lo prohíbe sin excepciones. C el art. 8 no limita la protección a los primeros meses; se aplica durante todo el embarazo, el parto y el período postnatal vinculado a la maternidad. D el art. 8 califica explícitamente esta discriminación como directa, no indirecta; la discriminación indirecta requiere una norma aparentemente neutra, mientras que el trato por embarazo es siempre directo.",
+    "norma": "Ley Orgánica 3/2007, de igualdad efectiva de mujeres y hombres",
+    "articulo": "8"
+  },
+  {
+    "id": "B2T23-008",
+    "bloque": 2,
+    "tema": 23,
+    "test": 23,
+    "dificultad": "media",
+    "pregunta": "¿Qué principios y criterios de actuación deben respetar las Administraciones Públicas en materia de igualdad según el art. 51 de la LO 3/2007?",
+    "opciones": {
+      "A": "Las AAPP solo están obligadas a respetar la igualdad de género en los procesos de selección de personal; el resto de su actividad queda fuera de la LOI.",
+      "B": "Las AAPP deben remover obstáculos que impliquen discriminación de la mujer; promover la presencia equilibrada en órganos de selección; facilitar la conciliación; hacer seguimiento de la representación femenina; establecer medidas de acción positiva; y elaborar planes de igualdad.",
+      "C": "Las AAPP únicamente deben incluir en sus planes anuales una partida presupuestaria para igualdad, sin más obligaciones concretas.",
+      "D": "La obligación de igualdad en las AAPP se limita a garantizar que los impresos y formularios oficiales utilicen lenguaje inclusivo."
+    },
+    "correcta": "B",
+    "explicacion": "El art. 51 LOI establece un catálogo de criterios de actuación obligatorios para las Administraciones Públicas en el ámbito de sus competencias: (1) remover obstáculos que impliquen discriminación de hecho de la mujer; (2) facilitar la conciliación de la vida personal, familiar y laboral; (3) fomentar la formación en igualdad entre su personal; (4) promover la presencia equilibrada de mujeres y hombres en los órganos de selección y valoración; (5) establecer medidas de acción positiva; (6) garantizar la igualdad en la negociación colectiva; y (7) evaluar la efectividad del principio de igualdad en sus políticas.",
+    "why": "A circunscribir la obligación solo a la selección de personal es incompatible con el carácter transversal que la LOI impone a todas las políticas públicas. C la mera dotación presupuestaria sin medidas concretas no cumple con el art. 51; este exige actuaciones sustantivas. D el lenguaje inclusivo es una medida de sensibilización, no el contenido central del art. 51; las obligaciones del artículo son mucho más amplias y de mayor impacto.",
+    "norma": "Ley Orgánica 3/2007, de igualdad efectiva de mujeres y hombres",
+    "articulo": "51"
+  },
+  {
+    "id": "B2T23-009",
+    "bloque": 2,
+    "tema": 23,
+    "test": 23,
+    "dificultad": "media",
+    "pregunta": "¿Qué materias debe abordar un plan de igualdad según el art. 46 de la LO 3/2007?",
+    "opciones": {
+      "A": "Solo el acceso al empleo y la promoción profesional.",
+      "B": "El plan debe incluir medidas en materia de acceso al empleo, clasificación profesional, formación, promoción y retribuciones, conciliación de la vida laboral, personal y familiar, y prevención del acoso sexual y del acoso por razón de sexo, entre otras.",
+      "C": "Únicamente las retribuciones y los complementos salariales entre hombres y mujeres.",
+      "D": "Solo las medidas de conciliación y los permisos parentales."
+    },
+    "correcta": "B",
+    "explicacion": "El art. 46 LOI establece que los planes de igualdad deben fijar los objetivos concretos de igualdad a alcanzar, las estrategias y prácticas a adoptar y los sistemas de seguimiento y evaluación. El contenido mínimo fijado reglamentariamente abarca: proceso de selección y contratación, clasificación profesional, formación y promoción, condiciones de trabajo (incluida la auditoría retributiva), conciliación de la vida laboral, personal y familiar, y prevención del acoso sexual y del acoso por razón de sexo. El plan debe negociarse con la representación legal de los trabajadores y registrarse en el REGCON (Registro de convenios y acuerdos colectivos).",
+    "why": "A limitar el plan al acceso al empleo y la promoción es insuficiente; el art. 46 exige un enfoque integral que incluya también retribuciones, conciliación y prevención del acoso. C el plan de igualdad no se limita a las retribuciones; la auditoría retributiva es un elemento dentro de un plan más amplio. D la conciliación y los permisos son solo una parte del contenido del plan de igualdad; el art. 46 requiere abordar todas las áreas del ciclo laboral.",
+    "norma": "Ley Orgánica 3/2007, de igualdad efectiva de mujeres y hombres",
+    "articulo": "46"
+  },
+  {
+    "id": "B2T23-010",
+    "bloque": 2,
+    "tema": 23,
+    "test": 23,
+    "dificultad": "media",
+    "pregunta": "¿Qué obligación establece el art. 56 de la LO 3/2007 en relación con la composición de los órganos de selección en el empleo público?",
+    "opciones": {
+      "A": "Los órganos de selección del empleo público deben estar compuestos exclusivamente por mujeres cuando el colectivo que se selecciona esté infrarrepresentado femenino.",
+      "B": "Los órganos de selección y valoración del personal al servicio de las Administraciones Públicas deben atender al principio de composición equilibrada de mujeres y hombres.",
+      "C": "La presencia equilibrada en los órganos de selección es voluntaria para las entidades locales.",
+      "D": "El art. 56 solo se aplica a los procesos de selección para cuerpos de funcionarios de Grupo A."
+    },
+    "correcta": "B",
+    "explicacion": "El art. 56 LOI establece que los órganos de selección y valoración del personal al servicio de la Administración General del Estado guardarán la composición equilibrada de mujeres y hombres, en los términos previstos en el artículo 53. Esta obligación garantiza que los propios procesos de selección no reproduzcan sesgos de género: la composición de los tribunales calificadores y comisiones de valoración debe respetar la presencia equilibrada (40-60 %) para cada sexo. El principio se aplica con independencia del grupo de clasificación del puesto que se convoca.",
+    "why": "A la composición exclusivamente femenina de los órganos de selección sería contraria al propio principio de presencia equilibrada; la LOI no prevé la composición exclusiva de un sexo en ningún órgano. C la obligación de presencia equilibrada es imperativa para las AAPP, no voluntaria para las entidades locales. D el art. 56 no distingue entre grupos de clasificación; se aplica a todos los procesos selectivos de la Administración.",
+    "norma": "Ley Orgánica 3/2007, de igualdad efectiva de mujeres y hombres",
+    "articulo": "56"
+  },
+  {
+    "id": "B2T23-011",
+    "bloque": 2,
+    "tema": 23,
+    "test": 23,
+    "dificultad": "media",
+    "pregunta": "¿Qué derecho reconoce la LO 3/2007 en materia retributiva y cómo se concreta en la práctica?",
+    "opciones": {
+      "A": "Las mujeres tienen derecho a cobrar un complemento de igualdad del 10 % sobre el salario base hasta alcanzar la igualdad retributiva.",
+      "B": "Mujeres y hombres tienen derecho a recibir igual retribución, incluidas las pagas extraordinarias, por un trabajo de igual valor, con la obligación de las empresas de llevar un registro retributivo de toda su plantilla.",
+      "C": "El derecho a igual retribución solo opera en el sector público; en el sector privado se rige exclusivamente por la negociación colectiva.",
+      "D": "La igualdad retributiva es un principio declarativo sin consecuencias jurídicas directas para el empleador."
+    },
+    "correcta": "B",
+    "explicacion": "El principio de igual retribución por trabajo de igual valor está en el art. 28 del Estatuto de los Trabajadores (interpretado a la luz de la LOI) y en el art. 5 LOI para el sector público. El RD-ley 6/2019 y el RD 902/2020 de igualdad retributiva concretaron la obligación mediante el registro retributivo obligatorio (que deben llevar todas las empresas), la auditoría retributiva en las empresas con plan de igualdad, y la obligación de transparencia salarial. El trabajo de «igual valor» es el concepto clave: se compara no solo el mismo puesto sino también trabajos distintos que exigen esfuerzo, responsabilidad, cualificación y condiciones similares.",
+    "why": "A el complemento de igualdad del 10 % no existe en la LOI ni en el ET; la igualdad retributiva se garantiza mediante transparencia y auditoría, no mediante un complemento específico. C el principio de igual retribución por trabajo de igual valor opera tanto en el sector público como en el privado; la LOI es de aplicación general. D la igualdad retributiva tiene consecuencias jurídicas directas: las empresas incumplidoras pueden ser sancionadas y las trabajadoras pueden reclamar la diferencia salarial ante los tribunales.",
+    "norma": "Ley Orgánica 3/2007, de igualdad efectiva de mujeres y hombres",
+    "articulo": "5 y 28 ET"
+  },
+  {
+    "id": "B2T23-012",
+    "bloque": 2,
+    "tema": 23,
+    "test": 23,
+    "dificultad": "media",
+    "pregunta": "¿Qué es el distintivo 'Igualdad en la Empresa' regulado en el art. 50 de la LO 3/2007 y quién lo otorga?",
+    "opciones": {
+      "A": "Es una etiqueta de calidad otorgada por las cámaras de comercio a las empresas que tengan un plan de igualdad vigente.",
+      "B": "Es un reconocimiento público que otorga el Ministerio competente en materia de igualdad a las empresas que destaquen por la aplicación de políticas de igualdad de trato y oportunidades entre mujeres y hombres.",
+      "C": "Es una certificación europea expedida por la Comisión Europea a empresas con más del 50 % de mujeres en su plantilla.",
+      "D": "Es un sello fiscal que permite a las empresas galardonadas deducir el 30 % de los gastos derivados del plan de igualdad."
+    },
+    "correcta": "B",
+    "explicacion": "El art. 50 LOI crea el distintivo «Igualdad en la Empresa» como un reconocimiento público oficial otorgado por el Ministerio competente en materia de igualdad (actualmente el Ministerio de Igualdad). Pueden solicitarlo las empresas que destaquen por la aplicación de políticas de igualdad de trato y oportunidades con sus trabajadoras y trabajadores. El distintivo tiene vigencia temporal y puede retirarse si la empresa deja de cumplir las condiciones que motivaron su concesión. Su obtención supone un incentivo reputacional, no económico.",
+    "why": "A las cámaras de comercio no tienen competencia para otorgar este distintivo; es una prerrogativa del Ministerio competente en materia de igualdad. C el distintivo es de ámbito nacional español, no comunitario; la Comisión Europea no lo expide. D el distintivo no conlleva beneficios fiscales directos; es un reconocimiento de carácter reputacional.",
+    "norma": "Ley Orgánica 3/2007, de igualdad efectiva de mujeres y hombres",
+    "articulo": "50"
+  },
+  {
+    "id": "B2T23-013",
+    "bloque": 2,
+    "tema": 23,
+    "test": 23,
+    "dificultad": "media",
+    "pregunta": "Tras la equiparación introducida por el Real Decreto-ley 6/2019, ¿cuál es la duración del permiso por nacimiento y cuidado del menor para cada progenitor?",
+    "opciones": {
+      "A": "16 semanas para la madre y 8 semanas para el otro progenitor.",
+      "B": "16 semanas para cada progenitor, de las cuales las 6 primeras son obligatorias e intransferibles.",
+      "C": "12 semanas para la madre y 12 semanas para el otro progenitor.",
+      "D": "20 semanas para ambos progenitores, ampliables en caso de parto múltiple."
+    },
+    "correcta": "B",
+    "explicacion": "El Real Decreto-ley 6/2019 reformó el art. 48 ET para equiparar los permisos de ambos progenitores. Desde el 1 de enero de 2021, cada progenitor tiene derecho a 16 semanas de permiso por nacimiento y cuidado del menor. De esas 16 semanas, las 6 primeras son obligatorias e intransferibles (deben disfrutarse inmediatamente tras el nacimiento o la adopción). Las restantes 10 semanas pueden distribuirse durante el primer año del menor. La reforma eliminó la diferencia que existía entre el permiso de maternidad (entonces 16 semanas) y el de paternidad (entonces 5 días → 4 semanas → 8 semanas → 12 semanas, hasta equipararse).",
+    "why": "A la duración diferenciada (16 semanas para la madre y 8 para el otro progenitor) fue una etapa transitoria durante la implantación progresiva de la reforma, pero no la situación final. C las 12 semanas fueron la duración del permiso del otro progenitor en 2020; desde 2021 son 16 semanas para ambos. D el RD-ley 6/2019 fijó 16 semanas, no 20; en caso de parto múltiple la ampliación se aplica sobre las 16 semanas base.",
+    "norma": "Ley Orgánica 3/2007, de igualdad efectiva de mujeres y hombres",
+    "articulo": "48 ET (modificado por RD-ley 6/2019)"
+  },
+  {
+    "id": "B2T23-014",
+    "bloque": 2,
+    "tema": 23,
+    "test": 23,
+    "dificultad": "media",
+    "pregunta": "¿Qué es la violencia de género según la Ley Orgánica 1/2004, de 28 de diciembre, de medidas de protección integral contra la violencia de género?",
+    "opciones": {
+      "A": "Cualquier forma de violencia física ejercida por hombres sobre mujeres en el ámbito doméstico, con independencia de la relación entre las partes.",
+      "B": "La violencia que, como manifestación de la discriminación, la situación de desigualdad y las relaciones de poder de los hombres sobre las mujeres, se ejerce sobre estas por parte de quienes sean o hayan sido sus cónyuges o de quienes estén o hayan estado ligados a ellas por relaciones similares de afectividad.",
+      "C": "Toda violencia ejercida en el entorno familiar, incluida la que se produce entre hermanos o de hijos hacia padres.",
+      "D": "Cualquier acto discriminatorio por razón de sexo, con independencia de si existe violencia física."
+    },
+    "correcta": "B",
+    "explicacion": "El art. 1.1 LO 1/2004 define la violencia de género como la violencia que, como manifestación de la discriminación, la situación de desigualdad y las relaciones de poder de los hombres sobre las mujeres, se ejerce sobre estas por parte de quienes sean o hayan sido sus cónyuges o de quienes estén o hayan estado ligados a ellas por relaciones similares de afectividad, aun sin convivencia. La ley abarca la violencia física, psicológica, sexual y económica ejercida en ese concreto vínculo afectivo. Es importante distinguirla de la violencia doméstica en sentido amplio, que tiene un ámbito subjetivo mayor (también cubriría violencia entre familiares).",
+    "why": "A la LO 1/2004 no requiere convivencia («aun sin convivencia») y exige el vínculo afectivo de pareja o expareja; no se aplica a cualquier violencia de hombre sobre mujer sin ese vínculo. C la violencia doméstica genérica entre familiares no es «violencia de género» en el sentido de la LO 1/2004; esta ley tiene un ámbito subjetivo específico. D la violencia de género requiere una conducta de violencia o agresión, no cualquier acto discriminatorio; la discriminación laboral, por ejemplo, se regula por la LOI, no por la LO 1/2004.",
+    "norma": "Ley Orgánica 1/2004, de medidas de protección integral contra la violencia de género",
+    "articulo": "1"
+  },
+  {
+    "id": "B2T23-015",
+    "bloque": 2,
+    "tema": 23,
+    "test": 23,
+    "dificultad": "media",
+    "pregunta": "¿Qué establece el art. 15 de la LO 3/2007 sobre la transversalidad del principio de igualdad de trato?",
+    "opciones": {
+      "A": "El principio de igualdad de trato se aplica solo a las políticas de empleo y educación; las demás políticas quedan excluidas.",
+      "B": "El principio de igualdad de trato entre mujeres y hombres informará, con carácter transversal, la actuación de todos los poderes públicos, que lo integrarán activamente en la adopción y ejecución de sus disposiciones normativas, actividades y presupuestos.",
+      "C": "El principio de transversalidad es potestativo: cada Administración decide si lo incorpora a sus políticas.",
+      "D": "La transversalidad solo se aplica a la Administración General del Estado, no a las Comunidades Autónomas ni a las entidades locales."
+    },
+    "correcta": "B",
+    "explicacion": "El art. 15 LOI consagra el principio de transversalidad o «mainstreaming» de género: el principio de igualdad de trato y de oportunidades entre mujeres y hombres informará con carácter transversal la actuación de todos los poderes públicos. Los poderes públicos deben integrar activamente la perspectiva de género en la adopción y ejecución de sus disposiciones normativas, en la definición y presupuestación de sus políticas públicas en todos los ámbitos. Este enfoque transversal exige que ninguna política pública sea «neutral al género» sin análisis previo de su impacto diferenciado.",
+    "why": "A limitar la transversalidad a empleo y educación sería contrario al art. 15, que exige que alcance «todos» los ámbitos de la actuación pública. C la transversalidad es un mandato imperativo de la LOI, no una opción de cada Administración. D el principio se dirige a «todos los poderes públicos», lo que incluye el Estado, las CCAA y las entidades locales en sus respectivos ámbitos de competencia.",
+    "norma": "Ley Orgánica 3/2007, de igualdad efectiva de mujeres y hombres",
+    "articulo": "15"
+  },
+  {
+    "id": "B2T23-016",
+    "bloque": 2,
+    "tema": 23,
+    "test": 23,
+    "dificultad": "media",
+    "pregunta": "¿Qué es el informe de impacto de género que prevé el art. 19 de la LO 3/2007 y cuándo es obligatorio?",
+    "opciones": {
+      "A": "Es un informe económico sobre el coste de las medidas de igualdad; lo elabora el Ministerio de Hacienda para cada proyecto de ley.",
+      "B": "Es un análisis del impacto diferenciado de las normas y políticas sobre mujeres y hombres; deben incluirlo los proyectos de disposiciones de carácter general y los planes de especial relevancia que se sometan a la aprobación del Consejo de Ministros.",
+      "C": "Es un informe que elabora el Instituto de la Mujer tras aprobar una ley, para evaluar si ha reducido la brecha de género.",
+      "D": "Es obligatorio solo para los proyectos de ley en materias de educación, sanidad y servicios sociales."
+    },
+    "correcta": "B",
+    "explicacion": "El art. 19 LOI establece que los proyectos de disposiciones de carácter general y los planes de especial relevancia económica, social, cultural y artística que se sometan a la aprobación del Consejo de Ministros deberán incluir un informe sobre su impacto por razón de género. Este informe analiza de forma previa si la norma o el plan puede tener efectos diferentes sobre mujeres y hombres, permitiendo corregir posibles impactos negativos antes de su aprobación. Se elabora con carácter previo, no posterior, y es parte del expediente de tramitación normativa.",
+    "why": "A el informe de impacto de género no analiza el coste económico sino el impacto diferenciado en la igualdad; el Ministerio de Hacienda elabora la memoria económica, que es un instrumento distinto. C el informe es previo a la aprobación, no posterior; su finalidad es preventiva, no evaluadora. D el art. 19 no limita el informe a materias concretas; se exige para cualquier proyecto de disposición general y plan de especial relevancia, con independencia de la materia.",
+    "norma": "Ley Orgánica 3/2007, de igualdad efectiva de mujeres y hombres",
+    "articulo": "19"
+  },
+  {
+    "id": "B2T23-017",
+    "bloque": 2,
+    "tema": 23,
+    "test": 23,
+    "dificultad": "dificil",
+    "pregunta": "¿En qué supuesto permite el art. 57 de la LO 3/2007 aplicar criterios de desempate favorables al sexo menos representado en los procesos selectivos del empleo público?",
+    "opciones": {
+      "A": "Siempre que la candidata sea mujer, con independencia de los resultados obtenidos en el proceso selectivo.",
+      "B": "Únicamente en caso de empate en la puntuación entre candidatos de distinto sexo, cuando el sexo de una de ellos esté infrarrepresentado en el cuerpo o escala objeto de la convocatoria y la normativa de acceso lo prevea expresamente.",
+      "C": "En cualquier proceso selectivo en que la plantilla de la Administración convocante tenga menos del 30 % de mujeres.",
+      "D": "En todos los procesos de libre designación de altos cargos, con preferencia siempre para las candidatas mujeres."
+    },
+    "correcta": "B",
+    "explicacion": "El art. 57 LOI permite aplicar como medida de acción positiva criterios de desempate en favor del sexo menos representado, pero con requisitos muy precisos y acumulativos: (1) debe existir empate en la puntuación final entre candidatos de distinto sexo; (2) el sexo del candidato o candidata que se beneficiaría de la preferencia debe estar infrarrepresentado en el cuerpo, escala o categoría de que se trate; y (3) la normativa interna (convocatoria o bases) debe prever expresamente esta posibilidad. No es una preferencia general ni automática; es un mecanismo de último recurso que opera solo cuando se cumplen todos los requisitos.",
+    "why": "A la preferencia general por candidatas mujeres al margen de los resultados sería contraria al principio de mérito y capacidad del art. 103 CE; el art. 57 solo permite el desempate, nunca una preferencia independiente del mérito. C el umbral del 30 % no está en el art. 57; la infrarrepresentación es un concepto fáctico que debe constatarse en la norma convocatoria. D los procesos de libre designación no se rigen por el art. 57; el criterio de presencia equilibrada en los altos cargos se articula a través del art. 16 y la planificación de nombramientos.",
+    "norma": "Ley Orgánica 3/2007, de igualdad efectiva de mujeres y hombres",
+    "articulo": "57"
+  },
+  {
+    "id": "B2T23-018",
+    "bloque": 2,
+    "tema": 23,
+    "test": 23,
+    "dificultad": "dificil",
+    "pregunta": "¿Qué regula el art. 75 de la LO 3/2007 en relación con los consejos de administración de las sociedades obligadas a auditar sus cuentas?",
+    "opciones": {
+      "A": "Impone una cuota mínima obligatoria del 40 % de consejeras, sancionable con multa si no se alcanza.",
+      "B": "Establece que las sociedades obligadas a presentar cuentas de auditoría procurarán incluir en sus consejos de administración un número suficiente de mujeres que permita alcanzar una presencia equilibrada en un plazo de ocho años desde la entrada en vigor de la ley, redacción que no es imperativa y carece de sanción administrativa directa.",
+      "C": "Prohíbe a estas sociedades nombrar a más del 60 % de consejeros del mismo sexo bajo pena de nulidad.",
+      "D": "Exige que el presidente del consejo de administración sea siempre una mujer cuando la empresa haya sido sancionada por discriminación de género."
+    },
+    "correcta": "B",
+    "explicacion": "El art. 75 LOI establece que las sociedades obligadas a presentar cuentas de auditoría procurarán incluir en su consejo de administración un número de mujeres que permita alcanzar una presencia equilibrada de mujeres y hombres. La redacción original fijó un plazo de ocho años para alcanzarlo y usó el verbo «procurarán» (no «deberán»), lo que la jurisprudencia y la doctrina interpretaron como norma de objetivo o de soft law, sin sanción administrativa directa por su incumplimiento. Esta diferencia con las obligaciones imperativas del sector público ha sido objeto de debate legislativo.",
+    "why": "A el art. 75 LOI no establece una cuota mínima del 40 % con sanción de multa; usa el verbo «procurarán» y no tiene aparejada sanción administrativa directa en la propia ley. C la prohibición de nombramiento con nulidad tampoco está prevista en el art. 75; la LOI no establece sanciones de nulidad para los nombramientos en consejos privados. D la exigencia de presidenta mujer como sanción no existe en la LOI; el art. 75 no prevé consecuencias punitivas específicas.",
+    "norma": "Ley Orgánica 3/2007, de igualdad efectiva de mujeres y hombres",
+    "articulo": "75"
+  },
+  {
+    "id": "B2T23-019",
+    "bloque": 2,
+    "tema": 23,
+    "test": 23,
+    "dificultad": "dificil",
+    "pregunta": "¿Qué obligaciones impone la LO 3/2007 en materia de igualdad en los medios de comunicación de titularidad pública?",
+    "opciones": {
+      "A": "Los medios públicos quedan exentos de la LOI porque su actividad está regulada por la Ley General de Comunicación Audiovisual.",
+      "B": "Los medios de comunicación de titularidad pública deben promover la igualdad entre mujeres y hombres, evitar la difusión de contenidos vejatorios o discriminatorios, fomentar la imagen igualitaria de ambos sexos y promover la presencia equilibrada en los órganos de dirección y en los contenidos.",
+      "C": "Los medios públicos solo están obligados a utilizar lenguaje no sexista en sus informativos.",
+      "D": "La LOI no regula los medios de comunicación; su ámbito se limita al empleo y a la actuación de las Administraciones Públicas."
+    },
+    "correcta": "B",
+    "explicacion": "Los arts. 36-41 LOI regulan la igualdad en los medios de comunicación de titularidad pública. Estos deben: (1) promover la transmisión de una imagen igualitaria, plural y no estereotipada de mujeres y hombres; (2) evitar cualquier contenido sexista o que fomente la violencia de género; (3) fomentar la presencia equilibrada en los órganos de control y gestión de los medios; (4) incluir medidas de igualdad en su programación. La publicidad ilícita por razón de sexo también está prohibida (art. 41), y el Instituto de la Mujer puede ejercer la acción de cesación.",
+    "why": "A la Ley General de Comunicación Audiovisual regula el sector audiovisual en general, pero la LOI añade obligaciones específicas de igualdad de género a los medios públicos. C limitarse al lenguaje no sexista en los informativos es insuficiente; la LOI exige una política integral de igualdad en los contenidos, la programación y la gestión del medio. D la LOI tiene un ámbito muy amplio que incluye, además del empleo y la actuación administrativa, los medios de comunicación, la publicidad, la educación y otros sectores.",
+    "norma": "Ley Orgánica 3/2007, de igualdad efectiva de mujeres y hombres",
+    "articulo": "36 a 41"
+  },
+  {
+    "id": "B2T23-020",
+    "bloque": 2,
+    "tema": 23,
+    "test": 23,
+    "dificultad": "dificil",
+    "pregunta": "¿Qué establece el art. 35 de la LO 3/2007 respecto a la conciliación y la corresponsabilidad en el empleo público?",
+    "opciones": {
+      "A": "La conciliación solo corresponde a las trabajadoras madres; los trabajadores hombres no tienen derechos de conciliación reconocidos en la LOI.",
+      "B": "Las Administraciones Públicas deben promover medidas de conciliación de la vida personal, familiar y laboral que posibiliten una mayor corresponsabilidad entre mujeres y hombres en la asunción de las obligaciones familiares, con el fin de equilibrar su presencia en todos los ámbitos.",
+      "C": "La conciliación en el empleo público se instrumenta únicamente mediante la reducción de jornada y la excedencia.",
+      "D": "El art. 35 solo se aplica al personal laboral de las Administraciones Públicas; los funcionarios de carrera quedan excluidos."
+    },
+    "correcta": "B",
+    "explicacion": "El art. 35 LOI establece que las Administraciones Públicas promoverán la conciliación de la vida personal, familiar y laboral favoreciendo la corresponsabilidad de mujeres y hombres. La corresponsabilidad es el concepto clave: no se trata solo de facilitar a las mujeres la compatibilización del trabajo con el cuidado familiar, sino de implicar igualmente a los hombres en esas responsabilidades para lograr una presencia equilibrada en todos los ámbitos (laboral, familiar, social). Las medidas concretas se regulan en los arts. 37-38 ET y en el TREBEP para los empleados públicos.",
+    "why": "A la corresponsabilidad implica precisamente que los hombres también tienen derechos de conciliación; la LOI impulsa que ambos sexos los ejerzan en igual medida. C las medidas de conciliación en el empleo público son más amplias: incluyen además el permiso de lactancia, la adaptación de jornada, el teletrabajo, los permisos parentales y las excedencias por cuidado. D el principio de conciliación se aplica a todo el personal al servicio de las AAPP, funcionario o laboral; no existe exclusión del colectivo funcionarial.",
+    "norma": "Ley Orgánica 3/2007, de igualdad efectiva de mujeres y hombres",
+    "articulo": "35"
+  }
+]
