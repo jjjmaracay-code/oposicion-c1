@@ -1,0 +1,382 @@
+[
+  {
+    "id": "B4T37-001",
+    "bloque": 4,
+    "tema": 37,
+    "test": 37,
+    "dificultad": "facil",
+    "pregunta": "¿Cómo se articula la clasificación económica del presupuesto de gastos de la Comunidad de Madrid?",
+    "opciones": {
+      "A": "La clasificación económica divide el presupuesto en dos únicos grupos: gastos corrientes (capítulos 1 al 5) y gastos de capital (capítulos 6 al 9).",
+      "B": "La clasificación económica del presupuesto de gastos comprende únicamente tres capítulos: personal (cap. 1), bienes y servicios (cap. 2) e inversiones (cap. 6).",
+      "C": "La clasificación económica agrupa los créditos según la naturaleza del gasto: operaciones corrientes (cap. 1 gastos de personal, cap. 2 bienes y servicios, cap. 3 gastos financieros, cap. 4 transferencias corrientes), operaciones de capital (cap. 6 inversiones reales, cap. 7 transferencias de capital) y operaciones financieras (cap. 8 activos financieros, cap. 9 pasivos financieros).",
+      "D": "La clasificación económica del presupuesto de gastos solo se aplica a las inversiones reales; para los gastos de personal y servicios aplica exclusivamente la clasificación orgánica."
+    },
+    "correcta": "C",
+    "explicacion": "La clasificación económica del presupuesto de gastos agrupa los créditos según la naturaleza económica del gasto, respondiendo a la pregunta «¿en qué se gasta?». Los capítulos son: 1 (Gastos de personal: retribuciones, cotizaciones sociales); 2 (Gastos corrientes en bienes y servicios: material de oficina, suministros, arrendamientos, contratos de servicios); 3 (Gastos financieros: intereses de la deuda pública y de operaciones de crédito); 4 (Transferencias corrientes: subvenciones corrientes a personas, empresas u otras AAPP); 6 (Inversiones reales: adquisición o creación de activos fijos materiales e inmateriales); 7 (Transferencias de capital: financiación de inversiones de otros sujetos); 8 (Activos financieros: adquisición de acciones y participaciones, concesión de préstamos); 9 (Pasivos financieros: amortización de deuda pública y devolución de depósitos). Los capítulos 1-4 forman las operaciones corrientes; los capítulos 6-7 las de capital; los capítulos 8-9 las operaciones financieras.",
+    "why": "A la agrupación en «corrientes caps. 1-5» no es exacta: el capítulo 5 es el Fondo de Contingencia y no siempre aparece en esa posición; además las operaciones de capital son los caps. 6-7 y las financieras los caps. 8-9. B la clasificación económica tiene nueve capítulos con contenidos distintos, no solo tres. D la clasificación económica aplica a todos los créditos del presupuesto, no únicamente a las inversiones.",
+    "norma": "Ley 9/1990 Reguladora de la Hacienda de la CM; Orden de clasificación presupuestaria",
+    "articulo": "Título II Ley 9/1990"
+  },
+  {
+    "id": "B4T37-002",
+    "bloque": 4,
+    "tema": 37,
+    "test": 37,
+    "dificultad": "facil",
+    "pregunta": "¿Cuáles son las fases del procedimiento de ejecución del gasto público en la Comunidad de Madrid?",
+    "opciones": {
+      "A": "La ejecución del gasto público sigue las fases: autorización (A) — reserva del crédito para un fin determinado sin obligación frente a tercero; disposición o compromiso (D) — acto jurídico que obliga a la Administración frente a tercero; reconocimiento de la obligación (O) — verificación de que el acreedor cumplió la prestación; ordenación del pago (P) — expedición de la orden de pago a la Tesorería; pago material (M) — abono efectivo al acreedor.",
+      "B": "El presupuesto de gastos solo tiene dos fases de ejecución: el reconocimiento del crédito y el pago; no existen fases intermedias de autorización ni de reconocimiento de obligaciones.",
+      "C": "Las fases de la ejecución del gasto son: presupuestación, aprobación parlamentaria, ejecución contable y liquidación; la subdivisión en fases A-D-O-P no existe en la normativa de la CM.",
+      "D": "La ejecución del presupuesto de gastos tiene solo tres fases: autorización, pago y rendición de cuentas; no existe la fase de reconocimiento de la obligación como fase autónoma."
+    },
+    "correcta": "A",
+    "explicacion": "El procedimiento de ejecución del presupuesto de gastos, regulado en la Ley 9/1990 y en el marco de la contabilidad pública, sigue las fases A-D-O-P-M: (1) Autorización (A): el órgano competente decide destinar crédito a una finalidad determinada; reserva el crédito pero aún no crea obligación jurídica frente a terceros. (2) Disposición o compromiso (D): se perfecciona el acto jurídico que vincula a la Administración (firma del contrato, resolución de concesión de subvención, acto administrativo que reconoce el derecho del tercero); el crédito queda comprometido. (3) Reconocimiento de la obligación (O): comprobación de que el acreedor ha cumplido la prestación convenida (se ha recibido el bien, se ha prestado el servicio); la Administración reconoce su deuda. (4) Ordenación del pago (P): la Intervención fiscaliza el expediente y el órgano gestor expide la orden de pago para que la Tesorería proceda al abono. (5) Pago material (M): la Tesorería realiza el abono efectivo al acreedor. Las fases A y D pueden acumularse en un solo acto cuando así lo permite la normativa (contratos menores, p. ej.).",
+    "why": "B dos fases son insuficientes para describir el ciclo completo del gasto público; la separación entre autorización, obligación y pago es fundamental para el control interno. C las fases mencionadas corresponden al ciclo presupuestario general, no al procedimiento de ejecución del gasto; las fases A-D-O-P-M sí son las aplicables. D el reconocimiento de la obligación es una fase autónoma y esencial: solo cuando se verifica el cumplimiento del acreedor puede la Administración reconocer su deuda.",
+    "norma": "Ley 9/1990 Reguladora de la Hacienda de la CM; Ley 47/2003 General Presupuestaria",
+    "articulo": "Título II Ley 9/1990"
+  },
+  {
+    "id": "B4T37-003",
+    "bloque": 4,
+    "tema": 37,
+    "test": 37,
+    "dificultad": "facil",
+    "pregunta": "¿Cuál es el plazo para que el Gobierno de la Comunidad de Madrid presente el proyecto de Presupuestos Generales a la Asamblea de Madrid?",
+    "opciones": {
+      "A": "El Gobierno de la CM debe presentar el proyecto de Presupuestos a la Asamblea de Madrid antes del 1 de julio del año en curso.",
+      "B": "No existe plazo establecido; el Gobierno puede presentar el proyecto en cualquier momento antes del inicio del ejercicio presupuestario.",
+      "C": "El proyecto de Presupuestos debe presentarse a la Asamblea de Madrid antes del 1 de diciembre del año en curso.",
+      "D": "El Gobierno de la CM debe presentar el proyecto de Presupuestos Generales a la Asamblea de Madrid antes del 1 de octubre del año en curso para el ejercicio siguiente, siguiendo el modelo del art. 134.3 CE y lo establecido en la Ley 9/1990 de Hacienda de la CM; ello garantiza que la Asamblea disponga de tiempo suficiente para debatir, enmendar y aprobar la ley antes del 31 de diciembre."
+    },
+    "correcta": "D",
+    "explicacion": "El plazo de presentación del proyecto de Presupuestos es uno de los elementos más relevantes del ciclo presupuestario. El art. 134.3 CE establece que «el Gobierno deberá presentar ante el Congreso de los Diputados los Presupuestos Generales del Estado al menos tres meses antes de la expiración de los del año anterior», es decir, antes del 1 de octubre. La CM sigue el mismo modelo en su Ley 9/1990 y en el Estatuto de Autonomía: el Consejo de Gobierno aprueba el anteproyecto de presupuestos, que la Consejería de Hacienda elabora, y lo presenta a la Asamblea de Madrid antes del 1 de octubre. Con ese plazo, la Asamblea dispone de al menos tres meses para debatirlo y aprobarlo (octubre, noviembre, diciembre) antes del inicio del ejercicio. Si la Asamblea no lo aprueba antes del 31 de diciembre, opera automáticamente la prórroga del presupuesto anterior.",
+    "why": "A el plazo antes del 1 de julio sería excesivamente anticipado; los presupuestos se elaboran para el año siguiente y se presentan en otoño. B existe plazo legal establecido (antes del 1 de octubre); su incumplimiento afecta al proceso parlamentario. C el 1 de diciembre es demasiado tarde: dejaría a la Asamblea solo un mes para debatir y aprobar el presupuesto.",
+    "norma": "Ley 9/1990 Hacienda CM; art. 134.3 CE",
+    "articulo": "134.3 CE; Título II Ley 9/1990"
+  },
+  {
+    "id": "B4T37-004",
+    "bloque": 4,
+    "tema": 37,
+    "test": 37,
+    "dificultad": "facil",
+    "pregunta": "¿Quién elabora y aprueba el proyecto de Presupuestos Generales de la CM y quién lo convierte en ley?",
+    "opciones": {
+      "A": "Es la Intervención General de la CM quien elabora y aprueba definitivamente los Presupuestos; la Asamblea de Madrid solo los ratifica de forma meramente formal.",
+      "B": "El proceso sigue dos fases: el Consejo de Gobierno de la CM elabora y aprueba el proyecto de Presupuestos, que se remite a la Asamblea de Madrid; la Asamblea lo debate, enmienda si procede y lo aprueba mediante ley formal; sin esa ley, no existe presupuesto para el ejercicio y opera la prórroga automática del anterior.",
+      "C": "La Asamblea de Madrid elabora directamente el presupuesto de la CM a través de su Comisión de Hacienda; el Consejo de Gobierno solo lo ejecuta.",
+      "D": "Los Presupuestos de la CM se aprueban por decreto del Consejo de Gobierno sin necesidad de intervención de la Asamblea de Madrid."
+    },
+    "correcta": "B",
+    "explicacion": "La elaboración y aprobación de los Presupuestos Generales de la CM responde a un proceso diferenciado entre el poder ejecutivo y el legislativo: (1) Elaboración: la Consejería de Hacienda elabora el anteproyecto de presupuestos conforme a las instrucciones del Consejo de Gobierno y a los objetivos de estabilidad presupuestaria. (2) Aprobación del proyecto: el Consejo de Gobierno aprueba el proyecto de ley de Presupuestos Generales de la CM. (3) Remisión: el proyecto se remite a la Asamblea de Madrid antes del 1 de octubre. (4) Tramitación parlamentaria: la Asamblea tramita el proyecto como ley; los grupos parlamentarios pueden presentar enmiendas parciales (a artículos o partidas concretas) o una enmienda a la totalidad. (5) Aprobación: la Asamblea aprueba la Ley de Presupuestos Generales de la CM. La función del poder ejecutivo es elaborar; la del poder legislativo es aprobar. Esta distinción garantiza la legitimidad democrática del presupuesto.",
+    "why": "A la Intervención General no elabora ni aprueba los presupuestos; su función es el control interno de la ejecución, no la elaboración de las previsiones presupuestarias. C la iniciativa presupuestaria corresponde al Gobierno, no a la Asamblea (principio de monopolio gubernamental en la iniciativa presupuestaria; la Asamblea no puede elaborar pero sí enmendar y aprobar o rechazar). D el presupuesto requiere aprobación por ley de la Asamblea; su aprobación por simple decreto del Consejo de Gobierno vulneraría el principio de legalidad presupuestaria y la separación de poderes.",
+    "norma": "Ley 9/1990 Hacienda CM; Estatuto de Autonomía de la CM",
+    "articulo": "Título II Ley 9/1990; 134 CE"
+  },
+  {
+    "id": "B4T37-005",
+    "bloque": 4,
+    "tema": 37,
+    "test": 37,
+    "dificultad": "facil",
+    "pregunta": "¿Qué son los créditos extraordinarios y en qué se diferencian de los suplementos de crédito?",
+    "opciones": {
+      "A": "Los créditos extraordinarios son los que se amplían automáticamente cuando aumentan los ingresos; no requieren aprobación de la Asamblea de Madrid.",
+      "B": "Los créditos extraordinarios son los que sobrepasan el límite de las inversiones presupuestadas; el Consejo de Gobierno puede aprobarlos libremente por decreto.",
+      "C": "Los créditos extraordinarios son créditos presupuestarios creados mediante ley de la Asamblea de Madrid para gastos imprevistos e inaplazables cuyo concepto no estaba dotado inicialmente en el presupuesto vigente; los suplementos de crédito, también aprobados mediante ley, amplían un crédito ya existente pero cuya dotación resulta insuficiente para atender las obligaciones del ejercicio.",
+      "D": "Los créditos extraordinarios son créditos permanentes que no caducan al final del ejercicio y pueden utilizarse en el ejercicio siguiente sin necesidad de incorporación de remanentes."
+    },
+    "correcta": "C",
+    "explicacion": "Las modificaciones presupuestarias se clasifican según la necesidad que cubren y el procedimiento requerido para aprobarlas. Los créditos extraordinarios y los suplementos de crédito comparten la característica de requerir aprobación mediante ley de la Asamblea de Madrid: (1) Crédito extraordinario: se crea un crédito nuevo para una finalidad que no tenía ninguna dotación en el presupuesto inicial (concepto no dotado). Ejemplo: un gasto urgente de reconstrucción por una catástrofe no prevista. (2) Suplemento de crédito: amplía la dotación de un crédito ya existente en el presupuesto pero cuya cuantía resulta insuficiente para cubrir las obligaciones del ejercicio. Ejemplo: la partida de nóminas resulta insuficiente por la convocatoria de plazas de funcionarios adicionales. En ambos casos, la necesidad de ley de la Asamblea garantiza el control parlamentario del incremento de gasto y la coherencia con el principio de legalidad presupuestaria.",
+    "why": "A los créditos que se amplían automáticamente sin ley adicional son los créditos ampliables, no los extraordinarios; estos últimos siempre requieren ley de la Asamblea. B los créditos extraordinarios no son aprobables por decreto del Consejo de Gobierno; el control parlamentario (Asamblea) es preceptivo. D los créditos extraordinarios sí caducan al final del ejercicio como cualquier crédito presupuestario; lo que describe esta opción corresponde a los créditos incorporables.",
+    "norma": "Ley 9/1990 Reguladora de la Hacienda de la CM",
+    "articulo": "Título II Ley 9/1990"
+  },
+  {
+    "id": "B4T37-006",
+    "bloque": 4,
+    "tema": 37,
+    "test": 37,
+    "dificultad": "facil",
+    "pregunta": "¿Qué es la Cuenta General de la Comunidad de Madrid y cuál es su recorrido institucional?",
+    "opciones": {
+      "A": "La Cuenta General de la CM es el documento contable que refleja la situación patrimonial y los resultados de la gestión económico-financiera del sector público autonómico durante el ejercicio; la elabora la Intervención General de la CM y, una vez aprobada por el Consejo de Gobierno, se remite a la Cámara de Cuentas de la CM para su fiscalización y posterior informe a la Asamblea de Madrid.",
+      "B": "La Cuenta General la elabora directamente la Asamblea de Madrid como parte de su función de control del ejecutivo autonómico.",
+      "C": "La Cuenta General solo recoge los gastos de personal e inversiones reales; los gastos financieros y las transferencias se documentan en cuentas separadas.",
+      "D": "La Cuenta General de la CM se remite exclusivamente al Tribunal de Cuentas del Estado, ya que es el único órgano con competencia para fiscalizarla; la Cámara de Cuentas no tiene ninguna intervención en este proceso."
+    },
+    "correcta": "A",
+    "explicacion": "La Cuenta General de la Comunidad de Madrid es el instrumento fundamental de rendición de cuentas del sector público autonómico. Su elaboración y tramitación sigue el siguiente itinerario: (1) Elaboración: la Intervención General de la CM compila las cuentas de todos los organismos del sector público autonómico (Administración General, organismos autónomos, empresas públicas, entes del sector público) y elabora la Cuenta General del ejercicio. (2) Aprobación ejecutiva: el Consejo de Gobierno aprueba la Cuenta General. (3) Remisión a la Cámara de Cuentas: la Cuenta General aprobada se remite a la Cámara de Cuentas de la CM, que procede a su fiscalización externa e independiente. (4) Informe a la Asamblea: la Cámara de Cuentas emite su dictamen e informe anual sobre la Cuenta General, que se presenta a la Asamblea de Madrid para su examen y debate. Este ciclo garantiza el control parlamentario sobre la gestión del ejecutivo.",
+    "why": "B la elaboración de la Cuenta General corresponde a la Intervención General (poder ejecutivo), no a la Asamblea; el control de la Asamblea es a posteriori, a través del informe de la Cámara de Cuentas. C la Cuenta General recoge toda la actividad económico-financiera del sector público autonómico: gastos de personal, inversiones, transferencias, operaciones financieras, etc. D la Cámara de Cuentas de la CM tiene plena competencia para fiscalizar la Cuenta General de la CM; el Tribunal de Cuentas estatal puede actuar subsidiariamente pero la Cámara de Cuentas autonómica es el órgano principal.",
+    "norma": "Ley 9/1990 Hacienda CM; Ley 11/1999 Cámara de Cuentas de la CM",
+    "articulo": "Título IV Ley 9/1990; Ley 11/1999"
+  },
+  {
+    "id": "B4T37-007",
+    "bloque": 4,
+    "tema": 37,
+    "test": 37,
+    "dificultad": "media",
+    "pregunta": "¿Cuáles son las tres clasificaciones del presupuesto de gastos de la Comunidad de Madrid y qué responde cada una?",
+    "opciones": {
+      "A": "El presupuesto de la CM solo tiene clasificación económica; las clasificaciones orgánica y funcional son documentos complementarios de carácter informativo pero no forman parte del presupuesto aprobado por ley.",
+      "B": "La clasificación orgánica divide el presupuesto por programas y la funcional por organismos; solo la clasificación económica es jurídicamente vinculante y limita el gasto.",
+      "C": "Las tres clasificaciones del presupuesto son: territorial (por municipio de destino del gasto), temporal (por mes de ejecución previsto) y económica.",
+      "D": "El presupuesto de gastos de la CM se estructura según tres clasificaciones complementarias: la clasificación orgánica (por secciones —Consejerías— y sus organismos; responde a «quién gasta»), la clasificación funcional o por programas (que agrupa los créditos según los objetivos y finalidades del gasto; responde a «para qué se gasta») y la clasificación económica (que agrupa el gasto por su naturaleza económica —personal, servicios, transferencias, inversiones, deuda—; responde a «en qué se gasta»)."
+    },
+    "correcta": "D",
+    "explicacion": "El presupuesto de gastos de la Comunidad de Madrid se articula mediante tres clasificaciones simultáneas que ofrecen perspectivas distintas sobre el mismo crédito presupuestario: (1) Clasificación orgánica: organiza los créditos por el órgano responsable de su gestión. Las secciones corresponden a las Consejerías y a otros órganos (Asamblea de Madrid, Consejo Consultivo, Cámara de Cuentas, Deuda Pública). Dentro de cada sección, los créditos se desagregan por servicios u organismos autónomos dependientes. Responde a «¿quién gasta?». (2) Clasificación funcional o por programas: agrupa los créditos según la finalidad u objetivo del gasto, organizados en áreas de gasto, políticas y programas (p. ej., sanidad, educación, transportes, cultura). Facilita el análisis de la eficacia del gasto público en relación con los objetivos perseguidos. Responde a «¿para qué se gasta?». (3) Clasificación económica: agrupa los créditos según la naturaleza económica del gasto (capítulos 1-9). Responde a «¿en qué se gasta?». Las tres clasificaciones se combinan para identificar cada crédito presupuestario con la máxima precisión.",
+    "why": "A las tres clasificaciones forman parte del presupuesto aprobado por ley y todas ellas vinculan jurídicamente la ejecución; la clasificación orgánica y la económica son especialmente relevantes para el control interno. B la descripción invierte las clasificaciones: la orgánica se refiere a organismos, no a programas; y la funcional a programas, no a organismos. C las clasificaciones territorial y temporal no son las clasificaciones presupuestarias estándar del presupuesto de la CM; las tres clasificaciones son orgánica, funcional y económica.",
+    "norma": "Ley 9/1990 Hacienda CM; normativa de estructura presupuestaria",
+    "articulo": "Título II Ley 9/1990"
+  },
+  {
+    "id": "B4T37-008",
+    "bloque": 4,
+    "tema": 37,
+    "test": 37,
+    "dificultad": "media",
+    "pregunta": "¿Qué son las transferencias de crédito y qué limitaciones tienen en la Comunidad de Madrid?",
+    "opciones": {
+      "A": "Las transferencias de crédito no requieren ningún tipo de autorización previa; cualquier gestor público puede mover crédito de una aplicación a otra de forma discrecional.",
+      "B": "Las transferencias de crédito son modificaciones presupuestarias que trasladan dotaciones entre distintas aplicaciones; las transferencias dentro del mismo capítulo pueden aprobarse por decreto del Consejo de Gobierno o por la Consejería de Hacienda; las transferencias entre distintos capítulos están más restringidas y algunas requieren ley de la Asamblea; están prohibidas las transferencias que incrementen créditos de personal (cap. 1) procedentes de otros capítulos o que disminuyan créditos de obligaciones ya exigibles legalmente.",
+      "C": "Las transferencias de crédito solo pueden realizarse entre programas dentro de una misma Consejería; no puede trasladarse crédito entre distintas Consejerías en ningún caso.",
+      "D": "Las transferencias de crédito están prohibidas por la Ley 9/1990; el único mecanismo de modificación presupuestaria son los créditos extraordinarios aprobados por la Asamblea."
+    },
+    "correcta": "B",
+    "explicacion": "Las transferencias de crédito son el mecanismo de modificación presupuestaria más frecuente: permiten adaptar la distribución del presupuesto a las necesidades reales de la ejecución, sin alterar el importe global aprobado por la Asamblea. En el ámbito de la CM: (1) Transferencias dentro del mismo capítulo: generalmente pueden aprobarse por la Consejería de Hacienda o el Consejo de Gobierno, sin necesidad de ley de la Asamblea. (2) Transferencias entre capítulos: están sometidas a mayores controles; las que afectan a créditos de personal (cap. 1) o de inversiones (cap. 6) pueden requerir ley de la Asamblea. (3) Limitaciones absolutas: (a) No se puede incrementar el capítulo 1 (personal) con créditos procedentes de otros capítulos, salvo autorización legal expresa. (b) No se puede disminuir créditos que respondan a obligaciones exigibles legalmente (prestaciones, deuda). (c) No se pueden utilizar para financiar el aumento de retribuciones del personal más allá de lo legalmente autorizado. Estas restricciones preservan el principio de especialidad cualitativa del crédito.",
+    "why": "A las transferencias de crédito requieren autorización del nivel competente; su libre disposición por cualquier gestor vulneraría el principio de especialidad y el control parlamentario. C existen transferencias entre secciones (Consejerías) que se permiten con los requisitos legales adecuados; no están prohibidas en todos los casos. D las transferencias de crédito sí están previstas y reguladas en la Ley 9/1990 como un mecanismo ordinario de modificación presupuestaria.",
+    "norma": "Ley 9/1990 Reguladora de la Hacienda de la CM",
+    "articulo": "Título II Ley 9/1990"
+  },
+  {
+    "id": "B4T37-009",
+    "bloque": 4,
+    "tema": 37,
+    "test": 37,
+    "dificultad": "media",
+    "pregunta": "¿En qué casos procede la incorporación de remanentes en el presupuesto de la Comunidad de Madrid?",
+    "opciones": {
+      "A": "Los remanentes de crédito se incorporan automáticamente al ejercicio siguiente sin ningún requisito; cualquier crédito no gastado puede reutilizarse en el año posterior.",
+      "B": "La incorporación de remanentes está prohibida por el principio de anualidad; los créditos no ejecutados al 31 de diciembre se anulan definitivamente sin posibilidad de recuperación.",
+      "C": "La incorporación de remanentes es la modificación presupuestaria que permite trasladar al ejercicio siguiente créditos no ejecutados del ejercicio anterior, en casos tasados: créditos de proyectos de inversión financiados con fondos externos (UE o Estado), compromisos de gasto legalmente adquiridos (contratos firmados cuya ejecución se prolonga al año siguiente) y créditos de la sección de deuda pública; requiere aprobación del Consejo de Gobierno o de la Consejería de Hacienda dentro del primer trimestre del ejercicio siguiente.",
+      "D": "Los remanentes de crédito solo pueden incorporarse si la Asamblea de Madrid aprueba una ley de presupuestos rectificativa que los incluya expresamente."
+    },
+    "correcta": "C",
+    "explicacion": "La incorporación de remanentes es la modulación del principio de anualidad: aunque los créditos caducan el 31 de diciembre, la ley reconoce que determinadas situaciones justifican su traslado al ejercicio siguiente. Los casos típicos admitidos son: (1) Proyectos de inversión plurianuales financiados con fondos europeos o estatales: la UE y el Estado condicionan la financiación a la ejecución de la inversión; si al cierre del año la obra no está terminada, el crédito no ejecutado se incorpora para continuar el proyecto. (2) Compromisos de gasto adquiridos: contratos firmados durante el ejercicio cuya prestación se recibe en el ejercicio siguiente (obras que se prolongan, contratos de suministro de plazo largo); la obligación jurídica ya existe y el crédito debe mantenerse. (3) Créditos de deuda pública: las operaciones de endeudamiento planificadas pueden no materializarse exactamente en las fechas previstas. El procedimiento es ejecutivo (decreto del Consejo de Gobierno o resolución de la Consejería de Hacienda), sin necesidad de nueva ley de la Asamblea, aunque con límites legales específicos.",
+    "why": "A la incorporación automática vulneraría el principio de anualidad; solo es posible en los supuestos expresamente previstos por la ley. B el principio de anualidad admite excepciones tasadas legalmente, precisamente la incorporación de remanentes es una de ellas; no es una prohibición absoluta. D la incorporación de remanentes no requiere ley de la Asamblea; es una decisión ejecutiva (Consejo de Gobierno) dentro de los límites legalmente establecidos.",
+    "norma": "Ley 9/1990 Reguladora de la Hacienda de la CM",
+    "articulo": "Título II Ley 9/1990"
+  },
+  {
+    "id": "B4T37-010",
+    "bloque": 4,
+    "tema": 37,
+    "test": 37,
+    "dificultad": "media",
+    "pregunta": "¿Cuál es la naturaleza jurídica de la Ley de Presupuestos de la CM y qué valor tienen sus créditos de gasto?",
+    "opciones": {
+      "A": "La Ley de Presupuestos de la CM es una ley formal aprobada por la Asamblea de Madrid que contiene el plan financiero anual (ingresos y gastos) y puede incluir otras disposiciones normativas con conexión directa con el presupuesto; sus créditos de gasto son autorizaciones máximas de carácter limitativo: el ejecutivo no puede comprometer obligaciones por importe superior al crédito aprobado.",
+      "B": "La Ley de Presupuestos de la CM es una ley reglamentaria que puede modificar sin límites cualquier ley ordinaria anterior, con independencia de la materia regulada.",
+      "C": "La Ley de Presupuestos tiene carácter indicativo; el ejecutivo puede superar los límites presupuestarios si las necesidades del servicio público lo exigen, sin necesidad de modificación previa.",
+      "D": "La Ley de Presupuestos de la CM no tiene rango de ley; es un reglamento del Consejo de Gobierno sin valor jurídico vinculante para el poder ejecutivo."
+    },
+    "correcta": "A",
+    "explicacion": "La Ley de Presupuestos Generales de la CM presenta una doble naturaleza jurídica reconocida por la doctrina y el Tribunal Constitucional: (1) Es una ley formal: aprobada por la Asamblea de Madrid por el procedimiento legislativo ordinario (con posibilidad de enmiendas, debates en comisión y pleno); tiene rango de ley y deroga normas de rango inferior. (2) Su contenido es especial: tiene un contenido mínimo necesario (los estados de ingresos y gastos previstos para el ejercicio) y puede incluir contenido eventual (disposiciones normativas con conexión directa con el presupuesto: normas tributarias, modificaciones de retribuciones del personal, autorizaciones de endeudamiento). (3) Los créditos son limitativos: representan el techo máximo de gasto que puede asumir el ejecutivo; no se pueden reconocer obligaciones ni comprometer gastos que superen el crédito disponible sin la previa modificación presupuestaria (salvo en los créditos ampliables). Esta limitatividad es el núcleo del control parlamentario sobre el gasto público.",
+    "why": "B la Ley de Presupuestos tiene límites materiales: no puede regular materias sin relación con el presupuesto ni modificar leyes orgánicas (doctrina del TC). C los créditos presupuestarios son limitativos, no indicativos; superar el crédito sin modificación previa genera una irregularidad presupuestaria grave. D la Ley de Presupuestos tiene pleno rango de ley; sus créditos vinculan jurídicamente al ejecutivo.",
+    "norma": "Ley 9/1990 Hacienda CM; doctrina del Tribunal Constitucional",
+    "articulo": "134 CE; Título II Ley 9/1990"
+  },
+  {
+    "id": "B4T37-011",
+    "bloque": 4,
+    "tema": 37,
+    "test": 37,
+    "dificultad": "media",
+    "pregunta": "¿Qué son los créditos ampliables y en qué se diferencian de los créditos limitativos ordinarios?",
+    "opciones": {
+      "A": "Los créditos ampliables son los que el ejecutivo puede aumentar discrecionalmente según las necesidades del servicio; todos los créditos del presupuesto tienen esta condición como regla general.",
+      "B": "Los créditos ampliables son los correspondientes a las inversiones reales del capítulo 6; en ningún caso se aplican a gastos de personal o transferencias.",
+      "C": "Los créditos ampliables y los limitativos se diferencian en que los ampliables pueden reducirse en cualquier momento; los limitativos no pueden reducirse sin modificación presupuestaria.",
+      "D": "Los créditos ampliables son aquellos cuya cuantía puede incrementarse automáticamente, sin necesidad de tramitar una modificación presupuestaria adicional, cuando concurren las circunstancias habilitantes previstas en la norma que los autoriza; se aplican principalmente a gasto de carácter obligatorio por ley (pensiones, prestaciones asistenciales, intereses de la deuda), donde la Administración no puede limitar el pago a los afectados. Los créditos limitativos, regla general en el presupuesto, son un tope máximo que no puede superarse sin previa modificación presupuestaria aprobada por el órgano competente."
+    },
+    "correcta": "D",
+    "explicacion": "En el presupuesto de la CM, la regla general es que los créditos son limitativos: representan el máximo de gasto autorizado y no pueden superarse. Sin embargo, determinados créditos tienen la condición de ampliables, habilitada por ley específica: (1) Prestaciones basadas en derechos subjetivos: pensiones de clases pasivas, prestaciones de desempleo, ayudas asistenciales reguladas por ley. El número de beneficiarios y el importe de cada prestación no pueden limitarse administrativamente una vez reconocido el derecho por ley. (2) Intereses de la deuda: los pagos de intereses dependen de variables del mercado (tipos de interés) y de la cuantía de endeudamiento; si los tipos suben, el crédito presupuestado puede resultar insuficiente. (3) Devoluciones de ingresos: si la CM debe devolver ingresos tributarios liquidados incorrectamente, el volumen de devoluciones puede superar lo previsto. En estos casos, la ley habilita la ampliación automática del crédito, con cargo a recursos generales de la Tesorería, para atender las obligaciones exigibles sin necesidad de tramitar un suplemento de crédito.",
+    "why": "A los créditos ampliables no son la regla general; son una excepción para determinadas obligaciones de contenido legal inaplazable; la regla general son los créditos limitativos. B los créditos ampliables no se circunscriben al capítulo 6; aplican fundamentalmente a prestaciones sociales, deuda e intereses. C la distinción entre ampliables y limitativos no tiene que ver con la posibilidad de reducción, sino con si puede superarse el techo sin modificación formal previa.",
+    "norma": "Ley 9/1990 Hacienda CM; leyes habilitadoras de créditos ampliables",
+    "articulo": "Título II Ley 9/1990"
+  },
+  {
+    "id": "B4T37-012",
+    "bloque": 4,
+    "tema": 37,
+    "test": 37,
+    "dificultad": "media",
+    "pregunta": "¿Qué es el fondo de contingencia en el presupuesto de la Comunidad de Madrid y cuál es su finalidad?",
+    "opciones": {
+      "A": "El fondo de contingencia se destina exclusivamente a financiar créditos de personal imprevistos; solo puede usarse para gastos de los capítulos 1 y 2.",
+      "B": "El fondo de contingencia es una dotación presupuestaria específica reservada para atender necesidades de gasto imprevistas, urgentes e inaplazables que surjan durante la ejecución del presupuesto; su utilización requiere acuerdo del Consejo de Gobierno y no puede destinarse a atender necesidades que tengan carácter periódico ni a gastos que deban tramitarse como crédito extraordinario por carecer de toda previsión presupuestaria.",
+      "C": "El fondo de contingencia solo puede utilizarse en el último trimestre del ejercicio presupuestario y exclusivamente para gastos de inversión del capítulo 6.",
+      "D": "El fondo de contingencia es el conjunto de los remanentes de crédito no ejecutados del ejercicio anterior que se incorporan al inicio del ejercicio siguiente."
+    },
+    "correcta": "B",
+    "explicacion": "El fondo de contingencia es un mecanismo de flexibilidad dentro del presupuesto que permite al Gobierno de la CM hacer frente a imprevistos sin necesidad de tramitar un crédito extraordinario ante la Asamblea en cada caso urgente. Sus características son: (1) Dotación: el presupuesto anual incluye una dotación específica en el fondo de contingencia, cuyo importe queda reservado para este fin. (2) Finalidad: cubrir necesidades de gasto que no pudieron preverse al elaborar el presupuesto o cuya cuantía resultó insuficiente, siempre que sean urgentes e inaplazables. (3) Procedimiento: su utilización requiere acuerdo del Consejo de Gobierno, lo que garantiza el control político sobre su empleo. (4) Limitaciones: no puede usarse para gastos periódicos o estructurales (que corresponden a suplementos de crédito); tampoco para gastos sin ningún crédito presupuestario (que exigen crédito extraordinario por ley). (5) Transparencia: su uso debe informarse a la Asamblea de Madrid periódicamente.",
+    "why": "A el fondo de contingencia no está limitado a los capítulos 1 y 2; puede aplicarse a cualquier tipo de gasto urgente no previsto dentro de las restricciones legales. C no existe limitación temporal ni de capítulo para el uso del fondo de contingencia; puede utilizarse en cualquier momento del ejercicio y para el tipo de gasto imprevisto que se presente. D el fondo de contingencia no está formado por remanentes de ejercicios anteriores; es una dotación inicial del presupuesto del propio ejercicio.",
+    "norma": "Ley 9/1990 Hacienda CM; LO 2/2012 Estabilidad Presupuestaria",
+    "articulo": "Título II Ley 9/1990"
+  },
+  {
+    "id": "B4T37-013",
+    "bloque": 4,
+    "tema": 37,
+    "test": 37,
+    "dificultad": "media",
+    "pregunta": "¿En qué consiste la generación de créditos como modificación presupuestaria y cuándo puede producirse?",
+    "opciones": {
+      "A": "La generación de créditos es la creación de un crédito presupuestario nuevo por parte de la Consejería de Hacienda, sin necesidad de que existan ingresos adicionales que la justifiquen.",
+      "B": "La generación de créditos está prohibida por la Ley 9/1990; no puede crearse ningún crédito nuevo durante la ejecución del presupuesto.",
+      "C": "La generación de créditos es la modificación presupuestaria que permite crear o ampliar créditos de gasto como consecuencia de ingresos no previstos o que superen las previsiones iniciales (subvenciones finalistas de la UE o del Estado, mayores ingresos propios afectados a un fin concreto); la generación solo procede cuando los ingresos que la justifican están efectivamente obtenidos o comprometidos en firme, garantizando que el gasto adicional queda cubierto financieramente sin generar déficit.",
+      "D": "La generación de créditos equivale en todo a un crédito extraordinario; en ambos casos se requiere la aprobación de la Asamblea de Madrid mediante ley."
+    },
+    "correcta": "C",
+    "explicacion": "La generación de créditos es una modificación presupuestaria que responde al principio de cobertura financiera real del gasto: si la CM obtiene ingresos adicionales o ingresos específicamente afectados a un fin que no estaban previstos en el presupuesto inicial, puede crear o ampliar los créditos de gasto correspondientes. Ejemplos habituales: (1) Subvenciones europeas: la CM recibe una transferencia de fondos FEDER, FSE o de recuperación (PRTR) para un proyecto concreto; genera un crédito de gasto equivalente para ejecutar ese proyecto. (2) Mayor recaudación afectada: si los ingresos del canon de saneamiento superan la previsión y están afectados a inversiones de depuración de agua, puede generarse crédito para esas inversiones. (3) Aportaciones del Estado: convenios de colaboración financiados por el Estado generan el ingreso y simultáneamente permiten generar el gasto. La generación requiere: (a) que el ingreso adicional sea efectivo o esté formalmente comprometido; (b) que la norma legal contemple la posibilidad de generación para ese tipo de ingreso; (c) aprobación por el Consejo de Gobierno o la Consejería de Hacienda, sin necesidad de ley.",
+    "why": "A la generación de créditos solo puede producirse cuando hay ingresos adicionales reales que la sustenten; no es discrecional. B la Ley 9/1990 sí contempla expresamente la generación de créditos como una de las modalidades de modificación presupuestaria. D la generación de créditos no requiere ley de la Asamblea (a diferencia del crédito extraordinario); puede aprobarse por el ejecutivo cuando los ingresos que la justifican son reales.",
+    "norma": "Ley 9/1990 Reguladora de la Hacienda de la CM",
+    "articulo": "Título II Ley 9/1990"
+  },
+  {
+    "id": "B4T37-014",
+    "bloque": 4,
+    "tema": 37,
+    "test": 37,
+    "dificultad": "media",
+    "pregunta": "¿Qué es el marco de gasto a medio plazo (MGMP) y qué exige la LO 2/2012 a la Comunidad de Madrid en relación con él?",
+    "opciones": {
+      "A": "La LO 2/2012 de Estabilidad Presupuestaria exige que las CCAA aprueben un marco de gasto a medio plazo (MGMP) de carácter trienal, actualizado anualmente, que fija los límites máximos de gasto no financiero para cada año del horizonte; el Consejo de Gobierno de la CM lo aprueba con carácter previo a la elaboración del proyecto de presupuestos anuales, garantizando la coherencia entre la planificación plurianual y la disciplina fiscal exigida por el principio de estabilidad presupuestaria.",
+      "B": "El marco de gasto a medio plazo es un documento de carácter puramente indicativo elaborado por la Asamblea de Madrid; no vincula al ejecutivo en la elaboración de los presupuestos anuales.",
+      "C": "El marco de gasto a medio plazo es una obligación exclusiva del Gobierno del Estado; las CCAA no están obligadas a elaborar instrumentos de planificación presupuestaria plurianual.",
+      "D": "El marco de gasto a medio plazo sustituye al presupuesto anual; la CM puede ejecutar su gasto con referencia al marco plurianual sin necesidad de aprobar presupuestos anuales formales."
+    },
+    "correcta": "A",
+    "explicacion": "El marco de gasto a medio plazo (MGMP) es un instrumento de planificación presupuestaria plurianual introducido para las AAPP españolas por la LO 2/2012 de Estabilidad Presupuestaria y Sostenibilidad Financiera, en consonancia con la normativa europea (Semestre Europeo, Pacto de Estabilidad y Crecimiento): (1) Naturaleza: documento presupuestario plurianual de tres años que establece los límites máximos de gasto no financiero para cada año del horizonte, compatibles con el objetivo de estabilidad presupuestaria fijado por el Estado. (2) Periodicidad: se actualiza anualmente, de forma que siempre cubre los tres próximos años. (3) Vinculación: el presupuesto anual debe respetar el límite de gasto fijado en el MGMP para el año en cuestión; actúa como «techo de gasto». (4) Aprobación: el Consejo de Gobierno de la CM aprueba el MGMP antes de elaborar el proyecto de presupuestos, estableciendo las restricciones dentro de las cuales ha de formularse. (5) Publicidad: debe publicarse y remitirse al Ministerio de Hacienda para garantizar el seguimiento del cumplimiento de la estabilidad.",
+    "why": "B el MGMP no es meramente indicativo ni lo elabora la Asamblea; es aprobado por el Consejo de Gobierno y vincula la elaboración del presupuesto anual. C las CCAA están expresamente obligadas por el art. 29 LO 2/2012 a aprobar su propio MGMP. D el MGMP no sustituye al presupuesto anual; establece el marco de restricciones dentro del cual se elabora el presupuesto anual, que sigue siendo obligatorio.",
+    "norma": "LO 2/2012 de Estabilidad Presupuestaria y Sostenibilidad Financiera",
+    "articulo": "29 LO 2/2012"
+  },
+  {
+    "id": "B4T37-015",
+    "bloque": 4,
+    "tema": 37,
+    "test": 37,
+    "dificultad": "media",
+    "pregunta": "¿Cómo figura la Deuda Pública en el presupuesto de gastos de la Comunidad de Madrid?",
+    "opciones": {
+      "A": "La Deuda Pública no figura en el presupuesto de gastos de la CM; es una operación extrapresupuestaria que se gestiona fuera del marco presupuestario.",
+      "B": "Los gastos por Deuda Pública (amortización e intereses) se imputan ambos al capítulo 2 (gastos corrientes en bienes y servicios) del presupuesto.",
+      "C": "La Deuda Pública de la CM figura como una única partida global en el capítulo 9, sin separar intereses de amortización.",
+      "D": "La Deuda Pública de la CM dispone de una sección específica en el presupuesto: los intereses derivados del endeudamiento se imputan al capítulo 3 (gastos financieros) y la amortización del principal al capítulo 9 (pasivos financieros); ambas partidas están sometidas al principio de especialidad presupuestaria y tienen carácter ampliable en la medida en que responden a obligaciones legalmente exigibles derivadas de contratos de deuda suscritos."
+    },
+    "correcta": "D",
+    "explicacion": "El servicio de la Deuda Pública de la CM se recoge en el presupuesto de gastos en dos capítulos distintos, siguiendo la clasificación económica: (1) Capítulo 3 — Gastos financieros: recoge los intereses que la CM debe abonar por las operaciones de endeudamiento vigentes (préstamos bancarios, bonos y obligaciones emitidos). Son gastos corrientes de carácter financiero. (2) Capítulo 9 — Pasivos financieros: recoge la amortización del principal de la deuda (devolución del capital prestado). Son operaciones financieras que reducen el stock de deuda. La sección de Deuda Pública es una de las secciones del presupuesto con mayor relevancia política y presupuestaria, ya que su volumen refleja el coste de la política de endeudamiento de la CM. Tanto el capítulo 3 como el 9 tienen la condición de créditos ampliables cuando las obligaciones de pago superan las previsiones iniciales, dado que la CM no puede dejar de pagar los intereses y amortizaciones pactados en los contratos de deuda.",
+    "why": "A la Deuda Pública sí figura en el presupuesto de gastos; su inclusión en el presupuesto es una exigencia del principio de universalidad presupuestaria. B el capítulo 2 (bienes y servicios) no recoge la Deuda Pública; los gastos financieros van al capítulo 3 y la amortización al capítulo 9. C separar intereses (cap. 3) de amortización (cap. 9) responde a la diferente naturaleza económica del gasto: los intereses son gasto corriente; la amortización es operación financiera.",
+    "norma": "Ley 9/1990 Hacienda CM; normativa de clasificación presupuestaria",
+    "articulo": "Título II Ley 9/1990"
+  },
+  {
+    "id": "B4T37-016",
+    "bloque": 4,
+    "tema": 37,
+    "test": 37,
+    "dificultad": "media",
+    "pregunta": "¿Qué entidades integran los presupuestos consolidados de la Comunidad de Madrid y cuál es el objetivo de la consolidación?",
+    "opciones": {
+      "A": "Los presupuestos consolidados solo incluyen la Administración General de la CM; los organismos autónomos tienen presupuestos propios independientes que no forman parte del documento consolidado.",
+      "B": "Los presupuestos consolidados de la CM integran, eliminando las transferencias internas entre entidades del sector público autonómico, los presupuestos de la Administración General, los organismos autónomos, los entes públicos y las empresas públicas de la CM; el objetivo es ofrecer una imagen fiel del conjunto del sector público autonómico sin duplicar las transferencias entre entidades del propio sector.",
+      "C": "Los presupuestos consolidados son los que incluyen tanto el presupuesto de la CM como los de todos los municipios madrileños; la consolidación autonómica-local es obligatoria por la LO 2/2012.",
+      "D": "Los presupuestos consolidados no tienen base legal en la Ley 9/1990; son una práctica voluntaria de información adicional sin carácter obligatorio para la CM."
+    },
+    "correcta": "B",
+    "explicacion": "Los presupuestos consolidados del sector público de la Comunidad de Madrid son el resultado de integrar en un único documento los presupuestos de todas las entidades que forman el sector público autonómico, eliminando las operaciones internas (transferencias de unas entidades a otras del mismo sector) para evitar la doble contabilización. Las entidades incluidas son: (1) Administración General de la CM (Consejerías y sus servicios). (2) Organismos autónomos (entidades de derecho público con personalidad jurídica propia que ejercen funciones de carácter administrativo). (3) Entes públicos de derecho privado (entidades con forma jurídica privada pero titularidad pública). (4) Empresas públicas autonómicas (sociedades mercantiles con mayoría de capital autonómico). La consolidación elimina las transferencias internas: si la CM transfiere 100 M€ a un organismo autónomo, ese gasto aparece en el presupuesto de la CM y ese ingreso en el del organismo; al consolidar, ambos se eliminan para no inflar el volumen presupuestario real. El presupuesto consolidado refleja el «impacto externo» del gasto público autonómico sobre la economía.",
+    "why": "A los organismos autónomos sí forman parte del presupuesto consolidado de la CM; el documento consolidado es precisamente la suma de todos los subsectores del sector público autonómico. C la consolidación presupuestaria de la CM no incluye los municipios madrileños; estos son entidades locales con presupuestos y competencias propias. D los presupuestos consolidados son obligatorios para las CCAA; la LO 2/2012 y la Ley 9/1990 los exigen para el seguimiento del déficit y la deuda del sector público autonómico.",
+    "norma": "Ley 9/1990 Hacienda CM; LO 2/2012 Estabilidad Presupuestaria",
+    "articulo": "Título II Ley 9/1990; LO 2/2012"
+  },
+  {
+    "id": "B4T37-017",
+    "bloque": 4,
+    "tema": 37,
+    "test": 37,
+    "dificultad": "dificil",
+    "pregunta": "¿Cómo se clasifican las modificaciones presupuestarias según el órgano competente para autorizarlas en la Comunidad de Madrid?",
+    "opciones": {
+      "A": "Todas las modificaciones presupuestarias requieren aprobación mediante ley de la Asamblea de Madrid, sin ninguna excepción.",
+      "B": "El Consejo de Gobierno puede aprobar cualquier tipo de modificación presupuestaria, incluidos los créditos extraordinarios, con la única obligación de informar posteriormente a la Asamblea.",
+      "C": "Las modificaciones presupuestarias se distinguen según el órgano competente: requieren ley de la Asamblea los créditos extraordinarios (para gastos sin crédito previo en el presupuesto) y los suplementos de crédito (para ampliar un crédito insuficiente existente); pueden aprobarse por el Consejo de Gobierno o la Consejería de Hacienda sin ley las ampliaciones de crédito (habilitadas por ley previa), las generaciones de crédito (respaldadas por ingresos adicionales reales), las incorporaciones de remanentes (en supuestos tasados) y las transferencias de crédito (dentro del mismo capítulo o con las limitaciones del caso); las transferencias entre capítulos sensibles (cap. 1 o cap. 6) o entre secciones distintas pueden requerir ley.",
+      "D": "La Intervención General de la CM es el único órgano competente para aprobar todas las modificaciones presupuestarias; la Asamblea y el Consejo de Gobierno no intervienen en este proceso."
+    },
+    "correcta": "C",
+    "explicacion": "La clasificación de las modificaciones presupuestarias según el órgano competente para autorizarlas es uno de los aspectos más importantes de la gestión presupuestaria, ya que determina la velocidad y el nivel de control de cada modificación: (A) Requieren ley de la Asamblea de Madrid: (1) Crédito extraordinario: crea un crédito nuevo para una necesidad sin dotación previa en el presupuesto; afecta al equilibrio presupuestario de forma significativa. (2) Suplemento de crédito: incrementa el importe de un crédito ya existente pero insuficiente. En ambos casos, el incremento del gasto total requiere legitimación parlamentaria. (B) No requieren ley de la Asamblea: (3) Ampliación de crédito: habilitada por ley previa; opera automáticamente cuando se dan las circunstancias. (4) Generación de crédito: requiere que los ingresos que la financian existan realmente; se aprueba por el ejecutivo. (5) Incorporación de remanentes: en los supuestos legalmente establecidos; se aprueba por el ejecutivo. (6) Transferencias de crédito entre aplicaciones del mismo capítulo: en general, competencia del ejecutivo. La distinción protege la prerrogativa presupuestaria de la Asamblea sobre el gasto público.",
+    "why": "A las ampliaciones, generaciones e incorporaciones de remanentes no requieren ley de la Asamblea; son competencia del ejecutivo en los supuestos legalmente tasados. B los créditos extraordinarios y los suplementos de crédito siempre requieren ley de la Asamblea; no pueden aprobarse por mero decreto del Consejo de Gobierno. D la Intervención General controla la legalidad de las modificaciones pero no las aprueba; la competencia aprobatoria corresponde a la Asamblea o al ejecutivo según el tipo.",
+    "norma": "Ley 9/1990 Reguladora de la Hacienda de la CM",
+    "articulo": "Título II Ley 9/1990"
+  },
+  {
+    "id": "B4T37-018",
+    "bloque": 4,
+    "tema": 37,
+    "test": 37,
+    "dificultad": "dificil",
+    "pregunta": "¿Qué limitaciones materiales ha fijado el Tribunal Constitucional sobre el contenido de la ley de presupuestos?",
+    "opciones": {
+      "A": "El Tribunal Constitucional (STC 76/1992 y doctrina posterior) ha establecido que la ley de presupuestos tiene un contenido mínimo necesario (los estados de ingresos y gastos) y puede incluir disposiciones normativas con conexión directa y necesaria con la política económica del Gobierno o con la ejecución del presupuesto (contenido eventual); está prohibido usarla para regular materias sin relación con el presupuesto, para modificar leyes orgánicas o para alterar derechos fundamentales, pues ello vulneraría el principio de seguridad jurídica y la reserva de ley específica.",
+      "B": "El TC ha reconocido plena libertad al legislador presupuestario para incluir en la ley de presupuestos cualquier norma que el Gobierno estime conveniente, sin restricciones materiales.",
+      "C": "La doctrina del TC establece que la ley de presupuestos no puede contener ninguna norma de carácter sustantivo; solo puede incluir los estados numéricos de ingresos y gastos, sin disposiciones adicionales.",
+      "D": "El TC ha declarado que las leyes de presupuestos autonómicas pueden regular materias que la ley de presupuestos del Estado no puede, ya que las CCAA tienen autonomía normativa plena en su ámbito."
+    },
+    "correcta": "A",
+    "explicacion": "La doctrina del Tribunal Constitucional sobre las limitaciones materiales de la ley de presupuestos es una de las más relevantes en Derecho Constitucional financiero español. La STC 76/1992 (caso de la Ley de Presupuestos de 1988) y la STC 195/1994 sistematizaron esta doctrina: (1) Contenido mínimo necesario: los estados de ingresos y gastos de la Administración del Estado y del sector público autonómico; sin este contenido, no hay ley de presupuestos. (2) Contenido eventual lícito: puede incluir disposiciones normativas que tengan «conexión directa o relación con los créditos del estado de gastos o con los ingresos presupuestarios» o que respondan a los criterios y objetivos de política económica del Gobierno. Ejemplos: normas retributivas del personal al servicio de las AAPP, modificaciones tributarias relacionadas con la recaudación prevista, autorización de endeudamiento. (3) Límites: (a) No puede regular materias sin relación alguna con el presupuesto o la política económica. (b) No puede modificar leyes orgánicas (la ley de presupuestos no tiene rango de ley orgánica). (c) No puede afectar a derechos fundamentales (reserva de ley específica). La vulneración de estos límites puede acarrear la inconstitucionalidad del precepto incluido en la ley de presupuestos.",
+    "why": "B el TC sí ha establecido límites materiales a las leyes de presupuestos; la libertad del legislador presupuestario no es ilimitada. C la postura opuesta también es incorrecta: la ley de presupuestos puede contener disposiciones normativas sustantivas, siempre que tengan relación directa con el presupuesto o la política económica. D la doctrina sobre las limitaciones de la ley de presupuestos se aplica a las leyes de presupuestos de todas las AAPP, incluidas las autonómicas; no existe una excepción especial para las CCAA.",
+    "norma": "STC 76/1992 y doctrina del Tribunal Constitucional; Constitución Española",
+    "articulo": "134 CE; STC 76/1992; STC 195/1994"
+  },
+  {
+    "id": "B4T37-019",
+    "bloque": 4,
+    "tema": 37,
+    "test": 37,
+    "dificultad": "dificil",
+    "pregunta": "¿Cómo se ejecuta el presupuesto de ingresos y en qué se diferencia del procedimiento de ejecución del presupuesto de gastos?",
+    "opciones": {
+      "A": "Las fases de ejecución de ingresos son idénticas a las de gastos (A-D-O-P-M), ya que la simetría presupuestaria exige el mismo procedimiento para los dos lados del presupuesto.",
+      "B": "La ejecución del presupuesto de ingresos no sigue fases regladas; los ingresos se acreditan directamente en la Tesorería sin procedimiento administrativo previo.",
+      "C": "La ejecución de ingresos tiene solo dos fases: la previsión inicial y el cobro efectivo; no existen fases intermedias de liquidación ni de reconocimiento de derechos.",
+      "D": "La ejecución del presupuesto de ingresos sigue fases específicas distintas a las del gasto: liquidación (cálculo del importe y notificación al obligado), reconocimiento del derecho (acto formal por el que la CM registra su derecho de cobro) y recaudación (cobro en período voluntario o, en su caso, por vía ejecutiva); a diferencia de los gastos —cuyo crédito es un tope máximo que no puede superarse—, las previsiones de ingresos son estimaciones que la CM puede superar sin que ello suponga una infracción presupuestaria."
+    },
+    "correcta": "D",
+    "explicacion": "La ejecución del presupuesto de ingresos y la del presupuesto de gastos son procedimientos diferentes que responden a la diferente naturaleza de uno y otro lado del presupuesto: Ejecución de ingresos: (1) Liquidación: la Administración calcula el importe del ingreso que corresponde a cada obligado (liquidación tributaria, tasa, precio público, derechos reconocidos) y lo comunica al sujeto pasivo. (2) Reconocimiento del derecho: la CM registra contablemente el derecho de cobro, incluso si el ingreso aún no se ha hecho efectivo (equivalente funcional al «reconocimiento de la obligación» en gastos). (3) Recaudación: el obligado paga en período voluntario; si no lo hace, se inicia la vía ejecutiva de apremio. Diferencia fundamental con los gastos: Los créditos del presupuesto de gastos son un límite máximo vinculante (no se puede gastar más). Las previsiones del presupuesto de ingresos son estimaciones: si la CM recauda más de lo previsto (por mayor actividad económica, inspección fiscal, etc.), no existe ninguna infracción presupuestaria; si recauda menos, puede surgir un problema de liquidez pero no de ilegalidad presupuestaria directa.",
+    "why": "A las fases de ejecución de ingresos son distintas a las de gastos (A-D-O-P-M); la ejecución de ingresos sigue el esquema liquidación-reconocimiento-recaudación. B la ejecución de ingresos sigue un procedimiento administrativo reglado, no arbitrario; la liquidación y el reconocimiento del derecho son actos administrativos sujetos a requisitos formales. C las fases intermedias de liquidación y reconocimiento del derecho son esenciales para el control de los ingresos públicos; no existe una ejecución directa de previsión a cobro.",
+    "norma": "Ley 9/1990 Hacienda CM; LGT; LGTCM",
+    "articulo": "Título II Ley 9/1990; LGT arts. 160 y ss."
+  },
+  {
+    "id": "B4T37-020",
+    "bloque": 4,
+    "tema": 37,
+    "test": 37,
+    "dificultad": "dificil",
+    "pregunta": "¿Cuáles son las cinco grandes fases del ciclo presupuestario completo de la Comunidad de Madrid?",
+    "opciones": {
+      "A": "El ciclo presupuestario de la CM se reduce a dos fases: aprobación por la Asamblea y ejecución por el ejecutivo; no existe fase de control ni de rendición de cuentas.",
+      "B": "El ciclo presupuestario de la CM comprende cinco fases: (1) elaboración (la Consejería de Hacienda prepara el proyecto antes del 1 de octubre), (2) aprobación parlamentaria (la Asamblea de Madrid lo convierte en ley), (3) ejecución (el Gobierno lo ejecuta siguiendo las fases A-D-O-P-M para gastos y liquidación-reconocimiento-recaudación para ingresos a lo largo del ejercicio), (4) control (la Intervención General fiscaliza internamente; la Cámara de Cuentas fiscaliza externamente) y (5) liquidación y rendición de cuentas (la Cuenta General se aprueba por el Consejo de Gobierno y se remite a la Cámara de Cuentas, que informa a la Asamblea de Madrid).",
+      "C": "El ciclo presupuestario de la CM tiene tres fases: elaboración, ejecución y publicación en el BOCM; el control y la rendición de cuentas son actuaciones potestativos.",
+      "D": "El ciclo presupuestario de la CM es bienal; el Consejo de Gobierno decide si se aprueba un presupuesto anual o plurianual de dos años."
+    },
+    "correcta": "B",
+    "explicacion": "El ciclo presupuestario de la Comunidad de Madrid es el conjunto ordenado de fases que van desde la preparación del presupuesto hasta su fiscalización final. Las cinco fases son: (1) Elaboración: la Consejería de Hacienda, siguiendo las directrices del Consejo de Gobierno (límites de gasto del MGMP, objetivos de estabilidad), prepara el anteproyecto de presupuestos; el Consejo de Gobierno aprueba el proyecto y lo remite a la Asamblea antes del 1 de octubre. (2) Aprobación parlamentaria: la Asamblea de Madrid debatee, enmienda y aprueba la Ley de Presupuestos Generales de la CM; si no se aprueba antes del 31 de diciembre, opera la prórroga automática. (3) Ejecución: durante el ejercicio (1 de enero-31 de diciembre), el Gobierno ejecuta el presupuesto: en gastos mediante las fases A-D-O-P-M; en ingresos mediante liquidación-reconocimiento-recaudación. (4) Control: la Intervención General controla internamente (fiscalización previa, control financiero, auditoría); la Cámara de Cuentas controla externamente e independientemente. (5) Liquidación y rendición de cuentas: al cierre del ejercicio, se elabora la Cuenta General, se aprueba por el Consejo de Gobierno y se remite a la Cámara de Cuentas para su fiscalización e informe a la Asamblea, cerrando el ciclo democrático.",
+    "why": "A el ciclo presupuestario tiene cinco fases bien diferenciadas; reducirlo a dos elimina las fases de elaboración, control y rendición de cuentas, que son fundamentales para la transparencia y el control democrático. C el control y la rendición de cuentas son obligatorios, no potestativos; la Ley 9/1990, la Ley 11/1999 de la Cámara de Cuentas y la LO 2/2012 los exigen. D el presupuesto de la CM es necesariamente anual; no existe habilitación legal para presupuestos bienales en la CM.",
+    "norma": "Ley 9/1990 Hacienda CM; Ley 11/1999 Cámara de Cuentas; LO 2/2012",
+    "articulo": "Título II Ley 9/1990; 134 CE"
+  }
+]
