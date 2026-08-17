@@ -1,0 +1,382 @@
+[
+  {
+    "id": "B2T25-001",
+    "bloque": 2,
+    "tema": 25,
+    "test": 25,
+    "dificultad": "facil",
+    "pregunta": "¿Cuáles son las cuatro etapas del ciclo vital de los documentos en el sistema de archivos español?",
+    "opciones": {
+      "A": "Producción, almacenamiento, consulta y destrucción.",
+      "B": "Archivo de gestión (u oficina), archivo central, archivo intermedio y archivo histórico.",
+      "C": "Registro, clasificación, descripción y difusión.",
+      "D": "Archivo provisional, archivo permanente, archivo accesible y archivo reservado."
+    },
+    "correcta": "B",
+    "explicacion": "La archivística moderna articula el ciclo vital de los documentos en cuatro etapas según el uso y valor de la documentación. El archivo de gestión o de oficina conserva los documentos en tramitación o de uso frecuente, próximos a la unidad productora. El archivo central del departamento u organismo recibe los expedientes cerrados. El archivo intermedio custodia los fondos que ya no son de uso corriente pero aún no han sido evaluados definitivamente. El archivo histórico acoge los documentos con valor permanente para su conservación indefinida y difusión a investigadores. Este modelo refleja la transición del valor administrativo al valor histórico de los documentos.",
+    "why": "A producción, almacenamiento, consulta y destrucción son fases genéricas del ciclo de vida de cualquier recurso informático, no la terminología archivística específica del sistema español. C registro, clasificación, descripción y difusión son procesos técnicos archivísticos, no las etapas del ciclo vital. D las denominaciones provisional, permanente, accesible y reservado no corresponden a ninguna clasificación archivística establecida en la normativa española.",
+    "norma": "Real Decreto 1708/2011, Sistema Español de Archivos",
+    "articulo": "4"
+  },
+  {
+    "id": "B2T25-002",
+    "bloque": 2,
+    "tema": 25,
+    "test": 25,
+    "dificultad": "facil",
+    "pregunta": "¿Dónde tiene su sede el Archivo General de la Administración (AGA) y cuál es su función principal?",
+    "opciones": {
+      "A": "En Madrid, capital, y es el depósito de los documentos históricos de la Corona de Castilla.",
+      "B": "En Alcalá de Henares, y es el archivo intermedio de la Administración General del Estado que recibe los fondos de los archivos centrales de los departamentos ministeriales cuando se cumplen los plazos establecidos.",
+      "C": "En Sevilla, y custodia los fondos documentales relativos a América generados durante el período colonial.",
+      "D": "En Toledo, y conserva los documentos del Estado con antigüedad superior a cien años."
+    },
+    "correcta": "B",
+    "explicacion": "El Archivo General de la Administración tiene su sede en Alcalá de Henares (Madrid) y actúa como archivo intermedio de la AGE: recibe los fondos de los archivos centrales de los departamentos ministeriales cuando los documentos han completado el plazo de permanencia en el archivo central, y los custodia hasta que son objeto de valoración definitiva (eliminación autorizada o transferencia al archivo histórico). El AGA es uno de los archivos de mayor volumen de España y está gestionado por el Ministerio de Cultura. No debe confundirse con el Archivo de Indias (Sevilla) ni con el Archivo Histórico Nacional (Madrid).",
+    "why": "A el Archivo de la Corona de Castilla no existe como denominación actual; los documentos medievales de la Corona de Castilla están en el Archivo General de Simancas (Valladolid). C el Archivo General de Indias, con sede en Sevilla, es el que custodia los fondos coloniales americanos. D el Archivo Histórico Nacional, con sede en Madrid, conserva documentos históricos del Estado; el AGA, en Alcalá, es un archivo intermedio, no histórico.",
+    "norma": "Real Decreto 1708/2011, Sistema Español de Archivos",
+    "articulo": "13"
+  },
+  {
+    "id": "B2T25-003",
+    "bloque": 2,
+    "tema": 25,
+    "test": 25,
+    "dificultad": "facil",
+    "pregunta": "¿Cuál es la regla general sobre el acceso a los documentos constitutivos del Patrimonio Documental Español según el art. 57 de la Ley 16/1985?",
+    "opciones": {
+      "A": "Todos los documentos del Patrimonio Documental son de acceso restringido hasta que el Ministerio de Cultura autorice expresamente su consulta.",
+      "B": "Con carácter general, los documentos son de libre consulta una vez concluido el procedimiento administrativo, salvo que afecten a materias clasificadas, a la seguridad del Estado o a la intimidad de las personas.",
+      "C": "Los documentos solo son accesibles a investigadores acreditados con carné de investigador expedido por el Ministerio de Cultura.",
+      "D": "El acceso queda restringido durante cien años desde la fecha del documento; transcurrido ese plazo, son de libre acceso."
+    },
+    "correcta": "B",
+    "explicacion": "El art. 57 LPH establece que, con carácter general, los documentos constitutivos del Patrimonio Documental serán de libre consulta a partir de que concluya el procedimiento administrativo al que correspondan, salvo tres supuestos de restricción: (1) que afecten a materias clasificadas conforme a la Ley de Secretos Oficiales, (2) que su difusión pueda entrañar riesgos para la seguridad y la defensa del Estado o la averiguación de los delitos, y (3) que afecten a la intimidad de las personas. El principio de libertad de acceso refleja el derecho ciudadano a la información administrativa y al control de la actuación pública.",
+    "why": "A la restricción general hasta autorización ministerial no es el modelo de la LPH; el principio es el acceso libre, con excepciones tasadas. C el carné de investigador es un instrumento de gestión de las salas de consulta de los archivos históricos, pero no condiciona el derecho de acceso al Patrimonio Documental, que es general. D los cien años es el umbral de antigüedad para que ciertos documentos privados de particulares integren el Patrimonio Documental (art. 49), no el plazo de restricción de acceso.",
+    "norma": "Ley 16/1985, del Patrimonio Histórico Español",
+    "articulo": "57"
+  },
+  {
+    "id": "B2T25-004",
+    "bloque": 2,
+    "tema": 25,
+    "test": 25,
+    "dificultad": "facil",
+    "pregunta": "¿Cuándo deben transferirse los documentos desde el archivo de gestión al archivo central del departamento?",
+    "opciones": {
+      "A": "Cuando el expediente tiene más de cien años desde su producción.",
+      "B": "Cuando los expedientes han sido resueltos o concluidos y los documentos ya no son de uso frecuente en la unidad productora, generalmente transcurridos entre tres y cinco años.",
+      "C": "Solo cuando el archivo de gestión se queda sin espacio físico, previo informe de la Inspección de Archivos.",
+      "D": "La transferencia es discrecional y corresponde al jefe de cada unidad administrativa decidir cuándo realizarla sin sujeción a plazo alguno."
+    },
+    "correcta": "B",
+    "explicacion": "En el modelo archivístico español, los documentos deben transferirse del archivo de gestión al archivo central del departamento cuando los expedientes han concluido y la unidad productora ya no los necesita para el desempeño de sus funciones ordinarias. El momento habitual es entre tres y cinco años tras el cierre del expediente, aunque los plazos concretos pueden variar según el tipo de documentos. La transferencia no es una mera cuestión de espacio físico, sino un proceso técnico que debe realizarse mediante relación de entrega formalizada, garantizando la correcta identificación y estado de conservación de los fondos.",
+    "why": "A los cien años es el umbral de antigüedad para que documentos de particulares integren el Patrimonio Documental (LPH art. 49), no el plazo para la transferencia entre archivos. C la falta de espacio físico puede ser un factor práctico, pero no es el criterio jurídico-archivístico para determinar la transferencia; lo determinante es el fin de la fase activa del expediente. D la discrecionalidad del jefe de unidad sin plazo alguno sería contraria a los principios de gestión documental organizada; los plazos de transferencia se fijan en los calendarios de conservación.",
+    "norma": "Real Decreto 1708/2011, Sistema Español de Archivos",
+    "articulo": "4"
+  },
+  {
+    "id": "B2T25-005",
+    "bloque": 2,
+    "tema": 25,
+    "test": 25,
+    "dificultad": "facil",
+    "pregunta": "¿Puede eliminarse libremente la documentación pública que forma parte del Patrimonio Documental Español?",
+    "opciones": {
+      "A": "Sí; cada unidad administrativa puede destruir los documentos que considere innecesarios sin necesidad de ninguna autorización.",
+      "B": "No; la eliminación de documentos del Patrimonio Documental requiere previa autorización a través del proceso de valoración documental y aprobación por la Comisión Superior Calificadora de Documentos Administrativos.",
+      "C": "Sí, pero solo los documentos con más de cincuenta años de antigüedad y previa comunicación al Ministerio de Cultura.",
+      "D": "No; todos los documentos públicos son de conservación permanente y ninguno puede eliminarse en ningún caso."
+    },
+    "correcta": "B",
+    "explicacion": "La documentación que forma parte del Patrimonio Documental Español no puede eliminarse libremente. La Ley 16/1985 (art. 55) prohíbe la eliminación sin autorización de documentos que integran el Patrimonio Documental. El proceso de eliminación requiere la valoración previa de la documentación por las Comisiones Calificadoras de cada departamento, que proponen a la Comisión Superior Calificadora de Documentos Administrativos (adscrita al Ministerio de Cultura) la aprobación de tablas de valoración que indican qué documentos pueden eliminarse, cuáles deben conservarse indefinidamente y cuáles pueden muestrearse. Solo con ese respaldo formal puede procederse a la destrucción.",
+    "why": "A la eliminación libre sin autorización supone una infracción grave contra el Patrimonio Histórico Español, tipificada como tal en la LPH. C la antigüedad de cincuenta años no es por sí sola causa de eliminación; lo determinante es la valoración técnica y la autorización de la Comisión Superior Calificadora, con independencia de la antigüedad. D la conservación permanente de todo documento público tampoco es el modelo; muchos documentos de gestión sin valor histórico ni probatorio pueden eliminarse una vez cumplidas sus funciones y obtenida la autorización correspondiente.",
+    "norma": "Ley 16/1985, del Patrimonio Histórico Español",
+    "articulo": "55"
+  },
+  {
+    "id": "B2T25-006",
+    "bloque": 2,
+    "tema": 25,
+    "test": 25,
+    "dificultad": "facil",
+    "pregunta": "¿Qué documentos generados por las Administraciones Públicas forman parte del Patrimonio Documental Español según el art. 49 de la Ley 16/1985?",
+    "opciones": {
+      "A": "Solo los documentos de más de cien años de antigüedad generados por organismos públicos.",
+      "B": "Todos los documentos de cualquier época generados, conservados o reunidos en el ejercicio de su función por cualquier organismo o entidad de carácter público, con independencia de su antigüedad.",
+      "C": "Únicamente los documentos declarados de interés histórico por el Consejo del Patrimonio Histórico.",
+      "D": "Solo los documentos originales en papel; las copias electrónicas no forman parte del Patrimonio Documental."
+    },
+    "correcta": "B",
+    "explicacion": "El art. 49.1 LPH establece que forman parte del Patrimonio Documental los documentos de cualquier época generados, conservados o reunidos en el ejercicio de su función por cualquier organismo o entidad de carácter público, por las personas jurídicas en cuyo capital participe mayoritariamente el Estado u otras entidades públicas, y por las personas privadas gestoras de servicios públicos en lo relacionado con la gestión de dichos servicios. Para los documentos de la Administración no se exige ningún requisito de antigüedad: todos forman parte del Patrimonio Documental desde su producción.",
+    "why": "A el requisito de cien años de antigüedad se aplica a los documentos de particulares o entidades privadas ordinarias (art. 49.2.b LPH), no a los de las AAPP. C la declaración de interés histórico por el Consejo del Patrimonio Histórico no es requisito para integrar el Patrimonio Documental en el caso de las AAPP; la integración es automática. D el formato o soporte del documento no determina su pertenencia al Patrimonio Documental; la LPH es indiferente al soporte (papel, electrónico, audiovisual, fotográfico).",
+    "norma": "Ley 16/1985, del Patrimonio Histórico Español",
+    "articulo": "49"
+  },
+  {
+    "id": "B2T25-007",
+    "bloque": 2,
+    "tema": 25,
+    "test": 25,
+    "dificultad": "media",
+    "pregunta": "¿Qué integra el Sistema Español de Archivos y cuál es su finalidad según el Real Decreto 1708/2011?",
+    "opciones": {
+      "A": "Solo los archivos dependientes de la Administración General del Estado; los autonómicos y locales tienen sus propios sistemas sin conexión con el nacional.",
+      "B": "El Sistema Español de Archivos integra el Sistema de Archivos de la AGE, los sistemas archivísticos de las Comunidades Autónomas y los de las entidades locales, con la finalidad de garantizar la preservación, difusión y acceso al patrimonio documental español.",
+      "C": "Solo los archivos históricos de titularidad estatal; los archivos de gestión y centrales quedan fuera del Sistema.",
+      "D": "El Sistema Español de Archivos está integrado únicamente por los archivos que cuentan con colecciones declaradas Patrimonio de la Humanidad por la UNESCO."
+    },
+    "correcta": "B",
+    "explicacion": "El Real Decreto 1708/2011, por el que se establece el Sistema Español de Archivos y se regula el Sistema de Archivos de la AGE, define el Sistema Español de Archivos como el conjunto de archivos, sistemas archivísticos y órganos de cooperación que actúan de manera coordinada para garantizar la preservación, difusión y acceso al patrimonio documental español. El sistema es integrador: comprende el Sistema de Archivos de la AGE, los sistemas archivísticos de las CCAA en el marco de sus competencias, los sistemas archivísticos de las entidades locales y cualquier otro sistema con incidencia sobre el patrimonio documental común.",
+    "why": "A la exclusión de los archivos autonómicos y locales sería contraria al carácter integrador del RD 1708/2011; las CCAA y EELL participan en el sistema en el marco de sus propias competencias. C limitar el Sistema a los archivos históricos excluiría los archivos de gestión, centrales e intermedios, que son parte fundamental del ciclo documental y del sistema. D la declaración de Patrimonio de la Humanidad por la UNESCO no es el criterio de pertenencia al Sistema Español de Archivos; este incluye archivos de todo nivel funcional.",
+    "norma": "Real Decreto 1708/2011, Sistema Español de Archivos",
+    "articulo": "1 y 3"
+  },
+  {
+    "id": "B2T25-008",
+    "bloque": 2,
+    "tema": 25,
+    "test": 25,
+    "dificultad": "media",
+    "pregunta": "¿Cuáles son los tipos de archivos que componen el Sistema de Archivos de la Administración General del Estado según el RD 1708/2011?",
+    "opciones": {
+      "A": "Solo el Archivo General de la Administración y el Archivo Histórico Nacional.",
+      "B": "Los archivos de gestión, los archivos centrales de los departamentos ministeriales y organismos públicos, el Archivo General de la Administración (archivo intermedio), y los archivos históricos de titularidad estatal (entre ellos el Archivo Histórico Nacional).",
+      "C": "Los archivos de gestión y el Archivo Histórico Nacional; no existe la figura del archivo central ni del intermedio.",
+      "D": "Solo los archivos con fondos de más de quinientos años de antigüedad tienen la consideración de archivos del sistema de la AGE."
+    },
+    "correcta": "B",
+    "explicacion": "El art. 4 del RD 1708/2011 describe el Sistema de Archivos de la AGE como una red jerarquizada que cubre todo el ciclo vital de los documentos: (1) los archivos de gestión, ubicados en las propias unidades administrativas; (2) los archivos centrales de los departamentos ministeriales, organismos autónomos y demás entidades del sector público estatal, que reciben los expedientes cerrados; (3) el Archivo General de la Administración, que actúa como archivo intermedio de la AGE; y (4) los archivos históricos de titularidad y gestión estatal, entre ellos el Archivo Histórico Nacional, el Archivo de la Corona de Aragón, el Archivo General de Simancas y otros.",
+    "why": "A limitar el sistema al AGA y al AHN omite los archivos de gestión y los centrales, que son el primer eslabón del ciclo documental. C negar la existencia de la figura del archivo central y del intermedio es contrario al art. 4 del RD 1708/2011, que los enumera expresamente. D la antigüedad de los fondos no determina la pertenencia al sistema de la AGE; los archivos de gestión, que contienen documentos recientísimos, también pertenecen al sistema.",
+    "norma": "Real Decreto 1708/2011, Sistema Español de Archivos",
+    "articulo": "4"
+  },
+  {
+    "id": "B2T25-009",
+    "bloque": 2,
+    "tema": 25,
+    "test": 25,
+    "dificultad": "media",
+    "pregunta": "¿Cuál es la función de la Comisión Superior Calificadora de Documentos Administrativos y a qué Ministerio está adscrita?",
+    "opciones": {
+      "A": "Es el órgano encargado de gestionar el acceso de los ciudadanos al Patrimonio Documental; está adscrita al Ministerio del Interior.",
+      "B": "Es el órgano colegiado que dictamina sobre las propuestas de valoración, selección y régimen de acceso a los documentos de la Administración General del Estado, aprobando las tablas de valoración documental; está adscrita al Ministerio de Cultura.",
+      "C": "Es el órgano que fija los plazos de conservación obligatoria de los documentos privados; está adscrita al Ministerio de Justicia.",
+      "D": "Es el tribunal administrativo que resuelve los recursos de los ciudadanos contra las denegaciones de acceso a los archivos públicos; está adscrita al Ministerio de Hacienda."
+    },
+    "correcta": "B",
+    "explicacion": "La Comisión Superior Calificadora de Documentos Administrativos es el órgano superior del sistema de valoración documental de la AGE. Su función es dictaminar sobre las propuestas de valoración, selección y régimen de acceso a los documentos formuladas por las Comisiones Calificadoras de cada departamento ministerial. En la práctica, aprueba las tablas de valoración documental, que determinan qué series documentales pueden eliminarse (con o sin muestreo), cuáles deben conservarse indefinidamente y durante cuánto tiempo. Está adscrita al Ministerio de Cultura (actualmente Ministerio de Cultura y Deporte), que tiene la competencia estatal en materia de archivos y patrimonio documental.",
+    "why": "A la gestión del acceso ciudadano no es la función principal de la Comisión Superior Calificadora; su cometido es la valoración y selección, y no depende del Ministerio del Interior. C los plazos de conservación de documentos privados no son competencia de este órgano, ni de Justicia; la Comisión se centra en documentos de la AGE. D la Comisión Superior Calificadora no resuelve recursos de ciudadanos ni depende de Hacienda; sus dictámenes son técnicos y tienen efectos sobre el ciclo documental de la AGE.",
+    "norma": "Real Decreto 1708/2011, Sistema Español de Archivos",
+    "articulo": "18"
+  },
+  {
+    "id": "B2T25-010",
+    "bloque": 2,
+    "tema": 25,
+    "test": 25,
+    "dificultad": "media",
+    "pregunta": "¿Cuáles son los plazos de restricción de acceso que establece el art. 57 de la Ley 16/1985 para los documentos que contengan datos personales sensibles?",
+    "opciones": {
+      "A": "Cincuenta años desde la producción del documento, con independencia de si el afectado ha fallecido.",
+      "B": "Veinticinco años desde el fallecimiento del afectado (si la fecha de su muerte es conocida) o, en caso contrario, cincuenta años desde la fecha del documento.",
+      "C": "Setenta y cinco años desde la producción del documento, sin posibilidad de acceso anticipado.",
+      "D": "Solo se restringe el acceso si el afectado ha presentado una solicitud formal de protección al Archivo; en caso contrario, son de libre consulta."
+    },
+    "correcta": "B",
+    "explicacion": "El art. 57.1.c LPH establece que los documentos que contengan datos personales de carácter policial, procesal, clínico o de cualquier otra índole que puedan afectar a la seguridad de las personas, a su honor, a la intimidad de su vida privada y familiar y a su propia imagen, no podrán ser públicamente consultados sin consentimiento expreso del afectado o hasta que haya transcurrido un plazo de veinticinco años desde su muerte (si la fecha es conocida) o, en caso contrario, de cincuenta años a partir de la fecha del documento. El consentimiento expreso del afectado siempre abre el acceso antes de que venza el plazo.",
+    "why": "A el plazo de cincuenta años se aplica solo cuando se ignora la fecha de muerte del afectado; si se conoce la fecha de fallecimiento, el plazo es de veinticinco años desde entonces. C setenta y cinco años no es el plazo establecido en el art. 57 LPH; los plazos son de veinticinco o cincuenta años según el conocimiento o no de la fecha de muerte. D la restricción no requiere una solicitud previa del afectado; opera automáticamente por disposición de la ley para proteger la intimidad personal.",
+    "norma": "Ley 16/1985, del Patrimonio Histórico Español",
+    "articulo": "57"
+  },
+  {
+    "id": "B2T25-011",
+    "bloque": 2,
+    "tema": 25,
+    "test": 25,
+    "dificultad": "media",
+    "pregunta": "¿A partir de qué plazo deben los archivos centrales de los departamentos ministeriales transferir su documentación al Archivo General de la Administración?",
+    "opciones": {
+      "A": "Cuando los documentos tienen más de cinco años de antigüedad desde su producción.",
+      "B": "Cuando han transcurrido más de quince años desde la tramitación de los documentos y la Comisión Calificadora no ha determinado su eliminación ni su conservación en el archivo central.",
+      "C": "Cuando los documentos alcanzan cincuenta años de antigüedad desde que ingresaron en el archivo central.",
+      "D": "La transferencia al AGA es siempre voluntaria; los archivos centrales pueden optar por conservar indefinidamente sus fondos."
+    },
+    "correcta": "B",
+    "explicacion": "El RD 1708/2011 establece que la permanencia en los archivos centrales de los departamentos ministeriales no puede exceder de quince años a contar desde la tramitación de los documentos. Transcurrido ese plazo, los documentos que no hayan sido objeto de una tabla de valoración aprobada que autorice su eliminación o determine su conservación en el archivo central deben ser transferidos al Archivo General de la Administración en Alcalá de Henares. Este límite temporal garantiza que el AGA recibe regularmente fondos y que los archivos centrales no acumulan indefinidamente documentación de valor secundario.",
+    "why": "A cinco años es el plazo orientativo para la primera transferencia (del archivo de gestión al archivo central), no para la transferencia al AGA. C el plazo de cincuenta años en el archivo central no está establecido en el RD 1708/2011; el límite es de quince años desde la tramitación de los documentos. D la transferencia al AGA no es voluntaria; el RD 1708/2011 establece la obligación de transferencia al concluir el plazo máximo de permanencia en el archivo central.",
+    "norma": "Real Decreto 1708/2011, Sistema Español de Archivos",
+    "articulo": "14"
+  },
+  {
+    "id": "B2T25-012",
+    "bloque": 2,
+    "tema": 25,
+    "test": 25,
+    "dificultad": "media",
+    "pregunta": "¿Qué son las tablas de valoración documental y qué determinan?",
+    "opciones": {
+      "A": "Son las listas de precios que los archivos cobran a los investigadores por la reproducción de documentos.",
+      "B": "Son instrumentos técnicos que, para cada serie documental, determinan el valor administrativo, legal, informativo e histórico de los documentos y fijan su período de conservación, así como si pueden eliminarse (con o sin muestreo) o deben conservarse permanentemente.",
+      "C": "Son los catálogos donde los archivos describen uno a uno todos los documentos que custodian.",
+      "D": "Son los formularios estándar que los funcionarios utilizan para producir documentos administrativos de uso corriente."
+    },
+    "correcta": "B",
+    "explicacion": "Las tablas de valoración documental son el resultado del proceso de valoración archivística: determinan para cada serie documental (conjunto de documentos producidos en serie por una misma función o actividad) cuál es su valor administrativo, legal, informativo e histórico, y cuál debe ser su destino final. Las opciones son: conservación permanente (cuando tienen valor histórico o son testimonio irrepetible de la actuación pública), eliminación total o eliminación con muestreo (conservando una parte representativa), o transferencia al archivo histórico. Las tablas son aprobadas por la Comisión Superior Calificadora de Documentos Administrativos antes de que puedan aplicarse.",
+    "why": "A los precios de reproducción son tarifas de los servicios de los archivos, sin relación con la valoración documental. C los catálogos son instrumentos de descripción archivística que describen documentos ya existentes en el archivo; las tablas de valoración determinan el destino futuro de series todavía en activo. D los formularios son instrumentos de producción documental; las tablas de valoración son instrumentos de selección y conservación, conceptos completamente diferentes.",
+    "norma": "Real Decreto 1708/2011, Sistema Español de Archivos",
+    "articulo": "18 y 19"
+  },
+  {
+    "id": "B2T25-013",
+    "bloque": 2,
+    "tema": 25,
+    "test": 25,
+    "dificultad": "media",
+    "pregunta": "¿Qué régimen especial de acceso se aplica a los documentos declarados secretos o reservados en los archivos públicos?",
+    "opciones": {
+      "A": "Los documentos clasificados son de libre acceso para cualquier ciudadano que acredite un interés legítimo.",
+      "B": "Los documentos clasificados como secretos o reservados conforme a la Ley de Secretos Oficiales (Ley 9/1968) solo son accesibles una vez transcurridos los plazos o cuando sean desclasificados por el Consejo de Ministros.",
+      "C": "Los documentos clasificados pueden consultarse previa autorización del Ministerio del Interior, sin límite temporal.",
+      "D": "Los documentos clasificados como secretos prescriptivamente quedan destruidos tras cincuenta años, sin posibilidad de acceso posterior."
+    },
+    "correcta": "B",
+    "explicacion": "El art. 57.1.a LPH establece que los documentos que afecten a materias clasificadas de acuerdo con la Ley de Secretos Oficiales no son de libre consulta. La Ley 9/1968, de Secretos Oficiales, regula la clasificación de documentos como secretos o reservados por razones de seguridad nacional. El acceso a estos documentos solo procede cuando son desclasificados mediante acuerdo del Consejo de Ministros, o cuando ha transcurrido el plazo que en su caso establezca la propia normativa de secretos. La desclasificación puede ser total o parcial y abre los fondos a la investigación histórica.",
+    "why": "A el interés legítimo no es suficiente para acceder a documentos clasificados; la clasificación crea una restricción absoluta hasta la desclasificación o el vencimiento del plazo. C la autorización del Ministerio del Interior no es el mecanismo previsto; la desclasificación es competencia del Consejo de Ministros, no de un ministerio sectorial. D los documentos clasificados no se destruyen automáticamente; una vez desclasificados forman parte del patrimonio documental disponible para la investigación histórica.",
+    "norma": "Ley 16/1985, del Patrimonio Histórico Español",
+    "articulo": "57"
+  },
+  {
+    "id": "B2T25-014",
+    "bloque": 2,
+    "tema": 25,
+    "test": 25,
+    "dificultad": "media",
+    "pregunta": "¿En qué consiste el principio de procedencia en archivística y qué prohíbe?",
+    "opciones": {
+      "A": "Consiste en conservar los documentos en el lugar geográfico donde fueron producidos, sin posibilidad de trasladarlos a otro archivo.",
+      "B": "Exige respetar el origen de los documentos, conservando juntos los fondos producidos por cada entidad o persona sin mezclarlos con los de otros productores distintos; prohíbe la dispersión de fondos y la formación de colecciones artificiales.",
+      "C": "Determina que los documentos más antiguos deben conservarse en mejores condiciones que los recientes.",
+      "D": "Obliga a que todos los documentos de un mismo período cronológico estén reunidos en el mismo archivo, con independencia de quién los produjo."
+    },
+    "correcta": "B",
+    "explicacion": "El principio de procedencia (también llamado respeto des fonds en la tradición francesa) es el principio fundamental de la archivística moderna: los documentos producidos, recibidos o acumulados por una institución o persona en el ejercicio de sus funciones deben conservarse juntos, formando un fondo homogéneo, sin mezclarse con los de otra institución o persona. El principio prohíbe la formación de colecciones artificiales (reunir documentos de distintas procedencias en función de criterios temáticos o cronológicos) porque destruye la información contextual y la cadena de evidencia que da sentido a los documentos en relación con su productor.",
+    "why": "A el principio de procedencia no se refiere a la localización geográfica del archivo; un fondo documental puede ser transferido y continuar conservándose respetando su procedencia. C la antigüedad de los documentos no determina la jerarquía de conservación; el principio de procedencia organiza los fondos por su origen institucional o personal. D el criterio cronológico es contrario al principio de procedencia; este agrupa los documentos por su productor, no por su fecha.",
+    "norma": "Real Decreto 1708/2011, Sistema Español de Archivos",
+    "articulo": "1"
+  },
+  {
+    "id": "B2T25-015",
+    "bloque": 2,
+    "tema": 25,
+    "test": 25,
+    "dificultad": "media",
+    "pregunta": "¿Cuáles son los principales instrumentos de descripción archivística y qué nivel de detalle ofrece cada uno?",
+    "opciones": {
+      "A": "El único instrumento de descripción reconocido es el catálogo; los demás tienen carácter meramente informativo.",
+      "B": "La guía describe el conjunto del archivo o sus grandes bloques de fondos; el inventario describe las series documentales; el catálogo describe unidades documentales individuales; y el índice es un listado de términos que remite a unidades descriptivas.",
+      "C": "El inventario describe el fondo completo de forma general; la guía es el instrumento más detallado que describe cada documento individualmente.",
+      "D": "La guía y el inventario son sinónimos; el catálogo es el único instrumento con validez legal ante los tribunales."
+    },
+    "correcta": "B",
+    "explicacion": "La archivística establece una jerarquía de instrumentos de descripción en función del nivel de detalle: la guía ofrece una descripción general del archivo o de sus principales bloques de fondos, orientando al investigador sobre qué puede encontrar; el inventario describe las series documentales, permitiendo la localización de conjuntos de expedientes; el catálogo desciende al nivel de la unidad documental (expediente, documento suelto), siendo el instrumento más detallado; y el índice es una herramienta auxiliar que lista términos (nombres, lugares, fechas, materias) con remisión a las unidades descriptivas correspondientes. La norma internacional ISAD(G) proporciona el marco para la descripción en múltiples niveles.",
+    "why": "A la pluralidad de instrumentos de descripción es consustancial a la archivística profesional; el catálogo es el más detallado pero no el único reconocido. C la inversión de la jerarquía es incorrecta; la guía es el instrumento más general, no el más detallado. D guía e inventario describen diferentes niveles (general vs. series) y no son sinónimos; el catálogo no tiene una validez legal especial frente a los demás instrumentos.",
+    "norma": "Real Decreto 1708/2011, Sistema Español de Archivos",
+    "articulo": "1"
+  },
+  {
+    "id": "B2T25-016",
+    "bloque": 2,
+    "tema": 25,
+    "test": 25,
+    "dificultad": "media",
+    "pregunta": "¿A partir de qué antigüedad los documentos generados por entidades privadas (asociaciones políticas, sindicales y religiosas) forman parte del Patrimonio Documental según el art. 49 de la Ley 16/1985?",
+    "opciones": {
+      "A": "Desde su producción, igual que los documentos de las Administraciones Públicas.",
+      "B": "A partir de cuarenta años de antigüedad para los documentos de entidades y asociaciones de carácter político, sindical o religioso, y a partir de cien años para el resto de entidades o personas privadas.",
+      "C": "A partir de setenta y cinco años de antigüedad para todos los documentos privados, con independencia de la naturaleza de la entidad.",
+      "D": "Nunca; los documentos privados no pueden integrar el Patrimonio Documental Español al ser propiedad de sus titulares."
+    },
+    "correcta": "B",
+    "explicacion": "El art. 49.2 LPH distingue dos umbrales de antigüedad para los documentos del sector privado: (a) los documentos con antigüedad superior a cuarenta años generados por entidades y asociaciones de carácter político, sindical o religioso integran el Patrimonio Documental por su relevancia social e histórica; (b) los documentos con antigüedad superior a cien años generados por cualesquiera otras entidades particulares o personas físicas también forman parte del Patrimonio Documental. Estos umbrales son más elevados que el de los documentos públicos (que integran el Patrimonio desde su producción) porque los documentos privados tienen un nivel de tutela pública menor.",
+    "why": "A la integración inmediata desde la producción se aplica solo a los documentos de las AAPP y entidades en cuyo capital participe mayoritariamente el sector público; los documentos privados requieren el transcurso de los plazos del art. 49.2. C el umbral de setenta y cinco años no existe en el art. 49 LPH; los plazos son de cuarenta y cien años para las categorías respectivas. D los documentos privados pueden integrar el Patrimonio Documental cuando alcanzan la antigüedad legal establecida; la propiedad privada no excluye la protección del patrimonio histórico.",
+    "norma": "Ley 16/1985, del Patrimonio Histórico Español",
+    "articulo": "49.2"
+  },
+  {
+    "id": "B2T25-017",
+    "bloque": 2,
+    "tema": 25,
+    "test": 25,
+    "dificultad": "dificil",
+    "pregunta": "¿Qué diferencia existe en archivística entre un fondo documental y una colección?",
+    "opciones": {
+      "A": "Un fondo es un grupo de documentos con más de cien años de antigüedad; una colección es un grupo de documentos más recientes.",
+      "B": "Un fondo es el conjunto orgánico de documentos producidos o recibidos por una institución o persona en el ejercicio de sus funciones, organizados según el principio de procedencia; una colección es una agrupación artificial de documentos de distintas procedencias reunidos en torno a un criterio común (temático, cronológico o de formato).",
+      "C": "Fondo y colección son términos sinónimos en la archivística española moderna.",
+      "D": "Un fondo está siempre custodiado por un archivo público; una colección solo puede existir en archivos privados."
+    },
+    "correcta": "B",
+    "explicacion": "La distinción entre fondo y colección es fundamental en archivística. El fondo es la unidad básica de organización: agrupa los documentos producidos o acumulados por un único productor (institución, organismo o persona) en el ejercicio de sus funciones, respetando el principio de procedencia, y refleja la actividad orgánica de ese productor. La colección, en cambio, es una agrupación artificial o facticia: reúne documentos de procedencias distintas en función de un criterio temático, cronológico, geográfico o formal, sin respetar la vinculación orgánica de los documentos con su productor. Mientras el fondo tiene una coherencia interna orgánica, la colección tiene coherencia externa temática.",
+    "why": "A la antigüedad no es el criterio diferenciador entre fondo y colección; ambos pueden incluir documentos de cualquier época. C los conceptos son claramente distintos en la archivística moderna: el fondo respeta la procedencia, la colección la rompe artificialmente. D la titularidad pública o privada no determina si el conjunto es un fondo o una colección; pueden existir colecciones en archivos públicos y fondos en archivos privados.",
+    "norma": "Real Decreto 1708/2011, Sistema Español de Archivos",
+    "articulo": "1"
+  },
+  {
+    "id": "B2T25-018",
+    "bloque": 2,
+    "tema": 25,
+    "test": 25,
+    "dificultad": "dificil",
+    "pregunta": "¿Cuál es el papel del Archivo Histórico Nacional en el Sistema de Archivos de la Administración General del Estado?",
+    "opciones": {
+      "A": "Es el archivo intermedio de la AGE y recibe los fondos de los archivos centrales de los ministerios cada quince años.",
+      "B": "Es el principal archivo histórico de titularidad estatal con sede en Madrid; conserva documentación de instituciones medievales y modernas del Estado, órdenes religiosas desamortizadas, fondos inquisitoriales y fondos contemporáneos de la AGE con valor histórico permanente.",
+      "C": "Es el archivo que exclusivamente custodia los protocolos notariales de más de cien años de los notarios de Madrid.",
+      "D": "Es un archivo de gestión especializado en documentos clasificados; no está abierto al público en general."
+    },
+    "correcta": "B",
+    "explicacion": "El Archivo Histórico Nacional (AHN), con sede en Madrid (calle Serrano, 115), es el principal archivo histórico de titularidad y gestión estatal del Sistema de Archivos de la AGE. Conserva fondos de enorme riqueza: documentación de las instituciones de la Corona castellana y aragonesa (Consejos, Chancillerías), fondos de las órdenes religiosas procedentes de la desamortización del siglo XIX (Clero), fondos del Tribunal de la Inquisición, documentación contemporánea de ministerios y organismos de la AGE una vez concluida su permanencia en el AGA, y colecciones privadas de interés histórico. El AHN es distinto del Archivo General de la Administración (en Alcalá de Henares), que es el archivo intermedio.",
+    "why": "A el archivo intermedio de la AGE es el Archivo General de la Administración (Alcalá de Henares), no el AHN. C los protocolos notariales históricos de Madrid se custodian en el Archivo Histórico de Protocolos Notariales de Madrid, no en el AHN; los fondos del AHN son mucho más amplios y diversos. D el AHN es un archivo histórico público, abierto a investigadores; no es un archivo de documentos clasificados ni de gestión.",
+    "norma": "Real Decreto 1708/2011, Sistema Español de Archivos",
+    "articulo": "15"
+  },
+  {
+    "id": "B2T25-019",
+    "bloque": 2,
+    "tema": 25,
+    "test": 25,
+    "dificultad": "dificil",
+    "pregunta": "¿Qué diferencia existe entre las Comisiones Calificadoras de Documentos Administrativos de cada departamento y la Comisión Superior Calificadora en el proceso de valoración de la AGE?",
+    "opciones": {
+      "A": "Son el mismo órgano con distintas denominaciones; la Comisión Superior Calificadora es solo el nombre formal de las comisiones departamentales.",
+      "B": "Las Comisiones Calificadoras departamentales analizan y proponen las tablas de valoración de sus propias series documentales; la Comisión Superior Calificadora dictamina y aprueba definitivamente esas propuestas con carácter vinculante para toda la AGE.",
+      "C": "Las Comisiones Calificadoras solo actúan en el ámbito autonómico; la Comisión Superior Calificadora es competente exclusivamente para los documentos de las CCAA.",
+      "D": "La Comisión Superior Calificadora solo interviene cuando se trata de documentos con más de cien años de antigüedad; para el resto actúan solo las comisiones departamentales."
+    },
+    "correcta": "B",
+    "explicacion": "El proceso de valoración documental en la AGE es de dos niveles. Las Comisiones Calificadoras de Documentos Administrativos de cada departamento ministerial u organismo son los órganos de primer nivel: analizan las series documentales de su ámbito, determinan sus valores (administrativo, legal, informativo, histórico) y proponen las tablas de valoración que determinarán si esos documentos pueden eliminarse, muestrearse o deben conservarse permanentemente. La Comisión Superior Calificadora de Documentos Administrativos, adscrita al Ministerio de Cultura, es el órgano de segundo nivel: recibe las propuestas de las comisiones departamentales, las dictamina y, si las aprueba, estas adquieren carácter definitivo y pueden aplicarse.",
+    "why": "A son órganos distintos con funciones claramente diferenciadas: las departamentales proponen y la Superior dictamina y aprueba. C las comisiones calificadoras de la AGE actúan en el ámbito estatal, no autonómico; las CCAA tienen sus propios órganos de valoración. D la antigüedad del documento no determina qué nivel de comisión interviene; la Superior actúa sobre cualquier propuesta formulada por las departamentales con independencia de la edad de los documentos.",
+    "norma": "Real Decreto 1708/2011, Sistema Español de Archivos",
+    "articulo": "18 y 19"
+  },
+  {
+    "id": "B2T25-020",
+    "bloque": 2,
+    "tema": 25,
+    "test": 25,
+    "dificultad": "dificil",
+    "pregunta": "¿Qué obligación impone la Ley 16/1985 a quienes pretendan exportar al extranjero bienes integrantes del Patrimonio Documental Español?",
+    "opciones": {
+      "A": "La exportación de documentos del Patrimonio Documental es libre; los propietarios privados pueden vender sus fondos a archivos extranjeros sin restricción.",
+      "B": "La exportación de bienes del Patrimonio Histórico Español, incluidos los documentos del Patrimonio Documental, está sometida a la autorización previa de la Administración y, en los casos previstos en la ley, queda prohibida; el Estado tiene derecho de tanteo y retracto en las transmisiones onerosas.",
+      "C": "La exportación solo requiere declaración en la aduana, sin necesidad de autorización administrativa previa.",
+      "D": "Los documentos del Patrimonio Documental pueden exportarse libremente si son préstamos temporales para exposiciones internacionales, sin ninguna restricción adicional."
+    },
+    "correcta": "B",
+    "explicacion": "La Ley 16/1985 somete los bienes del Patrimonio Histórico Español a un régimen de control de la exportación. El art. 5 LPH establece que la exportación de bienes integrantes del Patrimonio Histórico Español está sujeta a autorización administrativa previa. Para determinadas categorías de bienes (declarados de Interés Cultural o incluidos en el Inventario General), la exportación puede quedar prohibida. En las transmisiones onerosas de estos bienes, la Administración del Estado y las CCAA tienen derecho de tanteo (preferencia en la adquisición al mismo precio) y retracto (adquisición con posterioridad si no se ejerció el tanteo). Estas medidas buscan evitar la salida del patrimonio documental español al extranjero.",
+    "why": "A la libertad de exportación sin restricciones sería contraria a los arts. 5 y 34 LPH, que someten la exportación de bienes del Patrimonio Histórico a autorización y establecen derechos de tanteo y retracto. C la mera declaración aduanera no sustituye la autorización administrativa previa exigida por la LPH; sin dicha autorización, la exportación es ilegal. D los préstamos temporales para exposiciones internacionales también están sujetos a autorización y a condiciones específicas de garantías de seguridad y retorno; no son libres.",
+    "norma": "Ley 16/1985, del Patrimonio Histórico Español",
+    "articulo": "5 y 34"
+  }
+]
