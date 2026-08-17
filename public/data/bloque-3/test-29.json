@@ -1,0 +1,382 @@
+[
+  {
+    "id": "B3T29-001",
+    "bloque": 3,
+    "tema": 29,
+    "test": 29,
+    "dificultad": "facil",
+    "pregunta": "¿Cuál de los siguientes derechos individuales reconocidos en el art. 14 del TREBEP es exclusivo de los funcionarios de carrera?",
+    "opciones": {
+      "A": "El derecho a la formación continua y a la actualización permanente de sus conocimientos.",
+      "B": "El derecho a la inamovilidad en la condición de funcionario de carrera.",
+      "C": "El derecho a percibir las retribuciones y las indemnizaciones por razón del servicio.",
+      "D": "El derecho a la protección eficaz en materia de seguridad y salud en el trabajo."
+    },
+    "correcta": "B",
+    "explicacion": "El art. 14.a TREBEP reconoce como derecho individual de los empleados públicos 'la inamovilidad en la condición de funcionario de carrera'. Este derecho es exclusivo de los funcionarios de carrera, ya que su vínculo con la Administración es estatutario y permanente: no pueden ser cesados discrecionalmente. La inamovilidad no significa que no puedan ser sancionados o separados del servicio por causas previstas en la ley (régimen disciplinario, inhabilitación, etc.), sino que el cese libre y arbitrario está prohibido. Los derechos de los apartados A, C y D del art. 14 son extensibles al conjunto de los empleados públicos, sin distinción entre funcionarios y personal laboral.",
+    "why": "A, C y D son derechos que el art. 14 reconoce a todos los empleados públicos, no solo a los funcionarios de carrera. La inamovilidad es el derecho que refleja la estabilidad propia de la relación funcionarial, opuesta a la libre rescisión contractual del personal laboral.",
+    "norma": "Real Decreto Legislativo 5/2015, Texto Refundido del Estatuto Básico del Empleado Público (TREBEP)",
+    "articulo": "14.a"
+  },
+  {
+    "id": "B3T29-002",
+    "bloque": 3,
+    "tema": 29,
+    "test": 29,
+    "dificultad": "facil",
+    "pregunta": "¿Cuáles son las retribuciones básicas de los funcionarios de carrera según el art. 22 del TREBEP?",
+    "opciones": {
+      "A": "El complemento de destino, el complemento específico y las pagas extraordinarias.",
+      "B": "El sueldo, los trienios y las pagas extraordinarias.",
+      "C": "El sueldo, el complemento de productividad y las gratificaciones por servicios extraordinarios.",
+      "D": "Los trienios, el complemento específico y las indemnizaciones por razón del servicio."
+    },
+    "correcta": "B",
+    "explicacion": "El art. 22 TREBEP distingue dentro de las retribuciones de los funcionarios entre retribuciones básicas y complementarias. Las retribuciones básicas son tres: (1) el sueldo, asignado a cada grupo o subgrupo de clasificación profesional (A1, A2, B, C1, C2); es igual para todos los funcionarios del mismo grupo con independencia del puesto; (2) los trienios, que consisten en una cantidad fija por cada tres años de servicios prestados en el mismo grupo o subgrupo; y (3) las pagas extraordinarias, que son dos al año y comprenden, como mínimo, una mensualidad de sueldo y trienios. Las retribuciones complementarias (complemento de destino, específico, productividad y gratificaciones) se regulan en el art. 23.",
+    "why": "A el complemento de destino y el complemento específico son retribuciones complementarias (art. 23), no básicas. C el complemento de productividad y las gratificaciones son retribuciones complementarias; el sueldo sí es básico, pero las otras dos son complementarias. D los trienios son básicos, pero el complemento específico y las indemnizaciones son conceptos distintos.",
+    "norma": "Real Decreto Legislativo 5/2015, Texto Refundido del Estatuto Básico del Empleado Público (TREBEP)",
+    "articulo": "22"
+  },
+  {
+    "id": "B3T29-003",
+    "bloque": 3,
+    "tema": 29,
+    "test": 29,
+    "dificultad": "facil",
+    "pregunta": "¿Cuáles son los derechos individuales ejercidos colectivamente que reconoce el art. 15 del TREBEP a los empleados públicos?",
+    "opciones": {
+      "A": "La inamovilidad, el derecho a percibir retribuciones y el derecho a la jubilación.",
+      "B": "La libertad sindical, la negociación colectiva y la participación en la determinación de las condiciones de trabajo, el ejercicio de la huelga, el planteamiento de conflictos colectivos y el derecho de reunión.",
+      "C": "La formación continua, la protección en materia de salud laboral y el acceso al turno de promoción interna.",
+      "D": "El derecho a elegir representantes sindicales y a no afiliarse a ningún sindicato, pero sin derecho a la huelga en el empleo público."
+    },
+    "correcta": "B",
+    "explicacion": "El art. 15 TREBEP regula los derechos individuales de los empleados públicos ejercidos colectivamente, que son: (a) la libertad sindical; (b) la negociación colectiva y la participación en la determinación de las condiciones de trabajo; (c) el ejercicio de la huelga, con el mantenimiento de los servicios esenciales; (d) el planteamiento de conflictos colectivos de trabajo, de acuerdo con la legislación aplicable; y (e) el de reunión, en los términos establecidos en el art. 46 TREBEP. Estos derechos tienen rango constitucional (arts. 28 y 37 CE) y su régimen específico en el empleo público se desarrolla en la Ley Orgánica 11/1985 de Libertad Sindical (LOLS) y en la normativa de negociación colectiva del sector público.",
+    "why": "A la inamovilidad y las retribuciones son derechos individuales del art. 14, no derechos colectivos. C la formación continua y la salud laboral son derechos individuales del art. 14; el turno de promoción interna es un mecanismo de carrera profesional. D el derecho a la huelga sí está reconocido en el art. 15 para los empleados públicos, con las limitaciones propias de los servicios esenciales.",
+    "norma": "Real Decreto Legislativo 5/2015, Texto Refundido del Estatuto Básico del Empleado Público (TREBEP)",
+    "articulo": "15"
+  },
+  {
+    "id": "B3T29-004",
+    "bloque": 3,
+    "tema": 29,
+    "test": 29,
+    "dificultad": "facil",
+    "pregunta": "¿Qué retribuye el complemento de destino como retribución complementaria de los funcionarios?",
+    "opciones": {
+      "A": "Las condiciones del puesto de trabajo, como la penosidad, peligrosidad o especial responsabilidad.",
+      "B": "El rendimiento o los resultados obtenidos por el funcionario en el desempeño de sus funciones.",
+      "C": "El nivel del puesto de trabajo desempeñado dentro de la estructura de la carrera profesional.",
+      "D": "Los servicios extraordinarios realizados fuera de la jornada laboral ordinaria."
+    },
+    "correcta": "C",
+    "explicacion": "El complemento de destino retribuye el nivel del puesto de trabajo que ocupa el funcionario. En la Administración General del Estado, los puestos se clasifican en niveles del 1 al 30, siendo el 30 el de mayor nivel. A mayor nivel del puesto, mayor complemento de destino. Este complemento está ligado a la progresión en la carrera profesional del funcionario: conforme asciende de nivel dentro de la estructura de puestos, el complemento de destino aumenta. Todos los funcionarios que ocupan un puesto del mismo nivel reciben el mismo complemento de destino, con independencia del cuerpo o escala al que pertenezcan. El TREBEP (art. 23 y 24.a) vincula el complemento de destino a la progresión en la carrera administrativa.",
+    "why": "A las condiciones del puesto (penosidad, peligrosidad, dedicación, incompatibilidad) se retribuyen a través del complemento específico. B el rendimiento y los resultados son el objeto del complemento de productividad. D los servicios extraordinarios fuera de jornada se retribuyen mediante las gratificaciones, que no pueden ser fijas ni periódicas.",
+    "norma": "Real Decreto Legislativo 5/2015, Texto Refundido del Estatuto Básico del Empleado Público (TREBEP)",
+    "articulo": "23 y 24"
+  },
+  {
+    "id": "B3T29-005",
+    "bloque": 3,
+    "tema": 29,
+    "test": 29,
+    "dificultad": "facil",
+    "pregunta": "¿Cuántos días hábiles de vacaciones anuales retribuidas tienen derecho a disfrutar los funcionarios de carrera según el art. 50 del TREBEP?",
+    "opciones": {
+      "A": "Veinte días hábiles, ampliables en función de la antigüedad.",
+      "B": "Veintidós días hábiles al año, o los días proporcionales si el tiempo de servicio durante el año fuese menor.",
+      "C": "Treinta días naturales, sin posibilidad de reducción proporcional.",
+      "D": "Cuatro semanas naturales, que pueden sustituirse por compensación económica si el funcionario así lo solicita."
+    },
+    "correcta": "B",
+    "explicacion": "El art. 50 TREBEP establece que los funcionarios de carrera tendrán derecho a disfrutar durante cada año natural de unas vacaciones retribuidas de veintidós días hábiles, o de los días que correspondan proporcionalmente si el tiempo de servicio durante el año fuese menor. Las vacaciones no pueden, en ningún caso, sustituirse por compensaciones económicas, salvo en el supuesto de finalización de la relación de servicio. Si por necesidades del servicio no se pudieran disfrutar en el año natural correspondiente, podrán hacerlo dentro del primer semestre del año siguiente. Adicionalmente, por antigüedad, los acuerdos de negociación colectiva suelen añadir días extra.",
+    "why": "A los veinte días no es el número que fija el art. 50 TREBEP; son veintidós días hábiles. C el art. 50 habla de días hábiles, no de días naturales; además, el TREBEP no fija treinta días. D el TREBEP prohíbe expresamente sustituir las vacaciones por compensación económica salvo en caso de cese o finalización de la relación de servicio.",
+    "norma": "Real Decreto Legislativo 5/2015, Texto Refundido del Estatuto Básico del Empleado Público (TREBEP)",
+    "articulo": "50"
+  },
+  {
+    "id": "B3T29-006",
+    "bloque": 3,
+    "tema": 29,
+    "test": 29,
+    "dificultad": "facil",
+    "pregunta": "¿Cuántos días de permiso por matrimonio o pareja de hecho reconoce el art. 48 del TREBEP a los funcionarios?",
+    "opciones": {
+      "A": "Siete días naturales.",
+      "B": "Diez días hábiles.",
+      "C": "Quince días naturales.",
+      "D": "Un mes natural."
+    },
+    "correcta": "C",
+    "explicacion": "El art. 48.a TREBEP reconoce a los funcionarios un permiso de quince días naturales por razón de matrimonio o registro de pareja de hecho. Este permiso puede disfrutarse a partir del día en que se celebra el matrimonio o se inscribe la pareja de hecho y puede distribuirse antes y después de ese evento según las necesidades del funcionario. Tiene la naturaleza de un permiso retribuido, lo que significa que el funcionario percibe íntegramente sus retribuciones durante ese período. La normativa de muchas CCAA y la negociación colectiva pueden prever condiciones más favorables.",
+    "why": "A siete días es el permiso que suele reconocerse para bodas de familiares en algunos convenios colectivos privados, pero no el que fija el TREBEP por matrimonio propio. B el TREBEP usa días naturales (no hábiles) para el permiso por matrimonio; el número correcto es quince, no diez. D un mes completo excede lo previsto en el art. 48.a; es el permiso por nacimiento de hijo o adopción el que puede alcanzar varias semanas.",
+    "norma": "Real Decreto Legislativo 5/2015, Texto Refundido del Estatuto Básico del Empleado Público (TREBEP)",
+    "articulo": "48.a"
+  },
+  {
+    "id": "B3T29-007",
+    "bloque": 3,
+    "tema": 29,
+    "test": 29,
+    "dificultad": "media",
+    "pregunta": "¿Cuál es la diferencia esencial entre el complemento específico y el complemento de productividad como retribuciones complementarias de los funcionarios?",
+    "opciones": {
+      "A": "El complemento específico es individual y varía mensualmente; el complemento de productividad es igual para todos los funcionarios del mismo nivel.",
+      "B": "El complemento específico retribuye las condiciones particulares del puesto de trabajo (penosidad, responsabilidad, dedicación, incompatibilidad); el complemento de productividad retribuye el rendimiento, la iniciativa y los resultados individuales del funcionario en el desempeño del puesto.",
+      "C": "El complemento específico se percibe durante las vacaciones; el complemento de productividad se suspende en períodos de incapacidad temporal.",
+      "D": "No hay diferencia práctica; ambos se asignan en función de las características del puesto y no del rendimiento del funcionario."
+    },
+    "correcta": "B",
+    "explicacion": "El complemento específico (art. 23 y 24.b TREBEP) retribuye las características propias del puesto de trabajo: su especial dificultad técnica, responsabilidad, dedicación, incompatibilidad exigible o las condiciones en que se desarrolla el trabajo (penosidad, peligrosidad, nocturnidad, etc.). Es un complemento vinculado al puesto, no a la persona: todos los titulares del mismo puesto perciben el mismo complemento específico. Solo puede fijarse un complemento específico por puesto. El complemento de productividad (art. 23 y 24.c TREBEP), en cambio, retribuye el rendimiento individual del funcionario: el grado de interés, iniciativa, esfuerzo y los resultados obtenidos. Es variable y puede diferir entre funcionarios que ocupen el mismo puesto.",
+    "why": "A el complemento específico no varía mensualmente; está vinculado al puesto y es relativamente estable. El complemento de productividad sí puede variar porque depende de la evaluación del rendimiento individual. C los complementos se perciben o suspenden según las normas aplicables, pero esta no es la distinción esencial entre ambos. D hay una diferencia fundamental: el específico depende del puesto; el de productividad depende del rendimiento personal del funcionario.",
+    "norma": "Real Decreto Legislativo 5/2015, Texto Refundido del Estatuto Básico del Empleado Público (TREBEP)",
+    "articulo": "23 y 24"
+  },
+  {
+    "id": "B3T29-008",
+    "bloque": 3,
+    "tema": 29,
+    "test": 29,
+    "dificultad": "media",
+    "pregunta": "¿Cuáles son las características esenciales de las gratificaciones por servicios extraordinarios que prohíbe el TREBEP?",
+    "opciones": {
+      "A": "Las gratificaciones deben ser fijas y mensuales para garantizar la previsibilidad retributiva del funcionario.",
+      "B": "Las gratificaciones retribuyen los servicios extraordinarios prestados fuera de la jornada normal de trabajo y en ningún caso pueden ser fijas en su cuantía ni periódicas en su devengo.",
+      "C": "Las gratificaciones son incompatibles con el complemento de productividad; el funcionario debe optar por uno u otro.",
+      "D": "Las gratificaciones solo pueden abonarse a los funcionarios del Subgrupo A1; el resto del personal recibe horas extraordinarias según el Estatuto de los Trabajadores."
+    },
+    "correcta": "B",
+    "explicacion": "El TREBEP (arts. 23 y 24.d) establece que las gratificaciones retribuyen los servicios extraordinarios prestados fuera de la jornada normal de trabajo. La prohibición expresa es doble: (1) no pueden ser fijas en su cuantía, es decir, no pueden establecerse como un complemento mensual de cantidad determinada; y (2) no pueden ser periódicas en su devengo, esto es, no pueden devengarse automáticamente cada mes o cada período. Esta doble prohibición impide que las gratificaciones se conviertan en un complemento encubierto de carácter fijo, lo que burlaría las normas de publicidad y transparencia retributiva. Solo pueden abonarse cuando efectivamente se hayan prestado los servicios extraordinarios que las justifican.",
+    "why": "A las gratificaciones son exactamente lo contrario: prohíbe el TREBEP que sean fijas ni periódicas; si lo fueran, perderían su naturaleza causal vinculada a servicios extraordinarios reales. C las gratificaciones y el complemento de productividad son retribuciones complementarias distintas que pueden coexistir; la ley no establece incompatibilidad entre ellas. D las gratificaciones por servicios extraordinarios pueden percibirse por todos los funcionarios, con independencia del grupo de clasificación; el ET aplica a personal laboral, no a funcionarios.",
+    "norma": "Real Decreto Legislativo 5/2015, Texto Refundido del Estatuto Básico del Empleado Público (TREBEP)",
+    "articulo": "23 y 24.d"
+  },
+  {
+    "id": "B3T29-009",
+    "bloque": 3,
+    "tema": 29,
+    "test": 29,
+    "dificultad": "media",
+    "pregunta": "¿Cómo se devengan los trienios y qué cantidad representan según el art. 22.c del TREBEP?",
+    "opciones": {
+      "A": "Los trienios se devengan por cada cinco años de servicios prestados y su cuantía es la misma para todos los grupos.",
+      "B": "Los trienios consisten en una cantidad fija determinada para cada Subgrupo o Grupo de clasificación por cada tres años de servicios prestados en el mismo subgrupo o grupo.",
+      "C": "Los trienios se calculan sobre el sueldo base del funcionario y ascienden al 3% por cada año de antigüedad.",
+      "D": "Los trienios son un complemento de naturaleza complementaria que depende del puesto de trabajo desempeñado, no del grupo de clasificación."
+    },
+    "correcta": "B",
+    "explicacion": "El art. 22.c TREBEP regula los trienios como retribución básica de los funcionarios. Consisten en una cantidad fija, determinada para cada Subgrupo o Grupo de clasificación profesional (en el caso de que este no tenga Subgrupo), que se devenga por cada tres años de servicios prestados en el mismo subgrupo o grupo. Los importes concretos los fija cada año la Ley de Presupuestos Generales del Estado. La cuantía del trienio es diferente según el grupo: mayor cuantía para los grupos superiores (A1) y menor para los inferiores (C2). Los trienios reconocidos en un grupo anterior se mantienen pero no se revalorizan al ascender de grupo; se consolidan al nivel en que se ganaron.",
+    "why": "A los trienios se devengan por cada tres años, no por cada cinco. C los trienios no son un porcentaje sobre el sueldo base; son cantidades fijas determinadas anualmente por la LPG para cada grupo o subgrupo. D los trienios son una retribución básica ligada al grupo de clasificación y a la antigüedad, no al puesto de trabajo.",
+    "norma": "Real Decreto Legislativo 5/2015, Texto Refundido del Estatuto Básico del Empleado Público (TREBEP)",
+    "articulo": "22.c"
+  },
+  {
+    "id": "B3T29-010",
+    "bloque": 3,
+    "tema": 29,
+    "test": 29,
+    "dificultad": "media",
+    "pregunta": "¿Qué retribuciones corresponden al personal funcionario interino según el art. 26 del TREBEP?",
+    "opciones": {
+      "A": "Los interinos perciben exactamente las mismas retribuciones que los funcionarios de carrera del mismo grupo, sin ninguna diferencia.",
+      "B": "Los interinos perciben las retribuciones básicas correspondientes a su subgrupo o grupo de clasificación, las pagas extraordinarias, y las retribuciones complementarias vinculadas al puesto que desempeñan, en los términos que establezca la normativa de desarrollo.",
+      "C": "Los interinos solo perciben el sueldo base del grupo; no tienen derecho a pagas extraordinarias ni a complementos.",
+      "D": "Los interinos perciben exclusivamente el complemento específico del puesto; el sueldo base y las pagas extraordinarias solo corresponden a los funcionarios de carrera."
+    },
+    "correcta": "B",
+    "explicacion": "El art. 26 TREBEP establece que los funcionarios interinos percibirán las retribuciones básicas correspondientes al subgrupo o grupo en el que estén encuadrados, así como las pagas extraordinarias. También percibirán las retribuciones complementarias vinculadas al puesto de trabajo que desempeñen (complemento de destino del nivel del puesto y complemento específico), así como el complemento de productividad que, en su caso, se les asigne por los resultados obtenidos. De esta forma, el interino recibe las retribuciones del puesto que ocupa, sin perjuicio de las particularidades que la normativa de desarrollo pueda establecer en relación con determinados conceptos como los trienios, cuyo régimen ha evolucionado por influencia de la jurisprudencia europea.",
+    "why": "A si bien la tendencia jurisprudencial es hacia la equiparación, el TREBEP establece algunas diferencias respecto a los funcionarios de carrera; afirmar igualdad total sin matices es inexacto. C los interinos sí tienen derecho a pagas extraordinarias y a las retribuciones complementarias del puesto según el art. 26. D afirmar que el interino solo percibe el complemento específico es incorrecto; percibe sueldo base, pagas extras y los complementos del puesto.",
+    "norma": "Real Decreto Legislativo 5/2015, Texto Refundido del Estatuto Básico del Empleado Público (TREBEP)",
+    "articulo": "26"
+  },
+  {
+    "id": "B3T29-011",
+    "bloque": 3,
+    "tema": 29,
+    "test": 29,
+    "dificultad": "media",
+    "pregunta": "¿Cuál es la duración del permiso por nacimiento de hijo para cada progenitor reconocido en el art. 49 del TREBEP tras las reformas de conciliación?",
+    "opciones": {
+      "A": "Seis semanas para el progenitor que da a luz y cuatro semanas para el otro progenitor.",
+      "B": "Dieciséis semanas para cada uno de los dos progenitores, de las cuales las seis primeras semanas son obligatorias, ininterrumpidas e intransferibles inmediatamente tras el parto.",
+      "C": "Doce semanas para el progenitor que da a luz y ocho semanas para el otro progenitor, pudiendo transferirse parte del período.",
+      "D": "Cuatro meses para el progenitor que da a luz y dos meses para el otro progenitor, con posibilidad de disfrutarse a tiempo parcial."
+    },
+    "correcta": "B",
+    "explicacion": "El art. 49 TREBEP, en su redacción vigente tras las reformas impulsadas por el Real Decreto-ley 6/2019 de medidas urgentes para la garantía de la igualdad de trato y de oportunidades entre mujeres y hombres, reconoce a cada progenitor un permiso de dieciséis semanas por nacimiento de hijo. De esas dieciséis semanas, las seis primeras son obligatorias, ininterrumpidas e intransferibles, y deben disfrutarse de forma inmediata tras el parto o la adopción. Las diez semanas restantes pueden disfrutarse de forma continuada o interrumpida, a jornada completa o parcial, durante el primer año de vida del menor. Este régimen equipara los permisos de ambos progenitores, avanzando en la corresponsabilidad.",
+    "why": "A la asimetría de seis y cuatro semanas correspondía al régimen previo a la equiparación; desde enero de 2021, ambos progenitores tienen el mismo derecho de dieciséis semanas. C las doce y ocho semanas con posibilidad de transferencia era el modelo transitorio de algunas reformas anteriores, no el vigente. D cuatro meses y dos meses no es la fórmula del TREBEP; son dieciséis semanas para cada progenitor.",
+    "norma": "Real Decreto Legislativo 5/2015, Texto Refundido del Estatuto Básico del Empleado Público (TREBEP)",
+    "articulo": "49"
+  },
+  {
+    "id": "B3T29-012",
+    "bloque": 3,
+    "tema": 29,
+    "test": 29,
+    "dificultad": "media",
+    "pregunta": "¿Qué garantiza el derecho a la formación continua reconocido en el art. 14 del TREBEP y cómo se articula en la práctica?",
+    "opciones": {
+      "A": "El derecho a la formación continua obliga a la Administración a conceder permisos retribuidos ilimitados para cualquier curso que solicite el funcionario.",
+      "B": "Garantiza a los empleados públicos el acceso a la formación profesional para el desempeño de sus funciones y la actualización permanente de sus conocimientos; se articula a través de planes de formación incluidos en los planes de empleo o desarrollados específicamente, con posibilidad de permisos retribuidos para formación.",
+      "C": "El derecho a la formación continua es exclusivo de los funcionarios del Subgrupo A1; el personal de otros grupos no tiene reconocido este derecho.",
+      "D": "La formación continua se financia exclusivamente con fondos propios del funcionario; la Administración no tiene obligación de sufragar los costes de formación."
+    },
+    "correcta": "B",
+    "explicacion": "El art. 14.g TREBEP reconoce como derecho individual de todos los empleados públicos 'la formación continua y a la actualización permanente de sus conocimientos y capacidades profesionales, preferentemente en horario laboral'. Este derecho se articula a través de planes de formación que las AAPP están obligadas a elaborar e implementar, muchos de ellos incluidos en los planes de empleo (art. 69). El INAP (Instituto Nacional de Administración Pública) es el organismo responsable de la formación en la AGE. El art. 48.g reconoce permiso retribuido para asistir a exámenes finales y pruebas definitivas de aptitud y evaluación de estudios oficiales. La formación puede desarrollarse en horario laboral o fuera de él, pudiendo tener efectos en la carrera profesional.",
+    "why": "A la Administración no está obligada a conceder permisos ilimitados para cualquier curso; debe articular la formación dentro de sus planes y con criterios de idoneidad para el servicio. C el derecho a la formación continua es de todos los empleados públicos, sin distinción de grupo de clasificación. D la Administración tiene el deber de facilitar y sufragar la formación de sus empleados; este es un derecho del empleado y una obligación del empleador público.",
+    "norma": "Real Decreto Legislativo 5/2015, Texto Refundido del Estatuto Básico del Empleado Público (TREBEP)",
+    "articulo": "14.g"
+  },
+  {
+    "id": "B3T29-013",
+    "bloque": 3,
+    "tema": 29,
+    "test": 29,
+    "dificultad": "media",
+    "pregunta": "¿Qué principio sobre la neutralidad política recoge el art. 52 del TREBEP como deber de los empleados públicos?",
+    "opciones": {
+      "A": "Los empleados públicos deben afiliarse al partido político en el gobierno para garantizar la alineación con las políticas públicas.",
+      "B": "Los empleados públicos deben desempeñar sus funciones con plena dedicación y con respeto a los principios de legalidad, objetividad, neutralidad, responsabilidad e imparcialidad, sirviendo con objetividad a los intereses generales y a la Administración, no a intereses partidistas.",
+      "C": "Los empleados públicos no pueden tener ninguna afiliación política, sindical o religiosa mientras dure su relación de empleo público.",
+      "D": "El deber de neutralidad política solo es exigible a los funcionarios directivos; el resto de empleados públicos puede actuar conforme a sus convicciones políticas."
+    },
+    "correcta": "B",
+    "explicacion": "El art. 52 TREBEP establece los deberes de los empleados públicos y el código de conducta que deben respetar. En particular, los empleados públicos deben actuar con arreglo a los siguientes principios: legalidad, objetividad, neutralidad, responsabilidad, imparcialidad, confidencialidad, dedicación al servicio público, transparencia, ejemplaridad, austeridad, accesibilidad, eficacia, honradez y respeto de la igualdad entre mujeres y hombres. El principio de neutralidad exige que el empleado actúe al servicio de los intereses generales y de la ley, no de los intereses del partido político gobernante ni de sus propias convicciones políticas o ideológicas. Este principio se complementa con la prohibición de usar los recursos y medios públicos para actividades políticas.",
+    "why": "A la afiliación al partido en el gobierno sería contraria a los principios de neutralidad e imparcialidad; los empleados públicos sirven a los intereses generales, no a los del partido gobernante. C el TREBEP no prohíbe la afiliación política, sindical o religiosa de los empleados públicos; lo que exige es que en el ejercicio de sus funciones actúen con neutralidad e imparcialidad. D el deber de neutralidad es exigible a todos los empleados públicos, no solo a los directivos.",
+    "norma": "Real Decreto Legislativo 5/2015, Texto Refundido del Estatuto Básico del Empleado Público (TREBEP)",
+    "articulo": "52"
+  },
+  {
+    "id": "B3T29-014",
+    "bloque": 3,
+    "tema": 29,
+    "test": 29,
+    "dificultad": "media",
+    "pregunta": "¿Qué permiso reconoce el TREBEP a los empleados públicos para el cuidado de un hijo menor afectado por cáncer u otra enfermedad grave que requiera hospitalización?",
+    "opciones": {
+      "A": "Un permiso sin retribución por el tiempo que dure la hospitalización del hijo.",
+      "B": "Una reducción de jornada de al menos la mitad de la jornada ordinaria, con percepción de las retribuciones íntegras, siempre que ambos progenitores, adoptantes o guardadores de hecho trabajen.",
+      "C": "Un permiso retribuido de 15 días naturales por cada hospitalización, prorrogable por períodos iguales.",
+      "D": "Una excedencia forzosa sin retribución durante todo el período de tratamiento del hijo."
+    },
+    "correcta": "B",
+    "explicacion": "El art. 49.e TREBEP (en su redacción vigente) reconoce el permiso por cuidado de hijo menor afectado por cáncer u otra enfermedad grave. Consiste en una reducción de la jornada de trabajo de al menos la mitad de la duración de aquella, percibiendo las retribuciones íntegras para el cuidado, durante la hospitalización y tratamiento continuado, del hijo menor de edad afectado por cáncer (tumores malignos, melanomas y carcinomas) u otra enfermedad grave que requiera ingreso hospitalario de larga duración. Es un permiso de especial protección porque permite al progenitor mantener sus retribuciones íntegras pese a trabajar media jornada o menos. Requiere que ambos progenitores trabajen, salvo que solo uno sea empleado público.",
+    "why": "A el permiso no es sin retribución; precisamente su característica más relevante es que las retribuciones son íntegras aunque la jornada se reduzca. C el permiso no tiene la forma de días concretos por hospitalización; es una reducción de jornada durante todo el período de tratamiento. D la excedencia forzosa sin retribución no es el mecanismo del art. 49.e; este otorga reducción de jornada con retribución íntegra.",
+    "norma": "Real Decreto Legislativo 5/2015, Texto Refundido del Estatuto Básico del Empleado Público (TREBEP)",
+    "articulo": "49.e"
+  },
+  {
+    "id": "B3T29-015",
+    "bloque": 3,
+    "tema": 29,
+    "test": 29,
+    "dificultad": "media",
+    "pregunta": "¿Qué cubre el concepto de «indemnizaciones por razón del servicio» reconocido en el art. 28 del TREBEP?",
+    "opciones": {
+      "A": "Las indemnizaciones por razón del servicio son sinónimas de las retribuciones complementarias y se abonan mensualmente junto al sueldo.",
+      "B": "Cubren los gastos originados por el desempeño del trabajo que deben compensarse al empleado, como los derivados de comisiones de servicios, traslados, asistencias a órganos colegiados o misiones en el extranjero; no tienen carácter retributivo sino indemnizatorio.",
+      "C": "Son compensaciones por daños sufridos en accidentes laborales y solo se abonan tras resolución judicial firme.",
+      "D": "Son cantidades pagadas a los empleados públicos al término de su relación de servicio, equivalentes a una mensualidad por año trabajado."
+    },
+    "correcta": "B",
+    "explicacion": "El art. 28 TREBEP establece que los empleados públicos tienen derecho a percibir las indemnizaciones correspondientes por razón del servicio. Estas indemnizaciones no son retribuciones en sentido estricto, sino compensaciones por los gastos que el cumplimiento de las funciones genera al empleado: desplazamientos en comisión de servicios, gastos de manutención y alojamiento fuera del domicilio habitual, traslados de residencia por destino forzoso, asistencias por participación en órganos colegiados o tribunales de selección, y misiones en el exterior. Su regulación concreta se establece en el Real Decreto 462/2002, de 24 de mayo, sobre indemnizaciones por razón del servicio en la AGE.",
+    "why": "A las indemnizaciones por razón del servicio son un concepto diferente de las retribuciones complementarias; no se abonan mensualmente sino en función de los gastos efectivamente producidos. C las compensaciones por accidentes laborales se gestionan a través del sistema de Seguridad Social o la mutua correspondiente; las indemnizaciones del art. 28 son de naturaleza distinta. D las cantidades al cese por años de servicio son propias de la relación laboral (art. 56 ET), no del régimen funcionarial del TREBEP.",
+    "norma": "Real Decreto Legislativo 5/2015, Texto Refundido del Estatuto Básico del Empleado Público (TREBEP)",
+    "articulo": "28"
+  },
+  {
+    "id": "B3T29-016",
+    "bloque": 3,
+    "tema": 29,
+    "test": 29,
+    "dificultad": "media",
+    "pregunta": "¿Qué establece el art. 21 del TREBEP sobre el principio de suficiencia y transparencia retributiva en las Administraciones Públicas?",
+    "opciones": {
+      "A": "Las AAPP pueden abonar retribuciones distintas a las establecidas en las normas, siempre que sean inferiores.",
+      "B": "Las Administraciones Públicas no podrán abonar retribuciones distintas de las previstas en la normativa, ni siquiera mediante acuerdos de negociación colectiva o convenios, garantizando así el principio de suficiencia y transparencia retributiva.",
+      "C": "El principio de suficiencia retributiva obliga a igualar los salarios del empleo público con los del mercado privado del mismo sector.",
+      "D": "Las retribuciones de los empleados públicos solo las puede aprobar el Consejo de Ministros; ninguna negociación colectiva puede modificarlas."
+    },
+    "correcta": "B",
+    "explicacion": "El art. 21 TREBEP establece el principio de legalidad y transparencia retributiva: las Administraciones Públicas no podrán abonar retribuciones distintas a las previstas en las normas. Este principio garantiza que el sistema retributivo sea público, predeterminado y uniforme, evitando retribuciones encubiertas o ad hoc. La razón de ser de este principio es proteger el erario público y garantizar la igualdad entre empleados en situación equivalente. Los acuerdos de negociación colectiva y los convenios pueden fijar condiciones retributivas, pero siempre dentro del marco de la ley y con la restricción de las medidas presupuestarias aprobadas anualmente por las leyes de presupuestos.",
+    "why": "A las AAPP no pueden abonar retribuciones distintas a las previstas, ni siquiera inferiores, sin base normativa; el principio de legalidad retributiva es estricto. C el principio de suficiencia no implica equiparación con el sector privado; el sector público tiene sus propias tablas retributivas fijadas por ley. D las retribuciones de los empleados públicos sí pueden ser objeto de negociación colectiva dentro del marco legal; no es una competencia exclusiva del Consejo de Ministros para todos los conceptos.",
+    "norma": "Real Decreto Legislativo 5/2015, Texto Refundido del Estatuto Básico del Empleado Público (TREBEP)",
+    "articulo": "21"
+  },
+  {
+    "id": "B3T29-017",
+    "bloque": 3,
+    "tema": 29,
+    "test": 29,
+    "dificultad": "dificil",
+    "pregunta": "¿Cuál es la correspondencia exacta entre los principios de ordenación de las retribuciones complementarias del art. 24 del TREBEP y los distintos tipos de complementos?",
+    "opciones": {
+      "A": "a) complemento de productividad; b) complemento de destino; c) complemento específico; d) gratificaciones.",
+      "B": "a) complemento de destino (progresión en carrera); b) complemento específico (condiciones del puesto); c) complemento de productividad (rendimiento); d) gratificaciones (servicios extraordinarios fuera de jornada).",
+      "C": "a) complemento específico; b) complemento de productividad; c) complemento de destino; d) pagas extraordinarias.",
+      "D": "a) trienios; b) complemento de destino; c) complemento específico; d) complemento de productividad."
+    },
+    "correcta": "B",
+    "explicacion": "El art. 24 TREBEP establece cuatro criterios generales para la determinación de las cuantías de las retribuciones complementarias, que se corresponden directamente con los cuatro tipos de complementos del art. 23: (a) la progresión alcanzada por el funcionario dentro del sistema de carrera administrativa → complemento de destino, que refleja el nivel del puesto en la carrera del funcionario; (b) la especial dificultad técnica, responsabilidad, dedicación, incompatibilidad exigible o condiciones en que se desarrolla el trabajo → complemento específico, vinculado a las características objetivas del puesto; (c) el grado de interés, iniciativa o esfuerzo con que el funcionario desempeña su trabajo y el rendimiento o resultados obtenidos → complemento de productividad, de carácter individual y variable; y (d) los servicios extraordinarios prestados fuera de la jornada normal de trabajo → gratificaciones, que no pueden ser fijas ni periódicas.",
+    "why": "A la asignación es incorrecta: el criterio (a) de progresión en la carrera corresponde al complemento de destino, no al de productividad. C y D las asociaciones son incorrectas; la correspondencia exacta está en la opción B.",
+    "norma": "Real Decreto Legislativo 5/2015, Texto Refundido del Estatuto Básico del Empleado Público (TREBEP)",
+    "articulo": "24"
+  },
+  {
+    "id": "B3T29-018",
+    "bloque": 3,
+    "tema": 29,
+    "test": 29,
+    "dificultad": "dificil",
+    "pregunta": "¿Qué derechos específicos reconoce el TREBEP a las empleadas públicas víctimas de violencia de género en relación con su jornada y situación administrativa?",
+    "opciones": {
+      "A": "Las víctimas de violencia de género solo tienen derecho a pedir una excedencia voluntaria sin retribución.",
+      "B": "Las empleadas públicas víctimas de violencia de género tienen derecho a la reducción de la jornada con disminución proporcional de retribuciones, a la reordenación del tiempo de trabajo, a la movilidad geográfica o al cambio de centro de trabajo, a la excedencia con reserva de puesto por un período inicial de seis meses prorrogables, y a la suspensión de la relación de servicio con reserva de puesto, entre otras medidas de protección.",
+      "C": "El único derecho reconocido es la excedencia forzosa de dos años; transcurrido ese plazo, la empleada debe reincorporarse o causar baja definitiva.",
+      "D": "Las víctimas de violencia de género tienen derecho a cobrar el 100% de sus retribuciones sin necesidad de acudir al trabajo durante el tiempo que consideren necesario."
+    },
+    "correcta": "B",
+    "explicacion": "El art. 49.d TREBEP y otros preceptos conexos reconocen un conjunto de derechos específicos a las empleadas públicas víctimas de violencia de género, entre los que destacan: (1) reducción o reordenación de su tiempo de trabajo, adaptando la jornada a sus necesidades; (2) movilidad geográfica de centro de trabajo; (3) cambio de puesto de trabajo en la misma localidad; y (4) excedencia por razón de violencia de género con reserva del puesto de trabajo durante seis meses, prorrogables por períodos de tres meses y hasta un máximo de dieciocho meses, durante los cuales la empleada puede percibir prestaciones de la Seguridad Social. Estos derechos buscan facilitar la huida del entorno de riesgo y la estabilización de la víctima.",
+    "why": "A la excedencia voluntaria sin retribución es una situación administrativa diferente; el TREBEP reconoce derechos específicos y más favorables para las víctimas de violencia de género. C el período de excedencia es de seis meses iniciales prorrogables hasta dieciocho; no son dos años ni hay baja automática transcurrido el plazo. D el TREBEP no reconoce el cobro íntegro sin asistir al trabajo de forma ilimitada; los derechos son concretos y proporcionados a la situación de la víctima.",
+    "norma": "Real Decreto Legislativo 5/2015, Texto Refundido del Estatuto Básico del Empleado Público (TREBEP)",
+    "articulo": "49.d"
+  },
+  {
+    "id": "B3T29-019",
+    "bloque": 3,
+    "tema": 29,
+    "test": 29,
+    "dificultad": "dificil",
+    "pregunta": "¿Cuáles son las pagas extraordinarias de los funcionarios según el art. 22 del TREBEP y qué conceptos retributivos incluyen como mínimo?",
+    "opciones": {
+      "A": "Son cuatro pagas al año, y cada una equivale a la mensualidad completa de todas las retribuciones básicas y complementarias.",
+      "B": "Son dos pagas al año y comprenden como mínimo una mensualidad del sueldo y los trienios que correspondan; las normas de desarrollo pueden incluir, además, las retribuciones complementarias.",
+      "C": "Son dos pagas al año, que se calculan exclusivamente sobre el sueldo base sin trienios ni complementos.",
+      "D": "Son tres pagas al año, que incluyen el sueldo, los trienios y el complemento específico del puesto."
+    },
+    "correcta": "B",
+    "explicacion": "El art. 22.d TREBEP establece que las pagas extraordinarias son dos al año y que cada una comprenderá, como mínimo, una mensualidad del sueldo y los trienios que correspondan. La normativa de desarrollo y los acuerdos de negociación colectiva pueden añadir a las pagas extraordinarias el importe del complemento de destino y, en algunos casos, el complemento específico, por lo que en la práctica las pagas suelen incluir más conceptos que el mínimo legal. En la AGE, históricamente las pagas extraordinarias han incluido el sueldo, trienios, complemento de destino y parte del específico, aunque las sucesivas medidas de austeridad (como el RDL 20/2012) redujeron temporalmente su cuantía. La norma básica es el mínimo de sueldo más trienios.",
+    "why": "A son dos pagas, no cuatro; cuatro pagas serían la mensualidad ordinaria más tres pagas adicionales, lo que no corresponde al sistema del TREBEP. C la paga extraordinaria incluye como mínimo sueldo y trienios; solo sueldo base sería insuficiente. D son dos pagas al año, no tres; y el complemento específico no es componente obligatorio mínimo de la paga extraordinaria en el TREBEP.",
+    "norma": "Real Decreto Legislativo 5/2015, Texto Refundido del Estatuto Básico del Empleado Público (TREBEP)",
+    "articulo": "22.d"
+  },
+  {
+    "id": "B3T29-020",
+    "bloque": 3,
+    "tema": 29,
+    "test": 29,
+    "dificultad": "dificil",
+    "pregunta": "¿Qué límite establece el TREBEP respecto al complemento específico en relación con los demás complementos del mismo puesto?",
+    "opciones": {
+      "A": "No existe ningún límite; el complemento específico puede fijarse libremente hasta el importe que la Administración considere oportuno.",
+      "B": "En ningún caso podrá asignarse más de un complemento específico a un mismo puesto de trabajo, aunque las condiciones del puesto justificasen varios factores de penosidad, peligrosidad o dedicación.",
+      "C": "El complemento específico no puede superar el importe del sueldo base del grupo de clasificación del funcionario.",
+      "D": "El complemento específico solo puede asignarse si el puesto tiene jornada partida; los puestos de jornada continua no pueden percibirlo."
+    },
+    "correcta": "B",
+    "explicacion": "El TREBEP y la normativa de desarrollo de la AGE (RD 861/1986 y Ley 30/1984) establecen que en ningún caso podrá asignarse más de un complemento específico a un mismo puesto de trabajo. Esto significa que, aunque un puesto acumule varios factores que justificarían complemento específico (por ejemplo, especial responsabilidad, trabajo en condiciones de peligrosidad y dedicación especial), solo puede fijarse un complemento específico que pondera globalmente todos esos factores. Este límite evita la acumulación artificosa de complementos que distorsione la estructura retributiva. El importe del complemento específico asignado a cada puesto debe estar determinado en la relación de puestos de trabajo (RPT) y es público.",
+    "why": "A existen límites formales y materiales para el complemento específico: el más relevante es que solo puede haber uno por puesto, además de los que fije la normativa presupuestaria. C el TREBEP no establece un tope del complemento específico en función del sueldo base; el límite es la aprobación presupuestaria y su inclusión en la RPT. D la jornada continua o partida no es criterio para determinar si un puesto puede tener complemento específico; lo que importa son las condiciones objetivas del puesto.",
+    "norma": "Real Decreto Legislativo 5/2015, Texto Refundido del Estatuto Básico del Empleado Público (TREBEP) y RD 861/1986",
+    "articulo": "23 y 24.b"
+  }
+]
