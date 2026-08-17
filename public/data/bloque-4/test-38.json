@@ -1,0 +1,382 @@
+[
+  {
+    "id": "B4T38-001",
+    "bloque": 4,
+    "tema": 38,
+    "test": 38,
+    "dificultad": "facil",
+    "pregunta": "¿Qué clases de control de la actividad económico-financiera del sector público de la Comunidad de Madrid existen?",
+    "opciones": {
+      "A": "Solo existe un tipo de control: el externo, ejercido por la Cámara de Cuentas de la CM; el control interno carece de base legal en la Ley 9/1990.",
+      "B": "Existe únicamente el control parlamentario, que ejerce directamente la Asamblea de Madrid sin intervención de órganos especializados.",
+      "C": "El control de la Hacienda de la CM se articula en dos grandes modalidades complementarias: el control interno, ejercido por la Intervención General de la CM con carácter previo, simultáneo o posterior a la gestión de los fondos públicos; y el control externo, ejercido con independencia del Gobierno por la Cámara de Cuentas de la CM, que fiscaliza la actividad económico-financiera y rinde informes a la Asamblea de Madrid.",
+      "D": "El único control previsto es el del Tribunal de Cuentas del Estado, que ejerce la fiscalización externa de todas las CCAA directamente, sin que los órganos autonómicos tengan ninguna función de control."
+    },
+    "correcta": "C",
+    "explicacion": "La Ley 9/1990 Reguladora de la Hacienda de la CM y el Estatuto de Autonomía establecen un sistema de control dual: (1) Control interno: la Intervención General de la CM es el órgano encargado del control interno de la gestión económico-financiera del sector público autonómico; actúa con plena autonomía funcional respecto a los órganos cuya gestión controla; sus instrumentos son la fiscalización previa (antes del acto), el control financiero permanente (continuo) y la auditoría pública (a posteriori). (2) Control externo: la Cámara de Cuentas de la CM (art. 57 Estatuto de Autonomía; Ley 11/1999) es el órgano de control externo independiente del Gobierno; fiscaliza la legalidad, eficiencia y economía de la gestión del sector público autonómico e informa a la Asamblea de Madrid. Además, el Tribunal de Cuentas del Estado tiene jurisdicción contable sobre el sector público de la CM y puede actuar subsidiariamente en fiscalización.",
+    "why": "A el control interno de la Intervención General tiene plena base legal en la Ley 9/1990; es un elemento esencial del sistema de control de la Hacienda CM. B la Asamblea ejerce control político (aprobación del presupuesto, preguntas, comisiones), pero los controles especializados corresponden a la Intervención y a la Cámara de Cuentas. D el Tribunal de Cuentas tiene jurisdicción contable suprema, pero existen órganos autonómicos de control con plenas competencias en su ámbito.",
+    "norma": "Ley 9/1990 Hacienda CM; Ley 11/1999 Cámara de Cuentas; Estatuto de Autonomía",
+    "articulo": "Título IV Ley 9/1990; 57 Estatuto CM"
+  },
+  {
+    "id": "B4T38-002",
+    "bloque": 4,
+    "tema": 38,
+    "test": 38,
+    "dificultad": "facil",
+    "pregunta": "¿En qué consiste la fiscalización previa ejercida por la Intervención General de la Comunidad de Madrid?",
+    "opciones": {
+      "A": "La fiscalización previa es la revisión que realiza la Intervención General de la CM antes de que se ejecute cualquier acto con repercusión económica; examina si existe crédito presupuestario adecuado y suficiente, si el acto se ajusta a la normativa vigente y si se cumplen los requisitos formales exigidos; el resultado puede ser una fiscalización de conformidad (el acto sigue su trámite) o un reparo (que suspende el procedimiento).",
+      "B": "La fiscalización previa es el control que la Cámara de Cuentas realiza sobre el presupuesto inicial antes de que se presente a la Asamblea de Madrid para su aprobación.",
+      "C": "La fiscalización previa consiste en la comprobación a posteriori de los pagos ya realizados; no actúa antes del gasto sino una vez que se ha ejecutado.",
+      "D": "La fiscalización previa la realiza el Tribunal de Cuentas del Estado; la Intervención General de la CM no tiene competencias en este ámbito."
+    },
+    "correcta": "A",
+    "explicacion": "La fiscalización previa es el instrumento central del control interno preventivo y está regulada en la Ley 9/1990. Opera del siguiente modo: (1) Momento: la Intervención examina el expediente antes de que el órgano gestor ejecute el acto (antes de la autorización del gasto, del compromiso, del reconocimiento de la obligación o del pago). (2) Contenido: verifica la existencia de crédito presupuestario adecuado y suficiente; la conformidad del acto con la normativa jurídica aplicable; y el cumplimiento de los requisitos formales del expediente (informes preceptivos, acuerdos de órgano competente, contratos, etc.). (3) Resultado: (a) Fiscalización de conformidad: no se aprecian defectos, el expediente sigue su curso. (b) Reparo: la Intervención detecta un defecto; el procedimiento queda suspendido hasta que se subsane o se resuelva la discrepancia mediante los mecanismos legales previstos. La fiscalización previa garantiza el principio de legalidad en el gasto público antes de que el daño sea difícil de reparar.",
+    "why": "B la fiscalización previa del presupuesto inicial la realiza el Consejo de Gobierno (lo elabora y aprueba) y la Asamblea (lo aprueba como ley); la Intervención no actúa en esa fase. C la fiscalización previa actúa antes del acto; el control a posteriori es el control financiero y la auditoría. D la Intervención General de la CM es el órgano de control interno de la CM; tiene plenas competencias en fiscalización previa.",
+    "norma": "Ley 9/1990 Reguladora de la Hacienda de la CM",
+    "articulo": "Título IV Ley 9/1990"
+  },
+  {
+    "id": "B4T38-003",
+    "bloque": 4,
+    "tema": 38,
+    "test": 38,
+    "dificultad": "facil",
+    "pregunta": "¿Qué es la responsabilidad contable y quién tiene competencia para enjuiciarla?",
+    "opciones": {
+      "A": "La responsabilidad contable es una responsabilidad disciplinaria interna; la impone el jefe jerárquico del funcionario infractor sin intervención judicial.",
+      "B": "La responsabilidad contable es la responsabilidad penal derivada de delitos de malversación; la enjuician los juzgados penales ordinarios.",
+      "C": "La responsabilidad contable es la que surge cuando los gestores de fondos públicos son declarados responsables de una deuda tributaria no satisfecha.",
+      "D": "La responsabilidad contable es la responsabilidad civil derivada de la gestión ilegal o negligente de fondos públicos que causa un daño económico (alcance) a la Hacienda Pública; genera la obligación de reintegrar el importe del daño causado; la enjuicia el Tribunal de Cuentas del Estado en su función jurisdiccional, con colaboración informativa de la Cámara de Cuentas de la CM."
+    },
+    "correcta": "D",
+    "explicacion": "La responsabilidad contable es una figura jurídica específica del ámbito del Derecho Financiero Público y está regulada en la Ley Orgánica 2/1982 del Tribunal de Cuentas y en la Ley 7/1988 de Funcionamiento del Tribunal de Cuentas. Sus rasgos esenciales son: (1) Ámbito subjetivo: solo pueden incurrir en responsabilidad contable los que tienen la condición de «cuentadantes», es decir, quienes manejan, recaudan, custodian, distribuyen o administran fondos públicos por razón de su cargo. (2) Presupuesto: la existencia de un «alcance» (menoscabo, daño o pérdida) en los fondos públicos producido por acción u omisión dolosa o gravemente negligente, o la omisión de la obligación de rendir cuentas. (3) Consecuencia: la obligación de reintegrar el importe del daño causado más los intereses, con responsabilidad personal del infractor. (4) Jurisdicción: el Tribunal de Cuentas del Estado tiene función jurisdiccional exclusiva en esta materia; la Cámara de Cuentas de la CM no tiene funciones jurisdiccionales y, cuando detecta indicios de responsabilidad contable, lo pone en conocimiento del Tribunal de Cuentas.",
+    "why": "A la responsabilidad contable no es disciplinaria; es de naturaleza civil, que genera la obligación de reintegrar el daño económico causado a la Hacienda Pública. B la responsabilidad penal (delitos como malversación) es compatible con la contable pero son figuras distintas: la contable la enjuicia el Tribunal de Cuentas, la penal los juzgados penales. C la responsabilidad contable no se refiere a deudas tributarias; se refiere al daño causado por la gestión ilegal de fondos públicos.",
+    "norma": "LO 2/1982 Tribunal de Cuentas; Ley 7/1988 Funcionamiento del TC",
+    "articulo": "38 y ss. LO 2/1982"
+  },
+  {
+    "id": "B4T38-004",
+    "bloque": 4,
+    "tema": 38,
+    "test": 38,
+    "dificultad": "facil",
+    "pregunta": "¿Qué establece el principio de devengo en la contabilidad pública de la Comunidad de Madrid?",
+    "opciones": {
+      "A": "El principio de devengo solo es aplicable a los ingresos tributarios; los gastos se contabilizan cuando se realiza el pago efectivo (criterio de caja).",
+      "B": "El principio de devengo establece que los ingresos y los gastos deben imputarse al ejercicio contable en el que se produce la transacción o el hecho económico que los origina, con independencia del momento en que se efectúe el cobro o el pago; la contabilidad pública refleja la realidad económica y patrimonial en el momento en que se origina, no cuando se mueve la caja.",
+      "C": "El principio de devengo establece que todos los gastos deben ejecutarse en el trimestre al que corresponden; no pueden aplazarse más de noventa días.",
+      "D": "El principio de devengo es exclusivo de la contabilidad privada; la contabilidad pública utiliza exclusivamente el criterio de caja (cobros y pagos efectivos)."
+    },
+    "correcta": "B",
+    "explicacion": "El principio de devengo es uno de los principios contables fundamentales del Plan General de Contabilidad Pública (PGCP) aplicado al sector público de la CM. Significa que: (1) Los ingresos se registran cuando nace el derecho de cobro (cuando se liquidа la deuda tributaria, cuando se reconoce el crédito de la subvención, etc.), aunque el dinero no se haya recibido todavía. (2) Los gastos se registran cuando nace la obligación de pago (cuando se recibe la prestación y se reconoce la obligación), aunque el pago se realice en un momento posterior. (3) La diferencia con el criterio de caja (base cash): la caja solo registra cobros y pagos; el devengo registra derechos y obligaciones en el momento económico en que se originan. El principio de devengo ofrece una imagen más fiel y completa de la situación patrimonial y financiera del sector público que el simple registro de movimientos de tesorería. En el sector público, el Estado de Liquidación del Presupuesto usa criterio presupuestario (reconocimiento de derechos y obligaciones), mientras que la Cuenta del Resultado Económico-Patrimonial usa criterio de devengo.",
+    "why": "A el principio de devengo aplica a ingresos y gastos por igual; no existe un tratamiento asimétrico entre ambos. C el devengo no establece plazos trimestrales de ejecución; solo determina el momento en que el hecho económico se reconoce contablemente. D el principio de devengo es el estándar también en la contabilidad pública española desde la reforma del PGCP de 2010; el criterio de caja puro se abandonó en favor del devengo.",
+    "norma": "Plan General de Contabilidad Pública (PGCP); Ley 9/1990 Hacienda CM",
+    "articulo": "Principios contables PGCP"
+  },
+  {
+    "id": "B4T38-005",
+    "bloque": 4,
+    "tema": 38,
+    "test": 38,
+    "dificultad": "facil",
+    "pregunta": "¿Qué documentos integran las cuentas anuales de las entidades del sector público de la Comunidad de Madrid?",
+    "opciones": {
+      "A": "Las cuentas anuales del sector público de la CM se reducen a dos documentos: el balance de situación y el estado de liquidación del presupuesto.",
+      "B": "Las cuentas anuales solo incluyen el estado de liquidación del presupuesto; el balance de situación y la cuenta de resultados son documentos mercantiles sin cabida en la contabilidad pública.",
+      "C": "Las cuentas anuales de las entidades del sector público de la CM comprenden: el balance de situación (activo y pasivo), la cuenta del resultado económico-patrimonial, el estado de cambios en el patrimonio neto, el estado de flujos de efectivo, el estado de liquidación del presupuesto (específico del sector público) y la memoria; juntos ofrecen una imagen fiel de la situación patrimonial, financiera y presupuestaria.",
+      "D": "Las cuentas anuales del sector público de la CM son idénticas a las de una sociedad mercantil y se rigen por el Plan General de Contabilidad privado."
+    },
+    "correcta": "C",
+    "explicacion": "El Plan General de Contabilidad Pública (PGCP), en su versión adaptada por la CM, establece que las cuentas anuales de las entidades del sector público están formadas por seis documentos que deben presentarse de forma integrada y coherente: (1) Balance de situación: muestra el activo (bienes y derechos) y el pasivo (obligaciones) al cierre del ejercicio, más el patrimonio neto. (2) Cuenta del resultado económico-patrimonial: recoge los ingresos y gastos del ejercicio calculados por el criterio del devengo, mostrando el resultado neto (excedente o déficit). (3) Estado de cambios en el patrimonio neto: explica la variación del patrimonio neto durante el ejercicio. (4) Estado de flujos de efectivo: muestra los cobros y pagos de tesorería clasificados por actividades. (5) Estado de liquidación del presupuesto: documento exclusivo del sector público que compara previsiones/créditos aprobados con derechos/obligaciones reconocidos y recaudación/pagos; es el documento que enlaza la contabilidad presupuestaria con la patrimonial. (6) Memoria: información cualitativa y cuantitativa complementaria.",
+    "why": "A el balance y el estado de liquidación son solo dos de los seis documentos que integran las cuentas anuales del sector público. B el estado de liquidación del presupuesto es único del sector público, pero las cuentas anuales incluyen también balance, cuenta de resultados y los demás documentos. D las entidades del sector público no se rigen por el PGC privado, sino por el PGCP; aunque comparten algunos documentos, el PGCP tiene adaptaciones específicas para el sector público.",
+    "norma": "Plan General de Contabilidad Pública (PGCP); Ley 9/1990 Hacienda CM",
+    "articulo": "Orden HAC/1489/2020 PGCP; Título IV Ley 9/1990"
+  },
+  {
+    "id": "B4T38-006",
+    "bloque": 4,
+    "tema": 38,
+    "test": 38,
+    "dificultad": "facil",
+    "pregunta": "¿En qué consiste la obligación de rendición de cuentas de las entidades del sector público de la Comunidad de Madrid?",
+    "opciones": {
+      "A": "Todas las entidades del sector público de la CM están obligadas a rendir sus cuentas anuales a la Intervención General de la CM dentro del plazo establecido; la Intervención las comprueba, las integra en la Cuenta General del ejercicio y la eleva al Consejo de Gobierno para su aprobación y posterior remisión a la Cámara de Cuentas de la CM.",
+      "B": "Solo las Consejerías tienen obligación de rendir cuentas; los organismos autónomos y las empresas públicas quedan exentos de esta obligación.",
+      "C": "La rendición de cuentas es potestativa; las entidades pueden presentar sus cuentas o no según sus propios criterios de transparencia.",
+      "D": "La rendición de cuentas se realiza directamente ante la Cámara de Cuentas de la CM, que las compila sin intervención de la Intervención General."
+    },
+    "correcta": "A",
+    "explicacion": "La rendición de cuentas es una obligación jurídica que deriva del principio de responsabilidad en la gestión de fondos públicos y está regulada en la Ley 9/1990 y en las instrucciones de contabilidad de la CM. El procedimiento es el siguiente: (1) Cada entidad del sector público (Consejerías, organismos autónomos, entes públicos, empresas públicas) elabora sus propias cuentas anuales conforme al PGCP. (2) Las remiten a la Intervención General de la CM, que actúa como órgano central de contabilidad. (3) La Intervención las examina, consolida y forma la Cuenta General de la CM. (4) La Cuenta General es aprobada por el Consejo de Gobierno. (5) Se remite a la Cámara de Cuentas de la CM para su fiscalización externa, que emite su informe anual y lo presenta a la Asamblea de Madrid. El incumplimiento de la obligación de rendir cuentas puede generar responsabilidad contable.",
+    "why": "B la obligación de rendición de cuentas alcanza a todas las entidades del sector público autonómico, incluidos los organismos autónomos y las empresas públicas; la forma de la rendición varía según la naturaleza de la entidad. C la rendición de cuentas no es potestativa; es una obligación legal cuyo incumplimiento puede generar responsabilidad contable. D la rendición de cuentas se realiza ante la Intervención General, que las integra en la Cuenta General; la Cámara de Cuentas las recibe ya consolidadas en la Cuenta General.",
+    "norma": "Ley 9/1990 Hacienda CM; Ley 11/1999 Cámara de Cuentas CM",
+    "articulo": "Título IV Ley 9/1990"
+  },
+  {
+    "id": "B4T38-007",
+    "bloque": 4,
+    "tema": 38,
+    "test": 38,
+    "dificultad": "media",
+    "pregunta": "¿Qué efectos produce el reparo formulado por la Intervención General de la CM y cómo se resuelven las discrepancias con el órgano gestor?",
+    "opciones": {
+      "A": "El reparo de la Intervención no produce ningún efecto suspensivo; el órgano gestor puede continuar tramitando el expediente aunque la Intervención haya formulado un reparo.",
+      "B": "El reparo suspende definitivamente el expediente; una vez formulado, solo puede levantarse mediante ley de la Asamblea de Madrid.",
+      "C": "El reparo de la Intervención solo puede formularse por deficiencias formales del expediente, nunca por razones de fondo jurídico o de crédito.",
+      "D": "El reparo de la Intervención General suspende la tramitación del expediente; si el órgano gestor discrepa, puede elevar el asunto al Consejo de Gobierno de la CM para que este resuelva la discrepancia; si el Consejo de Gobierno decide alzar el reparo y el gasto sigue adelante, la Intervención debe comunicarlo a la Cámara de Cuentas y a la Asamblea de Madrid; existen reparos que el Consejo de Gobierno no puede levantar bajo ninguna circunstancia: los basados en insuficiencia de crédito o en la existencia de un acto legalmente prohibido."
+    },
+    "correcta": "D",
+    "explicacion": "El reparo es el acto mediante el cual la Intervención General pone de manifiesto una irregularidad en el expediente de gasto. Su régimen jurídico, regulado en la Ley 9/1990 y equivalente al de la Ley 47/2003 estatal, es el siguiente: (1) Efecto suspensivo: el reparo suspende la tramitación del expediente y la efectividad del acto. (2) Tipos de reparo: (a) Reparos insalvables por el Consejo de Gobierno: los basados en insuficiencia de crédito presupuestario, en que el gasto está legalmente prohibido, o en que no es competente el órgano que lo propone. En estos casos, el expediente no puede continuar. (b) Reparos que pueden alzarse: cuando el defecto es de legalidad ordinaria y el Consejo de Gobierno valora que el interés público justifica continuar. (3) Resolución de discrepancias: el órgano gestor eleva el asunto al Consejo de Gobierno; si el Consejo de Gobierno decide alzar el reparo, el gasto puede ejecutarse, pero la Intervención está obligada a poner en conocimiento de la Cámara de Cuentas y de la Asamblea de Madrid la resolución de la discrepancia. (4) Responsabilidad: el alzamiento no exime de responsabilidad a quienes propusieron el gasto.",
+    "why": "A el reparo sí tiene efecto suspensivo: ningún expediente puede continuar su tramitación mientras pesa sobre él un reparo de la Intervención. B el alzamiento del reparo puede hacerlo el Consejo de Gobierno (con las limitaciones señaladas) sin necesidad de ley de la Asamblea. C el reparo puede formularse por cualquier causa de ilegalidad o irregularidad, tanto formal (documentos que faltan) como sustantiva (crédito insuficiente, acto prohibido).",
+    "norma": "Ley 9/1990 Reguladora de la Hacienda de la CM; Ley 47/2003 General Presupuestaria",
+    "articulo": "Título IV Ley 9/1990"
+  },
+  {
+    "id": "B4T38-008",
+    "bloque": 4,
+    "tema": 38,
+    "test": 38,
+    "dificultad": "media",
+    "pregunta": "¿En qué consiste la fiscalización previa limitada y para qué supuestos se prevé?",
+    "opciones": {
+      "A": "La fiscalización previa limitada es una fiscalización que solo se aplica en los tres últimos meses del ejercicio para agilizar la ejecución presupuestaria de fin de año.",
+      "B": "La fiscalización previa limitada es una modalidad de control interno en la que la Intervención General restringe su examen a la comprobación de ciertos requisitos esenciales (existencia de crédito presupuestario, competencia del órgano y determinados extremos formales), sin revisar en detalle la legalidad de todos los aspectos del expediente; se aplica a categorías de gasto de naturaleza homogénea y repetitiva para agilizar la gestión sin mermar el control esencial.",
+      "C": "La fiscalización previa limitada significa que la Intervención solo revisa el 50% de los expedientes de forma aleatoria; el otro 50% queda exento de cualquier control previo.",
+      "D": "La fiscalización previa limitada es aquella en la que la Intervención delega sus funciones de control en el propio órgano gestor del gasto."
+    },
+    "correcta": "B",
+    "explicacion": "La fiscalización previa limitada (FPL) es una modalidad de control previo más ágil que la fiscalización plena, prevista en la Ley 47/2003 General Presupuestaria y en normas equivalentes autonómicas. Sus características son: (1) Alcance reducido: en lugar de revisar toda la legalidad del expediente, la Intervención limita su control a los «aspectos esenciales»: existencia de crédito adecuado y suficiente, competencia del órgano gestor para aprobar el gasto, y determinados requisitos específicos establecidos para cada tipo de gasto. (2) Supuestos de aplicación: categorías de gasto homogéneo y repetitivo (nóminas mensuales, gastos de funcionamiento ordinario, contratos de suministro de cuantía reducida, pago de subvenciones de tipo normalizado). (3) Control complementario: aunque el control previo es limitado, la Intervención puede complementarlo con actuaciones de control financiero posterior o auditoría sobre los expedientes no revisados en detalle. La FPL busca equilibrar agilidad administrativa y garantía de legalidad.",
+    "why": "A la FPL no está ligada a ningún período temporal; aplica durante todo el ejercicio según la naturaleza del gasto. C la FPL no es un control por muestreo del 50%; es un control completo pero centrado solo en los requisitos esenciales preestablecidos. D la FPL no supone delegación de funciones al órgano gestor; la Intervención conserva sus competencias de control; simplemente limita qué aspectos revisa.",
+    "norma": "Ley 47/2003 General Presupuestaria (supletoria); Ley 9/1990 Hacienda CM",
+    "articulo": "152 Ley 47/2003"
+  },
+  {
+    "id": "B4T38-009",
+    "bloque": 4,
+    "tema": 38,
+    "test": 38,
+    "dificultad": "media",
+    "pregunta": "¿En qué consiste el control financiero permanente y en qué se diferencia de la fiscalización previa?",
+    "opciones": {
+      "A": "El control financiero permanente y la fiscalización previa son denominaciones distintas del mismo tipo de control; no existe ninguna diferencia entre ellos.",
+      "B": "El control financiero permanente es el control que ejerce la Cámara de Cuentas sobre la CM de forma continuada; la Intervención General no interviene en este tipo de control.",
+      "C": "El control financiero permanente es el control interno ejercido por la Intervención General sobre determinadas entidades (organismos autónomos, entes públicos) mediante el seguimiento continuo de su gestión económico-financiera; se centra en la revisión global de la gestión y no en actos individuales; permite detectar desviaciones del presupuesto, irregularidades contables o incumplimientos sistemáticos; a diferencia de la fiscalización previa (que actúa antes de cada acto), el control financiero permanente opera de forma continua y tiene un enfoque de gestión, no de acto aislado.",
+      "D": "El control financiero permanente es el equivalente del control externo de la Cámara de Cuentas; ambos se ejercen después de que los gastos han sido pagados."
+    },
+    "correcta": "C",
+    "explicacion": "El control financiero permanente (CFP) y la fiscalización previa son dos modalidades distintas del control interno de la Intervención General de la CM: (1) Fiscalización previa: actúa antes de cada acto de gasto concreto; es un control de legalidad acto por acto; aplica a toda la Administración General de la CM. (2) Control financiero permanente: es un control continuo y horizontal sobre entidades determinadas (organismos autónomos, entes públicos, empresas públicas); no se centra en actos individuales sino en la gestión global; examina periódicamente la correcta aplicación de los recursos, el cumplimiento del presupuesto aprobado, la fiabilidad de la información contable y el funcionamiento de los procedimientos de control interno de la propia entidad. El CFP incluye visitas periódicas, revisión de documentación contable, seguimiento de las recomendaciones de auditorías anteriores, y elaboración de informes de seguimiento. Es especialmente útil para supervisar entidades que, por su naturaleza jurídica, no están sometidas a fiscalización previa plena.",
+    "why": "A son modalidades de control claramente distintas: la fiscalización previa es acto por acto y preventiva; el CFP es continuo y de gestión global. B el CFP es ejercido por la Intervención General (control interno), no por la Cámara de Cuentas (control externo). D el CFP es control interno (Intervención General), no externo (Cámara de Cuentas); aunque se asemeja en que puede ser posterior al gasto, su naturaleza y ejerciente son diferentes.",
+    "norma": "Ley 9/1990 Hacienda CM; Ley 47/2003 General Presupuestaria",
+    "articulo": "Título IV Ley 9/1990; 157-168 Ley 47/2003"
+  },
+  {
+    "id": "B4T38-010",
+    "bloque": 4,
+    "tema": 38,
+    "test": 38,
+    "dificultad": "media",
+    "pregunta": "¿Qué tipos de auditoría pública puede ejercer la Intervención General de la Comunidad de Madrid?",
+    "opciones": {
+      "A": "La Intervención General de la CM puede ejercer tres tipos de auditoría pública: la auditoría de cuentas o financiera (verifica que las cuentas anuales expresan la imagen fiel de la situación patrimonial y financiera), la auditoría de cumplimiento o legalidad (verifica que la gestión se ha ajustado a la normativa aplicable) y la auditoría operativa o de eficiencia (evalúa si los recursos se han utilizado con economía, eficiencia y eficacia en relación con los objetivos perseguidos).",
+      "B": "La Intervención General solo puede realizar auditorías financieras; los controles de legalidad y de eficiencia corresponden exclusivamente a la Cámara de Cuentas.",
+      "C": "La Intervención General no tiene competencias de auditoría; la auditoría pública es una función exclusiva del Tribunal de Cuentas del Estado.",
+      "D": "La auditoría pública solo puede realizarse sobre organismos autónomos; las empresas públicas están sujetas exclusivamente a auditoría privada según la normativa mercantil."
+    },
+    "correcta": "A",
+    "explicacion": "La auditoría pública es la modalidad de control a posteriori de la Intervención General y está regulada en la Ley 9/1990 y en el marco de las Normas de Auditoría del Sector Público (NASP). Los tres tipos son: (1) Auditoría financiera (o de cuentas): verifica que las cuentas anuales de la entidad auditada presentan la imagen fiel de su situación patrimonial, financiera y de los resultados de la gestión, de conformidad con los principios contables aplicables. Emite una opinión de auditoría (sin salvedades, con salvedades, denegada o desfavorable). (2) Auditoría de cumplimiento (o de legalidad): verifica que las actuaciones de la entidad se han llevado a cabo conforme a la normativa legal, reglamentaria y presupuestaria que le es aplicable; detecta irregularidades y posibles responsabilidades. (3) Auditoría operativa (o de eficiencia, también denominada de gestión o de valor por el dinero): evalúa el grado de economía, eficiencia y eficacia («las 3 E») con que se han utilizado los recursos públicos; valora si se han alcanzado los objetivos previstos al menor coste posible. Esta última modalidad tiene especial relevancia en el contexto de la nueva gestión pública.",
+    "why": "B la Intervención General tiene competencias para los tres tipos de auditoría; la Cámara de Cuentas también puede ejercerlos, pero en su función de control externo independiente. C la auditoría pública es una función propia de la Intervención General; el Tribunal de Cuentas y la Cámara de Cuentas también la realizan, pero en su modalidad de control externo. D la auditoría pública puede realizarse sobre cualquier entidad del sector público autonómico, incluidas las empresas públicas; además de la auditoría privada mercantil, estas pueden estar sujetas a auditoría pública.",
+    "norma": "Ley 9/1990 Hacienda CM; Normas de Auditoría del Sector Público",
+    "articulo": "Título IV Ley 9/1990"
+  },
+  {
+    "id": "B4T38-011",
+    "bloque": 4,
+    "tema": 38,
+    "test": 38,
+    "dificultad": "media",
+    "pregunta": "¿Qué tipos de informes emite la Cámara de Cuentas de la Comunidad de Madrid?",
+    "opciones": {
+      "A": "La Cámara de Cuentas solo emite un único informe anual sobre la Cuenta General; no está habilitada para elaborar informes sobre entidades o materias concretas.",
+      "B": "La Cámara de Cuentas emite exclusivamente informes reservados al Gobierno de la CM; nunca los presenta directamente a la Asamblea de Madrid.",
+      "C": "La Cámara de Cuentas no emite informes escritos; comunica sus conclusiones de forma verbal ante la Comisión de Hacienda de la Asamblea de Madrid.",
+      "D": "La Cámara de Cuentas de la CM emite diversas clases de informes: el informe anual de fiscalización del sector público autonómico (que recoge los resultados de la fiscalización de la Cuenta General y de las principales entidades del sector público); los informes de fiscalización especial (sobre entidades, programas o materias específicas a petición de la Asamblea o por iniciativa propia); y las mociones o notas (documentos de menor entidad que recogen recomendaciones o alertas sobre aspectos concretos); todos se presentan a la Asamblea de Madrid."
+    },
+    "correcta": "D",
+    "explicacion": "La Cámara de Cuentas de la CM, regulada por la Ley 11/1999, ejerce su función de control externo mediante la elaboración y publicación de distintos tipos de informes que, en última instancia, se presentan a la Asamblea de Madrid para el control parlamentario del ejecutivo: (1) Informe anual de fiscalización: es el instrumento principal; recoge la fiscalización de la Cuenta General de la CM del ejercicio anterior, la situación financiera del sector público autonómico, el grado de cumplimiento del presupuesto y las principales irregularidades detectadas; se presenta a la Asamblea y se publica en el BOCM. (2) Informes de fiscalización especial: se centran en una entidad, programa, política o materia concreta; pueden solicitarlos la Asamblea de Madrid, el Gobierno de la CM o elaborarse por iniciativa propia de la Cámara; son más monográficos y profundos. (3) Mociones y notas: documentos de contenido más breve para comunicar a la Asamblea situaciones que requieren atención inmediata sin esperar al informe anual. Todos los informes son públicos y se publican en el BOCM.",
+    "why": "A la Cámara de Cuentas está habilitada para elaborar tanto el informe anual como informes especiales sobre entidades o materias concretas. B los informes de la Cámara de Cuentas son públicos y se presentan a la Asamblea de Madrid; no son informes reservados al Gobierno. C la Cámara de Cuentas emite informes escritos, que se publican y presentan formalmente a la Asamblea.",
+    "norma": "Ley 11/1999 de la Cámara de Cuentas de la CM",
+    "articulo": "Ley 11/1999 CM"
+  },
+  {
+    "id": "B4T38-012",
+    "bloque": 4,
+    "tema": 38,
+    "test": 38,
+    "dificultad": "media",
+    "pregunta": "¿Qué recoge el Estado de liquidación del presupuesto y por qué es un documento específico del sector público?",
+    "opciones": {
+      "A": "El Estado de liquidación del presupuesto es un documento exclusivamente contable que muestra el activo y el pasivo de la entidad pública; es equivalente al balance de situación.",
+      "B": "El Estado de liquidación del presupuesto recoge la ejecución real del presupuesto de ingresos y gastos del ejercicio: compara, para los gastos, los créditos iniciales y definitivos con las obligaciones reconocidas y los pagos realizados; y para los ingresos, las previsiones con los derechos reconocidos y la recaudación efectiva; es específico del sector público porque las entidades privadas no tienen presupuesto aprobado como ley que limita y autoriza su actividad.",
+      "C": "El Estado de liquidación del presupuesto solo recoge los gastos de inversión y la financiación externa de la CM; los gastos corrientes no aparecen en este documento.",
+      "D": "El Estado de liquidación del presupuesto es el mismo que la cuenta de pérdidas y ganancias de las empresas privadas; solo cambia el nombre."
+    },
+    "correcta": "B",
+    "explicacion": "El Estado de liquidación del presupuesto (ELP) es el documento contable más singular y específico del sector público. Su contenido y estructura son: (1) Liquidación del presupuesto de gastos: para cada aplicación presupuestaria muestra: créditos iniciales (aprobados por ley); créditos definitivos (tras modificaciones); autorizaciones (fase A); disposiciones/compromisos (fase D); obligaciones reconocidas netas (fase O, que es el dato relevante para el déficit); pagos realizados (fase P+M); remanentes de crédito (diferencia entre definitivos y obligaciones reconocidas). (2) Liquidación del presupuesto de ingresos: para cada concepto muestra: previsiones iniciales; previsiones definitivas; derechos reconocidos netos; recaudación neta; derechos pendientes de cobro. (3) Resultado presupuestario: diferencia entre obligaciones reconocidas netas de gastos y derechos reconocidos netos de ingresos. Su especificidad en el sector público radica en que las entidades privadas gestionan libremente sus recursos; las públicas, en cambio, solo pueden gastar dentro de los créditos autorizados por el presupuesto-ley.",
+    "why": "A el balance de situación muestra el patrimonio (activo/pasivo); el ELP muestra la ejecución del presupuesto; son documentos totalmente distintos, aunque complementarios. C el ELP recoge la ejecución de todos los capítulos del presupuesto de gastos (personal, servicios, transferencias, inversiones, deuda, etc.), no solo las inversiones. D la cuenta de pérdidas y ganancias es un documento de la contabilidad privada; su equivalente en el sector público es la Cuenta del Resultado Económico-Patrimonial, no el ELP que es específico del sector público.",
+    "norma": "Plan General de Contabilidad Pública; Ley 9/1990 Hacienda CM",
+    "articulo": "PGCP; Título IV Ley 9/1990"
+  },
+  {
+    "id": "B4T38-013",
+    "bloque": 4,
+    "tema": 38,
+    "test": 38,
+    "dificultad": "media",
+    "pregunta": "¿Cómo se articula el Plan General de Contabilidad Pública en el ámbito de la Comunidad de Madrid?",
+    "opciones": {
+      "A": "La CM aplica directamente el Plan General de Contabilidad privado (RD 1514/2007) sin ninguna adaptación al ámbito público.",
+      "B": "La CM tiene un Plan General de Contabilidad Pública completamente propio e independiente del Estado, sin ninguna relación con las normas de contabilidad pública estatales.",
+      "C": "La CM aplica el Plan General de Contabilidad Pública aprobado por el Estado (actualmente regulado por la Orden HAC/1489/2020, que actualiza el PGCP de 2010), adaptado a las especificidades de la CM mediante instrucciones de contabilidad y adaptaciones sectoriales emitidas por la Intervención General de la CM; los principios contables, la estructura de las cuentas anuales y los criterios de registro y valoración son equivalentes a los del Estado.",
+      "D": "La CM no tiene Plan General de Contabilidad Pública propio; cada Consejería diseña su propio sistema contable de forma independiente."
+    },
+    "correcta": "C",
+    "explicacion": "El sistema de contabilidad pública de la CM se basa en el PGCP estatal adaptado: (1) PGCP estatal: el Plan General de Contabilidad Pública del Estado, actualmente en su versión actualizada por la Orden HAC/1489/2020, es el marco de referencia que establece los principios, criterios, cuadro de cuentas y modelos de cuentas anuales para el sector público español. (2) Adaptación autonómica: la CM, a través de su Intervención General, dicta instrucciones de contabilidad y adaptaciones del PGCP para las especificidades del sector público autonómico (estructura presupuestaria propia, entes con regímenes jurídicos distintos, etc.). (3) Coherencia: la adaptación respeta los principios y criterios del PGCP estatal, garantizando que las cuentas del sector público autonómico sean comparables y consolidables con las del Estado (especialmente relevante para el seguimiento del déficit público del conjunto de AAPP que exige Eurostat y la UE). (4) Armonización europea: el PGCP español está en proceso de convergencia con las Normas Internacionales de Contabilidad del Sector Público (IPSAS).",
+    "why": "A la contabilidad pública no se rige por el PGC privado (RD 1514/2007); tiene un plan propio adaptado a la naturaleza del sector público y a sus objetivos específicos (presupuesto limitativo, rendición de cuentas democrática). B la CM no tiene un plan completamente independiente; adapta el PGCP estatal para garantizar la coherencia y comparabilidad entre los distintos niveles de la Administración. D no existe contabilidad por Consejerías independientes; la CM tiene un sistema unificado bajo la dirección de la Intervención General.",
+    "norma": "PGCP (Orden HAC/1489/2020); Ley 9/1990 Hacienda CM",
+    "articulo": "Orden HAC/1489/2020; Título IV Ley 9/1990"
+  },
+  {
+    "id": "B4T38-014",
+    "bloque": 4,
+    "tema": 38,
+    "test": 38,
+    "dificultad": "media",
+    "pregunta": "¿Qué clases de responsabilidad contable existen y quiénes pueden ser declarados responsables?",
+    "opciones": {
+      "A": "La responsabilidad contable directa recae sobre quienes han ejecutado directamente los actos que han causado el daño a los fondos públicos (el autor material del alcance); la responsabilidad contable subsidiaria recae sobre quienes, por negligencia en el ejercicio de sus funciones de supervisión o control, no han evitado el daño causado por el responsable directo; el Tribunal de Cuentas puede declarar ambas responsabilidades y exigir el reintegro del importe del alcance.",
+      "B": "Solo existe responsabilidad contable directa; no existe la modalidad subsidiaria en el ordenamiento español.",
+      "C": "La responsabilidad contable recae únicamente sobre los funcionarios de carrera; el personal laboral y los cargos políticos quedan exentos en todo caso.",
+      "D": "La responsabilidad contable directa y subsidiaria son idénticas en sus efectos; en ambos casos el responsable debe reintegrar el 100% del alcance de forma solidaria."
+    },
+    "correcta": "A",
+    "explicacion": "La Ley Orgánica 2/1982 y la Ley 7/1988 de Funcionamiento del Tribunal de Cuentas distinguen dos clases de responsabilidad contable: (1) Responsabilidad contable directa: la incurren quienes han sido los protagonistas materiales del alcance; es decir, quienes con sus actos u omisiones han causado directamente el menoscabo a los fondos públicos (p. ej., el pagador que realizó el pago sin acuerdo previo, el cajero que desembolsó sin orden, el funcionario que falsificó un documento para cobrar una prestación indebida). Es la responsabilidad primaria. (2) Responsabilidad contable subsidiaria: la incurren quienes, por negligencia grave en el cumplimiento de sus deberes de vigilancia y control, no evitaron el alcance causado por el responsable directo (p. ej., el jefe de servicio que no supervisó al subordinado, el interventor que omitió la fiscalización previa). Opera cuando el responsable directo no puede satisfacer la deuda contable. Ambas responsabilidades son de naturaleza civil (reintegro del daño), no penal ni disciplinaria, aunque son compatibles con ellas.",
+    "why": "B la responsabilidad contable subsidiaria está expresamente prevista en la LO 2/1982 y en la Ley 7/1988; es un mecanismo esencial para que los supervisores respondan de su negligencia en el control. C la responsabilidad contable puede alcanzar a cualquier persona que tenga la condición de «cuentadante», con independencia de su relación con la Administración: funcionarios de carrera, laborales, eventuales, contratistas e incluso cargos políticos si manejan fondos públicos. D las responsabilidades directa y subsidiaria no son idénticas en sus efectos: la subsidiaria opera solo cuando no puede satisfacerse por el directo; son figuras de distinto rango.",
+    "norma": "LO 2/1982 Tribunal de Cuentas; Ley 7/1988 Funcionamiento TC",
+    "articulo": "42 LO 2/1982"
+  },
+  {
+    "id": "B4T38-015",
+    "bloque": 4,
+    "tema": 38,
+    "test": 38,
+    "dificultad": "media",
+    "pregunta": "¿Qué ocurre cuando se omite la fiscalización previa en el procedimiento de gasto de la Comunidad de Madrid?",
+    "opciones": {
+      "A": "La omisión de la fiscalización previa no tiene consecuencias; si el gasto se ha ejecutado, no puede declararse su ilegalidad.",
+      "B": "Si se omite la fiscalización previa, el gasto es automáticamente nulo de pleno derecho y debe revertirse sin posibilidad de convalidación.",
+      "C": "La omisión de la fiscalización previa solo es posible en gastos de cuantía inferior a 1.000 euros; para importes superiores siempre se exige la revisión previa.",
+      "D": "La omisión de la fiscalización previa es una irregularidad grave que puede generar responsabilidad contable y disciplinaria para los gestores que tramitaron el expediente sin someterlo al control de la Intervención; la Intervención General, cuando detecta a posteriori la omisión, debe emitir un informe sobre el expediente y comunicarlo a la Cámara de Cuentas; el gasto puede quedar en situación de irregularidad formal aunque no siempre sea nulo si responde a obligaciones válidas."
+    },
+    "correcta": "D",
+    "explicacion": "La fiscalización previa es una obligación legal: ningún expediente con repercusión económica puede tramitarse sin la intervención previa de la Intervención General. Cuando se omite: (1) Responsabilidad: los funcionarios o cargos que tramitaron el expediente omitiendo la fiscalización previa pueden incurrir en responsabilidad disciplinaria (por infracción del procedimiento) y, si el gasto resultó ser ilegal o causó un perjuicio económico, en responsabilidad contable. (2) Actuación de la Intervención: cuando detecta la omisión, la Intervención emite un informe de fiscalización «a posteriori» sobre el expediente; si detecta irregularidades de fondo, lo comunica a los órganos competentes y, en su caso, a la Cámara de Cuentas. (3) Validez del gasto: la omisión de la fiscalización previa no siempre determina la nulidad del acto (especialmente si el gasto respondía a una obligación legítima con crédito suficiente); pero sí constituye un vicio procedimental relevante y puede motivar la nulidad si el defecto afecta a elementos esenciales del acto.",
+    "why": "A la omisión de la fiscalización previa tiene consecuencias jurídicas importantes (responsabilidad, posible nulidad del acto); no es una irregularidad inocua. B la omisión no determina automáticamente la nulidad de pleno derecho en todos los casos; depende de si el defecto afecta o no a los elementos sustanciales del acto. C no existe un umbral cuantitativo específico que exima de fiscalización previa; aplica a todos los actos con repercusión económica salvo las excepciones expresamente previstas.",
+    "norma": "Ley 9/1990 Hacienda CM; Ley 47/2003 General Presupuestaria",
+    "articulo": "Título IV Ley 9/1990"
+  },
+  {
+    "id": "B4T38-016",
+    "bloque": 4,
+    "tema": 38,
+    "test": 38,
+    "dificultad": "media",
+    "pregunta": "¿Qué es el control de eficacia y el control de eficiencia en el sector público de la Comunidad de Madrid?",
+    "opciones": {
+      "A": "El control de eficacia y el de eficiencia son términos sinónimos; ambos expresan lo mismo en el ámbito de la gestión pública.",
+      "B": "El control de eficacia evalúa el grado de cumplimiento de los objetivos establecidos en los programas públicos (¿se lograron los resultados previstos?); el control de eficiencia evalúa la relación entre los recursos utilizados y los resultados obtenidos (¿se usaron los recursos al menor coste posible?); junto con el control de economía (¿se adquirieron los recursos al menor precio posible?), forman las «tres E» de la auditoría operativa y del control de gestión del sector público.",
+      "C": "El control de eficacia es competencia exclusiva de la Asamblea de Madrid mediante la aprobación de memorias de actividad; el control de eficiencia es competencia exclusiva del Tribunal de Cuentas.",
+      "D": "El control de eficacia y el de eficiencia no tienen aplicación en el sector público; son conceptos propios de la gestión empresarial privada."
+    },
+    "correcta": "B",
+    "explicacion": "Las «tres E» de la gestión pública son los criterios fundamentales para evaluar la calidad del gasto público, introducidos en el ámbito de la nueva gestión pública (New Public Management) e incorporados al control interno y externo: (1) Economía: se refiere a la adquisición de los recursos (inputs) en las condiciones más ventajosas (menor precio, mejor calidad); ¿se compraron los recursos al menor coste razonable? (2) Eficiencia: relación entre los recursos empleados (inputs) y los resultados obtenidos (outputs); ¿se obtuvieron los máximos resultados con los mínimos recursos? (3) Eficacia: grado de consecución de los objetivos previstos en los programas públicos (outcomes); ¿se alcanzaron los objetivos para los que se diseñó la política pública? La auditoría operativa (o de gestión) de la Intervención General y la auditoría de eficiencia de la Cámara de Cuentas evalúan las tres dimensiones. En la CM, los programas presupuestarios incluyen indicadores de eficacia (objetivos e indicadores de seguimiento) para facilitar este control.",
+    "why": "A eficacia y eficiencia son conceptos distintos: la eficacia mide el logro de objetivos; la eficiencia mide la relación coste-resultado; la economía mide el coste de adquisición de los recursos. C ambas modalidades de control pueden ejercerlas tanto la Intervención (auditoría operativa) como la Cámara de Cuentas (informes de eficiencia); no son competencias exclusivas de un único órgano. D las «tres E» son ampliamente aplicadas en el sector público español; el art. 31 CE ya exige que el gasto público responda a criterios de eficiencia y economía.",
+    "norma": "Ley 9/1990 Hacienda CM; art. 31.2 CE; LO 2/2012",
+    "articulo": "31.2 CE; Normas de Auditoría del Sector Público"
+  },
+  {
+    "id": "B4T38-017",
+    "bloque": 4,
+    "tema": 38,
+    "test": 38,
+    "dificultad": "dificil",
+    "pregunta": "¿En qué consiste la función jurisdiccional del Tribunal de Cuentas y cuáles son sus procedimientos principales en relación con el sector público de la Comunidad de Madrid?",
+    "opciones": {
+      "A": "El Tribunal de Cuentas tiene función jurisdiccional exclusiva que le permite imponer sanciones penales por delitos de malversación cometidos por funcionarios de la CM; sus sentencias son equivalentes a las de los juzgados penales.",
+      "B": "La función jurisdiccional del Tribunal de Cuentas solo puede ejercerse sobre el Estado central; el sector público de las CCAA está excluido de su jurisdicción contable.",
+      "C": "La función jurisdiccional del Tribunal de Cuentas le habilita para enjuiciar la responsabilidad contable de quienes gestionan fondos públicos del sector público de la CM; sus procedimientos principales son el juicio de cuentas (para la revisión formal de las cuentas y verificación de que no existe alcance) y el procedimiento de reintegro por alcance (para exigir la restitución del daño económico causado a los fondos públicos cuando se acredita el menoscabo); sus resoluciones son ejecutivas y susceptibles de recurso ante la Sala de lo Contencioso-Administrativo del Tribunal Supremo.",
+      "D": "El Tribunal de Cuentas carece de función jurisdiccional; es un órgano exclusivamente fiscalizador cuyas recomendaciones no son vinculantes."
+    },
+    "correcta": "C",
+    "explicacion": "El Tribunal de Cuentas tiene una naturaleza dual reconocida en el art. 136 CE y en la LO 2/1982: (1) Función fiscalizadora: fiscalización externa de las cuentas y de la gestión económica del sector público estatal (y, subsidiariamente, de las CCAA). (2) Función jurisdiccional (la que esta pregunta aborda): el Tribunal de Cuentas es el único órgano jurisdiccional competente para enjuiciar la responsabilidad contable. Sus procedimientos principales son: (a) Juicio de cuentas: proceso para verificar si el cuentadante ha administrado correctamente los fondos que le fueron encomendados; si la Sala aprecia que no existe alcance, archiva; si aprecia alcance, declara la responsabilidad y fija el reintegro. (b) Procedimiento de reintegro por alcance: proceso específico para reclamar el reintegro del menoscabo causado a los fondos públicos; puede iniciarse por denuncia de la Administración, de la Intervención, del Ministerio Fiscal o de cualquier ciudadano (acción pública). Sus resoluciones son sentencias ejecutables. El Tribunal Supremo conoce de los recursos de casación en materia contable.",
+    "why": "A el Tribunal de Cuentas no impone sanciones penales; su competencia es la responsabilidad contable (civil, de reintegro); la responsabilidad penal por malversación la enjuician los juzgados penales ordinarios; ambas son compatibles. B el Tribunal de Cuentas tiene jurisdicción sobre todo el sector público de España, incluidas las CCAA; la Cámara de Cuentas autonómica colabora pero carece de función jurisdiccional propia. D el Tribunal de Cuentas tiene plena función jurisdiccional reconocida en la Constitución (art. 136 CE) y en la LO 2/1982.",
+    "norma": "LO 2/1982 Tribunal de Cuentas; Ley 7/1988 Funcionamiento TC; art. 136 CE",
+    "articulo": "136 CE; 15-18 LO 2/1982; Ley 7/1988"
+  },
+  {
+    "id": "B4T38-018",
+    "bloque": 4,
+    "tema": 38,
+    "test": 38,
+    "dificultad": "dificil",
+    "pregunta": "¿Qué diferencias existen entre la responsabilidad contable, la responsabilidad disciplinaria y la responsabilidad penal en la gestión de fondos públicos de la CM?",
+    "opciones": {
+      "A": "La responsabilidad contable, disciplinaria y penal son tres regímenes jurídicos distintos y compatibles entre sí: la responsabilidad contable es de naturaleza civil-patrimonial (obliga al reintegro del daño causado a los fondos públicos y la enjuicia el Tribunal de Cuentas); la responsabilidad disciplinaria es de naturaleza administrativa (se impone como sanción dentro de la relación de servicio: apercibimiento, suspensión, separación del servicio, y la tramita el órgano disciplinario competente de la CM); la responsabilidad penal es de naturaleza criminal (se aplica cuando la conducta constituye un delito —malversación, fraude, cohecho— y la juzgan los juzgados y tribunales penales ordinarios); una misma conducta puede generar los tres tipos de responsabilidad simultáneamente.",
+      "B": "Las tres responsabilidades son idénticas; solo se diferencian en el nombre, ya que los mismos órganos las tramitan y las sanciones que imponen son las mismas.",
+      "C": "La responsabilidad contable excluye la penal; si el Tribunal de Cuentas declara la responsabilidad contable de un funcionario, los juzgados penales no pueden enjuiciar los mismos hechos (principio non bis in idem).",
+      "D": "La responsabilidad disciplinaria absorbe a la contable y a la penal; solo se tramita el expediente disciplinario interno y las otras quedan extinguidas."
+    },
+    "correcta": "A",
+    "explicacion": "Los tres regímenes de responsabilidad son independientes, distintos en naturaleza y compatibles entre sí: (1) Responsabilidad contable: naturaleza civil-patrimonial; su objeto es el reintegro del daño económico (alcance) causado a los fondos públicos; la enjuicia el Tribunal de Cuentas mediante sus procedimientos propios; el resultado es la condena al reintegro del alcance más intereses; prescribe a los 5 años. (2) Responsabilidad disciplinaria: naturaleza administrativa; su objeto es sancionar la infracción de los deberes de la relación de servicio (retrasos, omisiones, insubordinación, etc.); la tramita el órgano disciplinario de la CM (Consejería de Hacienda y Función Pública, en general); las sanciones van desde el apercibimiento hasta la separación del servicio (art. 94 TREBEP); prescribe a los 6 años para las faltas muy graves. (3) Responsabilidad penal: naturaleza criminal; requiere que la conducta sea constitutiva de un tipo penal (malversación de caudales públicos art. 432-435 CP, fraude art. 436 CP, cohecho, etc.); la enjuician los juzgados penales; conlleva penas privativas de libertad, multas e inhabilitación. La compatibilidad entre contable y penal está expresamente reconocida en la LO 2/1982; el principio non bis in idem no opera entre ellas porque protegen bienes jurídicos distintos.",
+    "why": "B las tres responsabilidades tienen naturaleza, objeto, procedimiento y órganos distintos; no son intercambiables. C la responsabilidad contable y la penal no se excluyen mutuamente; son compatibles porque la contable protege el patrimonio público y la penal la administración correcta de los bienes públicos. D la responsabilidad disciplinaria no absorbe a la contable ni a la penal; cada una sigue su propio cauce procesal independientemente de las demás.",
+    "norma": "LO 2/1982 TC; TREBEP; Código Penal",
+    "articulo": "42 LO 2/1982; 94 TREBEP; 432 CP"
+  },
+  {
+    "id": "B4T38-019",
+    "bloque": 4,
+    "tema": 38,
+    "test": 38,
+    "dificultad": "dificil",
+    "pregunta": "¿Cómo se tramita el informe anual de la Cámara de Cuentas de la CM ante la Asamblea de Madrid y qué efectos produce?",
+    "opciones": {
+      "A": "El informe anual de la Cámara de Cuentas tiene efectos vinculantes: si detecta irregularidades, el Gobierno de la CM está obligado a anular los actos administrativos cuestionados en el plazo de treinta días.",
+      "B": "El informe anual de la Cámara de Cuentas es un documento interno de la propia Cámara; no se tramita ante la Asamblea de Madrid ni es público.",
+      "C": "El informe anual de la Cámara de Cuentas es remitido directamente al Tribunal de Cuentas del Estado, que lo analiza y emite su propio informe para la Asamblea.",
+      "D": "El informe anual de la Cámara de Cuentas de la CM es remitido a la Asamblea de Madrid, que lo debate en su Comisión de Hacienda; en esa sede, los consejeros de la Cámara pueden comparecer para explicar sus conclusiones y responder a preguntas de los grupos parlamentarios; el informe no tiene carácter vinculante pero su contenido sirve de base para el control parlamentario del ejecutivo; el informe se publica en el BOCM y tiene plena publicidad."
+    },
+    "correcta": "D",
+    "explicacion": "La tramitación del informe anual de la Cámara de Cuentas ante la Asamblea de Madrid sigue el siguiente procedimiento (Ley 11/1999): (1) Elaboración y aprobación: la Cámara de Cuentas elabora el informe anual y lo aprueba en sesión plenaria de sus consejeros. (2) Remisión: el presidente de la Cámara de Cuentas remite el informe a la Mesa de la Asamblea de Madrid. (3) Tramitación parlamentaria: el informe es remitido a la Comisión de Hacienda y Administración Local de la Asamblea, que lo analiza; los miembros de la Cámara de Cuentas pueden comparecer ante la comisión para presentar sus conclusiones y responder preguntas. (4) Efectos: el informe no es vinculante jurídicamente para el ejecutivo; no puede anular actos ni imponer sanciones (eso corresponde a los tribunales y al Tribunal de Cuentas). Su valor es político y de transparencia: pone de manifiesto deficiencias de gestión y sirve de base para que la Asamblea exija responsabilidades al Gobierno mediante preguntas, interpelaciones o comisiones de investigación. (5) Publicidad: se publica en el BOCM y en la web de la Cámara de Cuentas.",
+    "why": "A el informe anual de la Cámara de Cuentas no tiene efectos vinculantes de anulación; es un informe de fiscalización externo con valor político y de transparencia, no un acto administrativo ejecutivo. B el informe anual es público y se tramita ante la Asamblea de Madrid; la transparencia es uno de sus principios rectores. C el informe se presenta directamente a la Asamblea de Madrid, no al Tribunal de Cuentas; aunque la Cámara de Cuentas y el Tribunal de Cuentas colaboran, el informe anual autonómico va a la Asamblea autonómica.",
+    "norma": "Ley 11/1999 de la Cámara de Cuentas de la CM",
+    "articulo": "Ley 11/1999 CM"
+  },
+  {
+    "id": "B4T38-020",
+    "bloque": 4,
+    "tema": 38,
+    "test": 38,
+    "dificultad": "dificil",
+    "pregunta": "¿Qué principios contables específicos rigen la contabilidad pública del sector público de la Comunidad de Madrid, además del principio de devengo?",
+    "opciones": {
+      "A": "La contabilidad pública de la CM se rige exclusivamente por el principio de devengo; los principios de prudencia, uniformidad y empresa en funcionamiento no tienen aplicación en el sector público.",
+      "B": "Además del principio de devengo, la contabilidad pública del sector público de la CM se rige por: el principio de empresa en funcionamiento (la entidad continuará en el futuro su actividad y no tiene intención de liquidarse), el principio de uniformidad (criterios contables consistentes entre ejercicios para permitir la comparabilidad), el principio de prudencia (solo se registran los beneficios realizados pero se prevén todas las pérdidas probables), el principio de no compensación (no se pueden compensar partidas de activo y pasivo sin norma que lo autorice), y el principio de importancia relativa (pueden omitirse requisitos formales si la información es irrelevante para la imagen fiel).",
+      "C": "La contabilidad pública de la CM aplica únicamente los principios de uniformidad y prudencia; los demás principios del PGCP privado no rigen en el ámbito público.",
+      "D": "Los principios contables del sector público de la CM son distintos a los de cualquier otra entidad; la contabilidad pública no sigue ningún principio contable, sino reglas de gestión financiera establecidas por la Consejería de Hacienda."
+    },
+    "correcta": "B",
+    "explicacion": "El Plan General de Contabilidad Pública (PGCP), en su versión adaptada por la CM, establece un conjunto de principios contables que deben respetarse para que las cuentas anuales presenten la imagen fiel de la situación patrimonial, financiera y de la gestión: (1) Devengo: registro de hechos económicos cuando se producen, no cuando se cobra o paga. (2) Empresa en funcionamiento: la entidad continuará su actividad indefinidamente (la continuidad del servicio público es la hipótesis de base). (3) Uniformidad: aplicación consistente de los mismos criterios a lo largo del tiempo; si se cambia un criterio, debe justificarse y revelarse en la Memoria. (4) Prudencia: los beneficios solo se reconocen cuando son realizados; las pérdidas posibles se provisionan cuando son probables. (5) No compensación: no se compensan activos con pasivos ni ingresos con gastos sin norma que lo autorice; esto garantiza la transparencia de la información financiera. (6) Importancia relativa: se admiten simplificaciones cuando los importes son irrelevantes para la imagen fiel. Estos principios coinciden en lo esencial con el PGC privado, aunque con las adaptaciones necesarias para la naturaleza del sector público.",
+    "why": "A el principio de devengo no es el único; el PGCP recoge un conjunto de principios contables que deben aplicarse conjuntamente para garantizar la imagen fiel. C los principios aplicables a la contabilidad pública son más amplios que solo uniformidad y prudencia; incluyen empresa en funcionamiento, no compensación, devengo e importancia relativa. D los principios del PGCP son jurídicamente vinculantes para las entidades del sector público de la CM; no son opcionales ni sustituibles por instrucciones informales.",
+    "norma": "Plan General de Contabilidad Pública (PGCP); Ley 9/1990 Hacienda CM",
+    "articulo": "Principios contables PGCP; Orden HAC/1489/2020"
+  }
+]
